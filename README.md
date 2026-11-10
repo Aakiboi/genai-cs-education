@@ -4,6 +4,8 @@ How do US computer-science departments permit, encourage, or restrict student us
 How do they talk about AI in official publications, do they frame it as a collaborator, and how do
 software-engineering courses handle it? Built agentically with Claude Code, with a spec-driven workflow.
 
+**Live site:** https://aakiboi.github.io/genai-cs-education/ · **Repo:** https://github.com/Aakiboi/genai-cs-education
+
 ## Web interfaces (`site/`, served by GitHub Pages)
 | Page | What it shows |
 |---|---|

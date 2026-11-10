@@ -11,7 +11,7 @@
 - Phase 6: README, GitHub Pages workflow (.github/workflows/pages.yml), docs/evaluation.md template. 178 tests pass.
 
 ## Next (human)
-1. Create an empty GitHub repo, then run `git remote add origin <url>` and `git push -u origin main`; set Settings → Pages → Source: GitHub Actions.
+1. DONE: published at https://github.com/Aakiboi/genai-cs-education, live at https://aakiboi.github.io/genai-cs-education/ (each push to main redeploys).
 2. Fill `human_stance` in data/review_sample.csv, then run `python project2.py analyze` to get κ on the dashboard.
 3. Write docs/evaluation.md (evaluation + reflection).
 4. After any new session: log it in logs/sessions.jsonl (practice: clear/compact), then run `python project2.py build` and commit.
