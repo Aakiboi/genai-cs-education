@@ -34,7 +34,7 @@ const palette = ["--s5", "--s4", "--s2", "--s1", "--s3", "--human", "--claude", 
 const colorOf = a => palette[acts.indexOf(a) % palette.length];
 $("#kpis").innerHTML = [[fmt(sum(R, "total")), "total tokens (all kinds)"], [fmt(sum(R, "output_tokens")), "output tokens"],
   [fmt(sum(R, "cache_read_input_tokens")), "cache-read tokens"], [fmt(sum(R, r => r.input_tokens + r.cache_creation_input_tokens)), "fresh + cache-write input"],
-  [R.length, "API requests"], [K.sessions.length, "sessions"], [sum(R, "web_search"), "web searches"]]
+  [R.length, "API requests"], [K.sessions.length, "sessions"], [sum(R, r => r.web_search + r.tools.filter(t => t === "WebSearch").length), "web searches"]]
   .map(([v, l]) => `<div class="card kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
 
 new Chart($("#cCtx"), { type: "bar", data: { labels: R.map((r, i) => i + 1), datasets: [{ data: R.map(inp), backgroundColor: R.map(r => colorOf(r.activity)) }] },
