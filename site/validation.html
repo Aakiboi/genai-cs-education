@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Validation Explorer</title>
+<link rel="stylesheet" href="style.css">
+<script src="data/validation.js"></script>
+<script src="data/findings.js"></script>
+</head><body>
+<script src="nav.js"></script>
+<main class="wrap">
+<h1>Validation explorer</h1>
+<p class="sub">Every pytest result Claude ran is logged automatically by a hook in <code>tests/conftest.py</code>. Pick a run, then search and filter. Each test shows its source code, so you can judge what it really checks.</p>
+<div class="kpis" id="kpis"></div>
+
+<h2>Why a skeptical reviewer can trust the results</h2>
+<div class="card"><ol>
+<li><b>No fabricated quotes:</b> <code>test_evidence_quotes_are_verbatim</code> checks that every quote on the dashboard occurs in the downloaded source text.</li>
+<li><b>Independent ground truth:</b> the stance coder is scored against a gold set of course pages whose policies were described independently by web-search summaries (table below).</li>
+<li><b>Aggregates recomputed:</b> dashboard numbers are recomputed from the raw coded data in <code>test_aggregates_match_recount</code>.</li>
+<li><b>Tests caught real bugs:</b> rule tests found two coder defects ("may not be used" missed, "human collaborator" missed). See the ad-hoc checks below and the failed runs in the history.</li>
+<li><b>Human review:</b> a 25% stratified sample is set aside for independent human coding, and Cohen's κ is reported on the dashboard.</li>
+</ol></div>
+
+<h2>Acceptance criteria → tests</h2>
+<div class="tbl" id="crit"></div>
+
+<h2>Gold-set check (coder vs. independent description)</h2>
+<div class="tbl" id="gold"></div>
+
+<h2>Test results</h2>
+<div class="controls">
+<select id="run"></select>
+<input type="search" id="q" placeholder="Search test name, docstring, message…">
+<select id="ph"><option value="">All phases</option></select>
+<select id="oc"><option value="">All outcomes</option><option>passed</option><option>failed</option><option>skipped</option></select>
+</div>
+<div class="card list" id="tests"></div>
+
+<h2>Run history</h2>
+<div class="tbl" id="runs"></div>
+
+<h2>Ad-hoc checks and review steps</h2>
+<div class="card list" id="adhoc"></div>
+</main>
+<script>
+const V = window.VALIDATION, F = window.FINDINGS;
+const runs = [...new Set(V.results.map(r => r.run_id))].sort().reverse();
+const byRun = id => V.results.filter(r => r.run_id === id);
+const latest = byRun(runs[0] || "");
+const cnt = (rs, o) => rs.filter(r => r.outcome === o).length;
+$("#kpis").innerHTML = [[latest.length, "tests in latest run"], [cnt(latest, "passed"), "passed"], [cnt(latest, "failed"), "failed"],
+  [cnt(latest, "skipped"), "skipped"], [runs.length, "logged runs"], [V.criteria.length, "acceptance criteria"]]
+  .map(([v, l]) => `<div class="card kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+const srcAll = Object.entries(V.sources);
+renderTable($("#crit"), V.criteria.map(c => {
+  const tests = srcAll.filter(([, s]) => s.includes(`[${c.id}]`)).map(([k]) => k.split("::")[1]);
+  const res = latest.filter(r => tests.some(t => r.test.includes("::" + t)));
+  return { ...c, tests, status: !tests.length ? "untested" : res.some(r => r.outcome === "failed") ? "failing" : res.length ? "passing" : "not run" };
+}), [{ key: "id", label: "ID" }, { key: "text", label: "Criterion" }, { key: "spec", label: "Spec" },
+  { key: "status", label: "Status", render: c => `<span class="${c.status === "passing" ? "ok" : c.status === "failing" ? "fail" : "skip"}">${c.status}</span>` },
+  { key: "tests", label: "Tests", render: c => c.tests.map(esc).join("<br>") || '<span class="meta">human review</span>' }]);
+
+renderTable($("#gold"), F.gold.rows, [{ key: "url", label: "Page", render: r => `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.url.replace(/^https?:\/\//, "").slice(0, 60))}</a>` },
+  { key: "expected", label: "Acceptable", render: r => r.expected.join(" / ") }, { key: "got", label: "Coder", render: r => r.got ?? "None" },
+  { key: "match", label: "Match", render: r => r.match ? '<span class="ok">✓</span>' : '<span class="fail">✗</span>' }, { key: "basis", label: "Independent basis" }]);
+
+$("#run").innerHTML = runs.map((r, i) => `<option value="${r}">${fmtTime(r)} — ${byRun(r).length} tests, ${cnt(byRun(r), "failed")} failed${i ? "" : " (latest)"}</option>`).join("");
+$("#ph").innerHTML += [...new Set(V.results.map(r => r.phase))].sort().map(p => `<option value="${p}">Phase ${p}</option>`).join("");
+function draw() {
+  const q = $("#q").value.toLowerCase(), ph = $("#ph").value, oc = $("#oc").value;
+  const rows = byRun($("#run").value).filter(r => (!ph || String(r.phase) === ph) && (!oc || r.outcome === oc) &&
+    (!q || [r.test, r.doc, r.message].join(" ").toLowerCase().includes(q)));
+  $("#tests").innerHTML = rows.slice(0, 400).map(r => {
+    const key = r.test.replace(/\\/g, "/").replace(/\[.*\]$/, "");
+    return `<div class="item"><span class="${r.outcome === "passed" ? "ok" : r.outcome === "failed" ? "fail" : "skip"}">${r.outcome}</span>
+      <code>${esc(r.test)}</code> <span class="meta">phase ${r.phase ?? "?"} · ${r.duration_s}s · commit ${esc(r.commit || "—")}</span>
+      <div>${esc(r.doc || "")}</div>${r.message ? `<pre>${esc(r.message)}</pre>` : ""}
+      ${V.sources[key] ? `<details><summary class="meta">show test code</summary><pre>${esc(V.sources[key])}</pre></details>` : ""}</div>`;
+  }).join("") + (rows.length > 400 ? `<p class="meta">Showing 400 of ${rows.length}; narrow the filters.</p>` : "") || '<p class="meta">No results.</p>';
+}
+["#run", "#q", "#ph", "#oc"].forEach(s => $(s).oninput = draw); draw();
+
+renderTable($("#runs"), runs.map(r => ({ run: r, n: byRun(r).length, passed: cnt(byRun(r), "passed"), failed: cnt(byRun(r), "failed"), skipped: cnt(byRun(r), "skipped") })),
+  [{ key: "run", label: "Run", render: r => fmtTime(r.run) }, { key: "n", label: "Tests" }, { key: "passed", label: "Passed" },
+   { key: "failed", label: "Failed", render: r => r.failed ? `<span class="fail">${r.failed}</span>` : 0 }, { key: "skipped", label: "Skipped" }]);
+$("#adhoc").innerHTML = V.adhoc.map(a => `<div class="item"><b>${esc(a.check)}</b> <span class="meta">${fmtTime(a.ts)} · phase ${a.phase}</span>
+  <div><code>${esc(a.command)}</code> → ${esc(a.result)}</div><div class="meta">${esc(a.evidence)}</div></div>`).join("") || '<p class="meta">None logged.</p>';
+</script>
+</body></html>

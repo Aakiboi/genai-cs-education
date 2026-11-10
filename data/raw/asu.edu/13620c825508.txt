@@ -1,0 +1,68 @@
+Outsmarting AI in the classroom | ASU News
+Outsmarting AI in the classroom | ASU News
+Arizona State University
+Outsmarting AI in the classroom
+Instead of chasing AI use, ASU researchers are building tools that make shortcuts visible from the start
+A portrait of Assistant Professor Vivek Gupta, who leads a research team at ASU that has developed tests and gamified learning systems to ensure students are still learning in the era of artificial intelligence. Photographer: Erika Gronek/ASU
+By
+Kelly deVos
+|
+April 21, 2026
+The easiest way to cheat on a college exam in 2026 isn’t to sneak in notes or glance at a neighbor’s paper. It’s to take a photo.
+Upload that photo to ChatGPT, Claude or any number of generative artificial intelligence, or AI, tools, and within seconds you're given answers that are polished and coherent. No struggle, no thinking, and the real cost: no learning. For universities, that’s not just a new form of cheating — it’s an existential problem.
+At Arizona State University, where
+AI adoption has been encouraged
+, that tension is playing out in real time. Faculty and students have raised alarms that generative AI could erode the very thing higher education is supposed to build: the ability to think independently.
+“Writing is thinking,”
+The State Press
+warned in an opinion. If AI does the writing, what exactly are students learning?
+Vivek Gupta
+, an assistant professor of computer science and engineering in the
+School of Computing and Augmented Intelligence
+, part of the
+Ira A. Fulton Schools of Engineering
+at ASU, has been thinking about that problem from a different angle.
+“We’re not going to uninvent AI,” Gupta says. “So, the question isn’t how to ban it. The question is: How do you design systems where using AI in the wrong way becomes visible?”
+Building better tests, not better traps
+Gupta leads the
+Complex Data Reasoning and Analysis Lab
+, or CoRAL, a group focused on building reliable, accountable AI systems. Instead of chasing students after they’ve used AI, his latest project is designed to help educators design assignments that make AI use transparent from the start.
+The result is
+IntegrityShield
+— a system that doesn’t block AI, monitor students or analyze essays after the fact. Instead, it quietly rewires the test itself.
+Before an exam or assignment is distributed, IntegrityShield subtly modifies the document using a method developed in Gupta’s lab. These changes are invisible to human readers. Students see a normal problem set. But AI systems don’t.
+These “fingerprints” embedded in the assignment, such as tiny changes in phrasing, formatting or structure, don’t affect meaning for a human reader but nudge AI systems off course in predictable ways. When a student submits AI-generated work, those distortions show up as detectable patterns in the answers.
+In testing across major AI platforms, including ChatGPT, Claude, Perplexity and Grok, CoRAL’s system can identify AI-assisted submissions with around 90% reliability, keeping false positives low enough to be usable in real classrooms.
+Stop it before it starts
+Most existing AI-detection tools work after the fact, scanning student writing and making probabilistic guesses about whether it sounds like AI. Those systems
+have been criticized
+for inaccuracy, a serious flaw when the stakes involve academic misconduct.
+IntegrityShield flips that model. It doesn’t guess; it embeds a signal upstream. There’s no need to track keystrokes, monitor browsers or install lockdown software. Students can use external tools but that use becomes visible in the results.
+“We’re not trying to read a student’s mind or analyze their style,” Gupta says. “We’re changing the environment so that delegation to AI leaves a trace.”
+And early results suggest it’s working.
+Gupta deployed IntegrityShield in his
+CSE 476: Introduction to Natural Language Processing
+course, integrating it directly into assignments before they were distributed alongside clear policies around the use of generative AI. The outcome wasn’t just fewer cases of academic misconduct; students showed stronger performance on in-class, no-device exams, higher engagement and more participation in office hours.
+For instructors, the system requires little change to how courses are run, but offers a clearer signal of when students are relying on AI, helping redirect them toward independent problem-solving earlier. In Gupta’s class, that shift translated into higher-quality work and a more focused learning environment.
+“Students are still incredibly capable,” Gupta says. “But the incentives matter. If the system rewards genuine effort, you start to see that effort again.”
+From left to right: Fulton Schools computer science doctoral students Priyanuj Bordoloi, Yash Shah, Ashish Raj Shekhar and Shiven Agarwal pose in front of a project poster with Gupta. The team presented a demo to academic leaders at the ASU Future of Learning Community Fest in February in Tempe, Arizona. Photo courtesy of CoRAL
+Turning learning into play
+Still, Gupta is quick to point out that IntegrityShield is only half the story. If the first goal is to protect the integrity of existing assessments, the second is about rethinking them entirely.
+That’s where
+GAMED.AI
+comes in. Gupta’s team has developed a companion system that turns learning objectives into interactive games. Instead of asking students to write essays or solve static problem sets, teachers feed GAMED.AI prompts, such as “teach students about neural networks” or “test understanding of supply and demand,” and the system generates a playable experience designed to build and measure those skills. In practice, that might replace a traditional quiz with a game where students adjust inputs, make decisions and see outcomes change in real time, requiring them to apply concepts rather than simply produce answers.
+The idea is to make assignments harder to outsource in the first place. Because each experience is interactive and can be individualized, there’s no single output to hand off to an AI tool.
+“If a task can be fully delegated to AI, maybe it’s not the right task anymore,” Gupta says. “We should be designing experiences that require engagement, not just output.”
+Using Gupta’s system, games can be generated in under a minute, at a cost of less than a dollar per instance. That opens the door to scalable, individualized and interactive assessment.
+Taken together, IntegrityShield and GAMED.AI sketch out a broader vision for what education might look like in the AI era: not a cat-and-mouse game between students and detection tools, but a redesign of the system itself.
+For Gupta, the rise of AI isn’t a crisis. It’s a design problem. He says ASU’s active role in AI adoption makes it uniquely suited to learning innovations at scale.
+“Every major new technology changes how we learn,” he says. “The printing press did. The internet did. AI will too. The question is whether we adapt thoughtfully or react after the damage is done.”
+IntegrityShield was presented this spring at the
+19th Conference of the European Chapter of the Association for Computational Linguistics
+, a top research venue, where Gupta’s team shared how it's preparing to expand testing across additional courses and institutions.
+No system is foolproof, and AI tools are evolving quickly. But Gupta’s approach shifts the focus from detection to design and builds assessments where AI shortcuts are less useful to begin with.
+“The goal isn’t to catch students after the fact,” Gupta says. “It’s to design systems where a shortcut stops being a good option.”
+Artificial Intelligence
+School of Computing and Augmented Intelligence
+Tempe campus
+Ira A. Fulton Schools of Engineering

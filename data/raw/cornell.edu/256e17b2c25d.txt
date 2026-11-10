@@ -1,0 +1,39 @@
+‘AI for All’ summer course teaches responsible GenAI use | Department of Computer Science | Cornell Bowers
+‘AI for All’ summer course teaches responsible GenAI use | Department of Computer Science | Cornell Bowers
+Skip to main content
+Bowers Menu
+Navigation search"
+What are you interested in?
+Clear
+Search
+Bowers Menu
+What are you interested in?
+Search
+Bits + Bytes
+‘AI for All’ summer course teaches responsible GenAI use
+By Louis DiPietro, Cornell Ann S. Bowers College of Computing and Information Science
+On
+August 25, 2026
+Share
+Powerful tools typically come with instructions or a manual. Artificial intelligence does not. That’s why the Cornell Ann S. Bowers College of Computing and Information Science developed and launched “
+AI for All
+,” an online course for high school and college students that covers generative AI (GenAI) tools.
+In the course’s inaugural session this summer, 14 high school and college students from around the world received world-class instruction in how large language models (LLMs) work and how to use them effectively.
+“AI for All” (INFO 4940/5940) is a virtual, six-week course where students – from high school to graduate level – dive into modern LLMs and demystify the underlying technology behind chatbots, image generators, and more. No prior experience with AI is required, and participating students earn course credit.
+The intent is to educate students about the responsible use of GenAI tools, which 70% of Cornell students use once a week or more, according
+to a recent study
+. That’s on par with AI use among middle- and high-school students in the U.S, where about two-thirds of teens between 13 and 17 use chatbots, according to a
+Pew Research poll
+.
+“Many students have already used AI in some contexts, but this course helps them understand AI’s true capabilities, both by providing a deeper understanding of how it works and by showing them how to build custom AI-powered applications,” said
+Sorin Lerner
+, dean of Cornell Bowers and a course advisor.
+This summer, each student completed several projects using Codex, an AI coding tool. Among some of the projects:
+A Chrome plugin for generating detailed explanations of technical content in YouTube videos
+A mobile app for guiding patients through a complex physical therapy protocol
+An AI-powered platform to help homeowners keep track of recurring maintenance tasks, appliances, and warranties
+“Students were challenged to leverage AI to tackle problems of their choosing, building anything from stand-alone apps to complex plugins for coding assistant platforms,” said
+Jacob Matthews
+, Ph.D. ‘26, a visiting lecturer in information science and “AI for All” course instructor. “They excelled – students incorporated AI in ways that accelerated individual learning.”
+Though a Cornell Bowers course, “AI for All” reflects the broader university mission to make high-quality AI education accessible to a broad and diverse community of learners, preparing the next generation to navigate an AI-driven world.
+Louis DiPietro is a writer for the Cornell Ann S. Bowers College of Computing and Information Science.

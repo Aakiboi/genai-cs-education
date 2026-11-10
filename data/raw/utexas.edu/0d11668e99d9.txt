@@ -1,0 +1,1119 @@
+CS 314 Syllabus
+CS 314 Syllabus
+Syllabus - Computer Science 314 -
+Data Structures (Computer Programming 2)
+The University of Texas at Austin · Fall 2026
+Note, this Syllabus is for
+Professor Scott's sections of CS314. Professor Kaur is teaching a section of
+CS314 this term as well. If you are registered for Professor Kaur's section,
+please refer to that syllabus.
+Situations not
+covered explicitly by this syllabus shall be adjudicated by the instructor.
+Table of Contents:
+Course Content
+Meeting Times
+and Lab Hours
+Materials,
+Resources, and Logistics
+Grading
+Policy
+Important
+Registrar Dates
+Getting Help
+Academic
+Honesty and Code of Conduct
+Exam Conduct
+Religious
+Holidays
+Students with
+Disabilities Information
+Course web page:
+www.cs.utexas.edu/~scottm/cs314
+Course Objectives:
+This is a second course in computer programming. The
+purpose of the course is to learn how to use and implement canonical data
+structures. The data structures covered include lists, iterators, stacks,
+queues, priority queues, trees, binary search trees, balanced binary search
+trees, sets, maps, hash tables, heaps, tries, and graphs. The course also
+includes basic algorithm analysis/ rough estimate of  number of executable
+computations, an introduction to the object oriented concepts of encapsulation,
+inheritance, and polymorphism, recursion, canonical sorting and searching
+algorithms, testing, debugging, dynamic programming, and functional programming
+in Java. Students will be able to implement medium sized
+programs using the concepts listed. The course is taught
+using Java.
+This page contains a detailed
+list of the course content.
+We have high expectations, but you can succeed in the
+course.
+Based on the historical GPA and drop
+rate, about 20% of the students who attempt this course do not complete it.
+Succeeding takes a lot of hard work
+.
+Here
+are some tips for success in the course.
+Formal Course Prerequisite:
+CS312 (or credit for CS312) with a grade of C- or higher
+Informal Course Prerequisites:
+Mastery of the following basic
+programming topics: data types, variables, expressions and operators, control
+structures (looping and decision making), procedures( a.k.a. functions, methods,
+or subroutines), parameters, arrays (1d and 2d), simple user defined data types
+(records, structures, objects), how to apply the previous concepts in the Java
+programming language, top down design.
+You should be able to design and implement a program in Java based on a
+problem statement. The problem should be complex enough that a well designed
+solution requires the following:
+200 - 300 lines of code
+roughly 8 procedures / functions / methods
+uses arrays or lists of objects
+For example, create from scratch a program that allows two people to play a
+game of
+connect 4
+on the
+computer. The display can be a simple text based interface. Both players share
+the same keyboard and take turns.
+Startup
+: Most of the things you need to do to set up your
+infrastructure for the class are on the class
+startup page
+.
+Class Meetings - (
+Building
+Information for UT Austin)
+Lecture (
+Students may attend either
+of the 3 classroom lectures with Professor Scott regardless of which one
+they are registered for.
+) HOP 2-9970  prohibits students from
+recording class instruction (audio or video) unless a student obtains the
+instructor’s permission or Disability & Access has approved audio recording as
+an accommodation.
+MWF 11 am - 12 pm, GDC 2.216
+(uniques 54975, 54980, 54985, 55065, 55070, 55075) This lecture shall be
+recorded using the Lectures Online recording system. The recording only
+includes what is shown on the media screen and audio. The recordings are
+available on Canvas shortly after the lecture.
+MWF 1 - 2 pm, ECJ 1.202
+(uniques 54990, 54995, 55000, 55005, 55010)
+MWF 2 - 3 pm,  ECJ 1.202(uniques 55015,
+55020, 55025, 55030, 55035)
+Conduct for in person lectures:
+I do not allow the use of laptops,
+mobile devices or
+any device with a raised screen in class. If you have a device that can lay FLAT
+on the desk such as a tablet or 2-1 computer you may use it. I strongly
+recommend you do not have your phone or other electronic devices out in
+class.
+I
+implore you to not use class time to e-mail, post to Instagram, view TikTok or Snapchat, etc. If you are addicted to your smartphone, laptop, or tablet,
+consider this class your social media free zone.
+Further, I guarantee you that you will not
+do well in the course if you are simply looking up long enough to type out
+what’s on the projector screen before you return to social media apps. The empirical
+research on this topic is clear: people are incapable of learning and retaining
+information when they are multi-tasking on their computers (and it’s a
+distraction to the people sitting around you that are trying to learn
+something).
+The only time a laptop or mobile device may used during class
+is to answer the day's Instapoll question. (See the startup page for more
+information on Instapoll.)
+This class is using the Lectures
+Online recording system.
+This
+system records the audio and video material presented in class for you to
+review after class. Links for the recordings will appear in the Lectures
+Online page on the Canvas page for this class. You will find this tab along
+the left side navigation in Canvas.
+You are expected to attend the
+classroom lectures in person.
+Instapoll questions shall only be run during
+the actual lecture. The recordings are only for
+students who have missed lecture due to illness or other similar issues or
+wish to review the material later. There is a STRONG correlation between
+coming to lecture and passing the class.
+To review a recording,
+simply click on the Lectures Online navigation tab and follow the
+instructions presented to you on the page. Visit the
+UT Lectures Online site
+for more information.
+Discussion Sections.
+Students
+must
+attend the discussion section
+(held on Mondays)  for which they are officially registered. Look at your class schedule to verify your unique course number.
+Check
+your class schedule at the MyUT website:
+https://my.utexas.edu/
+Discussion sections (colloquially known as
+section
+) meet most Mondays during the semester. See the
+course
+schedule
+for the days sections meet. Sections are led by Teaching Assistants who
+have taken and excelled in this course. During section you will have the chance
+to work on small-ish programming  problems similar in nature to the types
+of questions that will appear on exams. Many sections will start with a quiz.
+You must be present at the
+start of section when the quiz is given to receive credit.
+Section
+quizzes cannot be made up.
+Section quizzes with little or no effort
+shall not receive credit.
+Supplemental Instruction and Collaborative
+Study Sessions
+This course is supported by
+Collaborative Study (CoStudy). CoStudy Sessions are led by experienced and trained students who
+develop engaging, structured, small-group activities for you to work through.
+These sessions are held at a consistently scheduled time for you and your
+classmates to tackle difficult content and learn the best approaches to the
+course! More information on session times and how to access them will be
+available via the course schedule and the course discussion website, Ed Discussion. You’re welcome to
+attend sessions at any point in the semester.
+Teaching Staff:
+Instructor,
+Mike Scott, Professor of Instruction, email:
+scottm@cs.utexas.edu
+-
+office:
+GDC 6.304
+.
+Help Hours: Mondays 6 - 8 pm and Wednesdays, 8 -
+10 am.
+Help hours shall be held in the 3rd floor public
+computer lab in GDC 3.302. If you cannot make these hours
+email
+me to request an appointment.
+Discussion Section Schedule and Undergraduate Teaching Assistants.
+All discussion sections meetings are on Mondays. See the
+course schedule page
+for the dates that discussion
+sections do and do not meet and for the quiz topic.
+Help Hours are first come, first serve.
+It is your chance to get help on assignments and course material. You may
+attend ANY TA's help hours. Note, TAs will attempt to help your with
+programming assignments, but they will not simply complete the assignment
+for you or dictate code to you. They will give you tips and advice, but will
+not complete the assignment for you.
+Section Unique ID
+Section
+Time on Mondays
+Section
+Location
+TA
+Email
+TA Help Hours T = Tuesday, H = Thursday.
+Help hours in GDC 3rd floor public lab.
+54975
+9 - 10 am
+PAR 203
+Alisha
+W  3 - 5, H 3 - 5
+54980
+10 - 11 am
+JES A215A
+Parker
+T 12- 2, W 10 - 12
+54985
+1 - 2 pm
+JES A218A
+Jaxon
+T 10 - 12, H 10 - 12
+54990
+10 - 11 am
+RLP 1.102
+Ashwika
+T 3 - 4, 7 - 8, F 11 - 1
+54995
+11 am - 12 noon
+SZB 4.414
+Leul
+M 1 - 3, T 4 - 5, H 4 - 5
+55000
+12 noon - 1 pm
+RLP 1.102
+Walker
+W 6 - 8, F 2 - 4
+55005
+2 - 3 pm
+GDC 2.402
+Cathy
+T 2 - 3, H 5 - 7, F 3 - 4
+55010
+3 - 4 pm
+PMA 7.112
+Jason
+M 11 - 1, W 12 - 2
+55015
+9 - 10 am
+GDC 1.406
+Victoria
+M 2 - 4, W 4 - 6
+55020
+10 - 11 am
+GAR 1.126
+Samarth
+T 4 - 6, H 9 - 10, F 12 - 1
+55025
+11 am - 12 noon
+GDC 6.202
+Josh
+M 4 - 6, H 1 - 3
+55030
+12 noon - 1 pm
+GDC 2.210
+Felipe
+T 3 - 5, H 2 - 4
+55035
+1 - 2 pm
+RLP 0.122
+Uzair
+W 5 - 7, H 12 - 1, F 1 - 2
+55065
+12 noon - 1 pm
+WCP 5.102
+Daniel
+H 12- 2, F 1 - 3
+55070
+2 - 3 pm
+JGB 2.202
+HP (Hrutvik)
+W 2 - 4, H 5 - 7
+55075 (canceled)
+3 - 4 pm
+JES A216A
+TBD
+TBD
+TBD
+Collaborative Study Sessions
+Mondays and Tuesdays,
+5 -
+6:30 pm, GDC 4.304
+Diego
+W 4 - 5, F 10 - 11
+Recommended Materials
+:
+1. Recommended data structures book:
+Building
+Java Programs: A Back to Basics Approach (5th Edition)
+, Publication Date:
+March 28, 2019 | ISBN-13: 978-0135471944 | Pearson Education / Addison  Wesley. (Previous versions of the book are
+acceptable, but there may be differences in section numbers for assigned reading
+and problem numbers for suggested exercises.)  Textbook
+homepage is
+www.buildingjavaprograms.com
+2. Recommended  recursion book:
+Thinking Recursively with Java
+by
+Eric Roberts, ISBN
+:
+978-0471701460
+Class Discussion Tool:
+We have a discussion group
+for the class on Ed Discussion
+.
+Access Ed Discussion via Canvas.
+Our Ed
+discussion page is an official communication channel for this course. You are
+responsible for any instructor posts to Ed regarding course logistics.
+We use
+Canvas
+to:
+access UT Instapoll for daily questions in lecture
+turn in programming assignments (
+We are using Gradescope for turning in programming assignments.)
+provide feedback on your programming assignments (
+Again,
+via Gradescope)
+post and track course grades (
+note, the course
+percentage in the Canvas gradebook is NOT an accurate representation of your
+actual course grade. See the grading system below.
+)
+Zoom: Some help hours, and review
+sessions are offered via Zoom.
+Lectures shall be offered by Zoom if
+circumstances (bad weather, instructor illness) warrant.
+Email:
+All students must become familiar with the
+University's official e-mail student notification policy. It is your responsibility to
+us the University provided email. You are expected "to check e-mail on a
+frequent and regular basis in order to stay current with University-related
+communications, recognizing that certain communications may be
+time-critical. It is recommended that e-mail be checked daily." The complete text of this policy
+is available at
+this page
+.
+You are responsible for checking your e-mail and the class discussion group
+on Ed Discussion regularly for CS314 communications.
+Software:
+Required
+software for the course:
+1
+.
+Java
+. Download the Java SE Development Kit.
+You can download Java 8 from Oracle
+or
+more recent versions from the
+OpenJDK project
+. In CS314 we shall limit ourselves to
+a subset of the features of
+Java version 8.0.
+2
+.
+An IDE
+. (Interactive Development Environment. A program that helps you
+write programs.) I do not prescribe the IDE you must use in this course as you
+are simply turning in .java files that must compile on the CS department lab
+machines and Gradescope. Plus many IDEs have far more features than we will make use of in this
+course. Many past students prefer
+IntelliJ
+. I use
+Eclipse
+, but more due to inertia than anything else. Some students will tell
+you "real programmers only use a text editor and the command line!" I
+respectfully disagree. I think IDEs
+offer some very valuable tools beyond a basic text editor and the command line,
+although I do agree it is vital as a CS student to learn to interact with a computer system
+via the command line.
+Note, you can use the simple autocomplete feature
+many IDES use for which method to call. (Selection an option from a pop up
+list.)
+You may NOT use an AI coding assistant in the
+IDE such as Copilot or Claude Code when completing programming assignments. Doing so is against
+the course rules and an act academic dishonesty in CS314.
+3.
+Zoom
+. (for
+some help hours and ) Provided by UT. See
+utexas.zoom.us
+.
+4
+.
+CS department account and the ability to access it remotely.
+If you want to verify your program will
+compile on the CS department machines you must have the ability to connect to
+the CS department machines, transfer files from your system to a CS department
+machine, and then compile and run your program on a CS department machine
+Note, with the introduction of Gradescope as our tool for turning in and
+grading programs, checking your programs on the CS department machines is not as
+vital as in past versions of the course.
+Schedule:
+The schedule of lecture topics, reading assignments, and
+assignment due dates is
+available online,
+via the class web page
+.  The schedule
+page contains links to slides for the lectures, assignments, and readings.
+Complete the readings
+before
+class. The schedule is subject to
+change.
+Sharing of Course Materials is Prohibited:
+No materials used in this class, including, but not limited to, lecture
+hand-outs, videos, assessments (quizzes, exams, papers, projects, homework
+assignments), in-class materials, review sheets, and additional problem sets,
+may be shared online or with anyone outside of the class unless you have my
+explicit, written permission.
+In other words you cannot upload these
+materials to Course Hero or post the videos to YouTube.
+Unauthorized sharing of materials promotes
+cheating. It is a violation of the University’s Student Honor Code and an act of
+academic dishonesty. I am well aware of the web sites used for sharing materials,
+and any materials found online that are associated with you, or any suspected
+unauthorized sharing of materials, will be reported to Student Conduct and
+Academic Integrity in the Office of the Dean of Students. These reports can
+result in sanctions, including failure in the course.
+CS314 to CS312 Slide:
+After exam 1 results are published to Canvas, students who did not pass the exam
+(< 70% on exam) and are taking CS314 for the first time. will be offered the option to move to CS312 for the rest of the semester.
+This is well after the normal add / drop deadline and will be handled by the CS
+Department undergraduate advisors. The purpose of the slide is to allow students
+who discover they may be better suited to take CS312 their first semester at
+UTCS. Grades from CS314 up to and including exam 1 shall be transferred in a
+reasonable way to CS312. A student taking advantage of the slide will then
+complete the second two thirds of CS312. This is not required, simply an option
+for students who meet the eligibility requirements.
+Grading:
+Your final course grade is based on a score out of
+100. The three
+exams
+account for 87% of this score. Assignments, quizzes,
+surveys, and in class Instapolls, referred to as
+non-exam components
+,
+account for 10% of this score. (Note, grades of 0 on programming assignments
+have an additional affect on your grade. See below.)
+Section quizzes
+account for 3% of this score.
+Additionally, you must having a passing average (>= 70%)
+on the exams to pass the class.
+Graded
+Component
+Number
+Points
+Per
+Total Points
+Instapolls During Lecture
+42
+1
+42
+Syllabus and Course Mechanics Quiz -
+Due 8/26 on Canvas
+1
+10
+10
+Background survey - Due 8/30 on Canvas
+1
+10
+10
+Academic Integrity Quiz
+- Due 9/2 on
+Canvas. (Note any score that is not 100% shall be reduced to zero. The
+quiz is open note and you can retake as many times as you like.)
+1
+10
+10
+Assignment Requirements Acknowledgement
+Note, programming assignment grades shall be 0 until this is completed
+and turned into Professor Scott.
+1
+10
+10
+Programming assignments - see
+schedule
+or
+assignments
+page for due
+dates. See notes below. 2 or more 0's on programming assignments will
+have an additional, negative affect on your final grade.
+11
+20
+220
+Instructor and TA End of Course Surveys. Details on due dates in November
+1
+10
+10
+Section Quizzes completed in Monday discussion
+sections  - see schedule for due dates. Lowest dropped
+8
+10
+70 (lowest dropped)
+Exam 1 (A two hour exam outside of normal
+class hours.)
+Wednesday, September 23, 6:45 - 9:15
+Location:
+Uniques 54975 - 55015: WEL 2.224
+55020 - 55070: WEL 1.316
+Topics 1 - 9
+1
+100
+100
+Exam 2, (A two hour
+exam outside of normal class hours.)
+Wednesday, October 28, 6:45 -
+9:15
+Location: Uniques 54975 and 54980: UTC 3.110
+54985 and
+54990: UTC 3.124
+All other Uniques: UTC 2.112A
+Topics 1 - 18.
+1
+100
+100
+Exam 3,
+(A two hour
+exam outside of normal class hours.)
+Friday, December 11, 3:15 -
+5:45 pm. Locations TBD.
+All topics.
+1
+100
+100
+Grades shall be maintained on the
+University Canvas site
+.
+Non-exam components (instapolls during lecture, quizzes, programming
+projects, background survey, course instructor survey completion) account
+for
+10% of your final score.
+Although there
+are 312
+points available, including the two extra credit assignments, the 10% of
+your score out of 100 is determined by the following formula:
+min(280,
+actual non-exam points) / 28
+. This means there are 32 points of "slack"
+among the non-exam components.
+The non exam class components can not be
+made up for any reason.
+The 32 slack points are in place to
+account for non-academic issues such as illness, family emergencies,
+and extra curricular activities.
+See below for more information
+regarding programming assignments and grades.
+Assignment Requirements Acknowledgement
+Download, print out, read,
+think about,
+fill
+out (name, UTEID, initials, signature, and date) and turn in your
+completed acknowledgement to Professor Scott. Your programming
+assignment grades shall be 0 until this is completed and turned into
+Professor Scott.
+Programming assignments additional
+requirements and affect on grades:
+Although the programming
+assignments have a low point value, it is
+vital
+that
+you complete them. A large amount of your learning will take place when you do
+the assignments.
+Therefore, the second and each subsequent 0 on
+programming assignments
+(for whatever reason) shall result in a one-third of letter grade
+reduction in your final course grade. A 0 may be assigned if you
+violate the restrictions of a given assignment.
+Section
+quizzes:
+There are 8 discussion section problems scheduled.
+These are completed individually, at the beginning of discussion
+section. You must be present at the start of
+section when the section quiz is given to received credit.
+Section
+quizzes cannot be made up.
+Section quizzes with little or no effort
+shall not receive credit. The schedule has the topic for each section quiz. The
+quizzes will cover recent in class material and be similar, although
+typically a bit easier, than exam questions.
+Section quizzes shall be graded on a
+10 point
+scale. The lowest section quiz is dropped.
+Your section
+quiz average shall account for 3% of your final score.
+You may
+only use pen or pencil on the section quizzes. Not outside resources of
+any kind may be used on quizzes. Use of outside resources is cheating
+and an academic dishonesty case shall be initiated. Examples of outside
+resources include, but are not limited to, mobile devices, smart
+glasses, notes, other students.
+Exams shall account for
+87%
+of your final score.
+Exams are in person and "closed".
+No outside resources of any kind including notes, books, or electronic
+devices (phone, tablet, computer, notes, calculator, smart glasses, etc.) may
+be used one exams. Use of outside resources on an exam is a violation
+of the course requirements and shall result in a 0 on the exam. You may
+not use outside resources in the exam room or outside the exam room if
+you must use the restroom. Backpacks and bags shall be placed in the
+front of the exam room. Having any outside resources  (phone,
+tablet, computer, notes, calculator, smart glasses, etc.) on your
+person during an exam is also disallowed. Having outside resources on
+your person during an exam is a violation of the course requirements
+and shall result in a 0 on the exam.
+Depending on the results of an exam, exam scores may be adjusted.
+The bumping (additional points to all students) and curving (change in the
+'cut-point' for hypothetical letter grades on the exam) of exams is
+entirely at the discretion of the instructor
+. No other class components are
+adjusted.
+The final letter grades will be assigned
+based on your score out of 100 based on the following ranges. Note [
+indicates inclusive and ) indicates exclusive. A: >= 92.5, A-: [90.0,
+92.5), B+: [87.5, 90.0), B: [82.5, 87.5), B-: [80.0, 82.5), C+: [77.5,
+80.0), C: [72.5, 77.5), C-: [70.0, 72.5), D+: [67.5, 70.0), D: [62.5,
+67.5), D-: [60.0, 62.5), F: < 60.0
+Note, your final
+score out of 100 is not adjusted or rounded. Given the slack points in
+non-exam components, the bumping and curving of exams, your score has
+already been "rounded". A score of 89.99
+shall lead to a grade of B+. The line has to be drawn someone. Someone
+has to have the highest B+.
+You must  have an exam average >= 70 to earn a passing
+grade in the class. If your exam average is < 70, your final course
+grade can be no higher than a D+.
+Your initial final score out of 100 is
+calculated via the following formula:
+I
+nitial Course Score = ((exam 1 +
+exam 2 + exam 3) * 0.29) + (min(280, sum of non exam points) / 28) +
+((sum of highest 7 section quiz scores) / 70 * 3)
+Final grade then
+reduced by one third letter grade (A -> A-, A- -> B+) for each 0 on
+programming assignments beyond the first.
+If you initial course
+score is >= 70, but your exam average is < 70, your final grade
+shall be a D+.
+Students may not do any form of extra
+work to improve their grade beyond those opportunities detailed here.
+Offering extra credit opportunities to only select students is patently
+unfair.
+If you have a valid conflict for exam 1 or
+exam 2 (such
+as another exam at the same time or a class that meets at the same time
+as the exam) email Mike (
+scottm@cs.utexas.edu
+)
+as soon as possible to arrange an alternate time. The more lead time
+you give me, the more accommodating I shall be in arranging the makeup.
+For exam 3, given during the final exam period, the only acceptable
+excuse for taking the makeup is another final exam schedule for the
+same time as our final. Multiple finals on the same day is
+not
+a valid reason for missing the regularly scheduled exam 3.
+If you need to miss an exam due to a valid
+non-academic emergency (such as severe illness, family issues, car
+accident), that is verifiable (some proof of the event / issue) then
+email Mike and UT Student emergency services as soon as possible with the details and proof to arrange a
+makeup.
+The reason for missing the exam must be
+verified through student emergency services.
+If you miss an exam without a verifiable, significant non
+academic emergency 15 points shall be deducted from your raw exam score
+out of 100.
+If a student misses exam 1 or exam 2 with a
+verified non-academic issue
+, and cannot take the makeup exam in
+a timely fashion (ty
+pically no later than a
+few days after the exam) then the remaining exams will count for the
+missed exam. If a student missed exam 3 with a verified non-academic
+issue, it is the student's responsibility to arrange a makeup of exam 3
+the following semester.
+You have 8 slip days (
+max of 2 per assignment) to
+use throughout the term on your assignments if you are not able to
+turn an assignment in on time. See the assignments page for details of
+the requirements for turning in assignments and how slip days work.
+www.cs.utexas.edu/~scottm/cs314/Assignments/index.htm
+.
+Slip days are to account for life circumstances and emergencies outside
+of the class.
+Do not use your slip days frivolously. If you use up your slip days, late assignments will
+receive a score of 0.
+Other than slip days, late
+programming assignments are not accepted for any reason. Assignments must
+be turned in via Gradescope to the correct assignment, in the correct format, and are not accepted via email.
+The skills you learn and hone on one assignment are vital to the follow
+on assignments. Missing or delaying an assignment will likely place you
+IRREVERSIBLY behind when it comes to succeeding in this class.
+The required format and procedures for turning in assignments are
+available at
+www.cs.utexas.edu/~scottm/cs314/Assignments/index.htm
+.
+If you do not follow the assignment requirements you may lose all
+correctness and possibly other points on the assignment.
+The
+assignment guidelines page and the requirements detailed there are a part of the
+CS314 course syllabus.
+If you believe we have made an error in grading an
+assignment
+, you must submit your
+concerns via email, along with
+supporting evidence, to your TA  within
+5 days
+of the date the teaching staff
+graded the assignment. TAs shall post to Ed Discussion when assignment grading is
+complete for their section.
+Note, do not bicker or quibble
+with the TAs on assignment grading.
+Consider your TA your manager at software development job.
+Take their feedback, LEARN from it, and improve on the following
+assignments.
+You may request a regrade of an
+exam
+if you feel the grading
+criteria was not applied correctly. To ensure accuracy the entire exam
+will be regraded and
+your score may go down
+. Exam
+regrades shall be requested and completed via Gradescope.
+Questions about your grade are to be sent to the TA assigned to
+your section. See the table above for TAs and section unique ids.
+Grade distributions. Based on the roughly 6000 students who have taken CS314
+with me:
+82%
+of the students earned a
+C- or higher: 28% A's,  34% B's,
+20% C's
+8%
+earned a
+D or F.
+10%
+dropped or withdrew from the class,
+grade symbols
+Q
+or W.
+Guiding Principle on Grades - No whining:
+Feedback and concerns about the course are always welcome;
+legitimate grading errors that are identified in a timely fashion will certainly
+be corrected, but whining is counter-productive and will only irritate those who
+evaluate your work to determine grades.
+Realize if you ask for a regrade
+"because it can't hurt to ask"
+your score may actually go down if we find more errors and problems.
+Important Dates for Changing Academic Status and Dropping the Course:
+Refer to the
+Registrar's academic calendar
+for the deadlines for changes in academic
+status. Highlights include:
+August 31: (6th class day) Last day of the official add/drop period;
+after this date, changes in registration require the approval of the
+department chair and usually the student’s dean. If you add late, after
+the due date of Syllabus Quiz and / or background survey, email Professor
+Scott to be granted access to these items on Canvas.
+September 9: (12th class day) Last day to drop for a possible refund. Last
+day to add a course. (Note, I typically do not approve requests for adds
+after the 4th class day due to the pace of the course.)
+November 18: Last day an
+undergraduate student may, with the dean’s approval, withdraw from the
+University or drop a class (Q drop) except for urgent and substantiated,
+nonacademic reasons. Last day a student may change registration in a
+class to or from the pass/fail or credit/no credit basis.
+UT no longer
+requires instructor permission to drop a class. However, I am notified of
+the request to drop and
+if you are
+involved in an ongoing academic dishonesty case the drop will not be
+approved and if necessary, reversed.
+After November 18 students must go to the academic advisors
+in their department or college Dean's office if they wish to drop or withdraw from the
+class.
+To be eligible for an
+incomplete (UT uses the symbol X to indicate incompletes)
+you must have a letter grade of
+C-
+or better and a
+written, verifiable excuse for missing the last test. This is a
+necessary
+but
+insufficient
+condition for receiving an
+incomplete. I do
+not
+assign incompletes (grade symbol of X) so that a student may make up course work.
+See the College of Natural Science Guidelines
+and Procedures page for more information. (
+cns.utexas.edu/advising/guidelines-procedures
+)
+Academic
+Integrity and the University Code of Conduct:
+The core values of the University of Texas at Austin are learning, discovery,
+freedom, leadership, individual opportunity, and responsibility. Each member of
+the University is expected to uphold these values through integrity, honesty,
+trust, fairness, and respect toward peers and community.
+Academic Honesty: TL;DR (too long didn't read) If you
+copy code from the web, another student, or use a generative AI, that is cheating in my course. The
+teaching staff will catch you.
+I shall submit an academic
+dishonesty case to the
+Office of the Dean of Students
+and request penalties up to and including an F in the course.
+In the past several years cheating in CS314 has
+skyrocketed from 2% to 3% of the students in the course to upwards of 10%. The
+increase is due to the availability of generative AI chatbots such as ChatGPT,
+Copilot, Perplexity, Claude, etc.
+To be clear, this is a foundational course. Generative
+and agentic AI are utterly and completely disallowed on all aspects of
+programming assignments (solutions, testing, experiments, write-ups, debugging,
+etc.), quizzes, and exams. This is a foundational course in programming and per
+CS department policy AI use on any course element with points attached
+(programming assignments, quizzes, exams) is strictly forbidden.
+Chatbots are outstanding tools for learning. We encourage you to use ChatGPT or
+generative AIs as part of understanding concepts and materials in the course
+(for example when studying class content or studying for exams), but not to do the
+work for you. For example, you can ask an LLM to explain what an instance
+variable is, why ArrayList.add is amortized constant time, or why the worst case
+order of quicksort is O(N^2). You may use generative AIs to help understand why
+your program may have failed tests after the submisison deadline has past.
+Taken from the
+CS
+department Code of Conduct
+.
+"The University and the Department are committed to preserving the
+reputation of your degree. It means a lot to you. In order to guarantee
+that every degree means what it says it means, we must enforce a strict
+policy that guarantees that the work that you turn in is your own and that
+the grades you receive measure your personal achievements in your classes:
+Every piece of work that you turn in with your name on
+it must be yours and yours alone unless explicitly allowed by an instructor
+in a particular class. Specifically, unless otherwise authorized by an
+instructor:
+Students may not discuss their work with anyone except the instructor
+and other members of the instructional staff (instructor, TA, or partner on a pair assignment).
+Students may not acquire from any source (e.g., another student, an
+internet site, a generative AI such as ChatGPT) a partial or complete solution to
+programming assignments.
+You are responsible for complying with this policy in
+two ways:
+You must not turn in work that is not yours, except as expressly
+permitted by the instructor of each course.
+You must not enable someone else to turn in work that is not theirs.
+Do not share your work with anyone else. Make sure that you adequately
+protect all your files. If you place your source code on a CS department
+machine ensure the
+permissions are set
+so that no one else can view it. Even after you have finished a class, do not
+share your work or published answers with the students who come after
+you. They need to do their work on their own.
+This means do not post your
+solution code to any public web site such as public repositories on GitHub.
+If you have a GitHub repositories with school work, make them private.
+Do not post
+your work to the web even after you have completed CS314.
+One final word: This policy is not intended to discourage students from
+learning from each other, nor is it unmindful of the fact that most
+significant work in computer science and in the computing industry is done
+by teams of people working together. But, because of our need to assign
+individual grades, I am forced to impose an otherwise artificial
+requirement for individual work. In some classes, it is possible to allow
+and even encourage collaboration in ways that do not interfere with the
+instructor's ability to assign grades. In these cases, your instructor will
+make clear to you exactly what kinds of collaboration are allowed for that
+class."
+For CS314 the policy on collaboration is modified as follows:
+If you are repeating the course you may reuse code you completed on
+your own. You may NOT use code from a program you worked on as part of pair
+or code that was from a program involved in an academic dishonesty case.
+You must start from scratch on any and all programs that:
+were part of an academic dishonesty case
+you worked with a partner during a pervious semester
+you are working with a partner this semester
+You are encouraged to study for tests together, to
+discuss
+at a very high level
+methods for solving the assignments, to help each other in using the
+software, and to discuss methods for debugging code.
+You are committing
+academic dishonesty if you look at someone else code (current students,
+past students and code from the web) in electronic or printed form OR discuss the code in
+at such a detailed level that solutions turn out essentially the same.
+You are committing academic dishonesty if you use
+a generative AI chatbot such as ChatGPT or agentic AI to generate
+your code or fix your code.
+You shall not ask anyone to give you a
+copy of their code or, conversely, give your code to another student who
+asks you for it.
+Similarly, you shall not discuss your algorithmic
+strategies at such a detailed level that you and your collaborators end up turning
+in essentially the same code.
+Discuss
+very high level approaches together, but do
+the coding on your own. Realize with complex problems, two programs that
+have produce the same results given the same input will vary significantly
+in approach and structure. You are making many, hundreds, of micro
+decisions as you design and implement your programs. It is extraordinarily
+unlikely two people working on the same complex problem will produce the
+same solution.
+Likewise, your testing code and experimental code and results must be your own. You may not copy
+these from another student.
+Examples of cheating
+are many and include using a generative or
+agentic AI to produce your code for you
+or fix your code, copying or referring to
+solutions from websites such as CourseHero, GitHub, and PasteBin, accessing another
+student's account, looking at someone else's solution code, copying or
+downloading someone else's solution code, referring to solutions from
+previous semesters, having another student walk you through the solution
+and how to code it, discussing the problem at such a detailed that you are
+essentially coding together, having another student perform significant debugging of
+your code, having another student write your code for you and / or allowing others to copy of
+access your solution code. .
+This means you
+shall not
+look on the
+internet for code to solve your problems. You shall not use a generative AI
+to write code from programming assignments. This list is not all inclusive.
+Examples of allowable collaboration
+include discussions of general concepts and solution strategies and help with syntax
+errors.
+The code you can reuse in this course are:
+Code you wrote in  a previous course, if
+you wrote the code yourself.
+Any code you develop with the instructor or TAs in
+class and during help hours.
+Code (with attribution) from the class slides and the class coding examples.
+You may post your test cases on the class discussion group, but
+you shall  implement your own tests. You may not share solution code or experiment code
+in any way.
+You shall not make use of code you find from other sources including
+the world wide web or produced by generative AI chatbots. Materials from the web should only be used for
+educational purposes. Thus, you can read about linked lists and look at
+examples of linked list code, but you must not copy any code from the web
+or be looking at any of this code from the web when writing anything you
+turn in.
+You are also allowed to post short segments of code (2 lines or less) of code
+that are giving you syntax errors to the class discussion group in order to get
+help on fixing the syntax error.
+If you have any doubts about what is allowed, ask
+your instructor.
+Plagiarism
+detection software shall be used on assignments to find students who have copied
+code from one another, the web or used code generated by a generative AI.
+For more information on Scholastic Honesty and the UT Honor code see the
+University Policy on Scholastic Dishonesty
+Exam Conduct: Requirements for the three out of class exams.
+Rationale
+:
+These requirements may
+seem draconian, but as the exams are our primary tool for evaluating your
+knowledge and skills in the course content, we must insure the integrity of the
+exam. There have been students (granted a very small number of students) in the
+past who have cheated on exams in various ways and the requirements below have
+come about to combat this cheating. It is disheartening that the actions of a
+few require such dramatic measures, but again, we must insure the integrity of
+the exams due to their importance in determining knowledge of the course
+material and ultimately grades.
+If you
+are feeling unwell on the day of the exam, do not attend the exam.
+Seek medical attention, and obtain appropriate documentation from
+UT Student Emergency Services
+.
+I STRONGLY urge you NOT to bring any personal
+electronic devices to the exam. Please leave your phone, tablets, laptops,
+smart-watches, and smart-glasses at home.
+No outside resources of any kind including
+notes, books, or electronic devices (phone, tablet, computer, notes, calculator,
+smart glasses, etc.) may be used one exams.
+Use of outside resources on an exam is a
+violation of the course requirements and shall result in a 0 on the exam. You
+may not use outside resources in the exam room or outside the exam room if you
+must use the restroom.
+Backpacks and bags shall be placed in the front
+of the exam room. If you bring any personal electronics they must be placed in
+your bag which is then placed at the front of the room. Again, I strongly urge
+you NOT to bring ANY personal electronics to the exam.
+Having any outside resources  (phone,
+tablet, computer, notes, calculator, smart glasses, etc.) on your person during
+an exam is also disallowed.
+Having outside resources on your person during
+an exam is a violation of the course requirements and shall result in a 0 on the
+exam. Accessing any electronic resources outside the exam room, during the exam
+is also a violation of the course requirements and shall result in a 0 on the
+exam.
+Bring pencils, pens, erasers, highlighters and your
+UTID. You are allowed to use highlighters and do scratch work on the exam. You
+may have drinks and cough drops with you.
+Other than that I strongly
+urge you to leave everything else at home.
+Scratch paper shall be provided
+Exam Procedures:
+Pre Exam:
+You must take the exam in your assigned room.
+There shall be rosters outside the room with your UTEID and your
+exam number.
+Note your exam number when you arrive.
+Wait to enter the room until the exam proctor present states it is time to
+enter.
+Upon entering the classroom,
+place your bag at the designated area at the front of the classroom.
+Bags must remain there for the duration of the exam.
+When you enter the room pick up on the order of 4 sheets of scratch paper
+from the stacks located at the front and / or back of the room.
+Find the exam with your assigned number. The numbers are not seat numbers.
+The exam numbers shall be written on the back of the exam in black sharpie.
+Leave the exam face down until the exam proctor says it is time to start.
+No
+outside resources of any kind may be used during the exam. No notes, cards,
+books, other people, electronic devices (as detailed below) or other outside
+resources may be used during the exam time.
+No
+electronic devices are permitted during the exam.
+This includes cell phones, calculators, laptops, tablets, smart-watches,
+headsets, earbuds, electronic smart-glasses, and any other electronic
+devices.
+All electronic devices must
+remain in your bag
+at the designated area throughout the exam. You may
+not keep any electronic device in your pocket, on your desk, or on your
+person.
+Communication with other
+students is strictly prohibited during the exam.
+This includes verbal
+communication and communication through chats, email, text messages (SMS),
+or any other electronic means. This includes the time in the exam room and
+outside the exam room if you require the use of the restroom.
+Take everything you need with
+you to your seat before the exam begins.
+You may
+not
+return to your bag
+during the exam.
+Your pockets must be empty.
+Do not keep papers, electronic devices, or other unauthorized materials
+in your pockets.
+Write your exam number in the
+provided blanks on every other page.
+Place you answers on the exam.
+Write darkly and neatly. Failure to do
+this may result in the loss of points
+as exams are scanned and
+graded via computer. We grade what is on the exam turned in.
+We do not grade
+any answers placed on scratch paper. You may not attach extra sheets to the
+exam.
+You may do scratch work on the exam
+itself as long as your final answer is clearly indicated.
+We do not address questions about the content of the exam, during
+the exam. (It is a major distraction to those around you and sorry to say,
+but some students would use this as an opportunity to fish for more
+information and hints on questions, trying to derive an advantage) If you
+think a question has an error or ambiguity, state your assumptions clearly
+on the exam and answer based on those. Recall, on part 1, the short answer
+questions, compile error, runtime error, and infinite loop are possible
+answers.
+If you arrive after the start of the exam you shall have whatever time is
+remaining in that room.
+If you finish before the end
+of two hours, you may turn in your exam and all scratch paper. If the exam
+proctor does not recognize you, they shall ask to see your UTID. Once you
+submit your exam, leave the classroom/building promptly.
+Do not remain
+outside the classroom to discuss the exam or its solutions with other
+students.
+Restroom breaks are limited to one student at a time.
+If you need to use the restroom during the exam, raise your hand and obtain
+permission before leaving the classroom.
+You may not take your cell phone or any other electronic device with you to
+the restroom.
+You are also not
+permitted to borrow or use another person's cell phone or electronic device
+while you are outside the classroom.
+Do not leave the classroom
+without permission.
+If you need to leave for any reason during the exam,
+raise your hand and wait for instructions from the instructor or proctor.
+Religious Holidays:
+“By
+UT
+Austin policy
+, you must notify me of your pending absence for a religious
+holy day as far in advance as possible of the date of observance. If you must
+miss a class, an examination, a work assignment, or a project in order to
+observe a religious holy day, you will be given an opportunity to complete the
+missed work within a reasonable time after the absence. For questions regarding
+religious accommodations, please
+contact
+the Office of the Dean of Students.”
+Disabilities and Access:
+If you are a student with a disability, or think you may have a disability,
+and need accommodations please contact Disabilities and Access (DAA). You may
+refer to
+DAA’s website
+for contact and more information.
+If you are already registered with DAA, please send your Accommodation
+Letter to me as early via email as possible in the semester so we can discuss your
+approved accommodations.
+Students
+with a documented disability may request appropriate academic accommodations
+from the Division of Diversity an Community Engagement,
+Disabilities and
+Access,
+diversity.utexas.edu/disability/about/
+•
+Please request a
+meeting as soon as possible to discuss any accommodations
+• Please notify me
+as soon as possible if the materials being presented in class are not accessible
+To the CS 314 home page

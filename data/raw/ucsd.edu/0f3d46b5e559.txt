@@ -1,0 +1,208 @@
+CSE-190 - Topics in Computer Science and Engineering (2026-2027) | Computer Science
+CSE-190 - Topics in Computer Science and Engineering (2026-2027) | Computer Science
+Skip to main content
+CSE-190 - Topics in Computer Science and Engineering (2026-2027)
+Updated: November 6th, 2026
+CSE-190 is a topics of special interest in Computer Science and Engineering course. Topics may vary from quarter to quarter.
+Prerequisites also vary per course/per instructor. Department approval required.
+Units: 4
+CSE-190 is typically offered every quarter as staffing allows.
+CSE-190 may be repeated for credit a maximum of 3 times (maximum of 12 units; assuming courses taken for a different topic)
+A maximum of
+one
+CSE-190 may be enrolled/waitlisted per quarter
+Note:
+For the Fall 2023 Computer Science (CS26) curriculum, all CSE 190 courses will be labeled with a corresponding "Tag(s)" (Systems, Theory/Abstraction, and/or Applications of Computing). CSE-190 offerings before Fall 2023 are untagged but may be used as an Open CSE Elective for Computer Science majors who have changed to the FA23 CS26 curriculum.
+____________________________________________________________________________
+Winter 2027
+CSE-190 (
+001-000-LE)
+:
+Software Design Studio
+with
+Coblenz, Michael J
+Prerequisite:
+CSE 110 or CSE 210
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Class
+is unofficially co-scheduled with CSE 291P 001
+.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+Description:
+The future of software engineering may lie in managing agents, which write and maintain code on a software engineer’s behalf. To obtain a software engineering position, it may no longer be enough to master the traditional basics; design skills will be essential. What constitutes a good software design? How can we analyze the tradeoffs of design candidates at a high level so that we can evaluate agents’ work and direct them to create software artifacts that will stand the test of time? This class will investigate these questions in the context of individual or small-group projects whose implementation is assisted by AI but whose design is managed by humans. Through reading, discussion, and iteration on artifacts, students will develop their design taste to enable them to make wise design choices. Students will be expected to provide their own access to an AI coding agent such as Claude Code for use in this class. In-person class attendance will be essential.
+CSE-190 (002-000-LE): Fairness, bias, and transparency in Machine Learning with Julian McAuley
+Prerequisite:
+None
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Class is unofficially co-scheduled with CSE 291A 001.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+Description:
+This course is devoted to fairness, bias, and transparency in machine learning. After taking this course, students will be able to understand the main sources of bias and unfairness in machine learning systems, and deploy strategies to mitigate these biases. Students will also understand the related notions of accountability and transparency in Machine Learning, allowing for the development of systems that are more trustworthy.
+CSE-190 (
+005-000-LE)
+:
+SWEET (Software Engineering Experiences and Training)
+with
+Adalbert Gerald Soosai Raj
+Prerequisite:
+CSE 110: Software Engineering and CSE 190: Working with Large Codebases.
+CS Curriculum Tag(s)
+:  Applications of Computing
+To enroll:
+Application will be posted here closer to the booking period.
+Description:
+SWEET teaches students what to build, why to build it, and how to know it worked. Students work in teams with community partners to build software that solves real problems that real people have. Using human centered design, teams interview users and stakeholders, define the problem, prototype ideas, and test them with the people they are meant to help. Teams then build, ship, and maintain their solutions using agentic software engineering. Students work with AI coding agents to plan, write, test, and review code. They stay fully responsible for the result. Every student must understand what their team built and why, and be able to explain it to different audiences, from community partners to technical managers in code walkthrough presentations. Along the way, students face the real difficulties of designing, building, and maintaining software that impacts people. These include unclear requirements, competing needs, trade offs, accessibility, privacy, ethics, and long-term maintenance. Students also practice teamwork, communicating with non-technical partners, and handing off software that a partner can keep using. Topics include user research, problem framing, prototyping and usability testing, agile practices, code review and testing, evaluating AI generated code, and measuring whether software actually meets user needs.
+CSE-190 (
+006-000-LE
+):
+Advanced Algorithms
+with
+Saha, Barna
+Prerequisite:
+Grade of "A" in CSE 101 is required.
+CS Curriculum Tag(s)
+: Theory/Abstraction
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Class is unofficially co-scheduled with CSE 202.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+Description:
+The course will build upon the materials covered in CSE 101 that include graph algorithms, dynamic algorithms, greedy algorithms, NP Hardness and go into other topics covering approximation algorithms, linear programming for optimization, and matrix algorithms. For each topic, along with the mathematical theory, we will look into their real-life applications and implementations.
+CSE-190 (
+007-000-LE
+):  Generative AI and Programming
+with
+Politz, Joe G
+Prerequisite:
+CSE 110
+CS Curriculum Tag(s)
+: Application of Computing
+To enroll:
+Please complete this form to be considered for enrollment:
+https://forms.gle/
+hnbe9i9GZabkPukr9
+Class is unofficially co-scheduled with CSE 291P 002.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+Description:
+Generative artificial intelligence (AI) tools that synthesize rich output from user-supplied prompts have enabled new kinds of programming. This includes both AI systems that edit source code (AI as agents that assist with coding), and AI systems that use API calls to an LLM to provide user-facing features (AI as API). In this course, we explore both of these with hands-on use of these tools to build applications, along with some background about how generative AI works (and when it fails to work) in this setting.
+CSE-190 (
+009-000-LE
+):  Foundations of AI Agent Infrastructure
+with
+Zhang, Yiying
+Prerequisite:
+CSE120 and CSE141
+CS Curriculum Tag(s)
+: Systems
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Description:
+This course is about AI agent infrastructure. Students will learn the fundamentals about AI agent backend, including LLM inference, agent tooling, agent memory and context, agent sandboxes and hosting, edge computing for AI agents, agentic security and trustworthy, and agentic reinforcement learning. This course is not about AI/ML theory or agent frameworks/applications. It will focus on the backend of AI agents, with real use cases as the motivation of why backends are designed in certain ways. If you are looking for learning how to build AI agents and the theoretical foundations of AI agents, this is not the right course for you.
+____________________________________________________________________________
+Fall 2026
+CSE-190 (
+001-000-LE)
+:
+How the Web Tracks You
+with Deepak Kumar
+Prerequisite:
+CSE-029
+CS Curriculum Tag(s)
+: Systems
+or
+Applications of Computing
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Class is unofficially co-sch
+eduled
+with CSE-291l (Kristen Vaccaro).
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+Description:
+This course focuses on
+web privacy,
+covering a wide range of topics on both the “defensive” and “offensive” side of the field. In particular, we will focus on
+web tracking —
+the technical mechanisms that companies use to serve you hypertargeted advertisements or other personalized experiences. Students will learn the fundamentals of the web (i.e., the protocols and infrastructure that support the web today), how privacy is (or isn’t) protected today, and get hands-on experience (through PAs) implementing cookie-based tracking and inference, browser / device fingerprinting, and ad blocking technologies. The goal of the course is to introduce students to the vast tracking ecosystem that underlies the web and give students practical experience with these technologies as they are implemented in practice today. To complete the projects in this course, you will need to have (or gain) familiarity with all aspects of web programming, not limited to — web server deployment, JavaScript, web databases (e.g. SQL), client/server applications, and web extensions. We will not explicitly teach these in class and you will be expected to pick up what you need for each project on your own.
+CSE-190 (
+002-000-LE): Unsupervised learning with Sanjoy Dasgupta
+Prerequisite:
+Math-018, Math-020A, Math-020B, Math-020C, and CSE-021.
+CS Curriculum Tag(s)
+: Theory/Abstraction
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Class is unofficially co-sch
+eduled
+with CSE-251U
+.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+Description:
+This course presents a broad view of unsupervised learning. Topics covered will include: descriptive statistics; clustering; projection, singular value decomposition, and spectral embedding; common probability distributions; density estimation; graphical models and latent variable modeling; sparse coding and
+dictionary learning; autoencoders, shallow and deep; and self-supervised learning. The focus throughout will be on understanding the modeling assumptions behind different methods, their statistical and algorithmic characteristics, and common issues that arise in practice.
+CSE-190 (
+003-000-LE
+):
+Working with Large Codebases: Traditional and Agentic Software Engineering
+with
+Adalbert Gerald Soosai Raj
+Prerequisite:
+CSE-110
+CS Curriculum Tag(s)
+:  Applications of Computing
+or
+Systems
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Description:
+This
+hands-on practicum
+introduces students to understanding and working with large codebases, using both traditional software engineering practices and modern agentic AI tools. Students will learn how to fix bugs and modify/add features in existing, unfamiliar code, first building strong fundamentals in reading, navigating, and reasoning about unfamiliar systems, then extending those skills with agentic coding tools (e.g., Claude Code, GitHub Copilot) that can accelerate exploration, development, and testing in large codebases. Students will learn processes, techniques, and tools for working with large codebases, including how to critically evaluate and effectively direct AI-assisted workflows. Students will work in small teams on a large open-source codebase throughout the course. By the end of the course, students will develop practical skills and confidence to collaborate on complex software projects in real-world settings. This course is recommended for students
+without
+internship experience, although anyone is welcome to register.
+CSE-190 (
+004-000-LE
+):
+Introduction to Quantum Computing
+with
+Daniel Grier
+Prerequisite:
+(MATH-018 or MATH-031AH) AND (CSE-020 or MATH-015A or MATH-109)
+CS Curriculum Tag(s)
+: Theory/Abstraction
+To enroll:
+Submit a Triton Enrollment Authorization (TEA) request in the
+Triton Student System
+to be considered for enrollment.
+Class is unofficially crosslisted
+with Math-162
+.
+Students should not enroll in both class nor will they receive credit for both classes.
+No exceptions.
+Description:
+This course focuses on the mathematical theory of quantum computers. After covering the foundations of quantum mechanics, the course introduces ways to describe and analyze quantum algorithms. Foundational concepts: qubits, tensor products, entanglement, superposition. Algorithmic concepts: quantum circuits, quantum query algorithms, quantum Fourier transforms.

@@ -1,0 +1,266 @@
+AI Teaching Strategies: Developing Your Course Policy | Teaching and Learning Resource Center
+AI Teaching Strategies: Developing Your Course Policy | Teaching and Learning Resource Center
+Skip to main content
+Ohio State nav bar
+The Ohio State University
+Help
+BuckeyeLink
+Map
+Find People
+Webmail
+Search Ohio State
+AI Teaching Strategies: Developing Your Course Policy
+Image
+Students should use AI tools for coursework only in the ways that are encouraged or permitted by the instructor. But guidelines and expectations around AI can vary significantly across their courses, and even across different assignments within a course. Further, students may be unaware that feeding course content into AI or allowing an AI tool to access course materials without explicit permission can violate copyright laws. All of this can cause confusion and potentially lead to academic misconduct.
+Research shows that transparent communication about course activities and expectations supports student success. It is important to define and clearly communicate an AI course policy at the start of the term, as well as to share clear expectations for AI use on individual assignments and activities.
+This guide will support you to reflect on potential uses for AI in your course and to craft an AI policy that clearly communicates your expectations to students.
+Reflect on AI Uses in Your Course
+Before drafting an AI course policy, reflect on your course goals and expected learning outcomes. Could using AI tools support student learning? If so, how? If not, why? What are some common uses for AI in your discipline? How might students be expected to use AI in their future careers?
+For example, could students in your course use AI to:
+Brainstorm ideas, create outlines, or develop rough drafts?
+Review and revise their original writing to
+refine ideas or articulate arguments?
+improve organization and formatting?
+polish grammar, mechanics, and syntax?
+Create or enhance images, audio, or other media?
+Summarize or clarify complex readings?
+Support or augment their research?
+Create study aids such as flash cards, practice questions, or chapter summaries?
+Accomplish disciplinary tasks, like producing code or identifying patterns within data?
+As you consider potential uses, keep in mind that it will be important to help students understand AI's advantages and limitations for each kind of course activity. For example, if you allow students to use AI tools for brainstorming ideas or supplementing research, they should be prepared to evaluate AI output for bias and inaccuracies.
+Learn more about AI uses for coursework in
+AI Considerations for Teaching and Learning
+and
+AI Teaching Strategies: Transparent Assignment Design.
+Building Blocks of a Clear AI Course Policy
+Once you have decided how AI can and cannot be used in your course, you are ready to consider the key components of your policy statement.
+An effective AI course policy should address the following elements: a rationale, permitted and prohibited uses, permitted AI tools, consequences for violations, relevant assignments and activities, and a contact for questions.
+Policy Component
+Example: Introduction to U.S. History
+Rationale
+: Explain why you are permitting some uses of AI and prohibiting others. You can tie this into the knowledge and skills your course is meant to develop and how AI does or does not promote their acquisition.
+This course supports the development of historical thinking skills and involves close reading of primary sources, evaluating historical arguments, and constructing evidence-based interpretations. While AI tools can assist with brainstorming and organizing ideas, students must practice analyzing sources, identifying bias, and forming arguments independently. These human skills are foundational to understanding history and cannot be replaced by AI-generated content.
+Permitted and prohibited uses
+: Explain which uses of AI are permitted and which are prohibited. Also address any additional
+requirements
+(e.g., documenting or citing AI use, critically evaluating AI output).
+We recommend alerting students to potential copyright issues involved with inputting course content into an AI system or otherwise granting an AI access to a course.
+AI may be used to:
+Brainstorm thesis statements or paper topics
+Generate outlines for essays or organize ideas before writing
+Clarify general historical concepts (e.g., “What was the New Deal?”) as a starting point
+Receive feedback on clarity, grammar, or structure of student-written work
+AI tools frequently produce inaccurate or fabricated historical details
+—
+students are responsible for verifying information in any AI outputs they use. AI may
+not
+be used to generate full or partial drafts of any paper or written response, or to analyze primary sources on the student’s behalf.
+The materials in this course may be subject to copyright protection. Uploading, inputting, or allowing non-permitted AI tools to access course materials (e.g., assigned readings, slides) without instructor permission may
+violate copyright protections
+.
+Permitted AI tools
+: Include the specific AI tools students are permitted to use.
+Permitted AI tools:
+Students may use Microsoft Copilot and Google Gemini for brainstorming and feedback, grammar review tools, and any AI tools integrated into CarmenCanvas or other university-approved tools used in this course.
+Consequences
+: If certain uses of AI are prohibited, include an explanation of how violations will be handled.
+Consequences for misuse:
+If I suspect you have used AI for assignments or tasks for which it is not permitted, I will ask you to explain your process for completing the assignment in question. Submission of AI-generated content as your own original work is considered a violation of Ohio State’s
+Code of Student Conduct.
+The unauthorized use of AI tools may result in referral to the
+Committee on Academic Misconduct
+.
+Assignments and activities
+: List the assignments or activities to which this AI policy applies.
+If the AI policy varies greatly by assignment, explain where students can find per-assignment details.
+This policy applies to the following assignments:
+Primary Source Analysis (2–3 pages)
+Weekly Response Papers (1–2 pages)
+Final Research Paper (5–7 pages)
+Discussion posts (must reflect student's own thinking and words)
+No AI use is permitted on midterm or final essays.
+Contact:
+Assert that you are available if students have questions about the policy or AI use in your course, and list preferred methods
+of contact.
+Questions?
+AI is evolving rapidly. If you have questions about this course policy or your use of AI, whether in standalone applications like Microsoft Copilot or embedded in other tools, please contact me at
+brutus.1@osu.edu
+or during office hours.
+Explore these additional course policy examples. How do each instructor’s policies reflect their course goals or disciplinary practices?
+Business: Strategic Marketing
+This course will help you develop analytical, creative, and communication skills that are essential to various roles within the business field but especially in marketing. AI tools can enhance efficiency in data analysis and idea generation, but strategic decision-making, ethical judgment, and creative messaging must be applied to both marketing work and the way that AI is used.
+In this course, AI may be used to:
+Analyze large datasets for market trends
+Generate preliminary ideas for marketing campaigns
+Summarize competitor strategies from public sources
+AI may
+not
+be used to create full campaign plans or client deliverables without instructor approval.
+Permitted AI tools:
+Tableau AI for data visualization, Copilot or Gemini for ideation and summarization, and Jasper for draft marketing copy review.
+AI is permitted only in the following assignments and activities
+:
+Market Research Report: Use AI to process data and identify trends.
+Campaign Concept Pitch: AI for brainstorming only; all final materials created by students.
+Ethics Case Study: Evaluate AI-generated marketing tactics for ethical compliance.
+If you have questions about this policy or using AI in this course, contact me at
+buckeye.100@osu.edu
+.
+Computer Science: Machine Learning
+The ability to design algorithms, gain proficiency in coding, and creatively problem solve are skills that promote innovation and adaptation. As the field of computer science shifts, these skills will enable you to work in a range of programming environments and keep pace with innovation. AI tools can assist in debugging and learning new coding patterns, but the ability to write, explain, and optimize code must remain a human skill.
+In this course, AI may be used to:
+Debug code and explain error messages
+Suggest alternative approaches to algorithms
+Summarize technical documentation
+AI may
+not
+be used to generate full assignment solutions.
+Permitted AI Tools:
+Approved tools are GitHub Copilot for code suggestions, Microsoft Copilot or Gemini for explanation, and documentation-specific AI assistants.
+Assignments and Activities:
+AI is permitted in only the following assignments and solely in the manners listed.
+Programming Labs: AI for debugging only.
+Algorithm Design Project: AI for brainstorming approaches; all code must be written by the student.
+Code Review Exercise: Evaluate AI-generated code for efficiency and correctness.
+English Literature: Shakespeare
+This course emphasizes close reading, textual analysis, an understanding of historical context, and critical interpretation of Shakespeare’s plays and sonnets. While AI tools can support research and offer summaries, the ability to engage directly with Shakespeare’s language, themes, and literary devices must be developed through students’ own reading and analysis.
+AI may be used to:
+Summarize background information about Elizabethan theater and Shakespeare’s historical context
+Suggest possible interpretations of key passages for comparison with the student’s own analysis
+Generate outlines for essays after the student has completed their own close reading
+AI may
+not
+be used to write complete analytical essays, create full interpretations without student input, or replace required primary-text reading. As t
+he materials in this course are subject to copyright protection, students may not upload or input course materials into AI tools other than those listed below, or allow unpermitted AI systems to access course materials (e.g., assigned readings, slides).
+Permitted Tools:
+Copilot or Gemini may be used for summaries and brainstorming; Perplexity for quick reference lookups; digital concordances or annotation tools for locating passages and patterns in Shakespeare’s texts.
+Assignments and Activities:
+AI is permitted in only the following assignments and solely in the manners listed.
+Textual analyses: AI permitted for brainstorming and reverse outlining only; all analysis must be student-generated.
+Research essay: AI allowed to summarize credible historical resources; students must verify sources and integrate findings.
+AI interpretation activity: Compare AI-suggested interpretations of a soliloquy with peer and instructor feedback, noting differences in insight and depth.
+Final presentation feedback: AI will be used to receive feedback on your final presentation before you present to the class. AI should be asked to supply suggestions and not to rewrite the presentation.
+Copyright considerations
+You may want to include a copyright statement within your AI course policy. Copyright provides a basic set of protections that help authors retain control over how their original work is shared, reproduced, or adapted. These protections are automatically granted to original content once it is created and fixed in a tangible form.
+Your course materials are subject to copyright protection, so you may elect to note restrictions on whether or how students input course content into AI tools
+.
+Platforms that are not university-approved may harvest the data users input to train their AI language models, opening up copyright and intellectual property concerns.
+Incorporating copyright into your AI course policy is not meant to restrict student learning or participation, but rather to clarify expectations about appropriate use and sharing of course materials. Framing copyright as a boundary-setting practice can support transparency and respect for intellectual property while still allowing instructors to invite flexibility, dialogue, and student choice in how materials are accessed and used.
+For more information on copyright, reach out to
+Copyright Services
+.
+University-approved tools
+As you select AI tools for your course, you should know which have been approved for use at Ohio State. To support the
+AI Fluency initiative
+, the university has reviewed and vetted a number of standalone generative AI applications, including
+Microsoft Copilot
+,
+Adobe Firefly
+, and
+Google Gemini
+.
+The university is committed to providing students access to AI tools at no cost to them, as well as to ensuring our use of these tools supports productivity and efficiency while meeting security standards. Keep in mind that data you enter in AI applications using a personal account will not be protected; you
+must log in to an approved AI tool with your Ohio State credentials
+(lastname.#@osu.edu and password) before entering any institutional data above the S1 classification.
+See
+Additional Tools
+for more AI applications that can support teaching and learning or explore all
+approved AI tools
+for Buckeyes.
+Craft Your Own AI Course Policy
+There are many additional resources and examples that can be helpful when developing your AI course policy. The Office of Undergraduate Education website includes
+Optional Syllabus Statements for Generative AI Use
+to offer Ohio State educators a starting point for crafting their course policies. The statements address four common uses of AI in educational settings—study assistance, brainstorming and ideation, feedback on student-created work, and co-creation and drafting—as well as an option for "unrestricted use."
+Below, we provide a template you may use and adapt to develop your own AI course policy statement.
+AI Course Policy Template
+This course emphasizes [list skills relevant to why you may be permitting or prohibiting uses of generative AI], which can help you [indicate why these skills are useful in students' lives and later careers]. AI tools can help you [if relevant, list what students will gain by using AI tools in this course], but [list skills you do not want students to offload onto AI] must remain human skills.
+Below are the
+permitted and prohibited uses of AI
+in this course:
+Permitted
+: [list permitted uses of AI]
+Prohibited
+: [list prohibited uses]
+Requirements
+: [list any requirements for using AI (e.g., documenting or citing AI work, critically evaluating outputs) and/or any components that must be student work (e.g., the core ideas, the final product)]
+Permitted AI Tools
+The following tools may be used when AI is permitted:
+[List specific AI tools (e.g., CoPilot, Gemini, Grammarly, NotebookLM)]
+Assignments and Activities
+AI is permitted in the following assignments and activities:
+[List the assignments and activities where AI is permitted and briefly indicate the type of use allowed]
+Policy Violations
+If I suspect that you have used AI on an assignment for which it is prohibited or in a manner that is not permitted, [list how you will handle the situation].
+Questions?
+AI is evolving rapidly. If you have questions about this course policy or your use of AI, whether in standalone applications like Microsoft Copilot or embedded in other tools, please contact me [specify preferred method of contact, such as email address or office hours].
+Publish Your AI Course Policy
+For transparency and clarity, it is important to publish your AI course policy (along with other required or optional policy statements), such as in the Course Details section of
+Simple Syllabus
+. This will ensure that students have clear guidance to refer to when they have questions about their use of AI during the semester.
+Simple Syllabus also includes AI policy guidance along with sample statements, which you can optionally copy and paste into the provided text box and modify for your purposes.
+Discuss Your Policy and Expectations with Students
+Writing and publishing your AI course policy are the first steps. You should also plan a transparent discussion of your AI policy, guidelines, and expectations with students. Ideally transparent conversations about AI use will occur on the first day or week of class as you walk through your course schedule and key course policies. Revisit discussion of your policy and expectations throughout the term, particularly before major assignments and assessments.
+Image
+Explain the rationale for your AI course policy.
+For example, you might explain how AI use supports (or does not support) your course learning outcomes, how it connects with common tasks in your discipline, or how it aligns to work students may do in their future careers.
+Describe the specific ways students can and cannot use AI in your course.
+For example, you might explain that students can use GenAI to brainstorm ideas and to revise their writing assignments, but not to generate entire drafts. You should also clarify which specific AI applications are acceptable for students to use. Let students know that AI guidelines may also be called out for specific assignments and activities, and direct them to where they can find that information.
+Address the intersections of AI with academic integrity.
+Explain the types of AI activities (if any) that would constitute academic misconduct in your course and share the consequences of such misconduct.
+Share concrete examples of academic AI use.
+Present students with case studies or scenarios in which AI is used for coursework. Then determine together whether each case abides by your AI course policy or represents academic misconduct.
+Encourage students to ask questions.
+Let students know they can contact you with questions or concerns about AI use in your course.
+Depending on your course goals and learning activities, you might wish to discuss additional issues related to AI, such as privacy, security, and copyright concerns.
+Explore a variety of prompts and discussion starters in
+AI Teaching Strategies: Having Conversations with Students.
+Highlight Expectations for Specific Course Activities
+Once you have documented the overall AI policy for your course, you may find that you have additional guidance and expectations for individual assignments, assessments, and learning activities. It is a best practice to highlight clear expectations for AI use on all assignment prompts and instructions, especially if they deviate from or expand upon your published policy statement. Before major assignments and assessments, revisit the AI course policy and discuss any context-specific instructions with students as well.
+The
+Committee on Academic Misconduct (COAM)
+recommends that Ohio State instructors use standard
+academic integrity icons
+to promote transparent expectations for how students should complete academic activities. If you have some assignments that permit AI use, but others that prohibit it, these icons will be useful to communicate your expectations. Once you import the icons, you can use them on any prompts or instructions across your CarmenCanvas course.
+Learn how to use the academic integrity icons.
+Additional Resources and Support
+The landscape of AI in education is rapidly evolving. Stay tuned in by engaging with Ohio State resources and learning opportunities.
+On-demand learning
+Building Students' AI Fluency
+is an asynchronous online course that supports Ohio State instructors to redesign course elements to promote AI fluency. It presents background information on
+Ohio State's AI fluency initiative
+, provides foundational knowledge related to the fluency outcomes, and addresses the role of critical thinking and academic integrity as students learn about and use AI.
+Browse all on-demand learning opportunities.
+Programming
+The Drake Institute, University Libraries, and other units across the university offer various opportunities for educators to connect around AI in education, including workshops, book clubs, and more.
+Browse upcoming
+Learning Opportunities.
+Participants who wish to delve deeply into AI fluency may wish to pursue the
+Teaching and Learning to Build AI Fluency teaching endorsement
+offered by the Drake Institute.
+Teaching consultations
+If you need more support to develop an AI policy or incorporate AI fluency into your course,
+request a consultation
+with the Drake Institute for Teaching and Learning.
+Related Teaching Topics
+AI Considerations for Teaching and Learning
+Understand the benefits and limitations of generative AI and explore a range of ways to address and integrate AI tools in your course.
+AI Teaching Strategies: Having Conversations with Students
+Explore strategies, conversation starters, and activities that will help you openly discuss AI with your students.
+AI Teaching Strategies: Transparent Assignment Design
+Learn how a transparent design process can simplify planning assignments that use generative artificial intelligence.
+Online and Hybrid Syllabus Template Instructions
+Download and customize a syllabus template for your online or hybrid course.
+A Positive Approach to Academic Integrity
+Learn how to take a proactive, rather than punitive, approach to academic integrity in your courses.
+Strategies and Tools for Academic Integrity in Online Environments
+Learn how to take a multifaceted approach to academic integrity in your online courses.
+Related Toolsets
+Simple Syllabus
+Simple Syllabus, integrated within CarmenCanvas, is the university's centralized platform for creating and publishing course syllabi.
+CarmenCanvas
+The learning management system for in-person and online courses at Ohio State, used as a hub for course content, assignments, grades, communication and more.
+Additional Tools
+Explore a list of additional technology tools and applications that can enhance teaching and learning at the university.
+Search for Resources
+Search
+Submit

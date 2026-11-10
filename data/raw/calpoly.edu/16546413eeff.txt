@@ -1,0 +1,449 @@
+2026-2028 Special Topic Courses - Office of the Registrar - Cal Poly, San Luis Obispo
+2026-2028 Special Topic Courses - Office of the Registrar - Cal Poly, San Luis Obispo
+Google Tag Manager
+Cal Poly Global Site Tag
+Skip to Content
+?
+Current Students
+Prospective Students
+Parents
+Alumni
+my CalPoly login
+Contact
+Office of the Registrar
+Cal Poly and Cal Poly Maritime Academy
+2026-2028 Special Topic Courses
+Special topic courses are academic credit-bearing courses in the Cal Poly catalog that provide a generic course vehicle to offer special topics on an "as needed basis." The most common special topic courses, 2270, 2271, 4470, 4471, 5570, 5571, are available to all academic programs, and have the same generic course description. The specific topic title appears in the Class Schedule and on the students' transcripts. Search
+archived
+for topics that are no longer offered.
+Special Topic Course Descriptions
+AERO 4470 Aerospace Entrepreneurship (3)
+Effective Fall 2026
+Identification and evaluation of commercial opportunities in the aerospace industry. Methods necessary for rapid iteration and market validation of early-stage prototypes, with emphasis on issues critical to aerospace products and services, including intellectual property, regulatory and security environment, funding sources, and business models.
+Prerequisite: Consent of instructor.
+AERO 4470 Intro to Robotic Manipulators (2)
+Effective Fall 2026
+Homogeneous transformations of coordinate frames, forward kinematics, inverse kinematics, Jacobian matrix for linear and angular velocity, path and trajectory planning, Newton Euler dynamic equations and Euler Lagrange equations of motion.
+Prerequisite: Consent of instructor. Recommended: AERO 320 and AERO 321.
+AERO 4470 Optimization Methods for AERO (3)
+Effective Fall 2026
+Aerospace system modeling and problem formulation for algorithmic optimization. Topics include unconstrained and constrained optimization of dynamic systems using numerical techniques, gradient-based methods, evolutionary methods, calculus of variations and optimal control theory. Applications focus on aerospace vehicle design, trajectory optimization, and multidisciplinary systems.
+Prerequisite: Consent of instructor. Recommended: AERO 3300 and AERO 3320.
+AERO 4470 Plasma Applications in Aerospace (3)
+Effective Fall 2026
+Plasma dynamics and applications of plasmas in aerospace, including plasma propulsion, reentry, plasma actuators, space weather, power generation, semiconductor processing, and plasma medicine. Probe analysis, numerical modeling, and electric propulsion of testing.
+Prerequisite: Consent of instructor. Recommended: AERO 3301.
+AERO 4471 Experimental Aircraft Fabrication Lab (2)
+Effective Fall 2026
+Immersive team-based approach to experimental aircraft fabrication and construction. Master mechanical and assembly drawings, application of aircraft structures and aerodynamics, sheet metal and electrical fabrication, and the FAA certification process.
+Prerequisite: Consent of instructor.
+AERO 4471 Intro to Space Robotics Lab (1)
+Effective Fall 2026
+Design and testing of Floating Spacecraft Simulators. Use and implementation of cold gas thrusters, microcontrollers, motors, and actuators. Use of an optical tracking camera array to implement experimental closed loop control.
+Prerequisite: Consent of instructor. Recommended: AERO 302 and AERO 321.
+AERO 5570 Computational Plasma Dynamics (3)
+Effective Spring 2027
+Numerical simulations of plasma and rarefied gas flows. Electrostatic and electromagnetic particle in cell method, magnetohydrodynamics, and Vlasov solvers. Structured and unstructured meshes. Introduction to high performance computing, visualization techniques.
+Prerequisite: Graduate standing in Aerospace Engineering and consent of instructor.
+AERO 5570/5571 Vehicle Build, Test, and Ops Lab (3)
+Effective Fall 2026
+Space vehicle integration and test requirements and procedures. Qualification and acceptance testing requirements and methods. Test equipment. Launch operations and vehicle integration with launch vehicle. In-orbit operations and maneuvers. Spacecraft tracking, telemetry, and command. Ground systems. Emergency operations.
+Prerequisite: Graduate standing in Aerospace Engineering and consent of instructor. Concurrent enrollment in AERO 5570 and AERO 5571 required. Recommended: AERO 4447 and AERO 4448; or AERO 447, AERO 448, and AERO 449.
+AGB 4470 AI Problem Solving in Ag Business (3)
+Effective Spring 2027
+Artificial intelligence used to explore agribusiness problems through case studies and activities. Cases and activities integrate business functions (e.g., marketing, finance, data analysis) while developing key artificial intelligence prompt engineering skills. Machine learning applications to agribusiness problems.
+Prerequisite: Consent of instructor.
+AGB 4470 Commodity Markets (3)
+Effective Fall 2026
+Explore the dynamics of commodity markets practical trading strategies using financial derivatives to manage price risks and capitalize on market opportunities. Specific focus on agricultural commodities, energy, metals, interest rates, and foreign currencies.
+Prerequisite: Consent of instructor.
+AGC 4470 Rodeo I: Production Governance and Strategy (3)
+Effective Fall 2026
+Strategic leadership and organizational systems design for large-scale intercollegiate rodeo production. Emphasis on governance structures, risk and compliance frameworks, financial sustainability, operational infrastructure, and supervision of leadership committees within the Rodeo organization.
+Prerequisite: Consent of instructor. Recommended: AG 2212.
+AGC 4470 Rodeo II: Executive Operations (3)
+Effective Fall 2026
+Executive leadership and live operational management of a large-scale intercollegiate rodeo. Students assume responsibility for directing production, coordinating stakeholders, managing safety systems, and leading real-time decision-making during full-scale implementation.
+Prerequisite: Consent of instructor. Recommended: Advanced Leadership Experience Rodeo Production I.
+ART 4470/4471 Experimental Prints and Lab (4)
+Effective Fall 2026
+Expanded photography course with an emphasis on output from the digital space to the physical. Exploration of advanced post-production tools and workflows in Camera Raw and Photoshop,
+including
+color
+grading,
+masking,
+and
+sharpening
+to
+create
+exhibition
+quality
+prints on both traditional and experimental media.
+Prerequisite: Consent of instructor. Concurrent enrollment in ART 4470 and ART 4471.
+ART 4470/4471 Experimental Publications
+and Lab (4)
+Effective Fall 2026
+Introduction to experimental bookmaking, including design for both physical and digital publications. Exploration of the form of the book through history and artists’ books. Issues related to interactive publications and the intersection of graphic design and
+publishing-as
+-a-practice. Design and production of multiple publications.
+Prerequisite: Consent of instructor. Concurrent enrollment in ART 4470 and ART 4471.
+ART 4470 Latin American Art
+(3)
+Effective Spring 2027
+Explore the emergence of artistic practices in Latin America and the Caribbean through transnational cultural dialogues
+with
+focus on how artists reimagined national identity and race amid revolutionary change, global modernisms, and evolving artistic institutions. Prerequisite: Consent of instructor
+ASCI 2270 Husbandry and Management of Nondomestic Animals (3) Effective Fall 2026
+Management and care principles of nondomestic animals in zoo, conservation, and rehabilitation habitats. Coverage of basic husbandry, feeding, restraint, health care, behavioral enrichment, and welfare and ethics associated with care of animals in zoo, rehabilitation and sanctuary settings. Field trip required
+.
+Prerequisite: Consent of instructor.
+ASCI 4471
+Techniques in Therapeutic Riding Enterprise
+(1) Effective Spring 2027
+Develop skills to support safe therapeutic riding for people with disabilities. Topics include equipment selection and fitting, horse care and handling, lesson support, and safe practices for working with horses and participants. Hands-on experience through community service-learning.
+Prerequisite: Consent of instructor.
+BIO 4470/4471 Biology of Fungi and Lab (4)
+Effective Spring 2027
+Study of
+f
+ungal
+biology and diversity. Ecology, evolution, life cycles, metabolism, and molecular biology throughout the fungal tree of life. Special focus on the role of fungal interactions with plants, animals, and human systems.
+Prerequisite: Consent of instructor. Concurrent enrollment in BIO 4470 and BIO 4471. Recommended: MCRO 221, MCRO 224, MCRO 2221, MCRO 2224 or equivalent background.
+BIO 4470/4471 Molecular Ecology and Lab (3)
+Effective Spring 2027
+Principles of population genetics, phylogenetics, and molecular evolution with focus on applications to questions in ecology, evolution, and conservation. Includes basis of genetic variation, genomic adaptation, estimation of demography and population connectivity, landscape genetics, metagenomics, and genetic rescue.
+Prerequisite: Consent of instructor. Concurrent enrollment in BIO 4470 and BIO 4471.
+BRAE 4470/4471 Safe and Effective Drone Surveying and Lab (4)
+Effective Spring 2027
+Integration of remote sensing, surveying, natural resource management, applied drone technology, understanding laws, regulations, measurement concepts, and big data. Field applications using Unmanned Aerial Systems and Global Navigation Satellite Systems. Creation of maps and supporting documents for use in GIS. Prerequisite: Consent of instructor: Concurrent enrollment in BRAE 4470 and BRAE 4471. Recommended: BRAE 237, BRAE 239, BRAE 1237 or BRAE 2239.
+BUS 2270
+AI Literacy for Business (3)
+Effective Fall 2026
+Examines
+how
+artificial
+intelligence
+is
+transforming
+business
+practice
+.
+Students
+develop
+practical
+AI tool fluency, ethical judgment, data literacy, and multi-tool workflow design skills to use AI strategically and responsibly in professional contexts. No technical background
+required
+.
+Prerequisite: Consent of instructor.
+BUS 2270 Cause Selling and Philanthropy (1)
+Effective Fall 2026
+Cause selling and philanthropic fundraising strategies and tactics. Integration of cause selling and marketing through relationship management, planning and delivery of donor presentations, the use of technology and analytics, and trust-building techniques to engage prospects.
+Prerequisite: Consent of instructor.
+BUS 4470
+Blue Economy Entrepreneurship
+(3)
+Effective Spring 2027
+Recognize, plan, and finance new ventures in the blue economy (shipping, ports, fisheries, offshore energy, and ocean technology) and to handle its distinctive regulatory, environmental, labor, and capital challenges. Experiential and project-based learning structure. Prerequisite: Consent of instructor.
+Prerequisite: Consent of instructor.
+BUS 4470 Commercial Real Estate Capital Markets (3)
+Effective Spring 2027
+Evaluate and assess commercial real estate and capital markets, with emphasis on property sectors, debt and equity securities, REITs, mortgage-backed and structured-finance instruments, institutional portfolio allocation, private equity, joint ventures, transactions, restructurings, and emerging digital-infrastructure assets.
+Prerequisite: Consent of instructor.
+BUS 4470 Strategy for Startups (3)
+Effective Spring 2027
+B
+uild and test venture strategies based on key choices of customer, technology, organization, and competition.
+B
+uild valuable acumen in entrepreneurial and business strategy
+that is
+in several
+various
+career paths.
+Prerequisite: Consent of instructor.
+COMS 4470 Fandom and Performance (3)
+Effective Spring 2027
+Exploration of fandom, fanart, and transmedia storytelling from a performance studies lens. Students participate as fans and cultural producers by creating fanart and embodying fandoms, emphasizing identification, adaptation, and worldmaking. Students critically and reflexively examine the sociocultural implications of fandom.
+Prerequisite: Junior standing; completion of GE Area 1 with grades of C- or better (GE Area A for the 2022-26 catalog); and consent of instructor.
+COMS 4470 Social Media Strategy and Analytics (3)
+Effective Spring 2027
+Combine communication theory, case analysis, hands-on digital content creation, and analytics. Develop platform-specific messaging, interpret social media metrics, and evaluate campaign communication effectiveness. Build a digital portfolio demonstrating strategic, creative, and evidence-based communication skills. Prerequisite: Junior standing; completion of GE Area 1 with grades of C- or better (GE Area A for the 2022-26 catalog); and consent of instructor.
+CPE 4470/4471 AI in Healthcare and Lab (4)
+Effective Fall 2026
+Topics in artificial intelligence and machine learning for healthcare applications, medical data analysis, deep learning and transfer learning, advanced representation learning for complex healthcare data, explainable AI, robustness and generalization in clinical AI, and practical project-based experiences.
+Prerequisite: Consent of instructor. Concurrent enrollment in CPE 4470 and CPE 4471 required. Recommended: Basics of python programming.
+CPE 4470/4471 Human-Robot Interaction and Lab (4)
+Effective Fall 2026
+Human perception and modeling, verbal/non-verbal communication, and collaboration techniques. Analysis of user needs, system requirements, and downstream effects of robotic systems. IRB process and human-subjects research techniques.
+Prerequisite: Consent of instructor. Concurrent enrollment in CPE 4470 and CPE 4471 required.
+CPE 4470/4471 Reinforcement Learning and Lab (4)
+Effective Fall 2026
+Introduction of core reinforcement learning frameworks and methods. Problem definitions, including Markov Decision Processes and reward design. Explore solution approaches such as Q-learning and Monte Carlo tree search. Implementing and analyzing reinforcement learning algorithms. Deployment and integration of common RL algorithms both in simulation and on hardware.
+Prerequisite: Consent of instructor. Concurrent enrollment in CPE 4470 and CPE 4471 required.
+CSC 4170/4471 Agentic Software Development and Lab (4)
+Effective Spring 2027
+Study of AI-assisted software engineering using coding agents. Repository grounding, automated verification, specification-driven development, testing, agent guardrails, trust boundaries, autonomous development workflows, and empirical evaluation of agentic software engineering practices quality and reliability. Handson application of agentic software engineering techniques using AI coding agents.
+Prerequisite: CSC 307 or CSC 308 or CSC 3100; and consent of instructor. Concurrent enrollment in CSC 4170 and CSC 4471.
+CSC 4270 Defense Against the Dark Arts (3)
+Effective Spring 2027
+Networked server interaction and administration with a focus on mitigating insecure code, outages, and constant cyber-attacks. Safeguarding a host using automation and testing while maintaining application availability.
+Prerequisite: CPE/CSC 321 or CPE/CSC 3201 and consent of instructor.
+CSC 4470/4472 Social Computing Activity (4)
+Effective Spring 2027
+Conceptual and computational foundations of online social systems across large platforms, small communities, and multiplayer games. Network structure, diffusion, identity, measurement, simulation, moderation, governance, and healthy platform design, with critical evaluation of evidence, ethics, fairness, and incentives. Guided work through construction, analysis, debugging, and critique.
+Prerequisite: Consent of instructor. Concurrent enrollment in CSC 4470 and CSC 4472.
+CSC 5170 Non-Functional Requirements in Enterprise Software Applications (2)
+Effective Spring 2027
+Methods for specifying, measuring, and evaluating non-functional requirements of enterprise software applications, including performance, scalability, reliability, availability, maintainability, and usability, using analytical techniques, testing methodologies, and empirical evaluation.
+Prerequisite: Graduate standing, CSC 307, CSC 308, or CSC 3100; and consent of instructor.
+CSC 5370 Bug-Catching and Bug-Proofing (3)
+Effective Spring 2027
+Survey of modern formal methods for finding and preventing software bugs: randomized testing, static analysis, deductive verification, and theorem proving. State-of-the-art tools to verify real software. Implementation of the essence of verification tools from first principles.
+Prerequisite: Graduate standing, CSC 430, or CSC 3300; and consent of instructor.
+CSC 5570 Computational Geometry (4)
+Effective Fall 2026
+Introductions to algorithms and data structures for computational problems in discrete geometry. Topics include convex hulls, Voronoi diagrams, Delaunay triangulations and planar subdivisions, geometric search and intersection, line arrangements, visibility, motion planning, and geometric approximations.
+Prerequisite: Graduate standing, satisfactory preparation in computer science, and consent of instructor.
+CSC 5870 Large Language Model Post-Training and Retrieval (3)
+Effective Fall 2026
+Design and evaluation of AI systems that combine Large Language Models (LLMs) with retrieval, tools, and structured knowledge (ontologies, knowledge graphs). Topics include deep learning, post-training, retrieval augmented generation, evaluation, and responsible deployment.
+Prerequisite: Graduate standing, CSC 480, or CSC 4480; and consent of instructor.
+DANC 2270 Musical Theatre and Tap Dance (3)
+Effective Spring 2027
+An introduction to musical theatre dance, emphasizing technique, style, expression, choreography, and performance. Develop foundational skills, explore historical and cultural influences, create movement, and refine artistic identity through rehearsals, reflection, and ensemble collaboration.
+Prerequisite: Consent of instructor.
+EDUC 2270 College Corps: Community Service, Leadership, and Impact (1)
+Effective Fall 2026
+Explore community-based service in Climate Action, Food Insecurity, and K-12 Education for participants in the California College Corps Fellowship Program. Analyze systems and root causes, apply ethical leadership, engage with research and policy, and reflect on personal and collective social impact.
+Prerequisite: Consent of instructor.
+EE 4470/4471 Planning & Control for Autonomous Vehicles and Lab (3)
+Effective Spring 2027
+Theoretical foundations and hands-on engineering of autonomous vehicles (AV) systems, including architectures, sensor modeling and uncertainty characterization, vehicle dynamics and control, localization and perception, planning, communication, and safety. Laboratory work integrates simulation physical vehicle experiments to design, implement, calibrate, and test AV subsystems
+.
+Prerequisite: Consent of instructor. Concurrent enrollment in EE 4470 and EE 4471. Recommended: EE 3302 and CSC 1001.
+EE 4470/4471 Vision-Based Robotic Manipulation and Lab (2)
+Effective Fall 2026
+Analysis and development of vision-based robotic manipulation technology, covering robot kinematics, trajectory planning, robot control, vision sensor models, robot-camera calibration, visual servoing control, 3D depth sensing, vision-based grasping; and manipulation planning. Integrates theoretical concepts with practical applications.
+Prerequisite: Consent of instructor. Concurrent enrollment in EE 4470 and EE 4471. Recommended: EE 3301L, CSC 1001.
+ENGL 3370 Emerging Forms in Creative Writing (4)
+Spring 2027
+Instruction and practice in new and emerging forms of creative writing, revising and evaluating hybrid work, with significant reading in contemporary innovations including: mixed media writing, collaborative writing, speculative
+fiction and nonfiction, docupoetics, and autotheory.
+Prerequisite: Consent of instructor.
+ENGR 2270 MEP STAR Navigating College (1)
+Effective Fall 2026
+Success Through Advising and Relationships (STAR) supports students in the Multicultural Engineering Program navigate college. Introduction to campus resources, develop professional confidence, and build engineering community involvement.
+Prerequisite: Consent of instructor.
+ENGR 2270 Road Map to Becoming a World Class Engineering Student (1)
+Effective Spring 2027
+Discover how to become a world class engineering student. Introduction to goal setting, degree planning, time management, growth mindset, effective learning strategies, and personal development.
+Prerequisite: Consent of instructor.
+ENGR 2271 Engineering Math Foundations Lab (1)
+Effective Fall 2026
+Laboratory-based exploration of mathematical concepts shared between precalculus and introductory engineering analysis. Topics include algebraic modeling, trigonometric relationships, complex numbers, systems of equations, vectors, and sinusoidal signals, with introductory MATLAB exercises applies to robotics, circuits, and engineering systems.
+Prerequisite: Consent of instructor.
+ENGR 2271 Introduction to Civil Engineering Materials (1)
+Effective Fall 2026
+Experimental determination of mechanical properties of aggregates, concrete, steel, and timber as required for engineering applications. Experimental verification of assumptions made in mechanics of materials procedures. Use of strain measuring devices. Preparation of technical reports.
+Prerequisite: Consent of instructor.
+ES 4470 Star Wars, Race, and Rebellion (4)
+Effective Spring 2027
+Examines themes of race and rebellion in the Star Wars franchise. Analysis of how Star Wars films and series reflect real-world sociopolitical issues, movements, and structures of power; including concepts such as rebellion, resistance, and empire.
+Prerequisite: Consent of instructor.
+FSN 5570 Global Nutrition and Food Systems (2)
+Effective Spring 2027
+Advanced nutrition course with a focus on low- and middle-income countries, including issues of undernutrition, micronutrient deficiencies, and obesity. Utilize a food systems lens to provide an overview of the historical, social, economic, environmental, and political factors contributing to malnutrition.
+Prerequisite: Graduate standing and consent of instructor.
+GSB 5570 AI Implementation Studio (3)
+Effective Spring 2027
+A project-based studio where students build AI-enabled business solutions. Participants frame a real problem, design and prototype an AI workflow, test outputs, address risk and governance, estimate value, and pitch an executive-ready implementation plan to stakeholders.
+Prerequisite:
+OCOB graduate standing and consent of instructor.
+Recommended
+: GSB 5570 Strategic AI for Business
+.
+GSB 5570 Artificial Intelligence for Business Analytics (3)
+Effective Spring 2027
+Applies artificial intelligence (AI) to business problems, building data-grounded solutions and weaving them into business workflows, covering how AI represents business information, connects with systems, automates tasks, measures impact, safeguards people, and scales in production.
+Prerequisite:
+OCOB graduate standing and consent of instructor.
+GSB 5570 Experimental Design for Business Analytics (3)
+Effective Spring 2027
+Design, run, and analyze business experiments: A/B/n tests, factorial designs, and quasi-experiments; power, sample size, and ROI; causal inference, uplift modeling, sequential testing and bandits; platform implementation, governance, and ethics; interpreting heterogeneous effects to drive product, marketing, and operations decisions.
+Prerequisite:
+OCOB graduate standing and consent of instructor.
+GSB 5570 Real Estate Markets (3)
+Effective Fall 2026
+Explores the structure and dynamics of real estate markets, including valuation, investment, development, finance, and policy. Emphasize market cycles, spatial patterns, institutional frameworks, and macroeconomic linkages shaping property values and investment decisions.
+Prerequisite: OCOB graduate standing and consent of instructor.
+GSB 5570 Strategic AI for Business (3)
+Effective Spring 2027
+Prepares professionals to advance AI-enabled work by building conceptual fluency, evaluating generative AI tools and use cases, assessing risk and value, designing governance and oversight, and communicating AI strategy responsibly across business functions. No technical background required.
+Prerequisite: OCOB graduate standing and consent of instructor.
+ITP 4470
+Protoyping
+for Product Design (3)
+Effective Fall 2026
+Survey of prototyping and modelmaking techniques for product design and development using traditional and modern
+tools
+and
+processes.
+Fundamentals
+of
+product
+development
+through
+physical
+and
+digital
+exploration
+of form, colors, materials, mechanisms, and finishes.
+Prerequisite: Junior standing and consent of instructor.
+ITP 4470
+Sketching for Product Design
+(3)
+Effective Fall 2026
+Survey
+of
+sketching
+and
+rendering
+techniques
+for
+product
+and
+packaging
+design
+and
+development
+using traditional and digital tools. Fundamentals of sketching and
+rendering
+techniques for industrial products. Exploration of form, space, and materiality in 2D and 3D.
+Prerequisite: Junior standing and consent of instructor.
+KINE 4470
+Sport Specific Training Principles
+(3)
+Effective Spring 2027
+Review of exercise science principles for the purpose of increasing elite level athletic performance with an emphasis on motor control and biomechanics. Qualitative observation of various high performance skills and application of appropriate training modalities.
+Prerequisite: Consent of instructor.
+Recommended: KINE 3312 or KINE 312; and KINE 403 or KINE 4403.
+ME 2271 Introduction to Marine Engineering Support Lab (1)
+Effective Fall 2026
+Supports EPO 1125L:
+Introduction to Marine Engineering Laboratory
+through instruction aboard the Training Ship Golden Bear for studying and tracing key systems such as engine jacket water, fuel oil, lubrication, cooling, and starting air.
+Prerequisite: Consent of instructor.
+ME 4470 Applied Autonomous Driving and Lab (4)
+Effective Spring 2027
+Hands-on autonomous driving course combining perception, vehicle sensors, control, and robotics software. Progression from Python and machine learning fundamentals to implementing and testing speed control, road following, odometry, parking, and sensor-fusion functions on real vehicles. Prerequisite: consent of instructor. Concurrent enrollment in ME 4470 and ME 4471 required.
+ME 4470 Designing Products for Repairability (3)
+Effective Fall 2026
+Principles and practices of designing products with repairability as a central design goal. Team project designing products for enhanced disassembly and serviceability.
+Prerequisite: Consent of instructor.
+ME 4470 Theory of Stability of Plates and Shells (3)
+Effective Spring 2027
+Theory of plates and shells, their buckling and dynamics. Fundamental governing equations and analytical solutions for stress, strain, deformation, rotation, and twist, while linking the analysis to the design of advanced systems.
+Prerequisite: Consent of instructor. Recommended: ME 3328.
+ME 5570 Fracture Mechanics of Composites and Nanocomposites (3)
+Effective Spring 2027
+Directed group study of special topics for advanced students. The Class Schedule will list topic selected. Repeatable up to 8 units. Course may be offered in a classroom-based, online, or hybrid format. 1 to 4 lectures. Formerly ME 570. Prerequisite: Graduate standing and consent of instructor.
+ME 5570/5571 Machine Learning for Autonomous Vehicles and Lab (4)
+Effective Spring 2027
+Applied deep learning for autonomous driving. Analyze real vehicle datasets and develop models for control, motion estimation, perception, and end-to-end driving, with emphasis on data preparation, training, evaluation, and deployment on vehicle computing platforms.
+Prerequisite: graduate standing and consent of instructor. Concurrent enrollment in ME 5570 and ME 5571 required.
+NR 4470/4471 Senior Project - Prescribe Fire Management and Lab (4)
+Effective Fall 2026
+Targeted study and application of prescribed fire concepts and practice. Evaluation of benefits and uses of prescribed fire in California. Instruction in steps in prescribed burn planning, including mapping, permitting, unit preparation, monitoring, and burn implementation.
+Prerequisite: Consent of instructor. Concurrent enrollment in NR 4470 and NR 4471.
+NR 4470 Senior Project – Collaborative Sustainability Reporting (4)
+Effective Spring 2027
+Application of environmental matrix and footprint accounting to advance sustainability. Quantification of economic and environmental portfolio of case
+studies based on materials and energy flows. Evaluation of organizational or product impact magnitude to achieve sustainability goals.
+Prerequisite: Consent of instructor. Recommended: NR 313, NR 4442, NR 324 or NR 3324.
+OCN 1195 Scientific Boating (3)
+Effective Fall 2026
+Instruction in small-craft and waterfront operations emphasizing safety, navigation, seamanship, and equipment handling. Completion of Motorboat Operator Certification Course (MOCC) requirements and development of practical skills in vessell operations, line handling, and basic deck operations through lecture and hands-on training.
+Prerequisite: Consent of instructor.
+POLS 2270 Career Development in Political Science
+(3)
+Effective Spring 2027
+Introduction to main topics as well as institutional and online resources for career development; equips students with critical skillsets though instruction and practice, and cultivates the mindset of proactive and aspirational career development.
+Prerequisite: Consent of instructor.
+POLS 4470 Applied Political Advocacy
+(3)
+Effective Spring 2027
+Examines
+effective advocacy in the policymaking process
+.
+Focuses on
+theoretical and practical approach
+es
+to
+engage
+with policymakers and government structures while also focusing on building effective advocacy strategies and skills.
+Prerequisite: Junior standing and POLS 112 or POLS 1112; or graduate standing; and consent of instructor.
+POLS 4470 Prisons and Punishment
+(3)
+Effective Spring 2027
+Political challenges of prisons in the U.S., beginning with the philosophy and sociology of punishment before looking at jails, mental health, supermax and solitary confinement, life sentences, labor, race, gender, immigration, and more.
+Prerequisite: Junior standing and POLS 112 or POLS 1112; or graduate standing; and consent of instructor.
+POLS 4470 Social Network Analysis
+(3)
+Effective Spring 2027
+Introduction to the fundamentals of social network analysis, including designing network research, and collecting and analyzing network data using social network analysis software.
+Prerequisite: Junior standing and POLS 112 or POLS 112 or POLS 1112; or graduate standing; and consent of instructor.
+POLS 4470 Capitalism and its Critics
+(3)
+Effective Fall 2026
+Examine
+capitalism
+as
+a
+political-economic
+syste
+m and
+issues
+associated
+with
+the development of Capitalist society from the perspective of both its proponents and critics.
+Prerequisite: Junior standing and POLS 112 or POLS 1112; or graduate standing; and consent of instructor.
+POLS 4470
+Totalitarianism in Theory and Practice (3)
+Effective Fall 2026
+Through texts by Marx, Mussolini, Arendt, Havel, and others, explore what totalitarianism (
+e.g.
+Italian Fascism and East European Communism, etc.) teaches about freedom, ideology, and the fragility of democracy in the modern world.
+Prerequisite: Junior standing and POLS 112 or POLS 1112; or graduate standing; and consent of instructor.
+PSY 4470
+Qualitative Research Methods in
+Psychology
+(4)
+Effective Fall 2026
+Qualitative Research Methods in Psychology explores people’s lived experiences by addressing rich, contextual questions across psychological sub-disciplines. data collection methods, build skills in qualitative analysis, and apply learning through ethical, collaborative research.
+Prerequisite: Consent of instructor.
+PSY 4470
+Soccer: Relegration and Redemption
+(4)
+Effective Spring 2027
+Analyzes soccer as a global institution through the lens of psychological theories. Examine issues related to identity, community building, rivalry, inequality, governance, and data-driven decision-making to evaluate how soccer reflects and reshapes society across cultures.
+Prerequisite: Consent of instructor.
+PSY 4470
+Social Psychology of College Education
+(4)
+Effective Spring 2027
+Social Psychology of Education explores the interactive relationship between college students and their educational environments. Follow a full-cycle social-psychological approach including theory, application, action to understand how social forces operate in colleges/universities to influence undergraduate students’ psychological experiences and academic outcomes.
+Prerequisite: Consent of instructor.
+SCM 4470
+Industry and Innovation in Science and
+Mathematics
+(1)
+Effective Spring 2027
+Explore how scientific ideas move beyond the laboratory into industry, startups, and society through guest speakers, networking, venture formation, intellectual property, funding, and scientific pitching.
+Prerequisite: Consent of instructor.
+SPAN 4470 Spanish Masterpieces: Literature & Art Through Time Travel
+(3)
+Effective Spring 2027
+Discuss Spanish time travel television series,
+El ministerio del tiempo
+. Focusing on the historical moments when masterpieces were produced by Spanish writers and artists to develop understanding of the cultural importance of these creators.
+Prerequisite: Consent of instructor. Recommended: SPAN 233 or SPAN 2233 or consent of instructor.
+Related Content

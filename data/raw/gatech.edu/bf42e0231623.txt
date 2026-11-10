@@ -1,0 +1,68 @@
+Academic Guidance for Generative AI | Office of Information Technology
+Academic Guidance for Generative AI | Office of Information Technology
+Skip to main navigation
+Skip to main content
+MENU
+Office of Information Technology
+oit.gatech.edu
+Academic Guidance for Generative AI
+Georgia Tech is staying up-to-date with the quick advancements in AI. These technologies, especially large language models (LLMs) like GPT, are becoming key in education. They have a vast amount of potential to help teachers and students by personalizing and improving learning experiences. However, these AI tools also come with challenges, such as concerns about privacy, biases in algorithms, and the possibility of less human interaction in education. Also, the effectiveness of AI in evaluating complex, open-ended tasks is still being studied.
+For Georgia Tech faculty and staff, here are some recommendations:
+For teaching advice and best practices, consult with the
+Center for Teaching and Learning (CTL)
+, as the center offers personalized support sessions.
+Consult with the
+Center for 21st Century Universities (C21U)
+for innovative projects using AI in the classroom.
+Consult with OIT's
+Digital Learning Team (DLT)
+to learn about the AI tools available in the Canvas learning management system.
+Always be cautious about entering
+any PII/protected data
+, especially student information, into an AI tool. Read up on data privacy and security for more details on this topic.
+Additional Guidance
+Embedding Instruction with AI
+Courses that wish to embed assessment integrations with AI should directly consult CTL.
+C21U provides
+guidance on example AI assessment methods and adaption opportunities in a published white-paper.
+Talk with your course about AI
+Academic dishonesty (cheating) and AI should be addressed both in the syllabus and in class. When speaking to students about AI, the conversation should address why true engagement with texts and ideas is important. Courses should update syllabi to state the utilization and proper usage of AI tools.
+Georgia Tech’s David Joyner, Executive Director of Online Education and Online Master of Science in Computer Science, has
+created a draft policy language outlining AI-based assistance
+.
+Stanford provides
+example course policy boilerplate text for considerations of course content delivered via AI tools
+.
+Please see the
+Classroom Policies for AI Generative Tools
+for more examples from across education.
+Faculty can address AI in the classroom through the following perspectives (courtesy of
+Duke
+):
+Open Dialogue
+: Initiating a direct conversation about the use of AI is an opportunity to explain the impact of the course on their intellectual development. Students should understand that learning is difficult and challenging, but that is the point of education.
+Original Thought
+: Instructors can emphasize why original writing (or coding or creativity) matters and what it means to develop your own voice and ideas. Understanding how these skills will help them in their careers and further study in your discipline can motivate students to avoid the unwanted use of AI.
+Limitations of AI
+: Students should be made aware of the limitations of AI content to help them understand why passing it off as original content is not advisable. If students are allowed to use AI, they need to understand how AI text must be reviewed on many levels before incorporating it into their own writing.
+Academic Integrity and Ethics Tools
+Georgia Tech provides Canvas tools that can help identify AI-generated content or tools through
+assignment detection
+and
+proctoring analysis.
+Assignment Detection
+Georgia Tech’s Canvas platform has a
+writing detection tool for AI-generated content through TurnItIn
+. Prior to using the tool, please review
+the full Georgia Tech Knowledgebase article
+for considerations, limitations, and usage.
+Proctoring analysis
+Georgia Tech offers Honorlock for remote proctoring analysis. Honorlock detects AI tool plugins enabled in Google Chrome browsers, which flags the enabled plugin and sends out faculty alerts.
+Additional higher-education resources
+Duke University’s AI & Teaching
+Northwestern University’s Pedagogical Recommendations
+UCLA’s AI guidance
+Stanford University’s Course Policy guidance
+Barnard’s AI in the Classroom
+Utah University’s AI Generative Tools overview
+Additional Resources

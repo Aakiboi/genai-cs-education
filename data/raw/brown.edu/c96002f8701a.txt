@@ -1,0 +1,793 @@
+CSCI 1377 - Tools for Thought
+CSCI 1377 - Tools for Thought
+CS1377
+Lectures
+Assignments
+Calendar
+Staff
+Policies
+Instructor
+Will Crichton
+Lectures
+Tu/Thu 10:30-11:50am
+CIT 477
+Links
+EdStem
+Gradescope
+Admissions form
+Anki
+Download deck
+(Updated 11/2)
+Tools for Thought
+Fall 2026
+Humanity's technological progress is defined in part by the development of tools for thought (TfT) which augment our cognitive capabilities: mnemonics, writing, diagrams, calculators, notation, and more. Computers have powered a TfT revolution, as seen through software such as data visualizations, search engines, digital maps, computational notebooks, and generative AI. This course provides the foundations for understanding and building the tools for thought of the future.
+We will explore computational TfT from several perspectives:
+Psychology:
+How can theories of cognition inform the design of TfT? We will focus principally on theories of memory, perception, problem solving, and learning.
+History:
+What can we learn from the near and distant past of TfT to build a better future? We will examine TfT ranging from oral tradition to medieval codices to the origins of the modern internet.
+Design:
+What are the design trade-offs involved in building TfT? We will discuss how to we build TfTs that are easy to archive, scale, share, and customize.
+Lectures
+This schedule was copied from Spring 2026 and is tentative — topics, order, etc. will change.
+09/10
+Introduction
+[
+slides
+]
+Vannevar Bush.
+"As We May Think"
+(1945)
+Douglas Engelbart.
+"Mother of All Demos"
+(1968)
+Alan Kay.
+"Dynabook: The Complete Story"
+(1996)
+Apple Knowledge Navigator
+(1987)
+Bret Victor.
+Computational Public Space
+(2024)
+all cited works
+Douglas Engelbart.
+"Augmenting Human Intellect"
+(1962)
+Microsoft: Productivity Future Vision
+(2011)
+09/15
+Mnemonics I
+[
+slides
+]
+Science and Tradition of Memory
+John Anderson.
+Cognitive Psychology
+(2020). Chs 6-7
+Walter Ong.
+Orality and Literacy
+(1982)
+David Rubin.
+Memory in Oral Traditions
+(1997)
+all cited works
+George `Sperling.
+"Successive approximations to a model for short term memory"
+(1967)
+Glenberg. Smith. and Green.
+"Type I rehearsal: Maintenance and more"
+(1977)
+Ericsson. Chase. and Faloon.
+"Acquisition of a Memory Skill"
+(1980)
+Chase and Simon.
+"Perception in Chess"
+(1973)
+McKeithen et al.
+"Knowledge Organization and Skill Differences in Computer Programmers"
+(1981)
+Pirolli and Anderson.
+"The Role of Practice in Fact Retrieval"
+(1985)
+Jullian Blackburn.
+The Acquisition of Skill
+(1936)
+Harry Bahrick.
+"Semantic memory content in permastore: Fifty years of memory for Spanish learned in school"
+(1984)
+Pavlik and Anderson.
+"Practice and Forgetting Effects on Vocabulary Memory"
+(2005)
+Roger Shepard.
+"Recognition memory for words, sentences, and pictures"
+(1967)
+Godden and Baddeley.
+"Context-Dependent Memory in Two Natural Environments: On Land and Underwater"
+(1975)
+Saufley, Otaka, and Bavaresco.
+"Context effects: Classroom tests and context independence"
+(1985)
+Eric Havelock.
+Preface to Plato.
+(1963)
+Eric Havelock.
+The Greek Concept of Justice.
+(1978)
+Francis Yates.
+The Art of Memory.
+(1966)
+09/17
+Mnemonics II
+[
+slides
+]
+Spaced Repetition Systems
+Gwern Branwen.
+"Spaced Repetition for Efficient Learning"
+Matuschak and Nielsen.
+"How can we develop transformative tools for thought?"
+(2019)
+all cited works
+Roediger and Karpicke.
+"Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention"
+(2006)
+Landauer and Bjork.
+"Optimum Rehearsal Patterns and Name Learning"
+(1978)
+Kang et al.
+"Retrieval practice over the long term: Should spacing be expanding or equal-interval?"
+(2014)
+Sebastian Leitner.
+So lernt man Lernen.
+(1972)
+Gilbert et al.
+"A Cohort Study Assessing the Impact of Anki as a Spaced Repetition Tool on Academic Performance in Medical School"
+(2023)
+Ganjavi et al.
+"ChatGPT and large language models (LLMs) awareness and use"
+(2024)
+Michael Nielsen.
+"Augmenting Long-term Memory"
+(2018)
+Github user Expertium.
+"Note Types to Avoid Pattern Matching"
+Matuschak and Nielsen.
+"Quantum computing for the very curious"
+(2019)
+Andy Matuschak.
+"How Might We Learn?"
+(2024)
+Piotr Wozniak.
+Optimization of learning.
+(1990)
+09/22
+Reading I
+[
+slides
+]
+Technology of the Written Word
+Steven Fischer.
+A History of Writing
+(2020)
+Rayner et al.
+Psychology of Reading
+(2012)
+John Anderson.
+Cognitive Psychology
+(2020), Ch 13
+all cited works
+Kuhn et al.
+"Aligning Theory and Assessment of Reading Fluency: Automaticity, Prosody, and Definitions of Fluency"
+(2011)
+Hasbrouck and Tindal.
+"Oral Reading Fluency Norms: A Valuable Assessment Tool for Reading Teachers"
+(2011)
+Aaronson and Scarborough.
+"Performance theories for sentence coding: Some quantitative evidence"
+(1976)
+Singer.
+"Discourse inference processes"
+(1994)
+Zimny.
+Recognition Memory for Sentences From Discourse
+(1987)
+09/24
+Reading II
+[
+slides
+]
+[notes]
+Reading Augmentation Systems
+Sellen and Harper.
+The Myth of the Paperless Office
+(2003)
+Tashman and Edwards.
+"LiquidText: A Flexible, Multitouch Environment to Support Active Reading
+(2011)
+Bret Victor.
+"Explorable Explanations"
+(2011)
+Lo et al.
+"The Semantic Reader Project"
+(2024)
+all cited works
+Wallace et al.
+"Towards Individuated Reading Experiences: Different Fonts Increase Reading Speed for Different Individuals"
+(2022)
+Daniel Doyon.
+"Does Bionic Reading actually work? We timed over 2,000 readers and the results might surprise you"
+(2022)
+Joshua Snell.
+"No, Bionic Reading does not work"
+(2024)
+Koornneef and Kraal.
+"Does BeeLine Reader’s gradient-coloured font improve the readability of digital texts for beginning readers?"
+(2022)
+Kuster et al.
+"Dyslexie font does not benefit reading in children with or without dyslexia"
+(2017)
+Wery and Diliberto.
+"The effect of a specialized dyslexia font, OpenDyslexic, on reading rate and accuracy"
+(2016)
+Head et al.
+"Augmenting Scientific Papers with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols"
+(2021)
+Ström, Åström, and Akenine-Möller.
+Immersive Linear Algebra
+(2020)
+Barotsz Ciechanowski.
+"Mechanical Watch"
+(2022)
+Bret Victor.
+"Ten Brighter Ideas? An Explorable Explanation"
+(2010)
+Distill Editorial Team.
+"Distill Hiatus"
+(2021)
+Romat et al.
+"SpaceInk: Making Space for In-Context Annotations"
+(2019)
+Liu et al.
+"DocVision: A Seamless, Cross-Device Immersive Active Reading Framework for Digital Academic Literature"
+(2025)
+09/29
+Hypertext I
+[
+slides
+]
+Managing Information Overload
+Ann Blair.
+Too Much to Know: Managing Scholarly Information before the Modern Age
+(2010)
+Elizabeth Eisenstein.
+The Printing Revolution in Early Modern Europe
+(2013)
+Judith Flanders.
+A Place for Everything: The Curious History of Alphabetical Order
+(2021)
+Ted Nelson.
+"Getting It Out of Our System"
+(1967)
+all cited works
+Buringh and Luiten Van Zanden.
+"Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, A Long-Term Perspective from the Sixth through Eighteenth Centuries"
+(2009)
+Dennis Duncan.
+Index, A History of the
+(2022)
+Markus Krajewski.
+Paper Machines: About Cards & Catalogs, 1548-1929
+(2011)
+Daniel Headrick.
+When Information Came of Age: Technologies of Knowledge in the Age of Reason and Revolution, 1700-1850
+(2000)
+Charles Cutter.
+Rules for a Dictionary Catalogue
+(1904)
+Melvil Dewey.
+A Classification and Subject Index for Cataloguing and Arranging the Books and Pamphlets of a Library
+(1876)
+Thomas Malone.
+"How Do People Organize Their Desks? Implications for the Design of Office Information Systems"
+(1983)
+Niklas Luhmann-Archiv
+10/01
+Hypertext II
+[
+slides
+]
+The World Wide Web
+Tim Berners-Lee.
+"Information Management: A Proposal"
+(1989)
+Steven DeRose.
+"What do we still lack? Or: Prolegomena to any future hypertext system"
+(2014)
+all cited works
+Bevendorff et al.
+"Is Google Getting Worse? A Longitudinal  Investigation of SEO Spam in Search Engines"
+(2024)
+Lewandowski et al.
+"The influence of search engine optimization on Google's results: A multi-dimensional approach for detecting SEO"
+(2021)
+Zittrain et al.
+"Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations"
+(2014)
+10/06
+Hypertext III
+[
+slides
+]
+[recording]
+Zettelkasten
+Jake Teton-Landis.
+"Exploring Notion's Data Model: A Block-Based Architecture"
+(2021)
+"How I Prep D&D With Obsidian"
+"Literature Review with Zettelkasten & Tinderbox"
+"Organizing docs & wikis for large teams"
+"How to build a dashboard in Coda"
+10/08
+Visualization I
+[
+slides
+]
+[recording]
+Principles of Perception
+Colin Ware.
+Information Visualization: Perception for Design
+(2020)
+Tamara Munzner.
+Visualization Analysis & Design
+(2014)
+all cited works
+Ruth Rosenholtz.
+“Capabilities and Limitations of Peripheral Vision”
+(2016)
+S. S. Stevens.
+Psychophysics: Introduction to Its Perceptual, Neural, and Social Prospects
+(1975)
+Heer and Bostock.
+“Crowdsourcing graphical perception: using mechanical turk to assess visualization design”
+(2010)
+Treisman and Gelade.
+“A feature-integration theory of attention”
+(1980)
+Ruth Rosenholtz.
+“Visual Attention in Crisis”
+(2025)
+10/13
+Visualization II
+[
+slides
+]
+Data Visualization Systems
+Leland Wilkinson.
+The Grammar of Graphics
+(2001)
+Satyanarayan et al.
+"Vega-Lite: A Grammar of Interactive Graphics"
+(2016)
+all cited works
+datasauRus
+(2026)
+J. C. R. Licklider.
+"Man-Computer Symbiosis"
+(1960)
+Edmond Halley.
+An Historical Account of the Trade Winds
+(1686)
+Petrus Apianus.
+Cartographia
+(1546)
+William Playfair.
+The Commercial and Political Atlas
+(1787)
+Charles Minard.
+Des tableaux graphiques et des cartes figuratives
+(1861)
+John Snow.
+On the Mode of Communication of Cholera
+(1855)
+Bhatia et al.
+“How Much Snow Will Fall Where You Live?”
+New York Times
+(2/21/2026)
+Josh Katz.
+“Milan-Cortina Olympics: Who Leads the Medal Count?”
+New York Times
+(2/21/2026)
+Bostock et al.
+"D3: Data-Driven Documents"
+(2011)
+Ye et al.
+"Penrose: from mathematical notation to beautiful diagrams"
+(2020)
+Pollock et al.
+"Bluefish: Composing diagrams with declarative relations"
+(2024)
+10/15
+Visualization III
+[
+slides
+]
+Expressiveness and Effectiveness
+Edward Tufte.
+The Visual Display of Quantitative Information
+(1983)
+Jock Mackinlay.
+“Automating the design of graphical presentations of relational information”
+(1986)
+10/20
+Multimedia I
+[
+slides
+]
+Communicating in Space
+Scott McCloud.
+Understanding Comics
+(1993)
+Larkin and Simon.
+"Why a Diagram is (Sometimes) Worth Ten Thousand Words"
+(1987)
+all cited works
+Nicole Yankelovich, Norm Meyrowitz, and Andy van Dam.
+“Reading and Writing the Electronic Book”
+(1985)
+Byrne et al.
+“Evaluating animations as student aids in learning computer algorithms”
+(1999)
+Robert Finkel.
+“History of the Arrow”
+(2015)
+Roberts et al.
+“Preference versus performance: Investigating the dissociation between objective measures and subjective ratings of usability for schematic metro maps and intuitive theories of design”
+(2016)
+Tversky et al.
+“Visualizing thought: Mapping category and continuum”
+2011
+10/22
+Multimedia II
+[
+slides
+]
+Communicating in Time
+Eds. Richard Mayer and Logan Fiorella.
+The Cambridge Handbook of Multimedia Learning
+(2021)
+Edward Tufte.
+The Cognitive Style of PowerPoint
+(2003)
+Tversky et al.
+"Animation: can it facilitate?"
+(2002)
+all cited works
+Schmidt et al.
+“When more isn’t better: evidence for an instructional equivalence hypothesis in multimedia design”
+(2025)
+Garner and Alley.
+“How the Design of Presentation Slides Affects Audience Comprehension: A Case for the Assertion–Evidence Approach”
+(2013)
+Kayvon Fatahalian.
+"Tips for Giving Clear Talks"
+(2023)
+10/27
+Learning I
+[
+slides
+]
+Educational Psychology
+Eds. Anderson and Krathwohl.
+A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives
+(2001)
+Douglas Detterman.
+"The Case for the Prosecution: Transfer as an Epiphenomenon"
+(1993)
+Paul von Hippel.
+"Two-Sigma Tutoring: Separating Science Fiction from Science Fact"
+(2024)
+Kirschner, Sweller, and Clark.
+"Why Minimal Guidance During Instruction Does Not Work"
+(2010)
+Daniel Schwartz.
+The ABCs of How We Learn
+(2016)
+all cited works
+Charles Dickens.
+Hard Times
+(1854)
+Peter Wason.
+"Reasoning About a Rule"
+(1968)
+Cosmides and Tooby.
+"Cognitive Adaptations for Social Exchange"
+(1992)
+Gick and Holyoak.
+"Schema Induction and Analogical Transfer"
+(1983)
+Paulo Freire.
+Pedagogy of the Oppressed
+(1970)
+Chi and Wylie.
+"The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes"
+(2014)
+Benjamin Bloom.
+"The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring"
+(1984)
+Ericsson, Krampe, and Tesch-Romer.
+"The Role of Deliberate Practice in the Acquisition of Expert Performance"
+(1993)
+Macnamara, Moreau, and Hambrick.
+"The Relationship Between Deliberate Practice and Performance in Sports"
+(2016)
+Tarmizi and Sweller. ["Guidance During Mathematical Problem Solving"](Guidance During Mathematical Problem Solving) (1988)
+Ward and Sweller.
+"Structuring Effective Worked Examples"
+(1990)
+Schwartz and Martin.
+"Inventing to Prepare for Future Learning"
+(2004)
+Kellman, Massey, and Son.
+"Perceptual Learning Modules in Mathematics: Enhancing Students’ Pattern Recognition, Structure Extraction, and Fluency"
+(2010)
+10/29
+Learning II
+[
+slides
+]
+Educational Technology
+Seymour Papert.
+Mindstorms: Children, Computers, and Powerful Ideas
+(1980) [
+rebuttal
+]
+Justin Reich.
+Failure to Disrupt: Why Technology Alone Can't Transform Education
+(2020)
+all cited works
+Horace Mann.
+“Twelfth Annual Report to the Secretary of the Massachusetts State Board of Education”
+(1848)
+Ed. Thomas Snyder.
+120 Years of American Education: A Statistical Portrait
+(1993)
+A Nation At Risk: The Imperative for Educational Reform
+(1983)
+Martin Weller.
+25 Years of Ed Tech
+(2020)
+Larry Cuban.
+Oversold and Underused: Computers in the Classroom
+(2003)
+Bill Ferriter.
+"Why I Hate Interactive Whiteboards"
+(2010)
+Christensen et al.
+Disrupting Class: How Disruptive Innovation Will Change the Way the World Learns
+(2008)
+Salman Khan.
+"Let's use video to reinvent education"
+(2011)
+Tamar Lewin.
+"After Setbacks, Online Courses Are Rethought"
+(2013)
+Eames et al.
+“Computer-assisted learning in the real world: How Khan Academy influences student math learning”
+(2026)
+Luis von Ahn.
+"How to make learning as addictive as social media"
+(2023)
+11/03
+[Election day]
+11/05
+Notation I
+Compacting Concepts
+Gottlob Frege.
+Begriffsschrift, a formula language, modeled upon that of arithmetic, for pure thought
+(1879)
+Florian Cajori.
+A History of Mathematical Notations
+(1928)
+Zhang and Norman.
+"A Representational Analysis of Numeration Systems"
+(1995)
+all cited works
+"Al-Khwarizmi and quadratic equations"
+(2006)
+Anna Heyward.
+"How to Write a Dance"
+(2015)
+C. F. Abdy Williams.
+The Story of Notation
+(1903)
+Terry Tao.
+on mathematical notation
+(2020)
+11/10
+Notation II
+A Programming Language
+Kenneth Iverson.
+"Notation as a Tool of Thought"
+(1979)
+11/12
+Programming I
+Spreadsheets
+Bonnie Nardi.
+A Small Matter of Programming
+(1995)
+Bartram, Correll, and Tory.
+"Untidy Data: The Unreasonable Effectiveness of Tables"
+(2022)
+all cited works
+Bill Casselman.
+"The Babylonian tablet Plimpton 322"
+(2003)
+Hendry and Green.
+"Creating, Comprehending and Explaining Spreadsheets"
+(1994)
+Chalhoub and Sarkar.
+“Understanding and Improving the User Experience of Structuring Data in Spreadsheets”
+(2022)
+Kassoff and Genesereth.
+“PrediCalc: a logical spreadsheet management system”
+(2005)
+Chang and Myers.
+“Using and Exploring Hierarchical Data in Spreadsheets”
+(2016)
+McCutchen et al.
+“Object Spreadsheets: A New Computational Model for  End-User Development of Data-Centric Web Applications”
+(2016)
+Warth, Litt, and Bryant.
+Ambsheets: Spreadsheets for exploring scenarios
+(2025)
+11/17
+Programming II
+Notebooks
+Donald Knuth.
+“Literate Programming”
+(1984)
+Fernando Perez.
+“The IPython notebook: a historical retrospective”
+(2012)
+Lau et al.
+"The Design Space of Computational Notebooks"
+(2020)
+all cited works
+Fernando Perez.
+“"Literate computing" and computational reproducibility: IPython in the age of data-driven journalism”
+(2013)
+James Somers.
+"The Scientific Paper is Obsolete"
+(2018)
+Rule, Tabard, and Hollan.
+"Exploration and Explanation in Computational Notebooks"
+(2018)
+Samuel and Mietchen.
+"Computational reproducibility of Jupyter notebooks from biomedical publications Open Access"
+(2024)
+Sato and Nakamaru.
+“Multiverse Notebook: Shifting Data Scientists to Time Travelers”
+(2024)
+Li et al.
+"Kishu: Time-Traveling for Computational Notebooks"
+(2024)
+11/19
+Programming III
+Developer Tools
+Nancy Pennington.
+“Stimulus structures and mental representations in expert comprehension of computer programs”
+(1987)
+Edsger Dijkstra.
+“Go To Statement Considered Harmful”
+(1968)
+Steve Reiss.
+“The Paradox of Software Visualization”
+(2005)
+all cited works
+Barik et al.
+“Do Developers Read Compiler Error Messages?”
+(2017)
+Stefik and Siebert.
+“An Empirical Investigation into Programming Language Syntax”
+(2013)
+Bragdon et al.
+"Code bubbles: a working set-based interface for code understanding and maintenance"
+(2010)
+11/24
+AI I
+Geoffrey Litt.
+Malleable software in the age of LLMs
+(2023)
+Haijun Xia.
+Generative, Malleable, and Personal User Interfaces
+(2025)
+Yen et al.
+Semi-Formal Programming
+(2025)
+The Resonant Computing Manifesto
+(2025)
+Lee et al.
+A Design Space for Intelligent and Interactive Writing Assistants
+(2024)
+Amelia Wattenberger.
+"Our interfaces have lost their senses"
+11/26
+[Thanksgiving break]
+12/01
+AI II
+12/03
+AI III
+12/08
+[reading period]
+12/10
+[reading period]
+12/15
+Project presentations
+Assignments
+Assignment
+Out Date
+Due Date
+Assignment 1: Memory Models
+Sep 18
+Sep 24
+Assignment 2: Inverse Reading
+Sep 24
+Oct 1
+Assignment 3: Mechanism or Medium?
+Oct 2
+Oct 8
+Assignment 4: Legal Hypertext
+Oct 8
+Oct 15
+Assignment 5: Visualizing Rhode Island
+Oct 15
+Oct 22
+Assignment 6: Multimedia Manimation
+Oct 22
+Oct 29
+Calendar
+Staff
+Thinker and tinkerer of tools for thought, programming language researcher, singing and tennis enthusiast.
+Will Crichton
+Hours: Tuesday 1-2pm, CIT 333
+Senior from Idaho studying CS with a focus on abstraction design for networks and OS. Can be found with his pirate crew!
+Alex Khosrowshahi (HTA)
+Hours: Wednesday 8-9 PM, CIT 316
+When I’m not researching tools for programming + reasoning, I’m spending time with my cat, cooking, watching movies, or playing roguelike games!
+Zheyuan Wu (GTA)
+Hours: Monday 3-4 pm, CIT 477
+Senior from CT studying APMA-CS. I love watching sitcoms, playing volleyball, going to museums, and trying restaurants around Providence!
+Sophie Martinez (UTA)
+Hours: Thursday 3-4 pm, CIT 316
+Senior studying CS & Physics. Outside of school, I like to run, backpack, surf, and drink strawberry milkshakes.
+Nico DiLullo (UTA)
+Hours: Tuesday 6-7 pm, CIT 167
+Policies
+Assessment
+Grades will be determined by a weighted average of assignments (50%), a midterm (25%) and a final project (25%). The final project will include an ungraded checkpoint for students to get early feedback on their progress.
+Course Materials
+There are no costs to take this course. All lecture notes will be made freely available online.
+180 Hours of Work
+Over 14 weeks, students will spend 3 hours per week in class (42 hours total). Assignments are expected to take approximately 10 hours per week for the first 10 weeks (100 hours). The final project is expected to take approximately 10 hours per week for the last 4 weeks (40 hours). Total: 42 + 100 + 40 = 182 hrs.
+Attendance Policies
+Students are strongly encouraged to attend lecture in-person for two reasons. First, dedicated focus in a distraction-free environment leads to better learning outcomes. Second, Will enjoys seeing the shining faces of his students. However, attendance is not mandatory. Lectures will be recorded.
+Extensions
+Given the weekly cadence of assignments, students must submit work on time to avoid falling behind and to ensure grades are released in a timely manner. All students are provided
+three late days
+which they can use at their discretion, maximum of one per assignment.
+Accessibility and Accommodations
+Brown University is committed to full inclusion of all students. Please inform me early in the term if you may require accommodations or modification of any of course procedures. You may speak with me after class, during office hours, or by appointment. If you need accommodations around online learning or in classroom accommodations, please be sure to reach out to Student Accessibility Services (SAS) for their assistance (
+sas@brown.edu
+, 401-863-9588). Undergraduates in need of short-term academic advice or support can contact an academic dean in the College by emailing
+college@brown.edu
+. Graduate students may contact one of the deans in the Graduate School by emailing
+graduate_school@brown.edu
+.
+Academic Integrity Policy
+In general, it is acceptable to get help to a problem, and it is not acceptable to get a solution to a problem. This rule applies no matter whether you are consulting Google, an LLM, a TA, a fellow student, or any other resource. But remember: only your instructors and TAs are trained to help you without giving you the solution. We will not prevent you from using other resources, but you must be careful when using them. Specifically:
+Group work:
+It is acceptable to work on all problem sets in a group. It is acceptable to collaboratively generate ideas that help you make progress on an assignment. It is not acceptable for one person to solve a problem, and another person to copy their solution.
+The internet:
+It is generally acceptable to use search engines like Google and help sites like StackOverflow, especially for problems unrelated to the learning goals of the course. For example, if you get a mysterious compiler error, it’s acceptable to Google the error if you don’t understand the error after reading it. It is not acceptable to search for complete solutions to all or significant portions of an assignment.
+LLMs:
+It is generally acceptable to use AI-based coding tools such as ChatGPT, Claude, and Cursor for either (a) getting help in the same contexts that you would use Google & StackOverflow, or (b) generating small snippets of code that you could otherwise write by hand, given enough time. However, you should not use LLMs to skip the parts of a problem related to the learning goals of the assignment / course.

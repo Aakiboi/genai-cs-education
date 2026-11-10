@@ -1,0 +1,510 @@
+15-113 + 15-114: Effective Coding with AI | CMU
+15-113 + 15-114: Effective Coding with AI | CMU
+CMU 15-113 + 15-114: Effective Coding with AI
+Fall 2026
+Looking for last semester?
+Visit the
+Spring 2026 course website
+to see that semester's schedule and materials.
+15-113 (mini 1) Prerequisites:
+15-110 Principles of Computing or above
+15-114 (mini 2) Prerequisites:
+15-113 and 15-112 Fundamentals of Programming and CS or above
+Time Commitment:
+6 hours/week (3 hours in class + 3 hours outside work)
+Semester:
+Fall 2026
+Instructor:
+Mike Taylor (mdtaylor at andrew.cmu.edu)
+Note: This is still a pretty new course, especially with the 113/114 split!
+The general description and themes shouldn't change much, but we will adapt the schedule, policies, and assignments as necessary.
+Description
+This application-focused course will teach students how to effectively combine intermediate programming skills with contemporary AI tools to enhance their software development workflow. Students will explore the capabilities and limitations of current AI coding assistants, experiment with prompt engineering, and collectively develop standards for maintaining code quality, transparency, and ethical integrity in AI-augmented workflows. The course will also feature seminars from AI experts in industry and academia. Through weekly coding projects, students will rapidly build complete applications while balancing creative problem-solving with rigorous quality assurance. A collaborative approach emphasizes peer learning, with students sharing discoveries and contributing to evolving best practices for prompting and evaluating AI-generated code, ensuring proper attribution, and establishing transparent development protocols. These projects are also designed to jump-start students' portfolios for future employment. By completion, students gain practical development experience with AI tools and will contribute to evolving best practices for future courses, learning from both instructors and peers' experiences with these rapidly advancing technologies.
+15-113 and 15-114:
+Please read!
+15-113 was originally a full-semester course in Spring '26 that required 15-112 as a prerequisite.  To meet the demand for an accessible version for students with 15-110, we have now
+split the original 15-113 into two minis: 15-113 (Part 1, mini 1) and 15-114 (Part 2, mini 2).
+Students who meet the 15-110 prereq can take 15-113 (mini 1). Students who meet the 15-112 prereq can take 15-113 and then 15-114 to get the full semester experience. This is a slightly unconventional solution with some peculiarities, so if you have any questions, please do let me know.  The goal is to provide a great experience for as many of you as possible.
+Course Goals:
+By completion, students gain practical development experience with AI tools and will contribute to evolving best practices for future courses, learning from both instructors and peers' experiences with these rapidly advancing technologies.
+The Portfolio Approach
+For your first major assignment, you'll build a personal portfolio
+website using AI (even if you have no prior experience with HTML or web development).
+Make it:
+Throughout the semester, you'll use your creativity and technical strengths along with AI to build a variety of projects using the strategies and tools we discuss in class.
+Get feedback:
+You'll submit these projects for review and critique by adding them to your portfolio.
+Take it with you:
+By the end of the semester, you'll have a complete online showcase of your AI-augmented
+development skills.
+Add your work from other courses and projects and you'll be able to show off your best work for future internships, jobs, and graduate school applications.
+This video shows some of the excellent projects students created during Spring 2026.
+You can find more of their work
+here
+!
+This course jumps into AI-assisted programming from Day 1. We'll alternate between class discussions and regularly building cool stuff, with the goal of finishing the semester with refined strategies for using AI effectively and responsibly.
+Guest Lectures
+Throughout the semester, we'll host
+guest lectures from experts
+in computer science,
+software engineering, and machine learning/AI research. These engineers and researchers will share:
+How they use AI tools in their daily work
+(coding, debugging, communication, and research)
+Real-world applications and case studies
+from their organizations
+Challenges and limitations
+they've encountered with AI-assisted development
+Where they see the technology heading
+and how it will shape our careers
+Advice for students
+entering the field in the AI era
+Tentative Schedule:
+The schedule of topics presented below is tentative, and may shift to accommodate our guest lectures. Specific dates and
+speakers will be announced as confirmed. Ideally these will mostly occur during class time, though occasionally we may have optional presentations outside of our normally-scheduled sessions.
+Learning Objectives
+AI as Force Multiplier:
+Modern AI tools can be very powerful, but to use them effectively requires us to combine the speed and generative capabilities of AI with our critical thinking and problem-solving skills. This course teaches you how to strategically leverage AI tools to enhance your productivity and versatility
+while maintaining code quality and strong ethical standards.
+At the end of the course, students should be able to:
+Build ambitious projects faster
+by using AI tools strategically while maintaining code quality
+Evaluate AI-generated content critically
+for correctness, security, performance, and maintainability
+Choose appropriate AI tools
+based on task requirements, tool capabilities, and project constraints
+Navigate ethical considerations
+including bias, privacy, authorship and attribution, environmental impact, and responsible use
+Articulate a personal framework
+for when and how to use AI in software development
+Ethics Discussions
+Ethics discussions will include the following topics:
+AI training data and representation
+Intellectual property with AI-generated code
+Accessibility and inclusive design
+Security ethics and disclosure
+Privacy and data collection
+Environmental impact of AI systems
+Algorithmic bias
+Job displacement and adaptation
+Professional responsibility
+Personal ethical frameworks
+Please email Mike if you have ideas for additional topics that would be of interest!
+The 15-113 Team
+Mike Taylor
+Taha Shakeel
+Nazanin Ghazi
+Alex Chen
+Michelle Jiang
+Jack Yu
+Schedule
+Week
+Mon 12:30pm-1:50pm
+Wed 12:30pm-1:50pm
+Assignments
+Cool Stuff
+Week 1
+8/24-28
+Intro to GenAI
+Lecture 1 Slides
+Welcome
+• Course intro
+• Course ethos
+• Useful Tools
+Lecture 2 Slides
+Building your Portfolio
+•
+Project 1
+description
+• HTML crash course
+• "My First Webpage"
+HW1:
+Intro Survey
+(due Sat 8/29 8pm)
+Start
+Project 1
+Guide: Project 1 setup
+Guide: Github branches
+Week 2
+8/31-9/4
+AI Intro Cont'd
+Lecture 3 Slides
+Early Data
+AI-augmented IDEs
+VS Code and Copilot
+Lecture 4 Slides
+Prompting strategies
+Project 1
+(due Sat 9/5 8pm)
+Project 1 Example: Taha
+Week 3
+9/7-11
+Core prompting strategies
+No Class: Labor Day
+Lecture 5 Slides
+First project reflection
+Kiro
+Sprinty Road
+HW2
+(due Sun 9/13 8pm)
+Week 4
+9/14-18
+Getting started with APIs
+Lecture 6 Slides
+AI-powered toy case study
+Intro to APIs
+Guest Lecture:
+Shruti Srinivanasan, Google
+The modern software engineer
+HW3
+(due Sat 9/19 8pm)
+Week 5
+9/21-25
+Server-side development
+Lecture 7 Slides
+Server-side features
+Intro to backends
+Lecture 8 Slides
+Spec-Driven Development
+HW4
+(due Sun 9/27 8pm)
+S26 Best Practices
+Condensed paper draft
+Week 6
+9/28-10/2
+Project 2 Begins!
+Lecture 9 Slides
+Project 2 intro
+Defining and navigating ethics
+Lecture 10 Slides
+History of AI coding tools
+Codex, Skills, and MCP
+Special thanks to Jack Yu!
+HW5:
+Read
+Cognitive Helmets
+and
+The Evitable Conflict
+(due Mon 10/5 in class)
+Project 2
+(due Wed 10/7 11:59pm)
+You might also enjoy
+Asimov's story Runaround
+and
+Rossum's Universal Robots
+Week 7
+10/5-9
+Broader Issues
+Lecture 11 Slides
+Reading discussion
+Subagents
+See right column for multi-agent games!
+Lecture 12 Slides
+F26 Best Practices
+(so far)
+Project 2
+(due Wed 10/7 11:59pm)
+Final Horror Game
+All multi-agent games
+15-113 is complete after Week 7
+FALL BREAK (10/12 - 10/16)
+15-114 begins in week 8 after Fall Break
+Week 8
+10/19-23
+Databases
+Lecture 13 Slides
+Welcome to 114 + Databases
+Some requests for 114
+SQL/SQLite fundamentals
+Lecture 14 Slides
+Eberly Focus Group
+Special Guests Ben Owad and Justin Yang
+Vector database intro
+UPDATED HW6
+(due Mon 10/26 8pm)
+Simple vector db example
+Week 9
+10/26-30
+Code handoffs
+Lecture 15 Slides (special thanks to Taha)
+RAG (Retrieval Augmented Generation)
+Discussion: Acceptance criteria
+HW7 Phase 1
+HW7
+(due Sun 11/1 8pm)
+Week 10
+11/2-6
+Skills+MCP
+Skills + MCP
+HW7 debrief
+Building a demo skill
+MCP demo
+HW8
+(due Mon 11/9 8pm)
+Week 11
+11/9-13
+Tests + CI
+Tests as Guardrails
+HW8 debrief
+Separating logic from interface
+HW9
+(due Sun 11/15 8pm)
+Grading
+Component
+Weight
+Notes
+Homework
+20%
+Mostly smaller, weekly projects.  Grading based on evidence of effort, due Fridays
+Participation
+20%
+Includes attendance, contribution to discussions and critiques/code reviews, and good collaboration
+Big Projects
+30%
+Open-ended. 2 in 15-113, 1 in 15-114
+TA meetings
+10%
+Assignments will typically include brief check-in discussions with TAs to help you plan and/or review your work.
+Oral project evaluations + quizzes
+20%
+After each project, you will complete an interview with a TA in the style of a mock job interview. You will be evaluated primarily on your process, transparency, and overall ownership if your work. If we choose to have any quizzes, they will count toward this category.
+Letter Grades
+A: [90-100], B: [80-90), C: [70-80), D: [60-70), R: [0-60)
+Grading Philosophy:
+This course emphasizes effort, growth, and understanding over
+perfection. Grades reflect engagement with the material, demonstration of learning, and thoughtful
+use of AI tools. Code doesn't need to be production-perfect, but you must understand it and be
+able to explain your choices.
+Projects
+(Note that Projects 2 and 3 are especially tentative and subject to change)
+Project 1: Personal Portfolio Website (Weeks 1-2)
+Goal:
+Build a professional portfolio website to showcase your work—using AI to learn web development from scratch
+Time:
+~6 hours outside class, over two weeks
+Context:
+Most students have never built a website before. This project teaches you to use AI as a learning tool to master new domains (HTML, CSS, JavaScript) while creating something immediately useful.
+Requirements:
+About Me
+section with bio, photo, interests, skills
+Projects
+section with showcases (start with placeholders—you'll add real projects throughout the semester!)
+Contact
+section with email, GitHub, LinkedIn, or contact form
+Responsive design
+that works on desktop, tablet, and mobile
+Professional appearance
+with clean, modern design
+Optional: At least one interactive feature
+using JavaScript (animations, dark mode, etc.)
+Deployed and live
+via GitHub Pages
+Deliverables:
+Live URL, GitHub repo, informal reflection (don't use AI to write this part or do the thinking for you)
+Important:
+Throughout the semester, you'll add each new project to your portfolio. By Week 14, you'll have a complete showcase of your work!
+Project 2: Capstone 1 (Weeks 6-7)
+Goal:
+Build a complete, deployed web application
+Time:
+~8 hours outside class, over ~10 days
+Requirements:
+Should include at least one and ideally two of the following: Frontend-backend communication, API usage with authorization, databases,
+data analysis/visualization, rich interactivity, computer vision or ML.  See project writeup for more details.
+Examples:
+Task manager with sharing
+Recipe collection with search
+Fitness tracker with graphs
+Study group organizer
+Book club with reviews
+Personal finance tracker
+An online game using computer vision or AI
+Deliverables:
+Deployed application with live URL, GitHub repo, demo video, README and prompt log, posted your portfolio website. Will include midpoint checkin and final presentation.
+Note:
+This will be the final project for 15-113 Mini 1.  If you are continuing on to Mini 2, you might want to save your very best and most ambitious idea for Capstone 2.
+Project 3: Capstone 2 (Weeks 13-14,
+15-114 only
+)
+Goal:
+Make something extremely cool that demonstrates your technical skills and design sensibilities, while using AI effectively as part of your process. This project should be portfolio-ready.
+Time:
+~9 hours outside class, over ~2 weeks
+Requirements:
+Must include at least two of the following: Frontend-backend communication, thoughtful third-party API usage with secure keys, database, Expo/React Native (phone app), substantial data analysis/visualization, rich interactivity (e.g. WebGL), or computer vision/ML. See project writeup for details.
+Examples:
+AI-powered study tool with intelligent features
+Data visualization dashboard using real data
+Mobile app solving a real problem
+Multiplayer game with real-time networking
+Browser extension with useful functionality
+ML application with user interface
+Community or campus-specific tool
+Deliverables:
+Source code on GitHub (with README, prompt log, and reflection), live demo, short demo video, Google form submission. Includes midpoint check-in and final oral exam/presentation.
+Course Policies
+AI Usage Policy
+Philosophy:
+Transparency and learning over restriction
+Required:
+Document all significant AI usage in code comments and writeups
+Explain AI-generated code in your own words
+Modify and test AI suggestions, don't just copy-paste
+Cite AI tools used
+Encouraged:
+Experiment with different tools and approaches
+Share successful prompts and strategies with classmates
+Use AI to learn new concepts and debug
+Push AI to its limits to understand boundaries
+Not Allowed:
+Submitting AI code you can't explain reasonably well, at least at an appropriately high level.
+Claiming AI-augmented work as wholly original
+Any improper/missing attribution, or misrepresentation of submitted work and your process for creating it
+Using AI on written exams or quizzes (if we have any, and if not explicitly permitted)
+Verification:
+The instructor may ask you to explain any part of your submitted code,
+your process for creating it, or possible trade-offs and alternatives.  Honesty and transparency always yields the best outcomes. (We care more about transparency than exactly how much AI you relied on.)
+Collaboration Policy
+Highly Encouraged:
+Discuss ideas, strategies, and approaches
+Debug together
+Review each other's code
+Share resources and prompts
+Form study groups
+Not Allowed:
+Copying code from classmates and submitting it as your own work.
+Submitting identical work to independent assignments (i.e. basically handing in the same work twice, without an appropriate amount of new work)
+Doing someone else's project/assignment/assessment for them
+General guidance:
+If you can teach them how to do it, great! If you're just giving them the answer, or if they can't recreate the work on their own without referencing notes or the original, you aren't collaborating. Ask if you aren't sure if something counts as good collaboration.
+Academic Integrity
+Core philosophy:
+You must understand and be able to explain all submitted code at a reasonably high level (what does it do, what tech does it use, how do you know it works) though we do expect that there will be some code that you might not be able to explain line-by-line (and that's ok).  More importantly, you must represent your work and your submissions with thorough transparency and proper attributions. When in doubt, ask if something is acceptable!
+Violations include:
+Submitting code you don't understand at a reasonable level
+Copying from others (human or AI) without attribution
+Misrepresenting your use of AI tools
+Other violations of the collaboration / AI use policies above
+Receiving or providing any unauthorized assistance or information on quizzes (if we have them)
+Using any prohibited tools or resources on quizzes
+Any other form of deliberate dishonesty or misrepresentation (including dishonesty through omission)
+Consequences:
+Penalties up to course failure, reported to university
+As long as you're attempting to be transparent and well-intentioned, you don't really have to worry about academic integrity violations in this class.  Still, negligence or uncertainty is not an acceptable excuse.
+When in doubt: Ask! Better to ask than assume.
+Late Policy
+Homework:
+On time: 100%
+<2 days late: 80%
+2-5 days late: 50%
+>5 days late: 0%
+All late work must be submitted by the last day of class
+In extenuating circumstances such as medical or family emergencies, fill out the extension form listed below.
+Major projects:
+Due dates are firm to allow for presentations and peer review
+Extensions only for major documented emergencies (email Mike)
+Extensions must be requested BEFORE deadline whenever possible
+Graded meetings/interviews or other assessments:
+Extensions/excused absences for emergencies/illnesses must be requested in advance whenever possible (see below).
+Depending on the item, we will typically reschedule a makeup with you for the earliest possible date.
+Extensions and Excused Absences
+If you need an extension or an excused absence due to extenuating circumstances such as medical or family emergencies or university-related conflicts, please fill out
+this form
+.
+Please fill out the form before the deadline or class whenever possible.
+Extensions and excused absences will be less likely to be approved if not requested in a timely manner.
+This form is just meant to streamline the process for common issues like brief illnesses, and it helps us keep track of
+requests.  We'll generally be pretty flexible as long as requests are relatively rare and made promptly.
+If your circumstance is particularly unusual or if you need additional support, always feel free to email Mike!
+Note: We can't provide extensions for reasons like "I'm very very busy" (since this will typically be true for everyone at various points) or things that were avoidable with proper planning.
+Tools and External Resources
+Required Tools (All Free for Students)
+Python 3.12+
+Programming language. Download from
+python.org
+Git & GitHub
+Version control. Create account at
+github.com
+VS Code (or a similar IDE like Kiro or Cursor)
+Code editor. Download from
+code.visualstudio.com
+Various AI tools (browser and desktop, some of which will be provided). Not all of these will be necessary, but examples include:
+Google Gemini/Antigravity
+Free in the browser with your andrewID at
+gemini.google.com
+Amazon Kiro
+AI-assisted coding platform.  Free for CMU student use after authentication with your andrewID.
+kiro.dev
+Anthropic Claude
+Conversational AI assistant. Free tier available at
+claude.ai
+OpenAI ChatGPT/Codex
+Conversational AI assistant. Free tier available at
+chat.openai.com
+Course Materials
+Weekly guides and prompt templates (on course website)
+Code examples and starter files (on GitHub)
+Ethics case studies (provided in class)
+Best practices checklists (on course website)
+Office Hours and Support
+Getting Help
+Ed Discussion
+Quick questions, sharing resources, peer support, course logistics
+Instructor Office Hours
+in GHC 4126
+For conceptual questions, project guidance, career advice
+Monday 2:30pm-4:00pm
+Wednesday 2:30pm-4:00pm
+If you can't make it to these, you can email me your availability so that either I or a TA can meet with you.
+TA Office Hours
+in the hall outside GHC 4126
+For debugging help, tool assistance, assignment questions. Times may change; see the calendar below or
+open it in Google Calendar
+.
+In Class
+Ask questions, work with peers, get immediate help.
+Email
+mdtaylor at andrew.cmu.edu
+For private concerns, extension requests, accommodations
+Accommodations
+Students with documented disabilities should ensure that their memorandum of accommodations has been
+sent to 15-113/15-114 through the Office of Disability Resources portal.  Soon after we receive your
+memorandum, we'll contact you with additional information on how you can use these accommodations.
+All tools and activities will be evaluated for accessibility, and alternatives
+will be provided as needed.
+Data Collection (Text provided by Eberly Center)
+For this course, the Eberly Center is working with your instructor on educational research. This research will involve your coursework. You will not be asked to do anything above and beyond the normal learning activities and assignments that are part of this course. You are free not to participate in this research, and your participation will have no influence on your grade for this course or your academic career at CMU. If you do not wish your course work to be used as research data or if you are under 18 years of age, please send an email to Chad Hershock (hershock@andrew.cmu.edu), and then your data will not be included. You will still be required to complete any activities assigned by the instructor as part of the learning experience, but your data will not be analyzed for research purposes. Participants will not receive any compensation. The data collected as part of this research will include student grades. Data analysis of coursework will be conducted after the course is over and final grades are submitted. In the future, once we have removed all identifiable information from your data, we may use the data for our future research studies, or we may distribute the data to other researchers for their research studies. The Eberly Center may provide support on this research project regarding data analysis and interpretation. The Eberly Center for Teaching Excellence & Educational Innovation is located on the CMU-Pittsburgh Campus and its mission is to support the professional development of all CMU instructors regarding teaching and learning. To minimize the risk of breach of confidentiality, the Eberly Center will never have access to data from this course containing your personal identifiers. All data will be analyzed in de-identified form and presented in the aggregate, without any personal identifiers. If you have questions pertaining to your rights as a research participant, or to report concerns to this study, please contact Chad Hershock (hershock@andrew.cmu.edu).
+Plain language interpretation:
+After the semester is over, the data generated by students in this course, which often comes from things like assignments, projects, surveys, etc., is stripped of all identifying information and aggregated into a larger research dataset for analysis.
+As a potential participant in this research, you have a say in what happens to your data. If you are OK with data generated by you in this course being de-identified and aggregated into a larger research dataset, then there is nothing you need to do - simply proceed through the course as you would with any other course.
+IF you would NOT like your data to be used for that purpose (or you are under 18) that is when you email Chad Hershock and say "Hi Chad, this is my name and course number, I would like to opt-out, thanks, goodbye", and your data will not be included in the research analyses.
+This opt-out process is confidential with the Eberly Center, and your instructor(s) will not know whether you have opted out of the research study or not.
+Importantly, your decision in this matter will NOT affect your experience in the course. You are only making a decision about what happens to your data AFTER the course is over.
+Below are some potential questions students may have…
+QUESTION
+ANSWER
+What do I need to do?
+If you would like to opt out of your data being used in research analyses, all you need to do is email Chad Hershock (email is in the syllabus) with your
+name, course number, and say "I'd like to opt out"
+.
+If you do
+not
+wish to opt out, you do not need to do anything.
+What is this research about?
+This research is focused on better understanding teaching and learning at CMU. The data will be used for various projects on educational interventions and measured impacts on learning and/or attitudes. The specifics of this educational research may vary from course to course or instructor to instructor. If, after the course is over, you're curious about this kind of work, please contact Chad Hershock or the Eberly Center (
+eberly-assist@andrew.cmu.edu
+) who can provide additional details.
+Do I have to make up my mind right now?
+No, there is no need to make up your mind right now. You can choose to opt out anytime, even if it is on the last day of the semester.
+What if I don't want to participate, what happens?
+If you'd like to opt out, the only thing that will change is what happens to your data AFTER the course is over.
+Your required coursework will be the same regardless of your decision.
+Can I see the results?
+Often the results from this kind of work do not come together right away. If you are curious about the results after this course is over, please feel free to contact your course instructor or the Eberly Center and we would be happy to give you an update, if possible.
+How will the data be used?
+In two ways: to help improve the course and to contribute to educational research on teaching and learning. Note that all analyses occur after course grades are submitted and student identifiers are removed.
+If I opt out, do I still have to complete work assigned by the instructor?
+Yes.
+Additional notes
+Original layout/some preliminary wording created with Claude Sonnet 4.5, Nov 2025. (In fact, we'll talk about this process in week 1!)
+Some course policies adapted from
+CMU 15-112. F25

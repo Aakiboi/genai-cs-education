@@ -1,0 +1,124 @@
+Computer Science Education in the Age of Generative AI | SCALE Initiative
+Computer Science Education in the Age of Generative AI | SCALE Initiative
+Skip to main content
+Search and Filter
+What is the application?
+Teaching – Instructional Materials
+Teaching – Assessment and Feedback
+Teaching – Professional Learning
+Learning – Student Support
+Communicating / Social Tools
+Organizing
+Analyzing
+Who is the user?
+Student
+Parent/Caregiver
+Educator
+School Leader
+Others
+Which age?
+0-3 years
+Elementary (PK5)
+Middle School (6-8)
+High School (9-12)
+Post-Secondary
+Adult
+Why use AI?
+Efficiency
+Outcomes – Literacy
+Outcomes – Numeracy
+Outcomes – Other Academic
+Outcomes – Differentiation
+Outcomes – Social Emotional
+Outcomes – Durable Skills
+Reimagined Schooling
+Other
+Study design
+Descriptive – Implementation and Use
+Descriptive – Product Development
+Impact – Randomized Controlled Trial
+Impact – Quasi-experimental
+Systematic Review
+Technical – Computational
+Quantitative – Others
+Repository Feedback
+Your feedback
+helps us improve the repository's content relevance and usability. Please share your thoughts to help us better serve researchers and practitioners.
+Submit feedback
+Submit a research study
+Contribute to the repository:
+Add a paper
+Download report
+Computer Science Education in the Age of Generative AI
+Authors
+Russell Beale
+Date
+07/2025
+Publisher
+arXiv
+Link
+http://arxiv.org/pdf/2507.02183v1
+Generative AI tools - most notably large language models (LLMs) like ChatGPT
+and Codex - are rapidly revolutionizing computer science education. These tools
+can generate, debug, and explain code, thereby transforming the landscape of
+programming instruction. This paper examines the profound opportunities that AI
+offers for enhancing computer science education in general, from coding
+assistance to fostering innovative pedagogical practices and streamlining
+assessments. At the same time, it highlights challenges including academic
+integrity concerns, the risk of over-reliance on AI, and difficulties in
+verifying originality. We discuss what computer science educators should teach
+in the AI era, how to best integrate these technologies into curricula, and the
+best practices for assessing student learning in an environment where AI can
+generate code, prototypes and user feedback. Finally, we propose a set of
+policy recommendations designed to harness the potential of generative AI while
+preserving the integrity and rigour of computer science education. Empirical
+data and emerging studies are used throughout to support our arguments.
+Study at a glance
+Question:
+How can educators effectively integrate generative AI into computer science teaching, curricula, and student assessments?
+Setting and data:
+Not stated in the abstract
+Method:
+Review of emerging studies and empirical data
+Why it matters
+Generative AI tools are rapidly revolutionizing computer science education by generating, debugging, and explaining code. While offering profound opportunities to enhance instruction, they introduce challenges including academic integrity concerns, student over-reliance, and difficulties verifying originality.
+Key findings
+In computer science education, generative AI tools can generate, debug, and explain code, providing learning assistance and streamlining student assessments.
+Generative AI tools create key challenges for instruction, including academic integrity risks, student over-reliance, and difficulties in verifying student originality.
+Generative AI can produce functional code, prototypes, and user feedback, offering opportunities for innovative teaching practices.
+Summary drafted with AI from the paper’s abstract and may contain errors. See the full paper for details.
+What is the application?
+Teaching – Instructional Materials
+,
+Teaching – Assessment and Feedback
+,
+Learning – Student Support
+Who is the user?
+Student
+,
+Educator
+Who age?
+Post-Secondary
+Why use AI?
+Efficiency
+,
+Outcomes – Differentiation
+,
+Outcomes – Durable Skills
+,
+Reimagined Schooling
+Study design
+Descriptive – Implementation and Use
+Download PDF
+Clear History
+Ask the Repository
+Stanford Home
+Maps & Directions
+Search Stanford
+Emergency Info
+Privacy
+Copyright
+Trademarks
+Non-Discrimination
+Accessibility
+© Stanford University. Stanford, California 94305.

@@ -1,0 +1,467 @@
+AI Considerations for Teaching and Learning | Teaching and Learning Resource Center
+AI Considerations for Teaching and Learning | Teaching and Learning Resource Center
+Skip to main content
+Ohio State nav bar
+The Ohio State University
+Help
+BuckeyeLink
+Map
+Find People
+Webmail
+Search Ohio State
+AI Considerations for Teaching and Learning
+Artificial intelligence (AI) is all around us. If you have used a mobile phone, driven a car with navigation, or asked a virtual assistant to complete a task, chances are you’ve recently used some form of AI-assisted technology.
+The rapid emergence of applications that leverage AI to gather information, organize ideas, draft prose, and generate media has prompted special consideration for how educators can support both student learning and academic integrity in a world where these tools are increasingly available.
+The introduction of ChatGPT, Google Bard, and similar AI chatbots has prompted varied responses from educators and a deluge of resources on how we should respond to this new technology. While some see potential in embracing AI, others express concern about its implications for
+academic integrity
+. For example, how should we address AI’s ability to replicate student responses to writing prompts, perform certain kinds of information analysis (e.g., summarizing), and convincingly fabricate research? These questions extend beyond student writing and research as well, since AI can be used to generate code, prep for exams, read complex texts, create art, and more.
+It's helpful to remind ourselves that the dynamic of technological change in education is not new. We frequently adapt our instruction to integrate new teaching tools and address an ever-changing digital landscape. With each new advancement, it’s wise to engage in dialogue around its implications for teaching and learning. While scholarship on AI and education is still emerging, we can rely upon existing evidence-based approaches to guide decisions around whether to fully embrace, cautiously integrate, or carefully limit AI-powered technologies in our courses.
+This Teaching Topic will help you make informed choices about AI use in your course by providing background on generative AI tools, an overview of their benefits and limitations, and practical guidance for integrating them into your teaching.
+The insights and guidance provided below will evolve as new information arises around generative AI tools and their impact on teaching and learning.
+What is Artificial Intelligence?
+Artificial intelligence (AI) is “the capability of a machine to imitate intelligent human behavior” (
+Merriam-Webster
+). Advancements in AI have transformed the way we live, including how we teach and learn. Think about some examples of AI-assisted technology you might encounter in education today, including calculators, automated grading tools, text editors, transcription programs, and assistive technology. You may even remember the first iterations of some of these technologies and the conversations about benefits and challenges that followed.
+Generative AI applications
+can generate content, rather than merely analyze existing data, by utilizing
+Large Language Model (LLM)
+technology. Many of these applications function as AI-powered chatbots—in other words, users submit a prompt and content is generated in real time in response to that prompt.
+One of the more widely known and discussed AI-powered chatbots is
+ChatGPT
+. Developed by tech company OpenAI, its large language model was trained using very large datasets, codes, and texts, and it pulls from all this data to generate responses. Using predictive technology, it can “create or revise written products of all kinds, including essays, computer code, lesson plans, poems, reports, and letters” (University of Toronto, n.d.). It’s likely OpenAI is also utilizing user prompts and ChatGPT responses to train the model as the company collects data from users and continues to modify and improve the tool.
+While ChatGPT is well-known, it is far from the only generative AI system. In fact, the range of AI tools available is expanding on an almost weekly basis as companies develop their own versions. Educators may be primarily focused on AI’s ability to generate text, but it is worth noting that ChatGPT and many other AI applications can also create code, images, music, and other media.
+Some additional examples of generative AI applications include:
+Dall-E 2
+and
+Stable Diffusion
+for images
+Jasper Chat
+and
+Google Bard
+for text
+Lumen5
+for video
+Microsoft Copilot
+for text, images, and more
+OpenAI Codex
+and Polycoder for code
+Soundraw
+for music
+Generative AI: Benefits and Limitations
+As with any emergent technology, generative AI comes with both benefits and limitations. Some of these are still being discovered through user experimentation and updates to the technology. Though much of what we know about generative AI applications and AI language models will shift over time, we share some important considerations below.
+Potential Benefits
+It is helpful for educators to consider that generative AI:
+Provides learners a tool for generating rough drafts, outlines, and brainstorming notes.
+Generative AI applications like ChatGPT can assist students during the earliest stages of the writing process, auto-generating text for learners who are either stymied by writer’s block or stuck during the brainstorming process. When prompted, these systems can produce reams of raw content (of varying levels of quality and accuracy) that students can further evaluate, interrogate, and research. Using AI tools in this fashion can help students during the difficult preliminary stages of the composition process, creating a workable path toward their own inquiries and investigations (Gero, 2022; Krause, 2022; Weissman, 2023).
+Summarizes and clarifies longer or potentially difficult texts.
+AI chatbots can also condense and summarize longer texts with only moderate error, potentially aiding students during the reading and research process. They may help in clarifying and explaining daunting or challenging texts in simple, digestible language. This function might potentially help learners (especially English language learners) gain a deeper comprehension of dense academic materials by making obscure prose and concepts more approachable and accessible (Anson and Straume, 2022; Warner, 2022).
+​
+Assists learners with automated grammatical assistance and language acquisition.
+When prompted, generative AI applications like ChatGPT can provide direct and immediate automated assistance for students struggling with grammar, mechanics, and syntax. They can identify, explain, and even correct basic grammatical mistakes. Additionally, AI language systems can function as a fluent conversation partner for informal language practice. This might be of particular benefit for English language learners and multilingual students who are still learning the basic mechanics of writing in English (Warner, 2022).
+Promotes wider classroom discussion around rhetoric, style, and AI literacy.
+Generative AI applications also provide an avenue for discussing various facets of rhetoric, authorship, and academic integrity with students. They can function as the focal point of a broader conversation about the ethical questions posed by AI language systems, especially as their continued use and development alters our understanding of plagiarism and cheating. Using generative AI, we can help students develop their own style, skill, and voice as authors, particularly when we ask them to review and discuss their work in contrast to machine-generated texts (Fyfe, 2022; Grobe, 2023; Anson and Straume, 2022).
+Known Limitations
+Educators should also be aware that generative AI:
+Generates incomplete, inaccurate, or false information.
+Although they draw from vast datasets of text, AI-powered chatbots remain limited to the information available to them at the time of their training. In other words, they cannot access or consult with external sources of information, nor can they self-correct or fill knowledge gaps with correct information. For example, ChatGPT often punctuates its responses with obvious fabrications, failing to maintain accuracy when tasked with generating knowledge outside its dataset. Users can also prompt ChatGPT to churn out obvious misinformation and nonsense, making it generate “garbage output” that is presented credibly and uncritically. In particular, it struggles when prompted to generate text about current events or recent developments, particularly on anything that has occurred after 2021 (Fyfe, 2022; Schatten, 2022; Grobe, 2023).
+Creates inaccurate or fabricated citations.
+In addition to a penchant for generating misinformation, generative AI tools are incapable of conducting research and substantiating claims with credible evidence. When prompted to conduct research or cite secondary sources, for example, ChatGPT often fabricates research references and riddles the text with plausible sounding but entirely false or
+made-up claims, quotations, and scholars (
+Fyfe, 2022; Krause, 2022).
+Includes plagiarized text without proper attribution.
+Generative AI’s understanding of American academic integrity and copyright standards is virtually nonexistent. Texts generated by language models have consistently committed frequent and flagrant acts of plagiarism, from direct, word-for-word plagiarism to misrepresenting others’ ideas as their own (Tutella, 2023).
+Reiterates biases and is prone to discriminatory language.
+Generative AI applications can sometimes employ biased or discriminatory language or repeat extreme or controversial viewpoints. Even when safeguards are added to filter out some of the more extreme or discriminatory positions, AI language systems are still prone to generating text that reinforces certain stereotypes, biases, and belief systems (Hutson, 2021).
+Replicates, but cannot replace, human agency and expression.
+Generative AI applications use predictive algorithms to generate text based on user input. Despite their relative fluency and adaptability, they cannot comprehend the meaning behind their words or exhibit human-like levels of critical thinking. This disconnect sometimes leads to text that sounds stilted, makes insubstantial claims, and lacks the subtle intricacy of human expression. AI can also commit rhetorical errors with relative frequency, pepper its texts with meaningless filler phrases, and over-rely on certain writing formulas. For instance, ChatGPT has a strong preference for five paragraph essays with short, three-sentence paragraphs and often overuses single word modifiers and transitions (Grober, 2023; University of Central Florida, 2023).
+Additional Considerations
+Educators may also want to think about the following murky areas related to generative AI applications.
+Generative AI may harvest and share student data.
+ChatGPT and other tools are third-party software systems that can track, collect, and share data from their registered users. For example, OpenAI’s
+privacy policy
+claims that it reserves the right to harvest and share user data but does not clarify for whom and for what purpose. This brings up potential concerns regarding privacy and security (Caines, 2023), and some students may be uncomfortable using or creating accounts with generative AI applications. Therefore, exercise caution around requiring students to use AI applications and consider alternatives for supporting student learning and meeting your instructional goals.
+The copyright status of AI-generated works remains unclear.
+Questions regarding the intellectual ownership of AI-generated texts remain contentious, with no foreseeable resolution in sight. Users should err on the side of caution when it comes to claiming outright authorship of anything created by ChatGPT or other AI language systems (McKendrick, 2022). There is also a
+lack of clear guidance on how to cite material generated by AI
+in any of the major citation styles such as MLA and APA.
+AI platforms may transition into subscription-based and pay-to-use services.
+As with many free applications, we should consider that generative AI applications could someday require payment or offer “premium” services to paying users, bringing about potential equity and access issues. OpenAI has already introduced ChatGPT Plus, a pay-to-use service.
+Explore strategies for having open discussions with students about AI concerns, including helpful
+conversation starters and class activities
+, in
+AI Teaching Strategies: Having Conversations with Students.
+Using AI at Ohio State
+Leadership at The Ohio State University recognizes that AI is evolving the ways that we teach, learn, and research. Ohio State aims to
+provide faculty, staff, and students clarity on how AI tools can be used ethically and productively to support instruction, enhance learning, bolster research, and help our communities thrive.
+See the
+Artificial Intelligence at Ohio State
+website for insights into how AI is being used across the university.
+The AI Fluency Initiative
+In the fall of 2025, Ohio State launched a university-wide
+AI Fluency initiative
+with the intent of embedding AI into the core of the undergraduate curriculum. This endeavor will support Ohio State students to understand AI tools and use them responsibly, effectively, and creatively—no matter their major or field of study. All learners will be given opportunities to develop the AI proficiencies they need to excel, innovate, and lead in their future careers. The goal is that every Ohio State student, beginning with the class of 2029, will graduate not only fluent in their field of study, but fluent in the application of AI in that field as well.
+"AI fluency" is the ability to understand, evaluate, and use artificial intelligence within academic and professional contexts, and to do so with ethical awareness and discipline-specific relevance.
+To learn how you can support AI fluency in your courses, take
+Building Students' AI Fluency
+, an asynchronous online course, or explore the
+Teaching and Learning to Build AI Fluency
+teaching endorsement.
+Approved AI Tools
+Ohio State has reviewed and vetted a number of standalone generative AI applications for use by faculty, staff, and students. Among the tools currently vetted are
+Microsoft Copilot
+,
+Adobe Firefly
+, and
+Google Gemini
+. See
+Additional Tools
+for more AI applications that can support teaching and learning, or explore all
+Approved AI Tools
+at ai.osu.edu.
+Ohio State
+is committed to ensuring the AI tools we use meet security standards while supporting productivity and efficiency. Keep in mind that data you enter in AI applications using a personal account will not be protected; you must
+log in to an approved AI tool with your Ohio State credentials (lastname.#@osu.edu and password)
+before entering any institutional data above the S1 classification. You should also discuss privacy and security concerns openly with students when asking them to use AI tools; see
+AI Teaching Strategies: Having Conversations with Students
+for guidance.
+Caution
+Security, privacy, and accessibility
+Ohio State educators are advised to avoid using third-party technologies that have not been
+vetted and approved by the university
+because they have not undergone a review for security, privacy, or accessibility.
+Do your research when selecting tools—comply with university policies and provide alternative options to students, when needed.
+Read
+this statement on AI tools from Digital Security and Trust
+within the Office of Technology and Digital Innovation (OTDI).
+Learn about Ohio State's
+Institutional Data Policy
+(IDP) and
+third-party security risk assessments
+. To initiate a security
+risk assessment for a tool you want to use in your course, contact your unit’s
+Security Coordinator
+.
+Explore policy and resources at
+Digital Accessibility Services
+.
+Teaching and AI: Strategies and Examples
+When considering adoption of any new technology or teaching strategy, begin by reflecting on course goals and
+learning outcomes
+. Then decide whether integrating or allowing the technology in your course can enhance learning and support specific assessments and activities (Wiggins & McTigue, 2005). Activities and assignments designed to support students’ self-directed learning or develop their skills in leveraging the latest technologies for professional practice could potentially require different approaches to AI than those focused on fostering creativity or reflective practice.
+Each section below offers suggestions for supporting your students to develop knowledge and skills around AI while maintaining an evidence-based lens on instruction.
+Align to Learning Goals and Outcomes
+Reflecting on your course goals prior to deciding if and how to integrate generative AI technology will help you clarify learning outcomes, facilitate alignment to activities and assessments, and support student success. Activities and assignments that scaffold the
+process
+of learning, as opposed to those that assess the
+product
+of learning (e.g., student-developed artifacts such as written assignments, code, or media), may be well-suited to the integration of generative AI applications. When using potentially transformative technologies such as generative AI in your course, strive to create learning experiences that enable students to practice what
+Bloom (1956)
+considers, "… the more complex classes of intellectual abilities and skills," such as applying, analyzing, evaluating, and creating.
+In the table below, consider how the use of generative AI in each learning activity supports the example learning outcome.
+Learning Outcome
+AI-Supported Learning Activity
+In Nursing, students should be able to summarize research behind evidence-based practice.
+Students work in groups to examine and critique AI output of a literature summary vs. human-based summaries and consider the implications for how they inform a specific clinical practice scenario.
+In Sociology, students must be able to examine literature reviews to establish the background for proposed research.
+Using relevant disciplinary databases and Google Scholar, students track down the citations (students might need some guidance here) in an AI-generated literature review to evaluate 1) whether the citations exist and 2) how relevant they are to the proposed research.
+In a Biology lab experience, students must be able to articulate valid experimental methods that contribute something novel to scientific knowledge.
+Putting themselves in the position of scientific peer reviewers, students evaluate and critique AI output of a methods statement vs. human-based statement for validity and for how it articulates its contribution to the science.
+In an Academic English Writing Program course, multilingual and international students must identify rhetorical patterns in a range of genres in American academic contexts.
+Students use AI to generate three different passages paraphrasing a key source for a paper making an argument, note patterns among the different passages (how the passages represent the author’s points, what is emphasized, their accuracy, critique potential bias in point of view or language), and in an annotation, choose which passage is most useful for their argument and explain how they would revise it for their paper.
+Students may need additional guidance when using new technologies. Use the following suggestions to plan how you will support student learning during AI-related learning activities.
+Model motivation and excitement about AI as a potential learning tool, when appropriate.
+Outline strategies that are critical to success when using AI tools in your course. For example, guide students toward appropriate approaches to evaluating AI-generated output, such as identifying false claims, logical fallacies, fabricated evidence, and unacknowledged biases.
+Provide actionable feedback to students on their use of these strategies and on their performance in AI-supported learning activities.
+Create opportunities for students to reflect on their use of AI and explain how it impacted their learning.
+Gauge students’ interests and comfort with using AI applications and offer alternatives when possible. For example, if students have privacy or security concerns around setting up an account in a particular app, you could provide them with pre-generated AI output instead.
+Prepare
+ancillary resources
+to help students navigate any unfamiliar AI tools they are required to use.
+Explore more ideas in
+Universal Design for Learning: Planning with All Students in Mind
+and
+Supporting Student Learning and Metacognition.
+UX Tip
+Active Learning
+AI-supported learning activities are a great opportunity to use active learning strategies to foster engagement and create a student-centered experience.
+Active learning
+can be broadly described as “any instructional method that engages students in the learning process" (Prince, 2004). Recent meta-analyses have established its value both in terms of student learning (Freeman et al., 2014) and equity (Theobald et al., 2020). You might intersperse small-scale activities like
+Think-Pair-Share
+and
+polling
+during lecture, reference AI for low-stakes brainstorming or
+Writing-to-Learn activities
+, or plan more structured and time-intensive activities that utilize AI output such as case studies, student-led discussions, debates, and
+peer review
+.
+Explore how you can use technology to support active learning strategies in your course by viewing this
+recording of Active Learning with Technology
+.
+Design for Transparency
+A growing body of research suggests transparency of instruction is important for enhancing the student experience and supporting academic success. Studies have shown that intentional design of instruction for transparency contributes to greater learning outcome achievement (Winkelmes et al., 2016; Howard, Winkelmes, and Shegog, 2020) and in teaching large-enrollment classes (Winkelmes, 2013). This notion is further supported by research on the use of explicit assessment criteria, which has been found to support student self-regulation (Balloo et al., 2018).
+When considering AI in teaching and learning, the following transparency-related considerations are important to note.
+Set clear expectations for students’ use of AI in your syllabus and discuss them openly.
+Communicate in your syllabus about expectations for students’ course-related uses of AI (Wheeler, Palmer, and Aneece, 2019). Set tone, routines, and guidelines early in the term and engage students in openly discussing the opportunities and limitations of AI, as well as what represents misuse of AI in your course or for specific assignments and activities.
+See
+AI Teaching Strategies: Crafting Your GenAI Syllabus Statement
+for detailed guidance and sample syllabus statements.
+Design transparent assignments and activities, and share explicit assessment criteria for them.
+Apply the
+Transparency in Learning and Teaching (TILT)
+framework to communicate the purpose, task, and criteria for success for each of your course activities, assignments, and assessments. Are AI-related skills relevant? How will they help students meet learning outcomes? Use this exercise to explicitly state
+why
+,
+when
+, and
+how
+AI can or should be used or prohibited in your course (Winkelmes et al., 2016). Visit
+http://www.tilthighered.com
+for TILT templates, examples, and resources.
+Provide a
+rubric
+—or work with students to co-develop a rubric—for all assignments and assessments. To support student understanding of assignment expectations, you could even have them use the rubric to evaluate AI-generated responses to the assignment prompt.
+Involve students in decision-making to give them ownership in AI policies and assessment criteria for your course.
+Avoid transactional engagements with students when addressing AI—do not simply provide policies about AI technologies in your course or recite assignment instructions. Instead, adopt transformative approaches that involve students in the review, feedback, and decision-making around your policies and assessment criteria. For example, you might craft a discussion exercise in which students examine the grading rubric, ask questions, offer feedback, and practice applying it to sample work. They can then reflect upon the rationale for the inclusion or exclusion of AI tools in the given assignment (Balloo et al., 2018).
+Discuss the ethical implications of AI in real-world contexts beyond the classroom.
+Discuss with students the current and emerging roles of AI in real-world professional and practice settings and incorporate these connections into assignments when relevant. How might AI-related skills benefit students in their studies or careers beyond your course? Speak candidly about the ethical considerations of organizations and professionals using AI to inform decision-making, policy setting, and other aspects of work. Conversations can stay within the confines of your field of study or extend to broader contexts with which students have contact, including education, finance, government, healthcare, and law (Villasenor, 2023).
+Learn more about designing assignments that use AI in
+AI Teaching Strategies: Transparent Assignment Design.
+Support Academic Integrity
+When we think about academic integrity, we often default to its negative connotations and imagine punitive measures and prohibitions. But academic integrity in practice is more nuanced. It is meant to support ethical behavior, not just to punish students for cheating or other forms of misconduct. Being intentional and thoughtful about your approach will help you maintain a culture of honesty and trust in your class, even when new technologies or tools are introduced.
+When it comes to generative AI technology in particular, outright bans would be unproductive and difficult to enforce consistently. They could potentially result in what John Villasenor describes as “the injustice of false positives and false negatives,” where some students are able to circumvent our prevention efforts and others are falsely accused and unjustly penalized for using AI to helm their compositions (2023). And while it may be tempting to move to only in-class exams and writing assignments, or to use timed online quizzes with AI-detection tools activated, you can’t rely solely on emerging technologies to detect all AI-generated responses. Moreover, these strategies for preventing AI use (or misuse) could have serious implications for equity, inclusion, and
+accessibility
+in your course.
+We recommend a more positive and proactive approach to AI and academic integrity.
+First, communicate transparent expectations and policies around academic integrity (and specific AI-related considerations) to your students.
+Second, design or re-design your assessments proactively to promote academic integrity.
+Finally, know that employing AI-detection technologies should be your last resort for deterring academic misconduct.
+Read more in
+A Positive Approach to Academic Integrity
+.
+Whether you decide to actively use AI in your teaching, design assignments to minimize the use of AI, or take a more prohibitive approach, the following strategies can help you reduce misconduct and support your students to understand academic integrity in the context of their own work.
+Define Clear Expectations for Integrity
+It's important to establish expectations for academic integrity
+—
+both in general and specific to AI use
+—
+early in the term. Be prepared to provide the rationale for policies when discussing your syllabus with students and before major assignments and assessments throughout the term.
+Include university policies for academic integrity in your syllabus.
+Openly communicating the university’s policies for academic integrity in your syllabus, as well as your own policy for GenAI use, will level set expectations for your course as well as for students’ academic careers at the university. Lead a conversation around university expectations at the beginning of the term and, as needed, during your course.
+Ohio State currently has a
+definition of academic integrity
+.  Additionally, students are required to abide by the university’s
+Code of Student Conduct
+, which includes academic misconduct. It’s always best practice to include the university’s policy on academic misconduct in your syllabus..
+Discuss with students how the use of AI fits within the university’s policies on academic integrity and misconduct. For example, students may have the misconception that since a chatbot is not a real person, they can use the text it generates without plagiarizing or committing misconduct. Prompt them to consider the nuances of using AI-generated works and related ethical considerations to help them understand what is permitted and prohibited at the university and in your course.
+Communicate your course-specific policies for academic integrity and AI use in your syllabus.
+Beyond university policy, you may have additional expectations for academic integrity and GenAI use in your course. Your GenAI course policy should be clearly communicated and use inclusive, student-centered language. Include a statement in your syllabus and have a conversation around these expectations at the start of term.
+Your GenAI course policy can address:
+specific GenAI applications permitted for use
+the activities for which they are allowed or encouraged (for example, generating ideas, developing outlines, creating rough drafts, revising, and so on )
+how students should cite their use of AI
+the consequences for misusing GenAI
+who students should contact if they have questions
+If you decide to use any AI-detection tools in your course, clearly communicate how and when you will use them via multiple outlets, such as your syllabus statement, class discussions, Carmen announcements, in-class reminders, and assignment instructions. Explain your rationale for using them to help students see the broader context of the affordances, limitations, and ethical implications of using AI.
+Share specific guidelines for AI use and integrity for individual assignments and assessments, as needed.
+There may be specific assignments or assessments in your course for which you definitely want students to use or
+not
+use AI applications. Beyond your syllabus statement, remind students of these expectations before any relevant course activities, assignments, or assessments. Include explicit recommendations or restrictions in prompts and directions, and clarify them in open discussions with students.
+Using the
+Carmen course template
+can help you set clear expectations for each assignment in your course. With the assignment template, utilize the bullet points and icons in the Academic Integrity section to communicate your expectations for using generative AI applications. Use the other sections (
+Directions, Resources
+) to provide more detailed information. For example, if you are requiring or recommending that students use a specific GenAI application for an assignment, include information about the tool and additional guidance for technology requirements, troubleshooting, account setup, and student privacy. You might also remind students of how to provide proper attribution and use your preferred citation style for all resources they use, including generative AI applications.
+Learn more in
+AI Teaching Strategies: Crafting Your GenAI Syllabus Statement
+and
+AI Teaching Strategies: Transparent Assignment Design.
+Create or ADAPT ASSIGNMENTS TO PROMOTE INTEGRITY
+Carefully consider how each assignment or assessment in your course can best support student learning as well as academic integrity. This
+vital strategy aligns with many of the best practices for
+designing assessments of student learning
+, such as connecting assignments to learning outcomes, providing authentic learning experiences, and creating achievable assignments.
+The following strategies will support students to engage meaningfully in the work they author and produce in your course, whether you permit the use of AI tools or not.
+Leverage multimodal assignments.
+Creating assignments that cannot be completed solely by AI-assisted technology can help to minimize student reliance on it. For instance, instead of having students write a policy brief, ask students to create a presentation outlining their research findings and policy recommendations for a specific intended audience. You can still be flexible in terms of presentation tools and format (e.g., recorded voiceover PowerPoint, Flip, Adobe Express) to give students agency of choice. Having students articulate their learning in multiple formats helps them reframe their learning and gives them rhetorical flexibility to communicate in a range of contexts (Selfe, 2007).
+Explore the
+Ohio State Toolset
+and
+Additional Tools
+as you consider the variety of technologies and formats students can use to present their work.
+Emphasize the process, not the product.
+When given an input, generative AI applications produce an output. But learning is a process that is not just about generating a product, and this is an important distinction for students who feel the pressure of high-stakes assignments and grades. Incorporate
+scaffolded
+assignments that build on one another and include different types of tasks (e.g., proposal, outline, literature synthesis, rough draft, peer review, final draft). By breaking down a larger assignment into smaller chunks, and having more frequent lower-stakes assignments, students experience the process while recognizing the connection between components. Scaffolded assignments also provide ample opportunities for feedback and revision, which allow students to refine their thinking and learning (Bean, 2011).
+Prompt student reflection and metacognition.
+New AI chatbots may sound more human than earlier versions. Nonetheless, having students include personal reflections or connect to their lived experience for your assignments will bring in a human element that chatbots cannot adequately replicate. Students might reflect on personal and professional experiences, their growth in your course, and why course content is valuable to them. You can also ask students to describe their writing process and reflect upon the steps they took. Creating intentional opportunities for students to reflect on their learning strategies can help them become more successful, self-directed learners (Ambrose et al., 2010).
+Connect to current events or build upon in-class comments.
+Generative AI applications like ChatGPT are trained on an enormous amount of data, but they have limitations that you can leverage. For example, most of the data ChatGPT was trained on is from before 2022 (at present). Therefore, you could ask students to relate their learning to a current event for which ChatGPT may not yet have enough information to properly generate a response. Guiding students to connect and apply their learning to current events can help them see the value of their learning, improve their engagement and motivation, and apply their learning to relevant real-world contexts (Ambrose et al., 2010).
+Create authentic assignments with real-world value.
+Students who see value in and feel connected to what they are learning may be less likely to rely on AI-generated support to complete an assignment. Consider how you can integrate real-world content (such as case studies) and authentic tasks (such as project proposals or practice client sessions), to increase students’ motivation on assignments. As with connecting activities to current events, engaging students in tangible real-world tasks allows them to translate key course concepts into meaningful practice.
+Consider workload.
+Students may be more likely to resort to generative AI tools if their workload is heavy or their assignments and deadlines feel unmanageable. Take stock of the amount, length, and sequence of assignments in your course to mitigate any unnecessary pressure on students.  It can be helpful to
+estimate the workload
+in comparison to your course’s
+number of credit hours
+.
+If, despite your efforts to apply an integrated approach to academic integrity, you suspect a student has used generative AI to commit misconduct, the case can be submitted to the
+Committee on Academic Misconduct
+.
+Reflect on Teaching
+The need to address the issues and opportunities created by AI is now a reality for educators. While the above recommendations for addressing AI in your teaching are informed by evidence-based approaches, the effects of AI on student learning and experience will not be immediately clear. This is further complicated by the fact that AI technologies are still emerging and evolving, making their effects difficult to pin down. As such, understanding the impact of your own course redesign efforts or AI-related teaching strategies will require intentional reflection and evaluation.
+Below are a few suggestions for reflecting on your teaching, with a particular focus on AI.
+Review summative assessment data.
+Analyze data for any summative assessments (such as exams, essays, projects, or presentation) in your course that aligned to instruction that leveraged or limited AI. What insights on your approach to AI can you glean from students’ performance?
+Review formative assessment data.
+Consider data and observations from formative assessments related to AI, including quizzes, in-class practice activities, and student reflections. What insights on your approach to AI can you glean from students’ engagement and performance?
+Collect and consider student feedback about AI use in your course.
+Plan how you will collect student feedback about the use (or non-use) of AI in your course. You can survey students about your instructional approaches, any barriers they encountered in your course, and what elements most supported their learning and success. You might also revisit any informal written reflections students submitted about their use of AI during the term.
+The Small Group Instructional Diagnosis (SGID)
+is a service offered by the Drake Institute for Teaching and Learning that provides instructors with valuable student feedback through a focus-group style evaluation conducted by an instructional consultant. Information is collected on supports and barriers to student learning, as well as ideas for positive change. Your consultant can gather student feedback on specific areas of interest, such as your approach to AI in your instruction.
+Track your own observations and reflections about AI use in your course.
+Your
+personal reflections on the teaching and learning process, particularly around new uses of AI and specific AI-related learning activities, will be helpful in determining what to maintain or change for the next iteration of your course.
+Reflection is only as valuable as the work you do afterward… Each of the above components can provide meaningful insights as you iterate and improve upon your instruction to better support student learning.
+Find Help
+Thoughtfully considering your course goals, learning outcomes, and uses of technology may enhance and transform your teaching practice (Hilton, 2016). Changes that are a fundamental departure from your current practice could mean major adjustments to the learning activities, assessments, and instructor and student roles in your course. Sometimes these shifts may even require a complete redesign of your course.
+If you are unsure where to begin or need guidance along the way, a number of units across Ohio State are available to support you. To find assistance with course and assignment redesign, beyond the support provided by your department, browse our
+Teaching Support Forms
+.
+Image
+Explore
+Resources
+Artificial Intelligence at Ohio State
+References
+Ambrose, A, M. W. Bridges, M. DiPietro, M. C. Lovett, M. K. Norman. (2010) How learning works: Seven research-based principles for smart teaching. Jossey-Bass.
+Andrews, M., Prince, M., Finelli, C., Graham, M., Borrego, M., & Husman, J. (2022) Explanation and Facilitation Strategies Reduce Student Resistance to Active Learning, College Teaching, 70:4, 530-540, doi:
+10.1080/87567555.2021.1987183
+Anson, C., and Straume, I. (2022). Amazement and trepidation: Implications of AI-based natural language production for the teaching of writing.
+Journal of Academic Writing
+, 12(1), 1–9.
+https://doi.org/10.18552/joaw.v12i1.820
+Balloo K, Evans C, Hughes A, Zhu X and Winstone N (2018) Transparency Isn't Spoon-Feeding: How a Transformative Approach to the Use of Explicit Assessment Criteria Can Support Student Self-Regulation.
+Front. Educ
+. 3:69. doi: 10.3389/feduc.2018.00069
+Bean. J. (2011). Engaging ideas: The professor's guide to integrating writing, critical thinking, and active learning in the classroom. Jossey-Bass.
+Bloom, B.S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). Taxonomy of educational objectives: The classification of educational goals. Handbook I: Cognitive domain. New York: David McKay Company.
+Caines, A. (2023, January 27). ChatGPT and good intentions in higher ed.
+Is a Liminal Space
+. Retrieved March 1, 2023, from
+https://autumm.edtech.fm/2022/12/29/chatgpt-and-good-intentions-in-higher-ed/
+Carvalho, L., Martinez-Maldonado, R., Tsai, Y. S., Markauskaite, L., & de Laat, M. (2022). How can we design for learning in an AI world?
+Computers and Education: Artificial Intelligence
+,
+3
+.
+https://doi.org/10.1016/j.caeai.2022.100053
+Downs, L. (2023, January 6). Is AI the new homework machine? Understanding AI and its impact on higher education.
+WICHE Cooperative for Educational Technologies.
+Retrieved March 1, 2023, from
+https://wcet.wiche.edu/frontiers/2023/01/05/is-ai-the-new-homework-machine/
+Fink, D. L., (2013).
+Creating significant learning experiences: An integrated approach to designing college courses.
+San Francisco: Jossey-Bass
+Fyfe, P. (2022). How to cheat on your final paper: Assigning AI for student writing.
+AI & Society.
+https://doi.org/10.1007/s00146-022-01397-z
+Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. Proceedings of the National Academy of Sciences, 111(23), 8410-8415.
+https://doi.org/10.1073/pnas.1319030111
+Gero, K. I. (2022, December 2). AI reveals the most human parts of writing.
+Wired
+. Retrieved March 1, 2023, from
+https://www.wired.com/story/artificial-intelligence-writing-art/
+Grobe, C. (2023, February 13). Why I'm not scared of ChatGPT.
+The Chronicle of Higher Education.
+Retrieved February 24, 2023, from
+https://www.chronicle.com/article/why-im-
+not-scared-of-chatgpt
+Hilton, J. T. (2016). A Case Study of the Application of SAMR and TPACK for Reflection on Technology Integration into Two Social Studies Classrooms.
+The Social Studies, 107(
+2), 68–73.
+https://doi.org/10.1080/00377996.2015.1124376
+Howard, T. O.,  Winkelmes, M., & Shegog, M. (2020) Transparency Teaching in the Virtual Classroom: Assessing the Opportunities and Challenges of Integrating Transparency Teaching Methods with Online Learning,
+Journal of Political Science Education, 16
+(2), 198-211, DOI:
+10.1080/15512169.2018.1550420
+Hutson, M. (2021, March 3). Robo-writers: The rise and risks of language-generating AI.
+Nature News.
+Retrieved March 1, 2023, from
+https://www.nature.com/articles/d41586-021-00530-0
+Krause, S. (2022, December 11). AI can save writing by killing "the college essay".
+Steven D. Krause.
+Retrieved February 26, 2023, from
+http://stevendkrause.com/2022/12/10/ai-can-save-writing-by-killing-the-college-essay/
+Lombardi, M. (2007). Authentic learning for the 21st Century: An Overview. Educause Learning Initiative.
+McKendrick, J. (2023, February 22). Who ultimately owns content generated by ChatGPT and other AI platforms?
+Forbes
+. Retrieved February 26, 2023, from
+https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/?sh=42412ee75423
+McTighe, J. & Seif, E. (2003). A summary of underlying theory and research base for Understanding by Design.
+https://jaymctighe.com/wp-content/uploads/2011/04/UbD-Research-Base.pdf
+Meyer, P. (2023, February 21). ChatGPT: How does it work internally?
+Medium
+. Retrieved March 1, 2023, from
+https://pub.towardsai.net/chatgpt-how-does-it-work-internally-e0b3e23601a1
+Nguyen, K.A., Borrego, M., Finelli, C.J.
+et al
+. (2021). Instructor strategies to aid implementation of active learning: a systematic literature review.
+IJ STEM Ed
+8
+, 9.
+https://doi.org/10.1186/s40594-021-00270-7
+Prince, M. (2004), Does Active Learning Work? A Review of the Research. Journal of Engineering Education, 93: 223-231.
+https://doi.org/10.1002/j.2168-9830.2004.tb00809.x
+Schatten, J. (2022, September 22). Will artificial intelligence kill college writing?
+The Chronicle of Higher Education.
+Retrieved March 1, 2023, from
+https://www.chronicle.com/article/will-artificial-intelligence-kill-college-writing
+Selfe, C. L., ed. (2007). Multimodal Composition: Resources for Teachers. Hampton Press.
+Theobald, Elli J, Mariah J Hill, Elisa Tran, Sweta Agrawal, E Nicole Arroyo, Shawn Behling, Nyasha Chambwe, et al. 2020. “Active Learning Narrows Achievement Gaps for Underrepresented Students in Undergraduate Science, Technology, Engineering, and Math.” Proc Natl Acad Sci USA 117 (12): 6476.
+https://doi.org/10.1073/pnas.1916903117
+Tutella, F. (2023). Beyond memorization: Text generators may plagiarize beyond 'copy and paste'.
+Penn State University.
+Retrieved February 26, 2023, from
+https://www.psu.edu/news/research/story/beyond-memorization-text-generators-may-plagiarize-beyond-copy-and-paste/
+University of Central Florida. (n.d.).
+Artificial Intelligence.
+Retrieved March 1, 2023 from
+https://fctl.ucf.edu/technology/artificial-intelligence/
+University of Iowa - Office of Teaching, Learning & Technology. (n.d.).
+Artificial Intelligence Tools and Teaching.
+Retrieved March 1, 2023, from
+https://teach.its.uiowa.edu/artificial-intelligence-tools-and-teaching
+University of Toronto. (n.d.).
+ChatGPT and Generative AI in the Classroom.
+Retrieved March 1, 2023, from
+https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/
+Villasenor, J. (2023, February 10). How ChatGPT can improve education, not threaten it.
+Scientific American.
+Retrieved February 26, 2023, from
+https://www.scientificamerican.com/article/how-chatgpt-can-improve-education-not-threaten-it/
+Warner, B. (2022, December 19). AI for language learning: ChatGPT and the future of ELT.
+TESOL Blog.
+(2022, December 19). Retrieved February 24, 2023, from
+http://blog.tesol.org/ai-for-language-learning-chatgpt-and-the-future-of-elt/
+Weissman, J. (2023, February 24). The hidden benefit of ChatGPT.
+Forbes.
+Retrieved March 1, 2023, from
+https://www.forbes.com/sites/jerryweissman/2023/02/23/the-hidden-benefit-of-chatgpt/?sh=65289aa47f9a
+Wheeler, Lindsay B.; Palmer, Michael; and Aneece, Itiya (2019) "Students’ Perceptions of Course Syllabi: The Role of Syllabi in Motivating Students," International Journal for the Scholarship of Teaching and Learning: Vol. 13: No. 3, Article 7.
+https://doi.org/10.20429/ijsotl.2019.130307
+Winkelmes, M. A. (2013). Transparency in Teaching: Faculty Share Data and Improve Students' Learning. Liberal Education, 99(2).
+Winkelmes, M., Bernacki, M., Butler, J., Zochowski, M., Golanics, J., & Weavil, K.H. (2016). A teaching intervention that increases underserved college students’ success. Peer Review, 18(1/2). 31–36.
+Wiggins, G., & McTighe, J. (2005). Backward design. In Understanding by Design. (2nd ed., pp. 13-34) ASCD.
+Related Teaching Topics
+AI Teaching Strategies: Designing Your Carmen AI Assistant
+Learn how to design, set up, and refine an AI assistant that complements your teaching and supports student learning.
+AI Teaching Strategies: Developing Your Course Policy
+Understand the building blocks of a transparent AI course policy and how to communicate your expectations to students.
+AI Teaching Strategies: Having Conversations with Students
+Explore strategies, conversation starters, and activities that will help you openly discuss AI with your students.
+AI Teaching Strategies: Transparent Assignment Design
+Learn how a transparent design process can simplify planning assignments that use generative artificial intelligence.
+Navigating Assessment and AI at Ohio State: Learning Together
+Learn how Ohio State educators are evolving student assessments in response to problems and opportunities presented by AI.
+Search for Resources
+Search
+Submit

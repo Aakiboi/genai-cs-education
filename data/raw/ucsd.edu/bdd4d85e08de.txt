@@ -1,0 +1,195 @@
+CSE 221: Graduate Operating Systems
+CSE 221: Graduate Operating Systems
+CSE 221: Graduate Operating Systems
+Fall 2025
+Instructor
+Amy Ousterhout
+aousterhout@ucsd.edu
+CSE 3130
+Lectures
+Tu/Th 3:30–4:50pm
+Mosaic 0204
+Teaching Assistant
+Tianyi Shan
+Office Hours
+Amy: Wed 1:00-1:50 pm (or by appointment)
+Tianyi: Mon 1:00-2:00 pm in CSE 2236 or on Zoom (
+https://ucsd.zoom.us/my/tshan
+)
+Textbook
+This course does not have a required textbook.
+However, I strongly recommend using an undergraduate operating systems
+textbook as a reference.  Any reasonably recent OS textbook will
+suffice, such as:
+Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+Operating Systems: Three Easy Pieces
+Version 1.10   (Available
+free
+online!)
+Anderson and Dahlin,
+Operating Systems: Principles and Practice
+, 2nd Edition (2014)
+Recursive Books, ISBN 978-0985673529
+Platforms
+Piazza
+,
+Gradescope
+,
+Canvas
+Prerequisites
+CSE 120
+or equivalent (e.g., an OS course at your undergraduate institution)
+Enrollment
+Graduate students - complete
+this Google Form
+if you are interested in enrolling. You will be given a chance to enroll as space becomes available.
+Undergraduate students - submit an
+EASy request
+. Your request will be processed in week 1 or 2 if space permits (graduate students are prioritized for enrollment in graduate courses).
+Note: The format of this course is somewhat unusual. It is a highly interactive discussion-based course with significant class participation. As a result, students are expected to attend lectures and engage in person. Lectures will not be recorded. See the "Class Participation" section below for more details.
+Course Objectives
+The purpose of this course is to teach computer software system
+structures from a design point of view. We will look at different
+structuring techniques, and we will examine their usage in both
+important historical systems and in modern systems.
+In addition to learning about different system structures and
+different operating systems, you will learn:
+How to read a research paper in an objective manner.
+How to write a critical analysis of the research described in a paper.
+How to articulate your understanding of and insights into a research paper.
+How to synthesize research themes and topics across multiple papers.
+Reading List
+The course does not have a textbook.  Instead, the course material
+will come from seminal, noteworthy, or representative papers from the
+literature.  Each lecture (except the first) will have two assigned
+papers to read.  You should read these papers
+before
+coming to
+class, and be prepared to discuss them (written evaluations are not
+required).  Occasionally we will also list recommended papers; you are
+encouraged to read those, but not required.  Students often find it
+useful to discuss papers together before the class period, and we
+encourage the practice (see more on collaboration below).
+Reading list and schedule
+Class Participation
+The structure of this course is unusual in that there are no
+slide-based presentations during the class period.  Instead, we will
+discuss research papers that we will have all read before each class
+period.
+I will lead the lecture discussions by asking questions of
+students at random in class.  Note that your answers to these
+questions form a part of your overall grade, so it is important that
+you both show up to class as well as read the papers carefully.  To
+give you some structure for reading through the papers, keep the
+following questions in mind and ask yourself how you would answer
+these questions about each paper:
+What problem does the paper address?
+How is it different from previous work, if any?
+What is the approach used to solve the problem?
+How does the paper support or otherwise justify its arguments and conclusions?
+Was the paper, in your judgement, successful in addressing the problem?
+To grow accustomed to the unusual format of this class, you will
+not be graded on class participation during the first two weeks of
+class.
+You might have to miss class for one reason or
+another (e.g., travel, interview, illness).
+Since you will not be in class
+to participate in discussion, to help motivate you to make sure you
+stay on top of the readings I ask that you write a brief evaluation
+of the papers for the class that you will miss.  For the evaluation,
+briefly answer the above questions about the papers.
+Your evaluation should be concise, with just one to a few
+sentences per question.  Also, below each paper on the reading list
+is a question specific to the paper topic.  Please conclude your
+evaluation by answering this question if present.  Email your
+evaluations to me within two days of the missed class.
+Homework
+We will have a few written homeworks.
+The homeworks serve as good
+practice for thinking about papers and answering questions found on
+the final.
+Homework 1
+(Out 10/8, Due 10/22)
+Homework 2
+(Out 10/21, Due 11/5)
+Homework 3
+(Out 11/14, Due 12/3)
+Please submit your homework on time.  Unless you make arrangements
+with me ahead of time, we will reduce homework grades by 20% for each day
+that they are late.
+Project
+In the course project, students will measure various aspects of system
+performance on a platform of their choice.
+Project description
+Exam
+We will have one exam at the end of the quarter.  Questions on the
+exam will be similar to some of the questions on the homework and in
+the reading list.  The exam is closed notes with a one-page (double-sided)
+"cheat sheet". You can use this past exam as an example of the kinds
+of questions to expect:
+Fall 2003
+(Note: This exam was taken in an 80-minute exam period)
+MS students:
+Note that the CSE 221 final exam satisfies the
+MS competency exam (the passing threshold is B- or higher). You do not
+need to take a separate comps exam.
+Grading
+The grading breakdown for the course is:
+Class participation: 15%
+Homework: 20%
+Project: 30%
+Final: 35%
+Collaboration
+Papers.
+I strongly encourage you to discuss the papers with
+other students in the class — you may have insights that others
+do not, and vice versa.  Often students form reading groups, which I
+heartily encourage.  Note that group discussion, however, is not an
+effective substitute for actually reading the paper.
+Homework.
+You can also discuss the homework problems, but
+you must independently complete the assignments yourself.  As a rule
+of thumb, you can discuss a homework problem in the lounge with
+others, walk home, wash the dishes, and then write up your answer to
+the problem on your own.  You cannot, however, discuss homework
+problems with others and then write your answers to those problems at
+the same time.
+Project.
+You can complete the course project as a team.  You
+can discuss project materials with others in the course, but your code
+must have been authored exclusively by members of your team; you may
+not copy code from another team, copy code from an AI tool, or make
+your code available to others.
+Exam.
+The exam is an individual effort.
+You are expected to be aware of UCSD's
+academic
+honesty guidelines
+.  Any violation of the course or university
+policies will be treated very seriously, and could lead to severe
+repercussions.  Don't cheat.  It's not worth it.
+Generative AI Policy
+Generative AI tools such as ChatGPT, Claude, and Gemini are powerful
+resources. You may use these tools in this course, but only as a way to
+enhance your learning and not as a substitute for learning.
+For example, you may ask these tools the kinds of questions that you
+might have asked a search engine in the past, such as "what is the
+difference between a lock and a sempahore?" or "how can I create a table
+in latex?"
+Here are some examples of ways in which you may not use generative AI tools:
+Asking an AI tool to summarize a research paper
+Asking an AI tool to answer a homework question and submitting
+the answer as your own work
+Asking an AI tool to write a benchmark for the project and submitting
+that code as your own work
+Asking an AI tool to generate text for your project report and
+submitting that as your own work
+In each of these examples, use of an AI tool prevents you from learning a
+skill that this course aims to teach.
+You are responsible for all work that you submit in this course and
+may be asked to explain your approach to the instructor or TA.
+If you are found to have violated the policy above,
+you (and your teammates if applicable) will receive a zero on the portions of
+the assignments that you used generative AI for. If you have any questions
+about this policy, please do not hesitate to ask.
+aousterhout@ucsd.edu

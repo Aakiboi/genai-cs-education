@@ -1,0 +1,249 @@
+Experimenting with AI-Assisted Coding | News & Events | Computer Science | Northwestern Engineering
+Experimenting with AI-Assisted Coding | News & Events | Computer Science | Northwestern Engineering
+Northwestern Engineering
+About
+Academics
+Research & Faculty
+Offices & Services
+Information for:
+Students
+Faculty & Staff
+Alumni
+Companies
+News & Events
+Contact & Visit
+Careers
+Donate
+Resources
+Computer Science
+Search this site
+Search
+Search this site
+Search
+Menu
+About
+Collapse
+About Submenu
+About the Department
+Message from the Chair
+Academics
+Collapse
+Academics Submenu
+Academics
+Undergraduate
+Collapse
+Undergraduate  Submenu
+Computer Science Major (BS/BA Degrees)
+Collapse
+Computer Science Major (BS/BA Degrees) Submenu
+Computer Science Major (BS/BA Degrees)
+Curriculum Requirements
+Artificial Intelligence Major
+Collapse
+Artificial Intelligence Major Submenu
+Major in Artificial Intelligence
+Curriculum Requirements
+Combined BS (or BA)/MS Degree Program
+Computer Science Minor
+Artificial Intelligence Minor
+Machine Learning and Data Science Minor
+First-Year Focus
+Undergraduate Research
+Collapse
+Undergraduate Research Submenu
+Undergraduate Research
+Research Track
+Senior Thesis
+Student Groups & Organizations
+Special Programs & Opportunities
+Undergraduate Programs
+Peer Mentors
+Graduate
+Collapse
+Graduate Submenu
+MS in Computer Science
+Collapse
+MS in Computer Science Submenu
+Curriculum & Requirements
+Master of Science in Computer Science
+PhD in Computer Science
+Collapse
+PhD in Computer Science Submenu
+Curriculum & Requirements
+PhD in Computer Science
+Admissions
+Collapse
+Admissions Submenu
+Admissions
+Admissions FAQ
+Financial Aid
+Student Groups & Organizations
+Graduate Programs
+Courses
+Collapse
+Courses Submenu
+Research
+Collapse
+Research Submenu
+Research Overview
+Research Areas
+Collapse
+Research Areas Submenu
+Research Areas
+Artificial Intelligence and Machine Learning
+Human-Computer Interaction
+Programming Languages
+Quantum Science and Engineering
+Robotics
+Security and Privacy
+Systems and Networking
+Theory
+Vision and Graphics
+Groups & Labs
+Affiliated Centers & Institutes
+Industry Partnerships
+Collapse
+Industry Partnerships Submenu
+Industry Partnerships
+Adobe Research Partnership
+Center for Advancing Safety of Machine Intelligence
+Tech Reports
+Collapse
+Tech Reports Submenu
+Tech Reports
+Post-2000
+Pre-1999
+Machines
+CS+X
+People
+Collapse
+People Submenu
+Faculty
+Collapse
+Faculty Submenu
+Faculty
+Tenure-Track Faculty
+Faculty of Instruction
+Affiliated Faculty
+Adjunct Faculty
+Emeritus Faculty
+Staff
+Postdoctoral Fellows and Research Associates
+PhD Students
+Collapse
+PhD Students Submenu
+A - K
+PhD Students
+L - R
+S - Z
+Outgoing PhDs and Postdocs
+Visiting Scholars
+Advisory Board
+News & Events
+Collapse
+News & Events Submenu
+News
+Collapse
+News Submenu
+All News
+News Archive
+Newsletters
+Collapse
+Newsletters Submenu
+Newsletter
+Weekly Bulletin
+All Public Events
+Seminars, Workshops, & Talks
+Collapse
+Seminars, Workshops, & Talks Submenu
+Seminars, Workshops, & Talks
+Distinguished Lecture Series
+CS Colloquium Series
+CS + X Events
+Tech Talk Series
+Honors and Awards
+Collapse
+Honors and Awards Submenu
+Honors & Awards
+External Faculty Awards
+University Awards
+Department Awards
+Contact
+Careers
+Resources
+Collapse
+Resources Submenu
+RESOURCES
+Student Resources
+Collapse
+Student Resources Submenu
+Student Resources
+Undergraduate Student Resources
+MS Student Resources
+PhD Student Resources
+Student Organization Resources
+Faculty Resources
+Postdoc Resources
+Staff Resources
+Travel
+Purchasing, Procurement and Vendor Payment
+Expense Reimbursements
+Department Operations and Facilities
+Teaching Development
+Northwestern Engineering
+Explore CS+X
+Department News
+Experimenting with AI-Assisted Coding
+In the Applied AI for Software Development course launched by Hamilton Murrah (MBAi ’25), fourth-year and master’s degree students are drawing on their foundational programming knowledge to experiment with GenAI tools.
+Jun 4, 2025
+Michelle Mohney
+By 2027, generative AI (GenAI) will likely be embedded into nearly every company’s digital footprint, according to an
+analysis
+by Deloitte. While the World Economic Forum
+predicts
+software and applications developers to be among the fastest-growing jobs between 2025-2030, tech leaders continue to speculate on GenAI’s dramatic impact to the software development industry.
+In March, Anthropic CEO Dario Amodei
+told
+the Council on Foreign Relations that AI will be writing 90 percent of all code within three to six months. Likewise, Meta CEO Mark Zuckerberg
+forecasted
+that it will be feasible to build an AI agent this year with the coding and problem-solving skills of a mid-level engineer.
+And, though GitHub’s CEO Thomas Dohmke
+estimated
+in 2023 that 80 percent of code is going to be written by Copilot, he does not believe developers will be replaced. Dohmke, in fact, still
+advocates
+for teaching coding as a core skill as fundamental in early childhood as literacy or mathematics.
+Whether these predictions prove hyperbole or harbinger, GenAI is already augmenting and automating software engineering workflows – from ideation to implementation to testing and debugging.
+Thirty Northwestern Engineering computer science students — a mix of fourth-year undergraduates, combined BS/MS, and master’s degree students — are drawing on their own foundational programming knowledge to experiment with GenAI tools in the new
+COMP_SCI 397: Applied AI for Software Development
+course.
+Launched by
+Hamilton Murrah
+(MBAi ’25), the course reflects the department’s philosophy of training students how to think computationally, approach problems from an algorithmic and systems perspective, and understand the evolving layers of the software and hardware stack.
+“It’s been two and a half years since the release of ChatGPT, and it’s now clearer than ever that students need a firm grasp of the fundamentals before they begin to use GenAI tools for code development,” said
+Sara Owsley Sood
+, Chookaszian Family Teaching Professor of Instruction and associate chair for undergraduate education in computer science at the McCormick School of Engineering. “This class serves as an important transition for students as they near the completion of their degree and prepare to enter the workforce. I'm thrilled with the class that Hamilton has created.”
+Last December, Murrah completed the MBAi joint degree program through Northwestern’s
+Kellogg School of Management
+and Northwestern Engineering. He and Sood began formulating the Applied AI for Software Development course while Murrah served as a teaching assistant for Sood’s MBAi course, Computational Thinking for Business Leaders. The foundational course helps students use a leadership lens to understand how to develop strategies related to AI-driven projects.
+“You have to use the right tool for the right job,” Murrah said. “These tools are only as good as the user, and if you don't start with a solid base of foundational skills and functional knowledge, how can you ever use a tool to its full potential? What's really important is having people who know how to interact with and get the best results from GenAI systems while also being able to thinking critically about what is needed to solve a specific problem.”
+AI-assisted coding
+To establish a common baseline among the students and help them upskill using increasingly sophisticated AI-assisted coding tools, students spent the first two weeks of the course testing how tools like ChatGPT, Cursor, and Claude.ai handled tasks such as debugging, refactoring, and exploring natural language coding though pseudocode.
+For the remainder of the course, student teams pair programmed a full-stack, Twitter-style application. They began with the creation of the back-end infrastructure and server logic, followed by the development of the front-end user interface. Next, they designed a database capable of handling the volume and real-time demands of social media. Finally, the teams established communication and managed the data flow between the components to deliver a cohesive application.
+And, while they are using GenAI tools throughout the development lifecycle, students are documenting each step of their decision-making processes via an architecture design document. Drawing on his industry experience as a product manager at Capital One prior to starting the MBAi program, Murrah and the engineering teams have stand-up meetings to discuss progress, troubleshoot problems, and debrief on assignments.
+“When you're in a meeting with your manager, you won't be able to pull up ChatGPT and say, ‘why am I doing it this way?’ You need to be able to communicate why you made certain decisions,” Murrah said.
+To get a better sense of the practices and policies around GenAI in different types of companies — such as Big Tech firms, fintech, and legacy sectors such as space and defense — students interviewed software engineers. Murrah said that, due to concerns around hallucination and copyright violation liability as well as skepticism from engineers, most of the organizations the class heard from are using Copilot or a company-specific AI tool.
+“A few students talked to startups, and I assumed they would be really nimble and quick to adopt AI tools, but it was just the opposite,” Murrah said. “The startups we spoke with were really worried about code quality and code ownership.”
+Given the range and level of systems used by different sectors and companies, Murrah aimed to equip students with a breadth of experience with various GenAI tools, enabling them to use them productively and effectively augment their work.
+“This is the kind of class I would have wanted to take as an undergraduate preparing for a career in software development,” Murrah said. “We wanted to create a practical course that reflects the real-world scenario of AI-assisted coding. Students will undoubtedly use these tools in some way right upon graduation, and we want to set them up for success.”
+McCormick News Article
+BACK TO TOP
+Engineering Home
+CS Department
+News & Events
+News
+News Article
+Recent Stories
+FORGE Student Spotlight: Kanagha Santhoshini Sivakumar
+April Wang Attends Heidelberg Laureate Forum
+Alum Spotlight: Jay Budzik (PhD ’03)
+PhD Student Spotlight: Jerry Yao-Chieh Hu

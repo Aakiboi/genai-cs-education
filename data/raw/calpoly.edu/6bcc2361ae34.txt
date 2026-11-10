@@ -1,0 +1,154 @@
+Syllabus Statements: AI Core Values and Syllabus Statements - CTLT - Cal Poly, San Luis Obispo
+Syllabus Statements: AI Core Values and Syllabus Statements - CTLT - Cal Poly, San Luis Obispo
+Skip to Content
+?
+Current Students
+Prospective Students
+Parents
+Business Community
+Faculty & Staff
+Alumni
+my CalPoly login
+A-Z Index
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Quick Links
+Workshops
+Fac Showcase
+Syllabus
+QOLT
+Flipping
+Maps
+CTLT
+Center for Teaching, Learning & Technology
+Home
+: Syllabus Statements: AI Core Values and Syllabus Statements
+NAVIGATION
+Programs & Services
+Teaching Resources
+Accessible Learning
+Syllabus Statements
+Writing Resources
+Diversity & Inclusion
+Course Design
+Instructional Technologies
+Instructional Practices
+A-Z Resources
+About Us
+Instructional Continuity
+Quick Start
+Strategies
+ZOOM
+ScreenPal
+Students with Disabilities
+Plan for Accessibility
+Captioning for Live and Recorded Lectures
+Assessments for Virtual Instruction
+Strategies for Equity and Inclusion
+Syllabus Statements: AI Core Values and Syllabus Statements
+Syllabus statements are an important way for faculty to accomplish a number of useful goals at the outset of each course: Reduce the number of predictable questions from students, help establish students' expectations about the course at the outset, reduce students’ uncertainty (and increase their comfort level) about you and the course, generate more positive perceptions about who you are and how you will conduct the class, and convey your commitment to supporting them as individuals. This page offers information about AI Core Values and Syllabus Statements, examples of language that can be copied or revised for individual faculty use in course syllabi.
+AI Core Values and Syllabus Statements
+This page provides Cal Poly instructional faculty practical tools for integrating statements about AI usage into their course syllabi. It includes sample syllabus statements on core values and course policies on AI use. The
+CSU AI Commons
+also has many excellent resources and official guidance from the CSU system on incorporating AI in instruction;
+Guidelines for Faculty Regarding AI in Instruction
+is a good starting place. These resources are intended to support the development of transparent classroom policies and encourage thoughtful decisions to use, or not use AI in teaching strategies and course design.
+Choosing a Statement
+Please edit and adapt any of the following examples at your discretion. In addition to the examples provided here, many more sample syllabus statements are available in the
+Syllabi Policies for Generative AI Repository
+. A helpful tool for building your own syllabi statements is Pepperdine University’s
+generative AI syllabus statement Builder
+(now hosted at Washington Lee University.) Without using AI, this tool helps create a syllabus statement tailored to a specific course. Note that any syllabi statements on AI usage should align with Cal Poly’s policies on Academic Integrity.
+Core Values Statements for Student Use of AI
+Consider including core values for student use of AI in your syllabus, in alignment with your AI policy and approach. The core values statements below were drawn from
+"Ethical and Responsible Use of AI for Students,"
+from the AI Commons at the California State University, via license
+CC BY 4.0
+.
+Integrity
+Use AI tools to support learning, not to circumvent academic responsibilities.
+Distinguish your own original work by properly acknowledging all AI-generated content.
+Transparency
+Be clear and honest about when and how AI tools have been used in your work.
+Disclose AI assistance in line with institutional guidelines.
+Example: “This essay was drafted with the assistance of ChatGPT and edited for originality.”
+Accountability
+Always verify the accuracy and reliability of AI-generated information, and cross-check facts and cited sources.
+Recognize that you are ultimately responsible for the quality and originality of your submissions.
+Critical Thinking
+Treat AI-generated suggestions as starting points, not final answers.
+Recognize that AI tools may generate inaccurate or biased information.
+Apply your own analysis, reasoning, and creativity to refine AI outputs.
+Gray Areas: Ethical Decision-Making
+When in doubt, consider the following questions:
+Am I using AI as a tool to learn and create or as a shortcut to avoid effort?
+Am I adding my own critical thinking, creativity, and effort to AI outputs?
+Would I be comfortable explaining how I used AI to my instructor or peers?
+Have I discussed how AI should and not be used for learning and completing required assignments with the instructor and my student peers?
+Does this use align with my institution's academic integrity policies?
+Example AI Syllabus Statements
+If AI use is prohibited
+Example #1
+The use of generative AI tools (such as ChatGPT, Google Gemini, Microsoft Copilot, Claude, etc.) is strictly prohibited in this course. All assignments, essays, and other submitted work must be your original, independent creation. Because AI is explicitly prohibited in this course, submitting AI-generated work will be considered a violation of the Cal Poly Academic Integrity Policy. Such violations will be treated as plagiarism and may result in a failing grade for the assignment or the course.
+Example #2
+In this class, your work reflects your own learning and effort. While tools like ChatGPT and other generative AI platforms are powerful and increasingly common, you may not use them in this course. When you submit your work, you're affirming that it's your own original creation. This means you should not use generative AI to write, outline, revise, or polish any part of your assignments. I’m here to support your growth, and that starts with honest, authentic work. If there is evidence that AI tools were used inappropriately, it will be addressed according to the university’s academic integrity policies. Let’s keep learning real and meaningful—your voice matters!
+If AI use is restricted or limited
+Example #1
+In this course, generative AI tools (such as ChatGPT, Google Gemini, Microsoft Copilot, Claude, etc.) may only be used for specific purposes and assignments [insert specific purposes and assignments, if possible] as explicitly authorized by me. You may not, however, use these technologies for any other assignments or aspects of this course. Any use of authorized AI-generated content must be documented and cited according to [insert instructions or citation format]. If you are unsure of how to use or cite AI in this course appropriately, please ask me. Unauthorized use of AI in this course is a violation of the Cal Poly Academic Integrity policy and will be treated as plagiarism. Violations may result in a failing grade for the assignment or the course.
+Example #2
+You are welcome to use generative AI tools (such as ChatGPT, Google Gemini, Microsoft Copilot, Claude, etc.)  in this class as doing so aligns with the course objectives of Creating Mission and Vision Statements, Creating a Sample Budget, and Creating Plans for your own Performing Arts Organization or Museum. You may not use generative AI for the remaining assignments. You are responsible for the information you submit based on an AI query (for instance, that it does not violate intellectual property laws, or contain misinformation or unethical content). Your use of AI tools must be properly documented and cited in order to stay within university policies on academic integrity. Remember, AI is not likely to generate a response that would be seen as quality work and should be modified and improved.
+If AI is permitted and encouraged
+Example #1
+You are welcome to use generative AI tools (such as ChatGPT, Google Gemini, Microsoft Copilot, Claude, etc.) in this class, and in some cases, you will be expected to do so. AI usage should be documented and cited [insert instructions or citation format]. You are responsible for respecting intellectual property and ensuring that any information generated by AI is accurate and ethical.
+Example #2
+Within this course, you are welcome to use generative artificial intelligence (AI) models (such as ChatGPT, Google Gemini, Microsoft Copilot, Claude, etc.) with correct acknowledgment (you can ask the AI to cite itself in APA7 to help you). However, you should note that all large language models, image generators, and chatbots tend to locate incorrect facts and submit them as fact, make incorrect citations, perpetuate biases, create offensive products, and may violate copyright. Therefore, be sure that you consider ethical AI usage, data privacy and security, addressing potential biases in AI algorithms, and appropriately balancing technology with human interaction as you will be responsible for any inaccurate, biased, offensive, or unethical content you submit, regardless of its origin (you or the AI). Any use of AI-generated content must be documented and cited according to [insert instructions or citation format].
+Optional additions to AI statements, when appropriate
+Addition #1
+AI tools should support, not replace, your learning. Think critically about all your assignments, but particularly if you choose to use AI. AI should enhance learning, not substitute critical thinking and knowledge construction.
+Addition #2
+Use of AI is entirely voluntary and optional.
+Addition #3
+If you use an AI model, you must accurately cite your AI use [insert instructions or citation format], and include answers to the following questions: What was your prompt? Was the AI model for your original output for your submission? Did you ask follow-up questions?
+All course policy examples were either created by the CTLT or adapted from statements posted to the
+Syllabi Policies for Generative AI Repository,
+from the AI Commons at the California State University, via license
+CC BY 4.0.
+Related Content
+Teaching
+Teaching Resources
+CTLT Workshops
+Want to learn more?
+Workshops
+Canvas
+Cal Poly Canvas...
+Learn More
+Inclusion
+Diversity & Inclusion in the Classroom.
+More about inclusion
+Writing
+​Writing across the curriculum.
+Writing Matters

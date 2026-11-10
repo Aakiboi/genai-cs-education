@@ -1,0 +1,354 @@
+AI Programming
+Copyright © 2026 by
+Robert M. Dondero, Ph.D
+Princeton University
+1
+Objectives
+• The lecture will cover:
+– How to use generative AI to help you 
+compose code
+• This lecture will not cover:
+– How generative AI works
+– How to develop applications that offer users 
+AI functionality
+2
+I’m not an expert!
+3
+Agenda
+• Generative AI for SW engineering
+• AI programming tools
+• Prompt heuristics
+• Copilot in VS Code
+• Example
+• Personal observations
+• AI in COS 333
+4
+• Requirements 
+analysis
+• Design
+• Implementation
+• Debugging
+• Testing
+• Evaluation
+• Maintenance
+Objectives
+Our focus 
+now (and 
+your initial 
+focus?)
+Generative AI for SWE
+GenAI can be useful at 
+all stages of SWE:
+5
+Agenda
+• Generative AI for SW engineering
+• AI programming tools 
+• Prompt heuristics
+• Copilot in VS Code
+• Example
+• Personal observations
+• AI in COS 333
+6
+AI Programming Tools
+Front-End Tools 
+(interfaces to LLMs)
+Human Programmers
+Large Language 
+Models (LLMs)
+7
+AI Programming Tools
+• LLMs
+– Known to be good for programming:
+• Claude Mythos / Fable / Opus family (Anthropic)
+• GPT-5.x family (OpenAI)
+• Gemini 3.x (Google)
+8
+AI Programming Tools
+• Front-end tools
+– Terminal-based AI tools
+• Tools that you run from a shell prompt
+• Examples: Claude Code, GitHub Copilot, Aider, 
+Cline
+9
+AI Programming Tools
+• Front-end tools
+– Integrated Development Environment 
+(IDE) plugins
+• Tools that you run as plugins within IDEs (VS 
+Code, JetBrains, XCode, Eclipse, …)
+• Provide:
+– Context-aware code assistance
+– Chat via prompts
+• Examples: GitHub Copilot, JetBrains AI Assistant, 
+Amazon Q Developer, Tabnine, Supermaven, 
+Codeium
+10
+AI Programming Tools
+• Front-end tools
+– AI-first code editors
+• Tools that are combination editors and IDE plugins
+• Examples: Cursor, Devin Desktop, Zed
+11
+AI Programming Tools
+• Use a terminal-based AI tool when you 
+need the tool to have:
+– Broad control of your computer
+• Use an IDE plugin AI tool when you need 
+the tool to have:
+– Rich understanding of your project and rich 
+interaction with your editor
+12
+AI Programming Tools
+13
+Task Terminal-Based AI IDE Plugin AI
+Run shell commands Excellent Usually possible via 
+integrated terminal
+Manage (long-running) 
+processes/services
+Excellent Awkward, usually 
+limited/indirect
+Work with multiple unrelated 
+repos (files outside project)
+Excellent Often restricted
+SSH into other computers Excellent Possible, but less natural
+Use Unix pipes/composition Excellent Awkward
+Operate on arbitrary 
+server/infrastructure
+Excellent Usually less convenient
+Automate outside the 
+project
+Excellent Less natural
+AI Programming Tools
+14
+Task Terminal-Based AI IDE Plugin AI
+Edit code Good Excellent
+Understand open files/tabs Not inherently Excellent
+Understand editor 
+selections
+Not inherently Excellent
+See compiler/linter 
+diagnostics inline
+No Excellent
+Navigate 
+symbols/references
+Via external tools Excellent
+Debug interactively Difficult, via CLI debugger Excellent
+Visually show file diffs No Excellent
+AI Programming Tools
+• Typical terminal-based AI prompts:
+– Figure out why our app has been restarting.”
+– “Upgrade all our repos from Python 3.12 to 
+Python 3.14.”
+• Typical IDE Plugin AI prompts:
+– “React component XXX is rendering 
+unnecessarily; determine why and fix the 
+problem.”
+– “Rename interface XXX to YYY and update 
+every reference.”
+15
+AI Programming Tools
+• For helping you write COS 333 project 
+code I recommend an IDE plugin
+• Use an IDE plugin in two modes:
+– Context aware code assistance
+• Probably will come to you naturally
+– Chat via prompts
+• You might benefit from some suggestions of 
+heuristics…
+16
+Agenda
+• Generative AI for SW engineering
+• AI programming tools
+• Prompt heuristics
+• Copilot in VS Code
+• Example
+• Personal observations
+• AI in COS 333
+17
+Prompt Heuristic 1
+• Prompt incrementally by app feature
+– Prompts describe too many app features =>
+• Code might be difficult to understand
+• Code might be difficult to test
+– Example prompt (bad):
+• Develop a 3-tier app…
+18
+Prompt Heuristic 1
+• Prompt incrementally by app feature 
+(cont.)
+– Example prompts (good):
+• Develop the first endpoint …
+• Develop the second endpoint…
+• …
+• Develop client-side code…
+• Add authentication…
+• Check security…
+• …
+19
+Prompt Heuristic 2
+• Be specific
+– Describe inputs to the desired code
+– Describe proper outputs from the desired 
+code
+– Describe proper handling of boundary cases 
+by the desired code
+– Describe proper error handling by the 
+desired code
+• Parameter validation
+• Exception handling
+– Provide examples as necessary
+20
+Prompt Heuristic 2
+• Often recommended prompt pattern:
+ Role:
+Senior software engineer. 
+Context:
+[project description} 
+Task:
+[specific task] 
+Requirements:
+[list of requirements] 
+Constraints:
+[list of constraints] 
+Output:
+[exact format required] 
+Review:
+{inrospection on design decisions, 
+weaknesses, security vulnerabilities, 
+etc.] 21
+However…
+Prompt Heuristic 3
+• Prompt at a moderate level of detail
+– Prompts too shallow =>
+• AI will guess
+• You’ll waste time composing many follow-up 
+prompts
+• AI might “drift” during long prompt sequences
+– Prompts too deep =>
+• You’ll waste time composing the prompt!
+• AI might be overwhelmed
+• You might lose learning opportunities
+22
+Prompt Heuristic 3
+• Prompt at a moderate level of detail 
+(cont.)
+– Prompts at moderate level =>
+• Gives the model enough structure to be useful
+• Gives the model enough flexibility to adapt
+– Guide the AI, but don’t overwhelm the AI
+23
+Prompt Heuristic 3
+• Prompt at a moderate level of detail 
+(cont.)
+24
+specify generate inspect refine
+Moderate prompting keeps the 
+loop fast and stable
+Prompt Heuristic 3
+• (Recall) often recommended prompt 
+pattern:
+Role:
+Senior software engineer. 
+Context:
+[project description} 
+Task:
+[specific task] 
+Requirements:
+[list of requirements] 
+Constraints:
+[list of constraints] 
+Output:
+[exact format required] 
+Review:
+{inrospection on design decisions, 
+weaknesses, security vulnerabilities, 
+etc.]
+OK, but your 
+goal should be 
+moderation, 
+not depth
+25
+Prompt Heuristic 4
+• Require testing
+– Require AI to write test code
+• Maybe before it writes the production code!!!
+– (If possible) require AI to compile production 
+and test code
+– (If possible) require AI to run the test code 
+against the production code
+26
+Prompt Heuristic 5
+• Remember to prompt for debugging 
+– Show error messages
+– Require corrections
+27
+Prompt Heuristic 6
+• Remember to prompt for explanations
+– Ask the AI to explain any code that you don’t 
+understand
+28
+Prompt Heuristic 7
+• Record important decisions
+– Command the AI to keep a record of 
+important decisions in a history.md (or 
+whatever) file
+– Tell the AI to read the history.md file at the 
+beginning of each conversation (or prompt)
+29
+Agenda
+• Generative AI for SW engineering
+• AI programming tools
+• Prompt heuristics
+• Copilot in VS Code
+• Example
+• Personal observations
+• AI in COS 333
+30
+Copilot in VS Code
+• GitHub Copilot in VS Code
+– Can choose underlying LLM
+• Default: Claude Sonnet 5.5
+• Alternatives: GPT-6 Luna, many others
+– Can fine-tune underlying model
+• Size of context window, think deeply vs respond 
+quickly, …
+31
+Copilot in VS Code
+• GitHub Copilot (in VS Code) (cont.)
+– (con) Free tier is limited
+• Restricted access during peak times
+• Limited context depth
+– (pro) GitHub Copilot Student
+• Free GitHub Copilot Pro
+– Higher free tier limits
+– You should subscribe to GitHub Copilot 
+Student!!!
+32
+Copilot in VS Code
+33
+
+Copilot in VS Code
+34
+Extensions
+Copilot in VS Code
+35
+Explorer
+Copilot in VS Code
+36
+Open file
+Copilot in VS Code
+37
+Copilot
+transcript
+Copilot in VS Code
+38
+Copilot prompt
+input area
+Copilot in VS Code
+39
+Copilot LLM 
+selector
+Copilot in VS Code
+40
+Copilot status 
+(credits used)

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Project Timeline</title>
+<link rel="stylesheet" href="style.css">
+<script src="data/timeline.js"></script>
+</head><body>
+<script src="nav.js"></script>
+<main class="wrap">
+<h1>Project timeline &amp; contributions</h1>
+<p class="sub">Who did what, and when. Human questions and decisions, Claude's responses and milestones (<code>logs/timeline.jsonl</code>), plus every git commit.</p>
+<div class="kpis" id="kpis"></div>
+<h2>Division of labor</h2>
+<div class="grid">
+  <div class="card"><h3><span class="who human">Human</span></h3><ul id="humanRole"></ul></div>
+  <div class="card"><h3><span class="who claude">Claude</span></h3><ul id="claudeRole"></ul></div>
+</div>
+<h2>Timeline</h2>
+<div class="controls"><input type="search" id="q" placeholder="Search…">
+<select id="actor"><option value="">Everyone</option><option value="human">Human</option><option value="claude">Claude</option><option value="commit">Commits</option></select>
+<select id="kind"><option value="">All kinds</option></select><select id="phase"><option value="">All phases</option></select></div>
+<div class="card"><div class="tl" id="tl"></div></div>
+</main>
+<script>
+const T = window.TIMELINE;
+const items = [...T.events.map(e => ({ ...e, who: e.actor })),
+  ...T.commits.map(c => ({ ts: c.ts, who: "commit", kind: "commit", phase: null, summary: c.subject,
+    detail: `${c.hash} · ${c.author}${c.claude_coauthor ? " · co-authored by Claude" : ""}` }))]
+  .sort((a, b) => new Date(a.ts) - new Date(b.ts));
+const n = w => T.events.filter(e => e.actor === w).length;
+$("#kpis").innerHTML = [[n("human"), "human entries (questions, decisions, reviews)"], [n("claude"), "Claude entries (responses, milestones)"],
+  [T.commits.length, "commits"], [T.sessions.length, "logged session segments"]]
+  .map(([v, l]) => `<div class="card kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+const roleList = (who, kinds) => T.events.filter(e => e.actor === who && kinds.includes(e.kind)).map(e => `<li>${esc(e.summary)}</li>`).join("") || "<li class='meta'>—</li>";
+$("#humanRole").innerHTML = roleList("human", ["decision", "review", "correction", "question"]);
+$("#claudeRole").innerHTML = roleList("claude", ["milestone"]);
+$("#kind").innerHTML += [...new Set(items.map(i => i.kind))].map(k => `<option>${esc(k)}</option>`).join("");
+$("#phase").innerHTML += [...new Set(items.map(i => i.phase).filter(p => p != null))].sort().map(p => `<option value="${p}">Phase ${p}</option>`).join("");
+function draw() {
+  const q = $("#q").value.toLowerCase(), a = $("#actor").value, k = $("#kind").value, p = $("#phase").value;
+  $("#tl").innerHTML = items.filter(i => (!a || i.who === a) && (!k || i.kind === k) && (!p || String(i.phase) === p) &&
+    (!q || (i.summary + " " + (i.detail || "")).toLowerCase().includes(q))).map(i => `<div class="ev ${i.who}">
+    <span class="who ${i.who}">${i.who}</span> <span class="meta">${esc(i.kind)} · ${fmtTime(i.ts)}${i.phase != null ? " · phase " + i.phase : ""}</span>
+    <div>${esc(i.summary)}</div>${i.detail ? `<div class="meta">${esc(i.detail)}</div>` : ""}</div>`).join("") || '<p class="meta">No entries.</p>';
+}
+["#q", "#actor", "#kind", "#phase"].forEach(s => $(s).oninput = draw); draw();
+</script>
+</body></html>

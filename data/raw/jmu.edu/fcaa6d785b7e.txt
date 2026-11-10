@@ -1,0 +1,250 @@
+Syllabus - CS 149 Fall 2026
+Syllabus - CS 149 Fall 2026
+Skip to content
+Syllabus
+PDF Version
+CS 149: Introduction to Programming
+James Madison University | Fall 2026 | Dr. Mayfield
+Catalog description:
+Fundamental problem-solving techniques using a modern programming language.
+Topics include variables, input/output, decisions, loops, functions, arrays, and objects.
+Students learn about algorithm development, testing strategies, and software tools.
+3 credits.
+Prerequisite:
+MATH 155 College Algebra or sufficient score on the Mathematics Placement Exam.
+Class Times
+Section 3:
+M/W/F 12:40–1:30pm
+King 248 (Computer Lab)
+EnGeo 2208 (Classroom)
+Instructor Info
+Dr. Chris Mayfield
+, Professor of Computer Science
+Email:
+mayfiecs@jmu.edu
+|
+Office Phone:
+540-568-3314
+The best way to contact me is by email, not via Canvas.
+Office Hours:
+M/W/F 1:50–3:30 in King Hall 208 or online
+Please see
+instructions for checking in
+when you arrive.
+Course Objectives
+By the end of CS 149, you should be able to:
+Explain fundamental programming concepts (e.g., variables, conditions, loops, classes, objects) using correct terminology.
+Describe basic elements of high-level programming languages (e.g., expressions, statements, functions, modules, libraries).
+Read and interpret software specifications and write source code from them.
+Use automated software tools and processes to test your programs thoroughly.
+Distinguish appropriate collaboration from cheating on assignments and exams.
+Evaluate your own work for compliance with requirements and style guidelines.
+Develop correct and efficient algorithms to solve problems using computation.
+The shared website has a
+week-by-week map
+of these objectives, which tells you exactly what you should be able to do at each point in the semester.
+Two additional goals run through every week rather than belonging to any one of them: learning how you learn, and learning to use AI in ways that build your understanding rather than replace it.
+Teaching Methods
+Spoiler alert!
+If you're hoping for a traditional lecture day after day, you signed up for the wrong course.
+Research has shown that
+active learning
+methods are more effective than passive methods like taking notes.
+Here is what a typical week looks like:
+Classroom sessions:
+Group activities, interactive lecture with live demos, practice programs, and discussion.
+Computer lab sessions:
+Hands-on labs that introduce or reinforce the week's concepts on the lab machines.
+Quiz weeks:
+A 25-minute quiz takes the end of Wednesday's class, and the rest moves on to the next unit.
+Outside of class:
+You study on your own (reading, practice programs, videos, AI tutors) and submit a reflection.
+Weekend Hours
+I generally do not respond to emails between Friday at 5:00pm and Monday at 8:00am.
+TAs are available on Sunday
+to answer questions and help you learn.
+You are welcome to email me over the weekend, but I will mostly likely respond on Monday.
+Computer Lab and Laptops
+You will need a laptop on most class days.
+If you don't have a laptop, the CS department can loan you one for the semester.
+On days we meet in the computer lab, you will use one of the Linux desktops.
+The main software you will need to install is Thonny (
+https://thonny.org/
+), a small editor designed for learning.
+You will use Thonny for all quizzes and for the programming portion of the final exam.
+Later in the semester you will also install Visual Studio Code (
+https://code.visualstudio.com/
+), a professional editor you will use for your project.
+Technologies Used
+All instructional materials including handouts, slides, videos, and sample code will be on the course website (
+https://w3.cs.jmu.edu/mayfiecs/cs149/
+).
+I will use Canvas (
+https://canvas.jmu.edu/
+) for posting announcements, sharing non-public files, and communicating grades.
+You will use Gradescope (
+https://gradescope.com/
+) to submit practice programs, quizzes, and exams.
+Gradescope provides automated feedback to help you improve your work.
+In the end, I will review and grade your work manually.
+Study Resources
+There is no required textbook.
+Instead, each week the course website provides a
+study menu
+: a set of resources including readings, videos, practice programs, and guided activities.
+You decide which of them you need, and part of what you learn this semester is which kinds of study actually work for you.
+Two free online textbooks appear on the study menu most weeks:
+Ericson, Barbara et al. (Aug 2026).
+Python for Everyone
+. Runestone Academy.
+Miller, Brad et al. (Aug 2026).
+How to Think Like a Computer Scientist
+. Runestone Academy.
+Getting the Books
+From the
+Runestone Registration
+page:
+Create a username that you will remember
+IMPORTANT
+– enter your JMU dukes email
+Make up a new password you will remember
+Register for
+jmu_cs149_fa26_mayfield1
+Register for
+jmu_cs149_fa26_mayfield2
+Culture of Learning
+Please help us maintain a collaborative environment that encourages questions, provides opportunities for significant learning, and actively involves everyone in discussions.
+Professional Conduct
+The ACM Code of Ethics (
+https://www.acm.org/code-of-ethics
+) forbids discrimination and harassment of all types.
+If you believe someone is violating these principles (e.g., by making inappropriate or demeaning remarks), it is your responsibility to take action by informing me or, if you feel comfortable doing so, addressing the individual directly.
+I will do my best to preserve your confidentiality when addressing the issue.
+Inclusive Excellence
+Learning environments should be built on mutual respect and support a diversity of thoughts, perspectives, experiences, and identities.
+Please advise me regarding any concerns or personal circumstances (including your name's proper pronunciation, any name or pronouns not reflected on MyMadison, or significant extracurricular commitments) that would be relevant to your full participation in this course.
+Academic Honesty
+Don't Cheat
+Students who violate the Honor Code (
+https://www.jmu.edu/honorcode/code.shtml
+) will receive a reduced or failing grade
+in the course
+.
+Other penalties may be imposed, and all violations will be reported to the Honor Council.
+Automated tools may be used on any assignment, at any time, to detect inappropriate collaboration and the originality of submissions.
+Generative AI
+You are encouraged to use AI as a study aid outside of class, and the weekly reflection is a good place to think about whether it is helping you.
+The use of AI is strictly prohibited during quizzes and exams
+, so make sure you can program without it.
+See the
+Student Guide to Artificial Intelligence
+for examples of appropriate use.
+On the project, you must be able to explain and defend every part of the program you submit.
+Methods of Evaluation
+In-Class Work
+You are encouraged to work with other students during class.
+In-class activities and labs have points, because your participation impacts others.
+If you are absent occasionally, you will have the opportunity to make up missed work.
+Stay Caught Up
+Your attendance is not graded, but you the work you do in class is graded.
+When you are absent, you need to make up the work you missed before the next class.
+Homework
+The weekly reflection is the "homework" for this course.
+After studying on your own from the week's menu, you submit a reflection describing what you did, what you now understand, and where you are still stuck.
+You are welcome to discuss what you are studying with other students, but the reflection you submit
+must be your own account of your own week
+.
+Late Work Policy
+Deadlines exist so that we can discuss solutions in class.
+Therefore, late work will not be accepted without special permission.
+I am willing to work with you if your circumstances suddenly change.
+Please don't wait until the night before to get started!
+Quizzes
+We will have five in-class quizzes.
+Each quiz is 25 minutes and covers one unit of the course.
+Every quiz is given the week
+after
+the unit it covers, so you have time to study before you are tested.
+The format alternates on purpose.
+Quizzes 1, 3, and 5 are on paper, where you read and reason about code by hand.
+Quizzes 2 and 4 are on a computer, where you write and test a program before submitting.
+Quiz
+Covers
+Date
+Format
+1
+Weeks 2–3
+Sep 16
+Paper
+2
+Weeks 4–5
+Sep 30
+Computer
+3
+Weeks 6, 8
+Oct 21
+Paper
+4
+Weeks 9–10
+Nov 4
+Computer
+5
+Weeks 11–12
+Nov 18
+Paper
+Weeks 1 and 7 are setup weeks for the tools of the course, and no quiz covers them.
+The work you do those weeks still matters, because everything afterward depends on it.
+Be Careful!
+Being able to understand someone else's code is very different from being able to write code on your own.
+If you become over-reliant on outside assistance, you won't develop the skills you need to succeed in the course.
+Project
+The last three weeks of the semester are a project of your own design.
+You will propose a program in a domain that interests you, turn that idea into requirements you can actually implement, build it, test it, and present it.
+The project is where the skills from the whole course come together on a problem larger than any single weekly exercise.
+You will also present to the class twice this semester.
+The first presentation is on a course topic of your choice, and the second is about your project.
+The point of these presentations is to give you practice explaining technical work out loud, to make the class more interesting, and to help us get to know each other.
+Final Exam
+This course is inherently cumulative; each week builds on the prior weeks.
+We will have a two-hour exam during finals week covering Weeks 1–12.
+The exam includes a written portion on paper and a programming portion on a computer.
+Working on the project will help prepare you for the final exam.
+Grading Criteria
+Your grade in CS 149 will be based on:
+Letter grades will be assigned on the scale A=90–100, B=80–89, C=70–79, D=60–69, F=0–59, with potential minor adjustments after considering the overall performance of the class and actual distribution of numeric scores.
+I will use + and – grades at my discretion.
+I do not assign WP or WF grades except in unusual circumstances.
+Students who score below 60% on the final exam will receive a grade no higher than C– in the course.
+You must earn a B– or higher grade in CS 149 to enroll in CS 159 or IT 160.
+University Requirements
+Adding/Dropping
+You are responsible for enrolling in courses and verifying your schedule on MyMadison.
+The last day to add a semester course without department permission is Friday, 09/04/2026.
+The last day to withdraw from a course with a W grade is Tuesday, 10/27/2026.
+Attendance Policy
+You are expected to participate in every class.
+I understand that things come up, and you might need to be absent occasionally.
+That's why I provide make-up opportunities for in-class work.
+If you are not feeling well or suspect you might be ill, please stay at home and get well.
+Disability Services
+If you have a documented disability and need accommodations in this course, please register with the Office of Disability Services (
+http://www.jmu.edu/ods
+, Student Success Center, Room 1202, 540-568-6705).
+ODS will provide you with an Access Plan Letter to verify your need for services and make recommendations for the course.
+Excused Absences
+Students who are unable to attend class due to JMU sponsored activities (such as sports, band, academic competition, field trips, etc.) or personal religious observances may request reasonable accommodations.
+Please notify me during the first week of class regarding potential absences so that you and I can plan ahead.
+University Closings
+Given severe weather and other unexpected circumstances, be sure to watch for announcements relating to make-up dates.
+See
+http://www.jmu.edu/JMUpolicy/1309.shtml
+for JMU's cancellation policy.
+Although the schedule may adapt to canceled classes, assignment deadlines generally do not change.
+Your Well-Being
+As a university student, there may be times when personal stressors interfere with your academic performance and/or negatively impact your daily life.
+If you or someone you know is experiencing mental health challenges at James Madison University, please connect with the Counseling Center located within the Student Success Center on the 3rd floor.
+You can learn more about available services by visiting
+https://www.jmu.edu/counselingctr
+or calling 540-568-6552.
+These services are free and confidential.
+Other available support resources to consider include, but are not limited to, the Office of the Dean of Students, the Health Center, and Learning Strategies Instruction.

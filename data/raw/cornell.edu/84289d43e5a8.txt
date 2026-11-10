@@ -1,0 +1,155 @@
+AI & Academic Integrity | Center for Teaching Innovation
+AI & Academic Integrity | Center for Teaching Innovation
+Search:
+Submit Search
+Search Filters
+Search
+This Site
+Search
+Cornell
+Center for Teaching Innovation
+Main Menu
+Search
+AI & Academic Integrity
+Updates for Fall 2026:
+CTI actively researches AI detection software, including Pangram, GPTZero and others. AI tools change quickly, and we will continue to evaluate detection software as it develops. See below for details regarding
+Detecting AI-Generated Content
+, and check back for future updates. In the meantime, please
+contact us
+with any specific questions or concerns.
+To best support student learning and reduce violations of academic integrity, be sure to clearly communicate your policies regarding the use of generative AI in your syllabus, in assignment instructions, and verbally in class. When generative AI is permitted, clarify expectations for documentation and attribution, as well as what aspects of the work should be produced by the students themselves. Discuss with students how generative AI output can be incorrect or problematic and that they are responsible for verifying the output and references if AI use is allowed for an assignment.
+A set of
+course policy icons
+has been developed by the
+GenAI Advisory Council
+to help Cornell instructors communicate with students about appropriate AI use for different courses and assignments. They are downloadable and can be incorporated into your syllabus or assignment instructions, to help provide clear guidance to students about course expectations.
+Elizabeth Karns
+, in her role as a Provost Fellow and in consultation with University Counsel, has developed the following recommendations for instructors on communicating expectations and addressing possible academic integrity violations.
+Prevention
+Violation Awareness
+Evidence of Violation
+Crediting Generative AI in an Assignment
+Detecting AI Generated Content
+References
+Prevention
+Set Clear Expectations in the Syllabus
+To reduce the ambiguity surrounding appropriate uses of generative AI, faculty should clearly define for students both your expectations and their responsibilities around using generative AI tools.
+Here are a few recommended steps you can take. Making these explicit can help clarify expectations for students.
+Require that students verify the accuracy of all citations and references they include in their work.
+Request that students provide verification of references or methods, with a student's response determining whether a formal academic integrity notification is warranted.
+Clearly limit allowable methods, tools, or references, and specify that deviations from these restrictions could constitute evidence of potential integrity violations.
+Inform and remind students that they should expect to verbally explain the work they submitted.
+Example Course Policy Language for Generative AI Use
+As you plan your syllabus and course policies with respect to generative AI, consider modifying the following language to communicate a general position in your syllabus. Please note that the following sample language reflects general, course-level perspectives on broadly permitting or prohibiting the use of generative AI tools. For sample statements at the assignment-level, see
+AI in Assignment Design
+.
+Prohibiting Generative AI Use in Your Course (
+AI-FREE
+)
+"To ensure development and mastery of the foundational concepts and skills in this course, the use of generative artificial intelligence (AI) tools is prohibited. This includes tools that help reorganize and edit your written work because the ability to self-assess, reflect on your writing process, and develop your own voice are essential in your growth as a writer. If you are unsure of any policy or any assignment-specific directions – including whether or not a tool is considered generative AI – please consult with me prior to using the technology or completing your assignment. You are responsible for verifying the accuracy of citations and references used in your writing. You will be asked to verbally explain your research and writing process during in-class discussions and in a one-on-one meeting with me.
+In acknowledgment that AI is impacting our field, please know that appropriate and ethical use of generative AI tools will likely be a part of other courses in your academic program."
+Permitting Generative AI Use with Attribution in Your Course (
+AS-UA
+)
+"Mastering the essential, foundational concepts of this course takes effort and practice. Accordingly, the use of generative artificial intelligence (AI) tools is generally discouraged in this course, but will be permitted for select assignments. Whether or not generative AI assistance is permitted for each assignment will be explicitly communicated when that assignment is introduced.
+If used in any capacity for an assignment, generative AI requires proper attribution for any and all generated work. As AI-generated materials are not retrievable by graders—and there is not a person to whom the work can be attributed—students should attribute directly quoted text to the creator of the generative AI tool used (e.g., cite OpenAI when directly quoting ChatGPT). This attribution should be used for both in-text citations and your reference list.
+Example:
+When prompted with, “Is it ethical to use generative AI without proper attribution?” ChatGPT indicated, “Using generative AI without proper attribution can be considered ethically problematic, as it raises issues related to intellectual property, transparency, and honesty” (OpenAI, 2023).
+Reference
+OpenAI. (2023). ChatGPT (Aug 10 GPT-3.5 version) [Large language model]. https://chat.openai.com
+For full details on how to properly cite AI-generated work, please see the APA Style article,
+How to Cite ChatGPT
+.
+Regardless of whether or not the use of generative AI is permitted or prohibited for an assignment, it is critical that you adhere to our communicated course policy (and
+Cornell’s policy
+) on academic integrity. If you are unsure of any policy or any assignment-specific directions-–including whether or not a tool is considered generative AI-–please consult the instructor
+prior to
+using the technology or completing your assignment."
+Encouraging Generative AI Use with Attribution in Your Course (
+ANY-AI-UA
+)
+"The use of generative artificial intelligence (AI) tools is encouraged on identified assignments. The directions for each assignment in this course will clearly indicate whether or not the use of generative AI is permitted for that assignment.
+If used at all, generative AI requires proper attribution for any generated work. As AI-generated materials are not retrievable by graders—and there is not a person to whom the work can be attributed—students should attribute directly quoted text to the creator of the generative AI tool used (e.g., cite OpenAI when directly quoting ChatGPT). This attribution should be used for both in-text citations and your reference list
+.
+Example:
+When prompted with, “Is it ethical to use generative AI without proper attribution?” ChatGPT indicated, “Using generative AI without proper attribution can be considered ethically problematic, as it raises issues related to intellectual property, transparency, and honesty” (OpenAI, 2023).
+Reference
+OpenAI. (2023). ChatGPT (Aug 10 GPT-3.5 version) [Large language model]. https://chat.openai.com
+For full details on how to properly cite AI-generated work, please see the APA Style article,
+How to Cite ChatGPT
+.
+Regardless of whether or not the use of generative AI is permitted or prohibited for an assignment, it is critical that you adhere to our communicated course policy (and
+Cornell’s policy
+) on academic integrity. If you are unsure of any policy or any assignment-specific directions-–including whether or not a tool is considered generative AI-–please consult the instructor prior to using the technology or completing your assignment."
+Permitting Generative AI Use on an Assignment-by-Assignment Basis (
+AS
+)
+"Policies concerning the use of generative artificial intelligence (AI) tools will be decided on an assignment-by-assignment basis. These policies will be clearly communicated alongside other details of each specific assignment.
+As generative AI technologies evolve, class policies with respect toward the use of generative AI tools may be shaped by in-class discussions regarding the fair use of AI and its implications on careers in this field.
+Regardless of whether or not the use of generative AI is permitted or prohibited for an assignment, it is critical that you adhere to our communicated course policy (and
+Cornell’s policy
+) on academic integrity. If you are unsure of any policy or any assignment-specific directions -–including whether or not a tool is considered AI-– please consult the instructor
+prior to
+using the technology or completing your assignment."
+Canvas Course Module on Academic Values & Integrity
+Karns has also developed a
+Canvas Course module
+to help students recognize academic integrity concerns that are specific to your course. This resource is designed to encourage students to reflect on their personal values and learning goals within the context of your course.
+back to top
+Violation Awareness
+Inquire About Unusual Submissions
+Instructors should use their initial impressions of potential violations involving generative AI as a starting point for deeper inquiry, supported by objective and verifiable evidence, before proceeding with academic integrity hearings. A conversation with the student in question may garner new information that clarifies the problem.
+Instructors can follow up, in person or by email, on any submissions that include unexpected methods, references, or approaches that appear to surpass course expectations. Students can be asked to explain how they arrived at such content. If the explanation raises concerns, the instructor can document the concern and proceed with further investigation.
+back to top
+Evidence of Violation
+Gather Objective Evidence
+Faculty should follow up their initial concerns about a generative AI-related violation with tangible evidence, such as:
+Submitted work includes citations or references to content that does not exist or cannot be verified.
+Inclusion of advanced references, methods, or approaches that exceed the scope of the course or seem implausible without external assistance.
+The student is unable to verbally explain, expand upon, or defend their submitted work when queried.
+The work is inconsistent with previously submitted work or preparatory steps submitted by the student, such as outlines, drafts, or prior discussions during office hours.
+Evidence of an academic integrity violation needs to meet a clear and convincing standard. This is a medium level of proof – it’s above the “more likely than not” and below the “beyond a reasonable doubt.” The instructor will need to show that the allegation is far more likely to be true than false. It does not require first-hand observation of an act. The use of multiple forms of evidence helps to reach this standard of evidence.
+back to top
+Crediting Generative AI in an Assignment
+When using material generated from an LLM in course materials or in assignments that students submit, transparency is key, and these instances should be properly referenced. The
+APA style guide
+,
+MLA style guide
+, and
+Chicago Manual of Style
+include recommendations and examples for citing LLM-generated materials that you can share with students.
+For example, consider:
+Including an in-text citation with reference to the LLM model, i.e. include text in quotes and reference the author, i.e. (OpenAI, 2023).
+Asking students to include an AI-generated source in the methods section of their research paper.
+Having students provide the text or prompt they used for the LLM to generate a response and include what LLM model, date, and version they used.
+Similarly, if instructors choose to use LLMs to help in the preparation of course materials, such work should be acknowledged and attributed.
+back to top
+Detecting AI-Generated Content
+Recent advancements in algorithmic systems designed to evaluate whether written work was composed by humans, AI, or both, have motivated new campus evaluations of AI detectors, such as Pangram v.4. We acknowledge the desire to seek technology-based solutions to identify inappropriate use of AI tools in student work.
+Unfortunately, after exploring the research and conducting our own testing, we find it unlikely that current detection technologies will provide a workable solution to the problem of author identification. Detection tools claim to identify work as AI-generated, but they cannot provide evidence for that claim. Research reveals continued margins of error — including continued false positives. This raises a substantial risk that students may be wrongly accused of an improper use of AI, with certain populations carrying a higher burden of false positives than others (Hadra, 2026).
+There is a lack of empirical evidence or studies of use from within the context of higher ed. Studies that show the safe, fair, and effective integration of AI detectors in learning communities are limited. Additionally, recent lab studies show a lack of substantial, varied, and verified data sets. Finally, “humanizers,” or software designed to edit AI text to avoid detection by mimicking human writing (ie. through ‘burstiness’ or ‘perplexity’) - are readily available to students, decreasing the likelihood that AI work would be flagged, or that detectors would act as deterrents for AI use.
+We currently do not recommend using automatic detection algorithms for academic integrity violations that flag the improper student use of AI.
+Note that AI detection scores are not necessary as evidence of academic misconduct. For more information on what kinds of data might support a claim of academic integrity violation stemming from a students' use of AI, explore our resources under
+evidence of violation
+.
+For more information on promoting academic integrity in your classroom,
+view our strategies
+.
+back to top
+References
+H
+adra, M., Cambridge, K. & Mesbah, M. (2026). Evaluating the accuracy and reliability of AI content detectors in academic contexts.
+International Journal for Educational Integrity
+22
+(4).
+https://doi.org/10.1007/s40979-026-00213-1
+Jabarian, Brian and Imas, Alex, Artificial Writing and Automated Detection (August 26, 2025). Available at SSRN:
+https://ssrn.com/abstract=5407424
+or
+http://dx.doi.org/10.2139/ssrn.5407424
+Van Vlasselaer, M., Van Droogenbroeck, F. & Spruyt, B. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education.
+International Journal for Educational Integrity
+22(16).
+https://doi.org/10.1007/s40979-026-00226-w
+back to top
+Contact Us

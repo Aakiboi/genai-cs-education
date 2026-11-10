@@ -1,0 +1,1201 @@
+Computer Science Variable Title Courses - 
+             Department of Computer Science -  Purdue University
+Computer Science Variable Title Courses -
+Department of Computer Science -  Purdue University
+Skip to content
+CLOSE
+Department of Computer Science
+Search
+Home
+About Us
+College and Departments
+College of Science
+Department of Biological Sciences
+James Tarpo Jr. and Margaret Tarpo Department of Chemistry
+Department of Computer Science
+Department of Earth, Atmospheric, and Planetary Sciences
+Department of Mathematics
+Department of Physics and Astronomy
+Department of Statistics
+Purdue CS by the Numbers
+60th Anniversary
+Awards
+Colloquium
+K-12 Outreach
+Women's History Month
+History
+Calendar
+Contact Us
+People
+Faculty & Lecturers
+Staff
+Faculty Hiring
+Offices
+Graduate Students
+Student Organizations
+Ombuds/Student Concerns Form
+Academics
+Future Students
+Undergraduate
+Graduate
+Bridge Program
+AI Forge
+Courses
+Data Science Connector Modules
+Student Experience
+Research
+Research Areas
+Centers and Institutes
+Seminars
+Technical Reports
+Research Internships
+Alumni
+Development Officer
+2024 Alumnus Award
+Past Distinguished Alumni
+Past Outstanding Alumni
+Keep in Touch
+Available Positions
+PhD Recipients
+Media
+News
+Student Stories
+Communications
+Virtual Tour
+Brand Guide
+Corporate
+Partner Programs
+Recruiter Information
+Student Resources
+Sponsored Research
+Resources
+Business Office
+Instructional Support
+Campus Map
+Facilities
+FTP Server
+Reserve a Room
+Help Pages
+Lawson Building Information
+LWSN Emergency Plan
+DSAI Emergency Plan
+Libraries
+Policies
+LWSN Right to Know Training
+Helpful links
+Future Students
+Current Students
+Graduate Programs
+Faculty & Lecturers
+Research
+News
+Resources
+Quick links
+Schedule a Visit
+Courses
+Computer Science in Indianapolis
+Home
+Graduate Program
+Computer Science Variable Title Courses
+Computer Science Variable Title Courses
+Beginning in Fall 2021, Computer Science graduate level variable title courses will be offered as described below.  CS graduate seminars allow students to explore new and cutting edge topics that are not part of the regular curriculum. Students are encouraged to broaden their knowledge via these courses. The guidelines regarding inclusion on your formal Graduate School Plan of Study are below.
+CS 49000 (Traditional Course) - will be used for topics not currently covered in the CS undergraduate curriculum. Each offering follows a traditional course structure with textbook(s), assignments, exams, and week-by-week content synopsis described in a syllabus.
+Some CS 49000 courses
+MAY
+be approved to be used as an elective for a track. See below to check if a course has been approved for track use.
+CS 49000* (Individual Study Course) - will be used exclusively for Individual Study offerings.
+See step 7 in the
+CS Grad Student Registration
+for details on how to register for individual study courses
+Step 7 (Individual Study Courses) is the same process for graduate students and undergraduate students.
+CS 59000*** (Individual Study Course) - will be used exclusively for Individual Study offerings.
+Approved as an elective for non-thesis MS students only (maximum of two)
+Before a course can be approved on a plan of study, a detailed
+one-page course description approved by the CS faculty instructor
+(PDF) must be submitted to
+csgrad@purdue.edu
+.
+See set 7 in the
+CS Grad Student Registration
+for details on how to register for individual study courses
+CS 59200 (Seminar Course) - is a course that deviates from a traditional course structure by emphasizing student presentations and projects over lectures, assignments, and exams.
+Course offerings are reviewed each semester to determine if they will be permitted on a PhD plan of study or as an MS plan elective
+Use regular registration to enroll in these courses.
+CS 59300 (Traditional Course) - will be used for topics not currently covered in the CS graduate curriculum. Each offering follows a traditional course structure with textbook(s), assignments, exams, and week-by-week content synopsis described in a syllabus. A CS 59300 offering does not imply that a course is intended to become, or will become, a regular course in the CS graduate curriculum.
+Course offerings are reviewed each semester to determine if they will be permitted on a PhD plan of study or as an MS plan elective.
+Use regular registration to enroll in these courses
+Spring 2027
+UNDERGRADUATE
+CS 49000AISS: AI Safety And Security
+Instructors: Bertino, Elisa and Celik, Berkay
+Days/Time: W 5:30p-8:20p
+Location: HAAS G066
+CS TRACK APPROVAL: Elective for Security and Machine Intelligence tracks
+Pre-requisites:C or better CS 37300 or CS 47100
+Course description: This course introduces the safety and security of modern artificial intelligence (AI) systems, including machine learning models, foundation models, large language models (LLMs), retrieval-augmented generation (RAG), and AI agents. The course examines how vulnerabilities and unsafe behaviors can arise throughout the AI lifecycle, from training data and model development to deployment and interaction with external systems. Students will learn how to construct threat models for AI systems and study representative attacks, including adversarial examples, data poisoning and backdoors, model extraction and privacy attacks, prompt injection, jailbreaks, and attacks against AI agents.
+CS 49000ASE: AI-Assisted Software Engr
+Instructor: Zhang, Tianyi
+Days/Time: T/TH 10:30a-11:45a
+Location: LWSN 1106
+CS TRACK APPROVAL: Elective for Machine Intelligence track
+Pre-requisites: B or better in CS 25100 and 25200 and 30700, CS 37300 or CS 47700 and MA 26500 or 35100
+Course description: This course explores the use of large language models and coding agents in software engineering. It covers the foundations of these systems, their use across software engineering activities, and methods for evaluating and improving their effectiveness, reliability, security, and usability. Students gain hands-on experience applying and evaluating coding agents through programming assignments and a course project.
+CS 49000IQC: Intro To Quantum Computing
+Instructors: Peng, Yuxiang and Zhan, Wei
+Days/Time: MWF 10:30a-11:20a
+Location: HAAS G066
+CS TRACK APPROVAL: NONE
+Pre-requisites: C or better in CS 18200 and MA 26500 or MA 35100
+Course description: This course introduces the foundations of quantum computing from a computer science perspective. The course begins with a review of mathematical tools needed for quantum computation, including complex vector spaces, linear operators, and tensor products. Students will learn quantum states, superposition, measurement, and entanglement, and study how quantum gates and circuits process quantum information. The course introduces representative quantum algorithms, including Deutsch–Jozsa, Bernstein–Vazirani, Grover’s search, and Shor’s factoring algorithm. Emphasis is placed on their central ideas and sources of computational advantage rather than advanced mathematical proofs. Students will also construct and simulate circuits using Qiskit and learn basic quantum error correction and practical challenges of quantum computing. Through theoretical homework, programming assignments, and a final group literature-review presentation, students will analyze quantum computations and explore selected directions in the field.
+GRADUATE
+CS 59200CCG: Cyber Risk, Compliance, & Gov
+Instructor: Spafford, Eugene
+Days/Time: T/TH 3:00p-4:15p
+Location: LWSN B134
+OK MS as elective: YES
+OK PhD as 1 of 6: PENDING
+Pre-requisites: UG students B or better in CS 42600. GR students CS 52600
+Course description: This seminar is a map of the standards, regulations, and governance structures that shape cybersecurity, privacy, and AI-risk programs in government and regulated industry. Students read the primary documents themselves, in short excerpts: the NIST Risk Management Framework and Cybersecurity Framework, SP 800-53 and SP 800-171, ISO/IEC 27001, the CIS Controls, HIPAA, PCI DSS, CMMC, FedRAMP, GDPR, NIS2, DORA, the Cyber Resilience Act, the NIST AI Risk Management Framework, ISO/IEC 42001, and the EU AI Act. For each, the questions are the same: what is it, who issues it, who must follow it and why, how is it structured, what does it require, how does it relate to the others, and where does one go to learn more.
+CS 59200FPM: Frontier/Proof Mechanization
+Instructor: Rompf, Tiark
+Days/Time: T/TH 10:30a-11:45a
+Location: BRNG 1238
+OK MS as elective: YES
+OK PhD as 1 of 6: YES
+Pre-requisites: UG students need instructor permission
+Course description: Fueled by AI, proof mechanization has gone from a niche topic to the cusp of widespread adoption in software verification and general mathematics. This course will explore advanced topics at the frontier of proof mechanization foundations, techniques, and applications. The range of topics is open-ended and will largely be driven by student interest, but we expect to cover topics ranging from the foundational theory of dependent types and the "propositions as types, programs as proofs" paradigm to implementation techniques of proof assistants themselves and to advanced proof techniques for challenging mathematical structures. The course will be research-oriented and hands-on: we will read and discuss original papers from the forefront of research, and participants will propose and complete a course project, consisting of a meaningful proof mechanization effort.
+CS 59200PQS: Post-Quantum Security
+Instructor: Kate, Aniket
+Days/Time: T/TH 4:30p-5:45p
+Location: LWSN 1106
+OK MS as elective: PENDING
+OK PhD as 1 of 6: PENDING
+Pre-requisites: UG students C or better in CS 35500 or CS 42600
+Course description:
+CS 59300ASl: Architecture Security
+Instructor: Taram, Kazem
+Days/Time: T/TH 3:00p-4:15p
+Location: GRIS 133
+OK MS as elective: YES
+OK PhD as 1 of 6: YES
+Pre-requisites: UG students C or better in CS 25000
+Course description:This course will focus on the interaction of computer security and computer architecture. We will start with the basic architectural background: caches and memory hierarchy, out-of-order execution, speculative execution, and branch prediction. Then we will discuss fundamental system security concepts such as isolation, memory safety, side- and covert-channels, etc. This gives us the necessary background to dive deeper into understanding of how microarchitecture can be exploited to leak information. We will discuss the classic and recent attacks that leverage different architectural structures/components which include caches, branch prediction, DVFS, DRAM, and accelerators/FPGAs. We will then cover high-performance architectural solutions to mitigate those attacks. We will also talk about fundamentally secure approaches and architectures such as constant-time programming, capability-based architectures, and information flow tracking. Finally, we will discuss how architecture can provide efficient support for security and privacy, where we talk about solutions such as Trusted-Execution Enviourments (TEEs) and architecture support for memory safety and isolation.
+CS 59300HRI: Human-Robot Interaction
+Instructor: Jeong, Sooyeon
+Days/Time: T/TH 9:00a-10:15a
+Location: LWSN 1106
+OK MS as elective: YES
+OK PhD as 1 of 6: YES
+Pre-requisites: none
+Course description: Robots are making their way into our world and will soon interact with people in our everyday lives. For robots to perform various supportive tasks and harmoniously coexist with people in human environments (e.g., homes, schools, and hospitals), they need to be designed and developed to interface with people in natural and intuitive ways. The field of Human-Robot Interaction (HRI) is highly interdisciplinary, incorporating methods and techniques from human-computer interaction, robotics, psychology, artificial intelligence, and other fields. Students in the class will present assigned research papers and lead discussions about cutting-edge peer-reviewed HRI publications. Throughout the term, students will form small groups of teams and will complete a course project that addresses an HRI-related research question of their choice.
+CS 59300MLS: Machine Learning Systems
+Instructor: You, Hoaran
+Days/Time: T/TH 12:00p-1:15p
+Location: LWSN B134
+OK MS as elective: YES
+OK PhD as 1 of 6: YES
+Pre-requisites: UG students B or better in CS 25000, CS 25100 and CS 25200
+Course description: Modern machine learning models such as large language models and diffusion models require massive computational resources and making them practical to train and serve depends on careful design across algorithms, systems, and hardware. This course provides a systematic introduction to machine learning systems, covering the full stack from model computation down to the hardware that executes it.
+CS 59300SER: Software Engineering/Robotics
+Instructor: Kingston, Zachary
+Days/Time: MWF 12:30p-1:20p
+Location: LWSN B134
+OK MS as elective: YES
+OK PhD as 1 of 6: YES
+Pre-requisites: UG students B or better in MA 26500 or MA 35100 and CS 25100 and CS 25200
+Course description: Developing software for robot systems is challenging as they must sense, actuate, and represent the physical world. Sensing the physical world is usually noisy, actuating in and on the world is often inaccurate, and the knowledge and representation of the world is incomplete and uncertain. In this class we will explore software engineering approaches to cope with those challenges. You will learn to use domain-specific abstractions, architectures, libraries, and validation approaches and tools to safely perform robot activities like motion, navigation, perception, planning, and interaction. Moreover, you will learn more about performance engineering and modern hardware acceleration to take algorithms to the next level necessary for real-time robotic performance. The expectation is that this course will open up new career options in robotics for students.
+Fall 2026
+CS 59200ATP: AI Thought Partners
+Instructor: Sucholutsky, Ilia*
+Days/Time: Th 4:30p-7:20p
+Location: BHEE 236
+OK MS as elective:
+No
+OK PhD as 1 of 6:
+No
+Pre-requisites: UG students, permission from instructor required
+Course description: Much of AI development is currently aimed at automating away or replacing humans. At the same time, people are increasingly outsourcing not just routine tasks but also elements of cognition itself, including writing, judgment, memory, and critical thinking, to AI systems. Moreover, the dominant framing treats human and artificial intelligence as fundamentally separate pursuits: one studied in cognitive science and psychology, the other in computer science and engineering. This course challenges both assumptions.
+CS 59200DMS: Datacenter Memory Systems
+Instructor: Vuppalapati, Midhul*
+Days/Time: TTh 4:30p-5:45p
+Location: SCHM 307
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: UG students,
+a grade of B or higher in CS 25000 and CS 35400.
+Course description:
+This seminar-style course will cover a wide range of topics, including but not limited to: OS memory management, memory offloading, tiering and disaggregation, address translation optimizations, memory bandwidth management, LLM inference memory management, and new memory technologies. Topic discussions will primarily be guided by recent research papers in top-tier OS, distributed systems and computer architecture conferences.
+CS 59200EAI: Appls of ML and Explainable AI
+Instructor: Bhargava, Bharat
+Days/Time: MWF 11:30a-12:20p
+Location: LWSN B134
+OK MS as elective:
+YES
+OK PhD as 1 of 6:
+YES
+Pre-requisites:none
+Course description:
+Develop tools and systems that apply ML to real applications on real data and try to deal with attacks and explain the decisions of AI powered decision making. In addition, the seminar will discuss methods to make these tools more efficient and more accessible.
+CS 59200FIA: Fault Injection Attacks
+Instructor: Tian, Dave
+Days/Time: MW 6:00p-7:15p
+Location: LWSN B134
+OK MS as elective:
+No
+OK PhD as 1 of 6:
+No
+Pre-requisites:none
+Course description: This seminar course dives into Fault Injection Attacks (FIA), including both software- and hardware- induced fault injections, such as rowhammers, power glitching, clock glitching, EMFI, etc. For each type of FIA, the instructor provides general background and information as the guidelines, followed by a series of presentations from students on selected research papers regarding the corresponding topic.
+CS 59200MLA: Machine Learning & Algorithms
+Instructor: Valiant, Paul
+Days/Time: MW 4:30p-5:45p
+Location: BHEE 236
+OK MS as elective: pending
+OK PhD as 1 of 6: pending
+Pre-requisites: UG students, B or better in CS 38100 recommended
+Course description: The goal of this course is for students to become comfortable tackling a challenging research paper to learn new material and techniques. Students in this course will read, present, and discuss both recent and classic papers from the areas of algorithms and computer science theory. This course is aimed at current and potential future graduate students who want to gain technical depth and perspective on the field of algorithms.
+CS 59200MSD: ML System Co-Design
+Instructor: You, Haoran
+Days/Time: TTh 4:30p-5:45p
+Location: LWSN B134
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: UG students, B or better in CS 25000, CS 25100, and CS 25200
+Course description: In this course, we will explore the algorithm–hardware co-design principles for modern ML systems, covering how model compression techniques, system optimizations, and hardware accelerators interact to determine performance, efficiency, and scalability. We will focus on papers from MLSys, ISCA, MICRO, HPCA, ASPLOS, DAC, and related venues, where top machine learning systems and computer architecture research is published. Students will learn how ML workloads are mapped to modern accelerators (e.g., GPUs, TPUs, and other AI accelerators), how algorithms are co-designed with hardware accelerators, and how algorithmic innovations can reduce computation and memory costs while making acceleration easier for hardware.
+CS 59200STB: Special Topics In Blockchains
+Instructor: Kelkar, Mahimna*
+Days/Time: TTh 12:00p-1:15p
+Location: LWSN 1106
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: UG students, B or better in CS 251 and CS 252 and general mathematical maturity will be expected. Prior research experience is helpful but not required.
+Course description: The course is structured as a mixture of instructor lectures on foundational concepts and student-led paper presentations on blockchain research papers. Students will also complete a semester-long research project on blockchains that either conducts original research or surveys existing literature.
+CS 59300ASE: AI-Assisted Software Engineering
+Instructor: Zhang, Tianyi
+Days/Time: TTh 1:30p-2:45p
+Location: LWSN B134
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: Python programming skills and basic understanding of machine learning are required. Knowing how to use scikit-learn and PyTorch (or Keras) is recommended.
+Course description: In this course, you will learn concepts and research topics about
+the role of human programmers in the age of AI,
+how AI and ML technologies have been applied in different software engineering tasks such as code generation and software testing,
+how AI-based software development tools work with or clash against the existing workflow of programmers, and
+how to improve AI-based software development tools for better performance, robustness, and usability.
+CS 59300CMO/BIOL 59500CMO:
+Computational Multi-Omics
+Instructor:
+Zhang, Weiruo
+Days/Time: TTh 10:30a-11:45a
+Location: LILY 3418
+OK MS as elective:
+pending
+OK PhD as 1 of 6:
+pending
+Pre-requisites: CS 17600 or CS 17700 or BIOL 41949 with a grade of C or better. Prior knowledge with programming in Python or R is highly recommended.
+Course description: Multi-omics is transforming biomedical research, personalized medicine and drug discovery, while providing a critical data foundation for AI-driven approaches in modern biology and medicine. By measuring genes (genomics), RNA (transcriptomics), proteins (proteomics), metabolites (metabolomics) and spatial organization of cells within tissues (spatial omics), multi-omics approaches provide a comprehensive view of how cells function in health and disease. Extracting insights from these high-dimensional multi-omics data requires advanced analytical methods.
+CS 59300HCI: Human-Computer Interaction
+Instructor: Wu, Jason
+Days/Time: TTh 3:00p-4:15p
+Location: BHEE 236
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: none
+Course description: This course introduces graduate students to research topics, principles, and methods in human-computer interaction (HCI), an interdisciplinary area concerned with the study of the interaction between humans and interactive computing systems. Research in HCI studies major social, cognitive, and physical phenomena surrounding human use of computers to understand their impact and create guidelines for the design and evaluation of software and physical products and services in industry.
+CS 59300ILR: Imitation Learning for Robotics
+Instructor: Paleja, Rohan
+Days/Time: TTh 3:00p-4:15p
+Location: LWSN 1106
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: Programming experience in Python or C++. Basic knowledge of calculus, linear algebra, and statistics. Senior UG students, w/CS 45800 (or equivalent)
+Course description: This course will provide an in-depth understanding of the field of Imitation Learning and cover popular landmark papers. We will focus on understanding several foundational algorithms as well as their limitations. Through this course, students should gain an understanding of data curation techniques for collecting human demonstration data, machine learning techniques to learn robot control policies from human demonstrations, and techniques to facilitate the deployment of these policies (e.g., Dataset Aggregation).
+CS 59300-MLT: Machine Learning Theory
+Instructor: Hanneke, Steve
+Days/Time: TTh 10:30a-11:45a
+Location: LWSN 1106
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Pre-requisites: UG students, MA/STAT 41600 Probability (or equivalent), CS 38100 Introduction to the Analysis of Algorithms (or equivalent).
+Course description: This course focuses on the theory of machine learning. The aim is to provide knowledge and technical training sufficient to enable students to engage in novel research in machine learning theory. We will start with the basics: discussing what kinds of accuracy guarantees are possible for learning algorithms, what classes of concepts are learnable, and how much training data is necessary and sufficient to achieve a given accuracy guarantee. We will cover the formal proofs of all results, including discussion of the thought process that might lead one to come up with such proofs. Further topics may include the theories of online learning, boosting, model selection, regularization, universal consistency, sample compression schemes, multiclass classification, active learning, contextual bandits, reinforcement learning, and others. The course will also introduce students to recent trends in machine learning theory, including many open problems currently ripe for progress. The material covered will make connections to related subjects, such as statistics and probability theory, combinatorics, algorithm design and analysis, game theory, and information theory.
+CS 59300QIS/MA 58800: Mathematics For QIS
+Instructor: Samperton, Eric
+Days/Time: TTh 10:30a-11:45a
+Location: MATH 215
+OK MS as elective:
+Yes
+OK PhD as 1 of 6:
+Yes
+Course Description: This course will be an introduction to the theory underlying quantum computing and topological quantum computing. The course is designed to be self-contained. We will start with the basics of classical boolean and invertible logic and move to its quantum generalization in terms of gates and U(n) actions. The quantum mechanical background from physics will also be given and a deeper discussion of spins and their representation theoretic description is planned. Starting from this paradigmatic example, the course will move to aspects needed for topological quantum computing or field theoretical formulations. The last part of the course will be dedicated to additional topics.
+*New faculty 2026-2027 academic year.
+Spring 2026
+Course number
+Title
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59200AAS
+AI Agentic Security
+Bertino, Elisa (Instr)
+TTh 9:00a-10:15a
+LWSN B134
+yes
+yes
+CS 59200CI
+Computational Interaction
+Wu, Jason (Instr)*
+TTh 10:30a-11:45a
+GRIS 133
+yes
+yes
+CS 59200DRN
+Autonomous Drones for Your Use
+Peng, Chunyi (Instr)
+TTH 12:00p - 1:15p
+LWSN B134
+yes
+yes
+CS 59200EAI
+Appls Of ML And Explainable Al
+Bhargava, Bharat Kumar (Instr)
+TTh 3:00p-4:15p
+LWSN B134
+yes
+yes
+CS 59200MLI
+Auto Reasoning/ML Integration
+Xue, Yexiang (Instr)
+MWF 11:30a-12:20p
+LWSN B134
+yes
+no
+CS 59200MUC
+Mobile & Ubiquitous Computing
+Xue, Qiuyue (Instr)*
+TTh 12:00p-1:15p
+GRIS 133
+yes
+yes
+CS 59200QCS
+Quant Computer Software Stacks
+Peng, Yuxiang (Instr)*
+TTh 9:00a-10:15a
+GRIS 133
+yes
+yes
+CS 59200VDB
+Vector Databases
+Wang, Jianguo (Instr)
+MW 6:00p-7:15p
+LWSN B134
+yes
+yes
+CS 59300CVD
+Comp Vicion With Deep Learning
+Nousias, Sotirios (Instr)*
+TTH 4:30p-5:45p
+LWSN 1106
+yes
+yes
+CS 59300PCA
+Principles Comp Architecture
+Taram, Mohammadkazem (Instr)
+MWF 12:30p-1:20p
+LWSN B134
+yes
+yes
+CS 59300SER
+Software Engineering /Robotics
+Kingston, Zachary Kalen (Instr)
+MW 4:30p-5:45p
+LWSN 1106
+yes
+yes
+CS 59300TML
+Trustworthy Machine Learning
+Xiao, Hanshen (Instr)*
+M 11:30a-2:20p
+GRIS 133
+yes
+yes
+*New faculty 2025-2026 academic year
+Fall 2025
+Course number
+Title
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59200AIN
+AI/DC Networking
+Vamsi Kris Addanki Venkata Lalitha S*
+TTH 3:00pm - 4:15pm
+LWSN B134
+yes
+yes
+CS 59200CII
+Computational Imaging
+Sotirios Nousias*
+TTH 12:00pm - 1:15pm
+LWSN B134
+yes
+no
+CS 59200DMA
+Data Management For AI
+Chunwei Liu*
+MW 4:30pm - 5:45pm
+SCHM 302
+yes
+yes
+CS 59200HWS
+Hardware Security
+Jing Tian
+TTH 6:00 pm - 7:15 pm
+LWSN B134
+no
+no
+CS 59200ILR
+Imitation Learning For Robotics
+Rohan Paleja*
+TTH 1:30pm - 2:45pm
+LWSN B134
+yes
+no
+CS 59200MLS
+Machine Learning Systems
+Xupeng Miao
+MWF 11:30 am - 12:20 pm
+LWSN B134
+yes
+yes
+CS 59200PRS
+Pseudorandomness
+Wei Zhan*
+MW 4:30pm - 5:45pm
+SCHM 226
+yes
+no
+CS 59300ADS
+Algorithms for Data Science
+Ruizhe Zhang*
+TTH 9:00am - 10:15am
+SCHM 116
+yes
+yes
+CS 59300-CVD
+Comp Vision With Deep Learning
+Raymond Yeh
+TTH 4:30 pm - 5:45 pm
+BHEE 236
+yes
+yes
+CS 59300HCI
+Human-Computer Interaction
+Sooyeon Jeong
+TTH 9:00 am - 10:15 am
+LWSN 1106
+yes
+yes
+CS 59300IQC
+Intro to Quantum Computing
+Eric Samperton and Yuxiang Peng*
+MWF 2:30 pm - 3:20 pm
+BCHM 105
+yes
+yes
+CS 59300RLI
+Reinforcement Learning
+Joseph Campbell
+TTH 10:30 am - 11:45 am
+LWSN 1106
+yes
+yes
+CS 59300MLT
+Machine Learning Theory
+Steve Hanneke
+yes
+yes
+* New faculty joining the CS Department Fall 2025
+Spring 2025
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59000VR1*
+Extended Reality
+Aniket Bera
+TTH 3:30p - 4:20p
+HAAS G066
+yes
+yes
+CS 59200HWS
+Hardware Security
+Dave Tian
+MW 6:00p-7:15p
+LWSN B134
+no
+no
+CS 59200PHA
+Password&Human Authentication
+Jeremiah Blocki
+TTH 1:30p - 2:45p
+GRIS 133
+yes
+yes
+CS 59200RXR
+Res Topics In Extended Reality
+Voicu Popescu
+TTh 10:30am - 11:45am
+GRIS 133
+no
+no
+CS 59200SAA
+Socially Assistive Agents
+Sooyeon Jeong
+MWF 11:30am - 12:20p
+LWSN 1106
+yes
+no
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59000VR1*
+Extended Reality
+Aniket Bera
+TTH 3:30p - 4:20p
+HAAS G066
+yes
+yes
+CS 59200HWS
+Hardware Security
+Dave Tian
+MW 6:00p-7:15p
+LWSN B134
+no
+no
+CS 59200PHA
+Password&Human Authentication
+Jeremiah Blocki
+TTH 1:30p - 2:45p
+GRIS 133
+yes
+yes
+CS 59200RXR
+Res Topics In Extended Reality
+Voicu Popescu
+TTh 10:30am - 11:45am
+GRIS 133
+no
+no
+CS 59200SAA
+Socially Assistive Agents
+Sooyeon Jeong
+MWF 11:30am - 12:20p
+LWSN 1106
+yes
+no
+CS 59300SER
+Software Engineering for Robotics
+Zachary Kingston
+TTH 12:00p - 1:15p
+GRIS 133
+yes
+no
+CS 59300SER
+Software Engineering for Robotics
+Zachary Kingston
+TTH 12:00p - 1:15p
+GRIS 133
+yes
+no
+Fall 2024
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59200AIS
+AI and Security
+Xiangyu Zhang
+TTh 10:30am - 11:45am
+LWSN 1106
+no
+no
+CS 59200-CGP
+Compilers For GPUs
+Zhiyuan Li
+TTh 10:30am - 11:45am
+LWSN B134
+yes
+yes
+CS 59200LLM
+Reasoning with LLM
+Abulhair Saparov*
+TTh 3:00pm - 4:15pm
+LWSN 1106
+yes
+yes
+CS 59200MLS
+Machine Learning Systems
+Yupeng Miao*
+TTh 4:30pm - 5:45pm
+BRNG 1254
+yes
+yes
+CS 59200-MP1
+Motion Planning
+Aniket Bera
+M 12:30pm - 3:20pm
+WALC 3154
+yes
+yes
+CS 59200RM
+Robot Manipulation
+Zachary Kingston*
+TTh 1:30pm - 2:45pm
+LWSN 1106
+yes
+yes
+CS 59200STC
+Special Topics in Cryptography
+Aarushi Goel*
+M 11:30am - 2:20pm
+LWSN B134
+yes
+yes
+CS 59300AE
+Algorithmic Economics
+Alex Psomas
+TTh 1:30pm - 2:45pm
+LWSN B134
+yes
+yes
+CS 59300-CVD
+Comp Vision With Deep Learning
+Raymond A. Yeh
+MWF 12:30pm - 1:20pm
+BHEE 236
+yes
+yes
+CS 59300-HRI
+Human-Robot Interaction
+Sooyeon Jeong
+TTh 9:00am - 10:15am
+BHEE 236
+yes
+yes
+CS 59300-MLT
+Machine Learning Theory
+Steve Hanneke
+TTH 12:00pm - 1:15pm
+LWSN 1106
+yes
+yes
+CS 59300-PCA
+Principles Comp Architecture
+Mohammadkazem Taram
+TTH 4:30pm - 5:45pm
+LWSN 1106
+yes
+yes
+CS 59200RLI
+Reinforcement Learning
+Joseph Campbell*
+MW 4:30pm - 5:45pm
+LWSN B134
+yes
+yes
+Spring 2024
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59000-VRO
+Introduction to VR/AR
+Voicu S. Popescu
+TTh 10:30am-11:45am
+yes
+no
+CS 59200-ASE
+AI-Assisted Software Engr
+Tianyi Zhang
+TTh 12:00pm-1:15pm
+LWSN B134
+yes
+yes
+CS 59200-HAI
+Human-AI Interaction
+Ming Ying
+M 3:30pm-6:20pm
+LWSN 1106
+yes
+yes
+CS 59300-IQC
+Intro To Quantum Computing
+Eric Samperton
+TTh 10:30pm-11:45am
+GRIS 133
+yes
+yes
+CS 59300-PCA
+Principles Comp Architecture
+Mohammadkazem Taram
+TTh 4:30pm-5:45pm
+GRIS 133
+yes
+yes
+Fall 2023
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59200-CGS
+Gen Methods In Comp Graphics
+Bedrich Benes
+MW 4:30pm-5:45pm
+LWSN B134
+yes
+yes
+CS 59200-HRI
+Human-Robot Interaction
+Sooyeon Jeong
+TTH 9:00am-10:15am
+LWSN B134
+yes
+yes
+CS 59200-LLM
+Adv Topics In Reasoning W/ LLM
+Dan Goldwasser
+Instructor approval required
+TTH 1:30pm-2:45pm
+LWSN B134
+yes
+yes
+CS 59200-MP
+Motion Planning
+Aniket Bera
+W 2:30pm-5:20pm
+WALC 3138
+yes
+yes
+CS 59300-MLT
+Machine Learning Theory
+Stephen Robert Hanneke
+TTh 12:00pm-1:15pm
+LWSN 1106
+yes
+yes
+Spring 2023
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59000-VR0
+Introduction To VR/AR
+Aniket Bera
+MWF 9:30am-10:20pm
+LWSN B134
+yes
+no
+CS 59200-DDS
+Disaggregated Database Systems
+Jianguo Wang
+TTH 4:30pm-5:45pm
+GRIS 133
+yes
+yes
+CS 59200-TPL
+Adv Topics In Types And PL
+Benjamin J. Delaware
+TTH 12:00pm-1:15pm
+GRIS 133
+yes
+yes
+CS 59300-AE
+Algorithmic Economics
+Alexandros Psomas
+MWF 11:30am-12:20pm
+GRIS 133
+yes
+yes
+CS 59300-MAS
+Microarchitecture Security
+Mohammadkazem Taram
+TTH 1:30pm-2:45pm
+REC 103
+yes
+yes
+CS 59300-ROB
+Robotics
+Ahmed Qureshi
+TTH 9:00am-10:15am
+LWSN 1106
+yes
+yes
+CS 59300-TDA
+Topological Data Analysis
+Tamal Krishna Dey
+TTH 1:30pm-2:45pm
+GRIS 133
+yes
+yes
+CS 690000-DPL
+Deep Learning
+Bruno Ribeiro
+TTH 4:30pm-5:45pm
+LWSN 1106
+yes
+yes
+Fall 2022
+Course number
+Title (PDF syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59200BDS
+New Trends in Big Data Systems
+Aref, Walid G
+TTH 1:30pm-2:45pm
+KRAN G004
+yes
+yes
+CS 59200DOM
+Distributed Optimization for Machine Learning
+Bullins, Brian*
+TTH 1:30pm-2:45pm
+LWSN 1106
+yes
+yes
+CS 59200MDH
+Modeling Digital & Real Humans
+Bera, Aniket*
+TTH 10:30am-11:45am
+HAMP 1113
+yes
+yes
+CS 59200NPS
+Neurosymbolic Prog Synthesis
+Samanta, Roopsha
+TTH 10:30am-11:45am
+GRIS 133
+yes
+yes
+CS 59200PML
+Probabilistic Machine Learning
+Zhang, Ruqi*
+TTH 12:00pm-1:15pm
+LWSN B134
+yes
+yes
+CS 59200RSS
+Reliable and Secure Systems
+Sousa Da Fonsec, Pedro Jose
+TTH 4:30pm-5:45pm
+GRIS 133
+yes
+yes
+CS 59200TMP
+Topics in Machine Perception
+Yeh, Raymond A*
+TTH 10:30am-11:45am
+LWSN B134
+yes
+yes
+CS 59300ACA
+Advanced Computer Architecture
+Qian, Xuehai*
+TTh 10:30am-11:45am
+BCHM 102
+yes
+yes
+CS 59300CLG
+Computation Learn On Graphs
+Li, Pan
+TTH 3:00pm-4:15pm
+LWSN B134
+yes
+yes
+CS 59300HAI
+Human AI-Interaction
+Zhang, Tianyi
+TTH 4:30pm-5:45pm
+LWSN B134
+yes
+yes
+CS 59300MLT
+Machine Learning Theory
+Hanneke, Stephen Robert
+TTH 9:00am-10:15am
+GRIS 133
+yes
+yes
+Spring 2022
+Course number
+Title (syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59000DSP
+Data Security & Privacy
+Li, Ninghui
+TTH 10:30am-11:45am
+LWSN B134
+yes
+no
+CS 59000VR
+Introduction to VR/AR
+Popescu, Voicu
+TTH 12:00pm-1:15pm
+LWSN B134
+yes
+no
+CS 59200AGT
+Algorithmic Game Theory
+Branzei, Simina
+TTH 10:30am-11:45am
+SYNC ONLINE
+yes
+yes
+CS 59200AIT
+AI Techniques In Cybersecurity
+Bertino, Elisa
+TTH 9:00am-10:15am
+LWSN 1106
+yes
+yes
+CS 59200ATK
+Analytical Toolkit In CS
+Maji, Hemanta K
+TTH 12:00pm-1:15pm
+AR 102
+yes
+yes
+CS 59000CLC
+Cloud Computing
+(PDF)
+Comer, Douglas
+TTH 4:30pm-5:45pm
+KNOY B033
+yes
+no
+CS 59200CAC
+Compiler-Architecture Codesign
+(PDF)
+Jung, Changhee
+MW 4:30pm-5:45pm
+WALC 3084
+yes
+yes
+CS 59200ICS
+IoT/CPS Security
+(PDF)
+Celik, Berkay
+MW 4:30pm-5:45pm
+LWSN 1106
+yes
+yes
+CS 59200IML
+Interpretability In ML
+Khanna, Rajiv
+TTH 3:00pm-4:15pm
+LWSN B134
+yes
+yes
+CS 59200IVZ
+Information Visualization
+Tricoche, Xavier
+MWF 9:30am-10:20am
+LWSN B134
+yes
+yes
+CS 59200NIV
+Network Intelligence 5G/Beyond
+Peng, Chunyi
+MWF 10:30am-11:20am
+LWSN B134
+yes
+yes
+CS 59300RL
+Reinforcement Learning
+Azizzadenesheli, Kamyar
+M 1:30pm-4:20pm
+ME 1009
+yes
+yes
+CS 59300ROB
+Robotics
+Qureshi, Ahmed
+TTH 9:00am-10:15am
+LWSN B134
+yes
+yes
+CS 69000DPL
+Deep Learning
+Ribeiro, Bruno
+TTH 12:00pm-1:15pm
+BRNG 1268
+yes
+yes
+Fall 2021
+Course number
+Title (syllabus linked)
+Instructor
+Days/Time
+Location
+OK MS as elective
+OK PhD as 1 of 6
+CS 59200ADS
+Advanced Distributed Systems
+Zhang, Yongle
+TTH 4:30-5:45
+LWSN B134
+yes
+yes
+CS 59200AIS
+AI for Scientific Discovery
+Xue, Yexiang
+MW 4:30-5:45
+LWSN B134
+no
+no
+CS 59200AST
+Automated Security Testing
+Bianchi, Antonio
+TTH 3:00-4:15
+UNIV 019
+no
+no
+CS 59200ATC
+Advanced Topics in Compilers
+Rompf, Tiark
+TTH 4:30-5:45
+LWSN 1106
+yes
+yes
+CS 59200HAI
+Human-AI Interaction
+Zhang, Tianyi*
+MWF 10:30-11:20
+LWSN B134
+yes
+yes
+CS 59200HLT
+Hands-on Learning Theory**
+Honorio, Jean
+TTH 4:30-5:45
+BRNG B248
+yes
+yes
+CS 59200IRM
+Introduction to Robot Motion
+Qureshi, Ahmed*
+TTH 3:00-4:15
+LWSN B134
+yes
+yes
+CS 59200MLA
+ML and Algorithms Seminar
+Valiant, Paul*
+M 11:30-2:20
+PSYC 3102
+yes
+yes
+CS 59200MLT
+Machine Learning Theory
+Hanneke, Steve*
+TTH 1:30-2:45
+REC 315
+yes
+yes
+CS 59200MML
+Methods for Machine Learning
+Makur, Anuran*
+MW 4:30-5:45
+REC 103
+yes
+yes
+CS 59200PDP
+Prog Self-Driving Networks
+Shahbaz, Muhammad
+TTH 12:00-1:15
+LWSN B134
+yes
+yes
+CS 59200SRA
+Software Reliability and AI
+Tan, Lin
+TTH 1:30-2:45
+PHYS 111
+yes
+yes
+CS 59200TCC
+Trusted & Confidential Computing
+Tian, Dave
+MW 6:00-7:15
+LWSN 1106
+no
+no
+CS 59200VSS
+Verifying Systems at Scale
+Jagannathan, Suresh
+TTH 1:30-2:45
+PHYS 110
+no
+yes
+CS 59300ATA
+Advanced Topics in Algorithms
+Quanrud, Kent
+F 11:30-2:20
+REC 123
+yes
+yes
+CS 69000SLM
+Statistical Machine Learning II
+Honorio, Jean
+TTH 10:30-11:45
+HAMP 2117
+yes
+yes
+***CS 59000 and 69000 lecture courses included above fall under the same guidelines as CS 59200 and 59300 courses. These seminars and new courses in development previously offered as CS59000 or CS69000 will retain the original temporary number until the permanent number is assigned.
+CS 59000 one credit courses are not included in the above lists as they are not eligible for inclusion on a plan of study.
+Last Updated:
+Oct 27, 2026 2:11 PM

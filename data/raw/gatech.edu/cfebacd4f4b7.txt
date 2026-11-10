@@ -1,0 +1,52 @@
+At Computing, Building AI Agent Skills Begins at First-Year Orientation Seminar | College of Computing
+At Computing, Building AI Agent Skills Begins at First-Year Orientation Seminar | College of Computing
+Skip to main navigation
+Skip to main content
+MENU
+College of Computing
+At Computing, Building AI Agent Skills Begins at First-Year Orientation Seminar
+Wednesday, December 17, 2025
+Emily Smith
+College of Computing
+School of Computing Instruction
+Thanks to a successful pilot program, computer science majors will now build an artificial intelligence (AI) agent to use during their time at Georgia Tech. The pilot is a new addition to the existing
+CS 1100 Freshman Leap Seminar.
+This semester, students had a chance to build systems that generate personalized study guides and workflows they can use throughout their academic careers. School of Computing Instruction faculty member
+Aibek Musaev
+led the initiative, which is part of
+recent AI-focused additions
+to the College’s undergraduate course offerings.
+“This is an exciting time to be at the College of Computing,” said GT Computing’s
+Olufisayo Omojokun
+, associate dean for undergraduate education. “Computing as a field has received a tremendous amount of attention from the stream of generative AI tools and developments that researchers have released over the past few years.”
+With so much that is happening with AI, Omojokun says it’s important to refresh even the College’s most introductory class.
+“In CS 1100, I wanted students to learn about a new topic that everyone is talking about right now (agentic workflows) and realize that it’s not as complicated as it sounds,” Musaev said.
+“I also wanted them to learn how to build an AI application because very few of the first-year students I’ve engaged with had prior experience building one.”
+With the skills gained from learning to build these tools, students can reuse and refine agents throughout their academic careers.
+Beyond LLMs: Building a Pipeline, Not Just Asking a Model
+While today’s chatbots advertise their abilities to serve as study helpers, Musaev says it’s beneficial to show students how to create their own pipelines of agents.
+“Each agent has a defined role, which makes the system modular and easier to debug,” Musaev said. “You’re creating and engineering your own AI system from the ground up, using principles of software engineering.”
+The workflow includes agents designed for tasks such as:
+Topic detection, identifying areas of study
+Lesson creation, generating custom learning content
+Quiz generation, testing knowledge
+Feedback analysis, evaluating results
+Image
+In CS 1100, students are creating their own AI agents to help them study. Image provided by Aibek Musaev.
+A monolithic model like ChatGPT or Gemini can’t optimize tone, reasoning, and structure across all tasks at once, he said. A single prompt chain can produce inconsistent outputs because the model is juggling multiple objectives.
+By dividing the process into separate components, each agent focuses on a single task, resulting in clearer, more consistent outputs. Components can be swapped, upgraded, or reused in future courses.
+For example, a lesson generator can be enhanced with diagrams or videos without affecting the rest of the workflow. This modular approach allows students to adapt their systems as tools and needs change.
+“An LLM gives you one smart assistant, but an agentic workflow gives you an entire team of assistants. Each has a specific role, all working together toward a common goal,” Musaev said.
+Preparing Students for an Evolving AI Landscape
+Musaev says these skills matter beyond the classroom because AI tools and interfaces are evolving at a “breakneck pace.”
+“LLM providers release new models almost monthly, and older ones often change or get retired,” Omojokun said.
+“A workflow that ran perfectly in the spring may break by summer because the model it depended on no longer behaves the same way. This pace is very different from traditional software, where tools stay stable for years.”
+By teaching students to build their own AI pipelines, they’re prepared for a future in which tools shift rapidly and custom solutions are essential.
+Recent
+Stories
+Georgia Tech Researchers Recognized With Test of Time Awards
+Monday, November 9, 2026
+Richard DeMillo Celebrated for Decades of Contributions to…
+Monday, November 9, 2026
+College to Celebrate Inaugural Entrepreneurship Week…
+Wednesday, November 4, 2026

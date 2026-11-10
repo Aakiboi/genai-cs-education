@@ -1,0 +1,131 @@
+Use of Generative AI in CSE 369
+Use of Generative AI in CSE 369
+Use of Generative AI in CSE 369
+Generative AI (ChatGPT/Bard)
+If you decide to use generative AI in this course (
+e.g.
+,
+ChatGPT, Bard), make sure that it is in line within course policy.
+If you are unsure about what may constitute inappropriate use of AI
+tools,
+please
+don't hesitate to reach out to the course staff
+about the situation!
+Introductory Video
+One perspective on generative AI and education.
+The section on "The science of learning" (starting at 11:18) is also
+a good refresher on good habits and practices for learning in general.
+What is Generative AI?
+Generative AI refers to a kind of artifical intelligence software
+that is capable of getting information in response to prompts.
+The software is trained on source data, and uses that training data
+as input to a sophisticated model that predicts the appropriate
+response to the prompt.
+It does not understand the prompts, but it produces a convincing
+simulation of understanding.
+Examples of generative AI systems that use text include ChatGPT and
+Bard, and generative AI models capable of generating images include
+Midjourney and DALL-E.
+Risks of Generative AI
+Accuracy:
+If you are using generative AI tools
+for learning then you should always double-check the content.
+For example, if you are assigned to write a program that uses a
+specific algorithm, AI tools may generate a solution that arrives
+at the correct answer but does not use the required algorithm.
+If you use generative AI to assist in the creation of assessed
+content then you are responsible for the accuracy and correctness
+of the work that you submit.
+Quality:
+Content generated may be of poor quality, and
+generic in nature.
+Code may have security flaws and may contain bugs.
+It is important that you understand how any generated code works
+and you evaluate the quality of the content.
+Learning:
+Generative AI can be a powerful productivity
+tool for users who are already familiar with the topic of the
+generated content because they can evaluate and revise the content
+as appropriate.
+Tasks assigned by your teachers are designed to help you learn, and
+relying on AI tools to complete tasks denies you the opportunity to
+learn, and to receive accurate feedback on your learning.
+Over-reliance:
+Using AI tools to do your work for you may
+achieve the short-term goal of assignment completion, but
+consistent over-reliance on AI tools may prevent you from being
+prepared for later examinations, subsequent coursework, or future
+job opportunities.
+Motivation:
+Some students may experience lack of
+motivation for tasks that generative AI can complete.
+It is important to understand that you need to master simple tasks
+(which generative AI can complete) before you can solve more
+complex problems (which generative AI cannot complete).
+Stay motivated!
+Impact on others
+There are many consequences to inappropriate usage of AI tools.
+Some of these consequences may be unintended, and could potentially
+harm others.
+For example:
+Other students:
+You could expose other students to harm
+by preventing their learning or including content in a group
+assignment that violates academic integrity.
+Faculty:
+Violating academic integrity standards through
+the use of AI tools requires time and energy, and is emotionally
+draining to teachers and administrators, to enforce these
+standards.
+Institutional:
+Including code from AI tools that you do
+not understand could expose the university to loss of reputation or
+even financial harm through lawsuits.
+What's allowed vs. what isn't
+Examples of permitted use
+Despite the risks of using AI tools, you will use them in industry
+after graduation at your job.
+Therefore, you should learn to use them appropriately so you receive
+the most long-term benefit.
+As a student, these uses are mostly centered on helping you
+understand course material.
+This includes asking generative AI to:
+Explain a given topic, or to provide an example of how
+programming constructs are used.
+Explain your program one line at a time.
+Produce an example that is similar to assignment questions.
+Explain the meaning of error messages.
+Generate code to complete tasks that you have already mastered
+from previous coursework.
+An example of a prompt that is perfectly okay to ask is "What is the
+difference between blocking and nonblocking assignments in
+SystemVerilog?".
+In this case, such an answer from the prompt allows for the student
+to
+understand a particular concept
+, which can help further
+their understanding of it in the course.
+Examples of inappropriate use
+There are often times when using AI tools are not permitted.
+Examples of these uses are:
+Asking generative AI to complete an assignment for you –
+that you were meant to complete – where it can generate an
+entire solution when you don't understand it.
+Using AI tools on official assessments where uses have been
+expressly forbidden, such as invigilated exams where the purpose is
+to determine your individual understanding of the material.
+Any use that may prevent your personal academic growth or may
+prevent you from understanding a topic or idea.
+Writing a code solution in a language you know and then asking an
+AI tool to translate that code into the language required for the
+assignment.
+In this case, part of the assignment's value to your learning is to
+better understand the required language, which you would be missing
+out on.
+On the other hand, prompts that deal with solving parts your labs
+are not permitted.
+Again,
+please don't hesitate
+to visit office hours or post on
+the Ed discussion board if you get stuck.
+We want you to succeed in this course!

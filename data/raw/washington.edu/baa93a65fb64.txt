@@ -1,0 +1,431 @@
+CSE 547 | Home
+CSE 547 | Home
+Add Code
+Based on current enrollment, we expect to be able to enroll everyone with reasonable prerequisites. To request
+an add code, please fill out the
+enrollment form
+.
+Feedback is encouraged and appreciated! If there is anything we can improve (homeworks, lectures, teaching, accesibility), please don't hesitate to submit an entry in our
+feedback form
+.
+No assignments will be accepted after the late period is due, meaning that you will receive zero credit for late submissions after you used both your late periods.
+Logistics
+Lectures:
+Tuesdays & Thursdays, 10:00-11:20am, CSE2 room G01.
+Public resources
+: The lecture slides and assignments will be posted online as the course progresses.
+We are happy for anyone to use these resources, but we cannot grade the work of any students who are not
+officially enrolled in the class.
+Grading and evaluation
+: There will be 10 Colabs (20%), 4 homeworks (40%), and a course project (40%).
+Students should upload their submissions to GradeScope
+GradeScope
+.
+(Activation Code:
+8EP56R
+).
+More information
+here
+.
+Office hours
+: Information
+here
+.
+Contact
+: Students should ask
+all
+course-related questions on the
+ed forum
+, where you will also find
+announcements. For external enquiries, personal matters, or in emergencies, you can email us at
+cse547-instructors@cs.washington.edu
+. Please do not use other emails (such as the TAs' UW
+email IDs)
+for questions about the class, as these may not be answered in a timely manner.
+Deadlines Clarification
+: All deadlines are at 23:59pm PT.
+Instructor
+Tim Althoff
+Teaching Assistants
+Yikun Zhang
+(Head TA)
+Zhitao Yu
+Mingyu Lu
+William Howard-
+Snyder
+Oscar Liu
+Content
+What is this course about?
+The course will discuss data mining and machine learning algorithms for analyzing very large amounts of data.
+The emphasis will be on MapReduce and
+Spark
+as tools for creating parallel
+algorithms that can process very large amounts of data.
+Topics include
+: Frequent itemsets and Association rules, Near Neighbor Search in High
+Dimensional Data, Locality Sensitive Hashing (LSH), Dimensionality reduction, Recommendation Systems,
+Clustering, Link Analysis, Large scale supervised machine learning, Data streams, Mining the Web for Structured
+Data.
+This course is modeled after
+CS246: Mining Massive Datasets
+by Jure Leskovec at Stanford University.
+Reference Text
+The following text is useful, but not required. It can be downloaded for free, or purchased from Cambridge
+University Press.
+Leskovec-Rajaraman-Ullman: Mining of Massive Dataset
+Prerequisites
+Students are expected to have the following background:
+Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably
+non-trivial computer program (e.g., CS332, CS373 or equivalent are recommended).
+Good knowledge of Python and Java will be extremely helpful since several assignments will require the use
+of Spark/Hadoop.
+Familiarity with basic probability theory (any introductory probability course).
+Familiarity with writing rigorous proofs (e.g., CS311 or equivalent).
+Familiarity with basic linear algebra (e.g., Math 308 or equivalent).
+Familiarity with algorithmic analysis (e.g., CS332/CS373; CS417/CS421 would be more than necessary).
+Students may refer to the following materials for an overview and review of the expected background. Related
+questions can be posted on
+ed or during
+Office Hours
+.
+Probability and Proof Techniques
+Linear Algebra
+Spark Tutorial
+(a
+video
+is available
+through Stanford CS246)
+Students may decide to enroll without knowledge of these prerequisites but expect an significant increase in
+work load to learn these concurrently (e.g. 10 hours per week per missing prerequisite as a rule of thumb).
+Accessibility & Accommodations
+Embedded in the core values of the University of Washington is a commitment to ensurring access to a quality
+higher education experience for a diverse student population. Disability Resources for Students (DRS) recognizes
+disability as an aspect of diversity that is integral to society and to our campus community. DRS serves as a
+partner in fostering an inclusive and equitable environment for all University of Washington students. The DRS
+office is in 011 Mary Gates Hall. Please see the UW resources at the
+accomodations website
+.
+Washington state law requires that UW develop a policy for accommodation of student absences or significant
+hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy,
+including more information about how to request an accommodation, is available at the
+religious accommodations policy website
+.
+Accommodations must be requested within the first two weeks of this course using the
+religious accommodations request form
+.
+Use of ChatGPT and Related Tools:
+It is hard to find someone who has not heard about ChatGPT and related tools, and these tools are undeniably useful for generating ideas, providing suggestions, and more. In this class, we will ask you to follow these ethical guidelines when using generative AI such as ChatGPT.
+1. Whether you use generative AI or read someone’s blog post or code, you are expected to ensure that the final product is your own, original work.
+2. You may use generative AI for assignments and exams unless I specify that it may not be used. If guidelines are provided you should additionally follow those guidelines.
+3. Unlike blog posts and research articles, you do not need to attribute artifacts/quote text or label code produced by generative AI when you use it. However, you must do the following or you will face academic consequences including but not limited to failing an assignment or an exam.
+- You must cite the AI program you used in the artifact you hand in. You must also add the prompts you used to your assignment or exam in an appendix.
+- If it copies text from other sources and you don’t provide proper attribution, you will be held accountable for that.
+-  If it provides ideas that are not your own, you will need to find and properly cite the original source.
+- You must still comply with the academic integrity policies of the institution. This includes refraining from using generative AI to plagiarize or cheat.
+4. You will be held to the same standards when you use generative AI as for any assignment, regardless of whether you or the AI created something, including:
+- If you turn in artifacts that contain false or incomplete claims, you will be graded accordingly
+- If you turn in code that does not compile or is incomplete, you will be graded accordingly
+- You will be graded based on the critical thinking and writing skills, accuracy, and accessibility of the things that you produce.
+We recommend that you use generative AI in moderation. Generative AI can help you to summarize text, improve grammar, write code, collect relevant resources to read, and generate ideas. However if you start to rely solely on it, you may limit your own development in critical thinking and writing, and if the results are that your writing is narrower and shallower in scope this may impact your grade.
+Also please note that using such tools may imply donating your data to the companies that deployed them. Please take reasonable steps to avoid making our assignments easier in future iterations of the course (e.g., once the tool provides a correct answer, don’t give it positive feedback). To summarize, you may use generative AI unless otherwise specified. However, you must use it ethically, check its work, and ensure that you do not cheat or plagiarize when using it. Further, you will most likely not receive a high grade if you rely on it to the exclusion of your own critical thinking, writing and other skills.
+This policy was written by Jen Mankoff with minor adaptations.
+Schedule
+Note:
+Lectures will in person in room CSE2 G01.
+Lecture slides will be posted here shortly before each lecture.
+This schedule is subject to change
+Date
+Description
+Course Materials
+Events
+Deadlines
+Tue March 26
+Introduction; MapReduce and Spark
+[
+slides
+]
+Suggested Readings:
+Ch1: Data Mining
+Ch2: Large-Scale File Systems and Map-Reduce
+Start planning course project
+[
+Teams signup form
+]
+Tue March 26
+Recitation: Spark
+3:30-5:00 CSE2 G01
+[
+Colab 0
+]
+[
+Colab 1
+]
+out
+Thu March 28
+Frequent Itemsets Mining
+[
+slides
+]
+Suggested Readings:
+Ch6: Frequent itemsets
+Assignment 1
+[
+handout
+,
+bundle file
+]
+web link
+]
+out
+Thu March 28
+Recitation: Probability and Proof Techniques
+[
+notes
+]
+web link
+]
+3:30-5:00 CSE2 G04
+Tue April 2
+Locality-Sensitive Hashing I
+[
+slides
+]
+Suggested Readings:
+Ch3: Finding Similar Items
+(Sect. 3.1-3.4)
+Tue April 2
+Recitation: Linear Algebra
+[
+notes
+]
+web link
+]
+3:30-5:00 CSE2 G01
+Thu April 4
+Locality-Sensitive Hashing II
+[
+slides
+]
+Suggested Readings:
+Ch3: Finding Similar Items
+(Sect. 3.5-3.8)
+[
+Colab 2
+] Colab 2
+out
+Colab 0, Colab 1
+due
+Thu April 4
+Recitation: Big Data Trick
+[
+Colab Big Data
+]
+3:30-5:00 CSE2 G04
+Tue April 9
+Clustering
+[
+slides
+]
+Suggested Readings:
+Ch7: Clustering
+(Sect. 7.1-7.4)
+Thu April 11
+Dimensionality Reduction
+[
+slides
+]
+Suggested Readings:
+Ch11: Dimensionality Reduction
+(Sect. 11.4)
+[
+Colab 3
+] Colab 3
+& Assignment 2
+out
+[
+handout
+,
+bundle file
+web link
+]
+Colab 2
+& Assignment 1
+due
+Tue April 16
+Recommender Systems I
+[
+slides
+]
+Suggested Readings:
+Ch9: Recommendation systems
+Thu April 18
+Recommender Systems II
+[
+slides
+]
+Suggested Readings:
+Ch9: Recommendation systems
+[
+Colab 4
+] Colab 4
+out
+Colab 3
+due
+,
+Project Proposal
+due
+(no late periods)
+Tue April 23
+PageRank
+[
+slides
+]
+Suggested Readings:
+Ch5: Link Analysis
+(Sect. 5.1-5.3, 5.5)
+Thu April 25
+Link Spam and Introduction to Social Networks
+[
+slides
+]
+Suggested Readings:
+Ch5: Link Analysis
+(Sect. 5.4)
+Ch10: Analysis of Social Networks
+(Sect. 10.1-10.2, 10.6)
+[
+Colab 5
+] Colab 5
+& Assignment 3
+out
+[
+handout
+,
+bundle file
+web link
+]
+Assignment 2
+due
+Fri April 26
+Colab 4
+due
+Tue April 30
+Community Detection in Graphs
+[
+slides
+]
+Suggested Readings:
+Ch10: Analysis of Social Networks
+(Sect. 10.3-10.5)
+Thu May 2
+Graphs Representation Learning
+[
+slides
+]
+Suggested Readings:
+Ch10: Analysis of Social Networks
+(Sect. 10.7-10.8)
+[
+Colab 6
+]Colab 6
+out
+Fri May 3
+Colab 5
+due
+Sun May 5
+Project Milestone
+due
+(no late periods)
+Tue May 7
+Large-Scale Machine Learning I
+[
+slides
+]
+Suggested Readings:
+Ch12: Large-Scale Machine Learning
+Thu May 9
+Large-Scale Machine Learning II
+[
+slides
+]
+Suggested Readings:
+Ch12: Large-Scale Machine Learning
+[
+Colab 7
+] Colab 7
+& Assignment 4
+out
+[
+handout
+,
+bundle file
+]
+Assignment 3
+due
+Fri May 10
+Colab 6
+due
+Tue May 14
+Mining Data Streams I
+[
+slides
+]
+Suggested Readings:
+Ch4: Mining data streams
+(Sect. 4.1-4.3)
+Thu May 16
+Mining Data Streams II
+[
+slides
+]
+Suggested Readings:
+Ch4: Mining data streams
+(Sect. 4.4-4.7)
+[
+Colab 8
+] Colab 8
+out
+Colab 7
+due
+Fri May 17
+Colab 7
+due
+Tue May 21
+Project Office Hours
+Thu May 23
+Guest Lecture: Interpertable Machine Learning
+[
+slides
+]
+Suggested Readings:
+Chapter 10: Neural Network Interpretation
+by Christoph Molnar. 2023.
+[
+Colab 9
+] Colab 9
+out
+Assignment 4
+due
+Tue May 28
+Causal Inference I
+[
+slides
+]
+Colab 8
+due
+Thu May 30
+Causal Inference II
+[
+slides
+]
+Sun June 2
+Colab 9
+due
+& Final Report
+due
+& Presentation video
+due
+(no late periods)
+Mon June 3
+10:30am-12:20pm PT
+Project Presentations

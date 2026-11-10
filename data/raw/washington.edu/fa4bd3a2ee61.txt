@@ -1,0 +1,131 @@
+AI Education in the Allen School - Paul G. Allen School of Computer Science & Engineering
+AI Education in the Allen School - Paul G. Allen School of Computer Science & Engineering
+Skip to content
+Enter search text
+Current site
+All the UW
+Search scope
+Current site
+All the UW
+Our Courses
+Time Schedules
+Contact Us
+Make A Gift
+♥
+Internal Resources
+Undergraduate Education
+AI Education in the Allen School
+There is a lot of conversation around artificial intelligence (AI), as well as a lot of confusion. What is it? What can it do? What
+can’t
+it do? And what can students do to prepare for its impact on society — and on their career?
+The Allen School has a large number of faculty members whose expertise and scholarship is in AI, specifically in various subfields of AI such as Natural Language Processing, Computer Vision, Robotics, Machine Learning, and more. We also offer a large variety of courses that teach the foundations of AI as well as its applications in various fields.
+If you are an Allen School major, you may find this page useful in crafting your course of study. If you are a UW student in another major, you will find descriptions of AI courses we offer specifically for students outside of the Allen School. And if you are a high school student, you may find this page helpful in learning more about AI in the Allen School as you plan for college.
+Whether you intend to carve a career path in AI, want to develop your understanding of tools you can apply in other areas of computing (or other disciplines beyond computing), or are simply AI-curious, we have a course for that.
+Working professionals who are interested in pursuing graduate-level coursework in AI are invited to explore the offerings in our
+Professional Master’s Program
+and
+Graduate Certificate in Modern AI Methods
+.
+Jump To A Section
+What Is AI?
+Why Study AI?
+Introductory Course
+Courses for Allen School Majors
+Capstone Courses
+Courses for Non-majors
+What Is AI?
+What
+is
+artificial intelligence? In this context,
+artificial
+means done by computers;
+intelligence
+is a trickier concept, and there isn’t a clear, agreed-upon definition among scientists. There is broad agreement, however, that AI is evolving quickly and may have a significant impact on society, work and much more.
+Read more
+One way to think about intelligence is through tasks. People perform a variety of tasks requiring some level of intelligence, ranging from the simple (such as making a dinner reservation) to the complex (such as researching and writing a book). These can often be broken down into smaller tasks in which we perceive information visually, understand or speak language, make a plan, or draw inferences to predict the future. AI research has focused on getting computers to carry out many such tasks, from small to large, simple to complex. In the past few years, there’s been a move toward combining these abilities in a single system. “AI” is also sometimes used to refer to specific systems that have been built to have such abilities.
+That way of thinking might lead someone to see
+everything
+computers do as AI, but that is not the case. Though there’s not a hard boundary everyone agrees on, there are two key features that help us distinguish between “AI tasks” and other computational tasks.
+First, AI tasks are often considered “intelligent” because we can imagine humans doing them well; non-AI tasks are usually ones that (most) humans are terrible at. Examples include storing and retrieving massive amounts of data, performing lots of mathematical operations quickly and accurately, playing audio and video files, and many other things people have historically used computers for because we could never have done them ourselves.
+Second, AI vs. non-AI systems are often distinguished by how difficult it is to mathematically formalize the problem and/or the correctness of the solution. It’s easy for a human to describe and carry out a task like “find the cats in this image,” and to check the correctness of an AI system that tries to complete the same task. But it’s exceedingly hard to write down, in a formal, mathematical way, an algorithm for finding cats in pictures. These examples give you some sense of what experts see as separating AI from other computing abilities, but not the whole story.
+In Computer Science & Engineering, AI generally refers to the design, implementation, and evaluation of computer systems that perform tasks that we think of as requiring human intelligence, drawing upon areas such as computer vision, machine learning, natural language processing, robotics, and more. Learning how to build and evaluate AI requires a broad set of skills in algorithm design, systems building, data analysis, performing experiments, and considering the impact on individuals and society. It’s very different from learning how to effectively and responsibly
+use
+AI tools, such as in the creation of software — which is also important!
+In the Allen School, students can learn both how to build and how to use AI.
+Back to top
+Why Study AI?
+AI is a rapidly evolving field that has applications across computing and beyond. We encourage students to consider taking one or more courses in AI topics as part of a well-rounded curriculum, regardless of their career goals. While the tools of today may not be the tools of tomorrow, a UW education empowers students with the knowledge and skills to be lifelong learners — and an Allen School education equips them to adapt and experiment with future advances in the field.
+Read more
+Allen School majors who intend to pursue advanced research or an industry position focused on AI after graduation should consider taking multiple courses to prepare themselves for the next stage of their career. Broadly speaking, as we find new ways to leverage AI, it becomes increasingly important that students understand its potential applications as well as its potential limitations — which is why we offer a mix of courses that cover the technical aspects of AI and the associated practical, ethical and societal implications.
+Back to top
+Introductory Course
+We offer an introduction to the concepts and implications underlying AI for all students, without prerequisites.
+CSE 170 Artificial Intelligence Principles, Applications, and Impacts
+(Scheduled for Winter 2027)
+Courses for Allen School Majors
+As a leader in AI education and research, the Allen School offers students pursuing a degree in Computer Science or Computer Engineering the opportunity to explore all facets of this rapidly expanding field while tailoring their coursework to their individual interests and career goals. Students may choose to study a little bit of AI in the context of their undergraduate degree or they may choose to heavily specialize in that area. The choice is yours to make.
+Note that some courses have prerequisites; visit our
+Courses webpage
+for details. You might also wish to consult the
+UW Course Catalog
+to explore AI-related courses offered by other units.
+Core Topics in AI
+We offer a comprehensive range of courses that teach the foundations of AI technologies and their potential applications.
+CSE 446 Machine Learning
+CSE 447 Natural Language Processing
+CSE 455 Computer Vision
+CSE 473 Artificial Intelligence
+CSE 478 Autonomous Robotics
+CSE 493G1 Deep Learning
+AI and Software
+We offer courses that explore how to leverage AI to build software.
+Vibe Coding
+(Piloting in Fall 2026)
+AI-Assisted Software Engineering
+(First piloted in Fall 2025; next offering planned for Winter 2027. Title may change for next offering.)
+AI Ethics and Societal Impact
+We offer courses that explore the ethical and societal implications of AI and its various uses, connecting AI technologies to real-world impacts — including how those impacts may vary across different communities.
+CSE 480 Computer Ethics Seminar
+Special Topics in AI
+Each quarter, the Allen School offers a revolving selection of courses delving into special topics in computing to suit a range of interests — including topics in AI that go beyond what is covered as part of our regular curriculum. Some courses are offered repeatedly, while others may be one-offs. Below is a sample of recent offerings; see our
+overview of special topics courses
+for more information about current and upcoming offerings and their prerequisites.
+Deep Learning
+Advanced Machine Learning
+Big Ideas in AI
+Human-AI Interaction
+(
+Pilot scheduled for Winter 2027
+)
+Systems for Machine Learning
+(Pilot scheduled for Winter 2027)
+In addition, we offer graduate-level courses that may interest advanced undergraduates who meet the prerequisites and receive permission from the instructor. See below for examples and see our
+Ph.D. course guide
+for details about current and upcoming offerings.
+Agentic Systems Security
+Human-AI Interaction
+Machine Learning for Neuroscience
+The New AI Story: Empowering Humans in the Age of Machines
+Prototyping with AI for Performing Arts
+Social Reinforcement Learning
+Sustainable and Ubiquitous AI
+Systems for Machine Learning
+Topics in Robust Statistics
+Back to top
+Capstone Courses
+The Allen School offers a variety of senior-level project-based courses in which students apply knowledge obtained from multiple areas of computer science and engineering. Capstone participants work in teams to define a problem and develop a solution. The Allen School offers several capstones that focus on applications of AI; see below for examples and consult our
+capstones webpage
+for more details about current and past offerings and their prerequisites.
+Human-AI Interaction
+Machine Learning
+Networks and Mobile AI
+Robotics
+Back to top
+Courses for Non-majors
+The Allen School offers courses designed specifically for students majoring in disciplines other than Computer Science or Computer Engineering to learn the fundamentals of AI.
+CSE 415 Introduction to Artificial Intelligence
+CSE 416 Introduction to Machine Learning
+Back to top
+Allen School Events Calendar
+View all calendar events »
+Follow the Allen School

@@ -1,0 +1,233 @@
+Bachelor of Science in Software Engineering - Program Requirements - 2026-2027 Undergraduate & Graduate Catalog - Grand Valley State University
+Bachelor of Science in Software Engineering - Program Requirements - 2026-2027 Undergraduate & Graduate Catalog - Grand Valley State University
+Skip to main content
+Grand Valley State University
+REQUEST INFORMATION
+INFO
+VISIT
+APPLY
+GIVE
+Search People & Pages
+Search Suggestions
+People Finder
+People Finder
+2026-2027 Undergraduate & Graduate Catalog
+Program Requirements
+Bachelor of Science in Software Engineering
+2026-2027 Undergraduate & Graduate Catalog
+Entire Catalog
+Colleges
+Content & Navigation
+Course Filters
+Courses
+Degree Types
+Program Acronyms
+Program Descriptions
+Program Emphases
+Program Requirements
+Program Types
+Subjects
+Search
+Search Help
+Search Descriptions
+Bachelor of Science in Software Engineering
+Bachelor of Science in Software Engineering
+The Software Engineering program focuses on designing, developing, and maintaining high-quality software systems that meet user needs and industry standards. Students gain expertise in software design, coding, testing, and project management, preparing them for careers in creating innovative and reliable software solutions.
+Requirements for a Major in Software Engineering
+Students who wish to major in software engineering must complete the following.
+1. Degree Requirements
+Students must complete the general university degree requirements as identified in the General Academic Regulations section of the catalog. The university B.S. requirements are met through
+STA 215
+,
+MTH 225
+, and
+MTH 204
+,
+STA 216
+, or
+STA 418
+2. Software Engineering Major
+Software engineering majors must complete the following courses with a minimum 2.0 GPA.
+Core Courses
+CIS 162 - Computer Science I (4 credits)
+CIS 163 - Computer Science II (4 credits)
+CIS 241 - System-level Programming and Utilities (3 credits)
+CIS 263 - Data Structures and Algorithms (3 credits)
+CIS 290 - Professional Responsibilities and Practices (3 credits)
+CIS 350 - Introduction to Software Engineering (3 credits)
+CIS 352 - Operating System Essentials (3 credits)
+CIS 353 - Database (3 credits)
+CIS 418 - Secure Software Engineering (3 credits)
+CIS 490 - Internship (2 to 5 credits)
+SE 413 - Software Testing (3 credits)
+SE 422 - Software Architecture and Design (3 credits)
+SE 430 - Software Construction and Delivery (3 credits)
+SE 437 - Software Quality Assurance (3 credits)
+SE 495 - Software Engineering Senior Project (3 credits)
+Total 46- 49 credits.
+Non-Computing Core Courses
+You must also complete the following seven courses:
+COM 201 - Speech (3 credits)
+MTH 201 - Calculus I (4 credits)
+MTH 204 - Linear Algebra I (3 credits)
+MTH 225 - Discrete Structures: Computer Science (3 credits)
+MTH 325 - Discrete Structures:  Computer Science 2 (3 credits)
+STA 215 - Introductory Applied Statistics (3 credits)
+OR
+STA 312 - Probability and Statistics (3 credits)
+)
+WRT 350 - Business Communication (3 credits)
+Total 22 credits.
+Complete any two courses (minimum of 6 credits) from the following math/stat electives:
+MTH 202 - Calculus II (4 credits)
+)
+MTH 205 - Linear Algebra II (3 credits)
+MTH 465 - Automata and Theory of Computation (3 credits)
+STA 216 - Intermediate Applied Statistics (3 credits)
+STA 318 - Statistical Computing (3 credits)
+STA 323 - Predictive Analytics (3 credits)
+STA 418 - Statistical Computing and Graphics with R (3 credits)
+Total 6-7 credits.
+Complete any two courses (minimum of 8 credits) from the following science electives:
+BIO 120 - General Biology I (4 credits)
+BIO 121 - General Biology II (4 credits)
+BMS 202 - Anatomy and Physiology (4 credits)
+CHM 125 - Principles of Chemistry I Lecture (3 credits)
+AND
+CHM 126 - Principles of Chemistry I Lab (1 credit)
+CHM 127 - Principles of Chemistry II Lecture (4 credits)
+AND
+CHM 128 - Principles of Chemistry II Lab (1 credit)
+GEO 111 - Exploring the Earth (4 credits)
+PHY 220 - General Physics I (5 credits)
+PHY 221 - General Physics II (5 credits)
+PHY 230 - Principles of Physics I (5 credits)
+PHY 231 - Principles of Physics II (5 credits)
+Total 8-10 credits.
+Elective Courses
+Suggested Order of Coursework
+Take
+three
+courses within a given track; the course tracks are shown below:
+Track: Mobile and Web Application Development
+The Mobile and Web Application Development track equips students with the skills to design, develop, and evaluate user-centered applications for mobile devices and the Web. Courses in this track emphasize mobile applications development, Web programming, algorithm engineering, and usability design to create efficient and engaging software solutions.
+CIS 357 - Mobile Application Development (3 credits)
+CIS 263 - Data Structures and Algorithms (3 credits)
+CIS 371 - Web Application Programming (3 credits)
+HCC 304 - Usability Design and Evaluation (3 credits)
+Track: Software and System Security
+The Software and System Security track focuses on securing software and systems against cyber threats through advanced technical and analytical skills. This track provides students with a comprehensive understanding of secure system design and operation.
+CYB 420 - Trustworthy AI (3 credits)
+CIS 258 - Introduction to Cybersecurity (3 credits)
+CIS 358 - Information Assurance (3 credits)
+CIS 437 - Cloud Computing (3 credits)
+CYB 453 - Ethical Hacking (3 credits)
+CIS 457 - Data Communications (3 credits)
+CIS 458 - System Security (3 credits)
+SE 436 - Data Analytics in Software Engineering (3 credits)
+Track:
+Intelligent Software Systems
+The Intelligent Software Systems track prepares students to design, develop, and deploy AI-driven solutions across diverse domains. This track provides students with the skills to build innovative, adaptive, and scalable AI systems for real-world challenges.
+AI 201 - Introduction to Artificial Intelligence (3 credits)
+AI 402 - Generative Artificial Intelligence (3 credits)
+AI 411 - AI Ethics and Bias (3 credits)
+AI 431 - Natural Language Processing (3 credits)
+AI 441 - Edge AI (3 credits)
+AI 445 - Machine Learning Operations (3 credits)
+AI 551 - Reinforcement Learning (3 credits)
+CIS 464 - Algorithm Engineering (3 credits)
+CIS 378 - Applied Machine Learning (3 credits)
+SE 436 - Data Analytics in Software Engineering (3 credits)
+Track: Human-Centric Software Systems
+The Human-Centric Software Systems track focuses on creating software that prioritizes user experience and interaction. This track prepares students to design software that integrates human needs with technological advancements, enhancing usability and accessibility.
+AI 402 - Generative Artificial Intelligence (3 credits)
+CIS 320 - Visualization of Data and Information (3 credits)
+CIS 376 - Game Programming Techniques and Algorithms (3 credits)
+HCC 304 - Usability Design and Evaluation (3 credits)
+Track: Cloud and Edge Computing
+The Cloud and Edge Computing track equips students with the skills to develop and manage scalable, secure, and efficient computing solutions across cloud and edge environments. This track prepares students for careers in building cutting-edge solutions that utilize the power of cloud and edge technologies to meet dynamic industry demands.
+AI 201 - Introduction to Artificial Intelligence (3 credits)
+AI 441 - Edge AI (3 credits)
+CIS 371 - Web Application Programming (3 credits)
+CIS 373 - Pervasive Computing (3 credits)
+CIS 437 - Cloud Computing (3 credits)
+CIS 457 - Data Communications (3 credits)
+CIS 458 - System Security (3 credits)
+SE 431 - Software Virtualization (3 credits)
+SE 436 - Data Analytics in Software Engineering (3 credits)
+Track: Game Development and AR/VR
+The Game Development and AR/VR track focuses on creating immersive and interactive digital experiences through advanced techniques in graphics, usability, and programming. Students gain expertise in computer graphics, game algorithms, and pervasive computing, enabling them to design engaging games and AR/VR applications. Usability design ensures the development of user-friendly and accessible interactive systems.
+CIS 367 - Computer Graphics (3 credits)
+CIS 373 - Pervasive Computing (3 credits)
+CIS 376 - Game Programming Techniques and Algorithms (3 credits)
+HCC 304 - Usability Design and Evaluation (3 credits)
+Track: Project Management
+The Project Management track prepares students to lead and manage technology projects effectively in dynamic organizational environments. Graduates will be prepared to manage multidisciplinary teams and deliver successful projects in technology-driven industries.
+CIS 450 - IS Project Management (3 credits)
+CIS 460 - Management of Information Systems (3 credits)
+MGT 300 - Fundamentals of Management for Non-Business Majors (3 credits)
+MKT 300 - Fundamentals of Marketing for Nonbusiness Majors (3 credits)
+The following course sequence also assumes a strong mathematics background for the entering student. If mathematics deficiencies exist, completing the mathematics prerequisites should be the student's top priority.
+Year One
+CIS 162 - Computer Science I (4 credits)
+MTH 124 - Precalculus: Functions and Models (5 credits)
+STA 215 - Introductory Applied Statistics (3 credits)
+CIS 163 - Computer Science II (4 credits)
+COM 201 - Speech (3 credits)
+MTH 225 - Discrete Structures: Computer Science (3 credits)
+Foundation - Writing
+Appropriate general education coursework
+Year Two
+CIS 241 - System-level Programming and Utilities (3 credits)
+CIS 290 - Professional Responsibilities and Practices (3 credits)
+MTH 201 - Calculus I (4 credits)
+MTH 325 - Discrete Structures:  Computer Science 2 (3 credits)
+CIS 263 - Data Structures and Algorithms (3 credits)
+CIS 350 - Introduction to Software Engineering (3 credits)
+MTH 204 - Linear Algebra I (3 credits)
+Appropriate general education coursework
+Year Three
+CIS 352 - Operating System Essentials (3 credits)
+CIS 353 - Database (3 credits)
+SE 413 - Software Testing (3 credits)
+SE 422 - Software Architecture and Design (3 credits)
+SE 437 - Software Quality Assurance (3 credits)
+Software engineering electives (1 course)
+Math electives
+Science electives
+Appropriate general education coursework
+Year Four
+CIS 418 - Secure Software Engineering (3 credits)
+SE 430 - Software Construction and Delivery (3 credits)
+WRT 350 - Business Communication (3 credits)
+SE 495 - Software Engineering Senior Project (3 credits)
+CIS 490 - Internship (2 to 5 credits)
+Software engineering electives (2 courses)
+Appropriate general education coursework
+If you are in need of assistance please
+submit any questions or comments
+.
+Catalog Year
+2026-2027 Undergraduate & Graduate Catalog
+2025-2026 Undergraduate & Graduate Catalog
+2024-2025 Undergraduate & Graduate Catalog
+2023-2024 Undergraduate & Graduate Catalog
+2022-2023 Undergraduate & Graduate Catalog
+2021-2022 Undergraduate & Graduate Catalog
+2020-2021 Undergraduate & Graduate Catalog
+2019-2020 Undergraduate & Graduate Catalog
+2018-2019 Undergraduate & Graduate Catalog
+2017-2018 Undergraduate & Graduate Catalog
+2016-2017 Undergraduate & Graduate Catalog
+2015-2016 Undergraduate & Graduate Catalog
+2014-2015 Undergraduate & Graduate Catalog
+2013-2014 Undergraduate & Graduate Catalog
+2012-2013 Undergraduate & Graduate Catalog
+2011-2012 Undergraduate & Graduate Catalog
+2010-2011 Undergraduate & Graduate Catalog
+2009-2010 Undergraduate & Graduate Catalog
+2008-2009 Undergraduate & Graduate Catalog
+2007-2008 Undergraduate & Graduate Catalog
+2006-2007 Undergraduate & Graduate Catalog
+2005-2006 Undergraduate & Graduate Catalog
+2027-2028 Undergraduate & Graduate Catalog [In Progress]

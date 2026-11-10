@@ -1,0 +1,170 @@
+CS 334: Syllabus
+CS 334: Syllabus
+CS 334: Principles of Programming Languages
+Course Objectives
+Class Materials
+Lectures
+Labs
+Homework and Labs
+Programming
+TAs
+Midterms and Final
+Grades
+Honor Code
+Inclusion and Classroom Culture
+Intellectual Property
+Accommodations
+Mental Health
+CS 334: Syllabus
+Course Objectives
+Class Materials
+Lectures
+Labs
+Homework and Labs
+Programming
+TAs
+Midterms and Final
+Grades
+Honor Code
+Inclusion and Classroom Culture
+Intellectual Property
+Accommodations
+Mental Health
+Course Objectives
+A programming language is a programmer's principle interface to the
+computer. As such, the choice of an appropriate language can make a
+large difference in a programmer's productivity. A major goal of this
+course is to present a comprehensive introduction to the principle
+features and overall design of both traditional and modern programming
+languages. You will examine language features both in isolation and in
+the context of more complete language descriptions. The material will
+enable you to:
+Quickly learn programming languages, and how to apply them to
+effectively solve programming problems.
+Rigorously specify, analyze, and reason about the behavior of a
+software system using a formally defined model of the system's
+behavior.
+Realize a precisely specified model by correctly implementing it as
+a program, set of program components, or a programming language.
+We will examine features of a large variety of languages, though we will
+not study many of languages themselves extensively. Like other CS
+courses, we will discuss alternate ways of solving problems, looking at
+the pros and cons. Because programming languages are so tied up (and
+motivated by) programming problems, we will not only investigate
+language features, but also the software engineering problems that
+spawned them.
+At the end of this course you will have a more thorough understanding of
+why certain programming language features provide better support for the
+production of reliable programs, while others are fraught with ambiguity
+or other problems. Since programming languages mediate between the
+programmer and the raw machine, we will also gain a deeper understanding
+of how programming languages are compiled, what actually happens when a
+program is executed on a computer, and how the programming language
+design affects these issues. As an example, by the end of the course,
+you should be able to understand why Java has replaced C++ language of
+choice for many projects and to recognize where language design is
+likely to head in the future.
+An important feature of this course is the discussion of programming
+language paradigms (in particular, languages supporting new ways of
+thinking about implementing algorithms). We will investigate both the
+new features themselves and the software engineering problems which
+spawned these developments.
+Class Materials
+We will be using the following text book:
+(Required)
+Concepts in Programming Languages
+, John C.
+Mitchell.
+Additional readings will be posted on the web site.
+The segments of the course that introduce
+new programming language paradigms will also feature some programming in
+languages representative of the functional and object-oriented paradigms
+(Lisp, ML, Scala, and possibly others).
+Lectures
+Lectures will be Tuesday and Thursday 8:30-9:45 and 9:55-11:10 in Schow 30A. Attendance in the lecture section you are registered for is required.
+Labs
+Labs will be Friday 11:00-12:15 or 1:30-2:45 in The Ward Lab (TBL 301). Attendance in the lab section you are registered for is required.
+Homework and Labs
+Problems involving analysis of programming language features will be
+assigned weekly and typically due Wednesday mornings by 10am.
+Labs will provide hands-on practice with the languages and concepts
+covered in lecture.  You will work on them on Friday and also submit them
+by Wednesday at 10am
+Each student may use a maximum of
+three late days
+during the course of
+the semester. A single late day enables you to hand in the homework and lab for a week up
+to 24 hours after the original due date. Once those late days are used
+up, late homework will be penalized 20% per day.
+Programming
+We will use the Computer Science Department's Unix computers in TCL 312 or TBL 301.  for the
+programming problems. If you are not familiar with the Unix computing
+environment, talk to me or the TA as soon as possible so we can bring
+you up to speed on what you need to know.
+If you have forgotten your CS password, email
+csaccounts@williams.edu
+.
+You will also be able to do most of the work on your own computers if you prefer, although I'll only be able to provide limited help in setting up the software tools you'll need.
+TAs
+TAs will have office hours in TCL 312.
+A schedule will be posted on the web page.
+Midterms and Final
+There will be two midterms and a final covering topics from lecture,
+readings, and homework. The midterms will be in class on
+(tentatively) 3/12 and 4/30. The
+final will be a self-scheduled exam.
+Grades
+Grades will be determined roughly as follows:
+Midterm 1: 25%
+Midterm 2: 25%
+Final: 25%
+Homework and labs: 25%
+Honor Code
+For computer assignments in computer science courses,
+the honor code is interpreted in very specific ways. Labs are expected
+to be the work of the individual student unless otherwise designated,
+designed and coded by them alone. Help locating errors and interpreting
+error messages is allowed, but a student may only receive help in
+correcting errors of syntax; help in correcting errors of logic is
+strictly forbidden. In general, if you are taking photos of someone
+else's screen, looking at someone else's screen, or telling someone else
+what to type, it is likely the work is no longer the work of an
+individual student.
+The College and Department also have computer usage policies that apply
+to courses that make use of computers. Read more about these policies
+here
+.
+Outside references:
+When completing work for this class, you may refer to any course
+materials and the resources linked to from any of our web pages.  You may not use other
+sources to look for solutions to any assignments, and you may never copy prose or code
+directly from another source.
+Generative AI:
+The following use cases are the only places where AI is permitted unless
+specifically instructed otherwise:
+Asking about how to compile or run programs in a language we are using.
+Getting more information about how to properly configure your computer for the class.
+Getting clarifications about lecture material.
+Creating study guides or other materials to aid in your learning.
+Any other use of generative AI will be considered academic dishonesty. In particular, if you ask generative AI to write code or problem set answers for you and proceed to include it in submitted work, that will be considered grounds for failure in the course.  As a general rule, once you begin working on a problem set or lab, you should refrain from using AI for anything related to it until you have completed and submitted your work.  This not only ensures the integrity of your work and provides you with the scaffolding and time necessary to master the material.
+Sharing Solutions.
+Please do not post your solutions to our assignments in any public forum, including
+public GitHub repositories.  Students taking the course should not be looking for solutions, but tempting them by making solutions available is inappropriate.
+This applies not just to the semester you are taking the course, but to the future as well.
+If in doubt as to what is appropriate, do not hesitate to ask.  We're happy to discuss this anytime.
+Inclusion and Classroom Culture
+This course aspires to be a welcoming environment for all students. Please let us know if any issues arise,
+and we will do our best to address them.
+Intellectual Property
+As per College policy, no part of this course
+may be reproduced and/or distributed. In particular, no videos recorded
+as part of this class may be shared with anyone external to the 334
+course.
+Accommodations
+Students with conditions that complicate participation in this course are encouraged to
+contact the Office of Accessible Education (oaestaff@williams.edu) to discuss options for increased accessibility.
+Mental Health
+If you are experiencing mental or physical health
+challenges that are significantly affecting your academic work, you are
+encouraged to contact your instructor and/or speak with Dean's Office
+staff (x4171).

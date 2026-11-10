@@ -1,0 +1,53 @@
+CSSE 453: Transformers and Cognitive Architectures: Syllabus
+CSSE 453: Transformers and Cognitive Architectures: Syllabus
+CSSE 453: Transformers and Cognitive Architectures: Syllabus
+Rose-Hulman Institute of Technology
+Computer Science and Software Engineering Department
+Syllabus
+Spring 2026
+This is a research course. The majority of the course work will be
+concerned with reading, presenting, and discussing the latest research related to LLMs and AGI,
+as well as
+Philosophy of Mind and Psychology, as they pertain to accomplishing AGI. As part of
+the research, students are asked to use AI to quickly get to the forefront of the
+field, to locate in-depth research papers, to ideate solutions, and the critically
+examine solution approaches.
+There will be two course projects:one to develop a small sandbox LLM that then serves
+to extend it towards a system that exhibits AGI.
+Prerequisites
+CSSE 313 or permission of instructor.
+Instructor
+Michael Wollowski
+Course Objectives
+There are three main objectives for the course. They are:
+To to understand requirements and paths forward towards
+Artificial General Intelligence (AGI).
+To advance the state of the art towards AGI.
+To introduce students to academic research.
+Schedule
+Grading
+Participation (such as participation and
+preparedness for in-class discussions, participation in group projects,
+willingness to scour for information.)
+10%
+Presentations (about 6, together with a partner)
+27%
+Project/Experiments/Write-ups/Assessment
+60%
+Reflection
+3%
+Citizenship
+The success of this course depends on your active participation in
+class.
+Please come to class prepared and do things that contribute to your
+learning and that of others.
+Please avoid behavior that is distracting to your learning and that
+of others.  Examples of unaccaptable behavior are: reading newspapers
+in class, using your computer for things unrelated to the course,
+sleeping in class. If I see such behavior I will ask you to explain
+yourself. If you do not have a reasonable explanation, I will ask you
+to drop the course and may give you a 0 for your participation score.
+Academic Integrity
+All the work you turn in has to be your own or has to be developed with
+fellow students or in cooperation with AI. If you co-worker with fellow
+students or AI, please give a brief indication of the nature of your contribution.

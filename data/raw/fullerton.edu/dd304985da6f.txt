@@ -1,0 +1,148 @@
+Creating a Generative AI Policy | CSUF - Faculty Development Center
+Creating a Generative AI Policy | CSUF - Faculty Development Center
+Skip to main content
+Last Published 8/17/26
+Hours
+Hours Go Here
+Lock Icon - login required
+Portal
+Login
+Resources
+Search Icon
+Search
+Dark Mode
+Switch to dark mode
+Division of Academic Affairs
+Faculty Development Center
+FDC
+You are now inside the main content area
+Show / Hide Left Navigation Menu
+Close
+left col
+Creating a Generative AI Policy
+right col
+left col
+Overview
+The resources below outline things to consider as you craft policies in your syllabi regarding the use of AI in your courses. It also addresses how to permit the use of AI in differing capacities across various assessments in your courses.
+right col
+left col
+Transparency in Syllabi for Student Learning and AI Use
+There are many technological tools available to our students (e.g., calculators), including AI tools (i.e., TitanGPT). Each faculty member is empowered to determine the appropriate use of these tools in their classes and even individual assignments. Including transparent language in the syllabus and assignment instructions specifying under what circumstances the use of AI/Tech tools is permitted is essential to student success. That way, expectations are established by the faculty, clearly communicated to the students, and there is no ambiguity about what technology can or cannot be used. Students must adhere to the syllabus to ensure their usage of AI/Tech tools in their coursework follows the policies set by the faculty.
+Consider using this
+checklist
+designed to help instructors consider how generative AI products like ChatGPT may affect their courses and learning materials (syllabi, learning outcomes, and assessments) and provide guidance on how to make strategic course adaptations and set course expectations that address these tools.
+Below are considerations you might want to address in crafting your AI policy:
+Under what circumstances AI use is permitted or forbidden
+How students should cite or credit AI
+A notice about using AI ethically and responsibly (consider providing a warning about the technology’s tendency toward
+hallucination
+, i.e., creation of false information)
+Discussion of the need to use AI as a tool to learn, not just to produce content
+A description of how you will authenticate student work where relevant, as required by
+UPS 300.004
+.
+Explore Example Syllabi Language
+Below are examples of syllabi language, ranging from general to more specific. Feel free to modify any of these or create your own to suit your course's needs. Additionally, here is a
+Syllabus AI Policy Boilerplate document
+that provides a customizable syllabus policy template you may adapt for your course. As a best practice, faculty are encouraged to use this template as a reflective starting point, thoughtfully considering how AI use may differ across assignments, learning activities, and disciplinary contexts.
+Syllabus Guidance and Models
+For sample syllabi with AI policies and activites curated from each college, enroll in the
+CSUF Generative AI Faculty Resources Canvas site
+.
+Adapted by Dr. Shelli Wynants from Source:
+Oregon State AI Icon Project
+right col
+left col
+No Generative AI Use Policy
+For this course, students must be the author of all work. The use of generative AI, such as ChatGPT, is not permitted. Use of these tools will be considered a violation of the
+CSUF Academic Dishonesty Policies
+and may be subject to disciplinary action.
+Guidance for Faculty on AI Use in Assignments
+As educators, it's essential to be aware that many tools students use daily incorporate AI features, which can sometimes be overlooked. Common examples include:
+Grammarly
+: An AI-powered writing assistant that helps with grammar, punctuation, and style suggestions.
+Canva
+: A graphic design platform that uses AI for design suggestions and automation.
+Microsoft Word and PowerPoint
+: These applications utilize AI for spell-checking, grammar corrections, and design assistance.
+When creating assignments, consider specifying whether the use of such AI tools is allowed or prohibited. This clarity helps ensure that students understand what tools are acceptable for each task.
+Example Directions for Assignments:
+Allowed Use: "For this assignment, you may use AI tools like Grammarly for grammar checks or Canva for design elements."
+Prohibited Use: "Please do not use AI tools like ChatGPT for generating text or Microsoft Copilot for drafting content."
+Minor Use of Generative AI
+For this course, students must be the author of all work. You may use AI in some minor ways. For example, unless otherwise specified in the assignment, you may use AI to
+[faculty insert examples of what is acceptable. For example: generate ideas, polish or edit text you have drafted, create an outline of an essay, modify or design presentation slides, review content, quiz yourself, or for other studying purposes]
+. You may NOT use AI to
+[faculty insert examples of what is not allowed. For example: for any purpose while taking a quiz or test, generate content that is directly used in an assignment (such as code, text, images, or other media), solve problems from assignments, write a first draft of a paper or essay, write all or part of a discussion post, or analyze data.]
+Always review individual assignments for specific instructions.
+[faculty insert optional statement: If you are using language generated by an AI app, you must properly attribute that use by putting that language in quotation marks and adding a citation just like you would when you copy language from human authors.]
+Use of Generative AI by Assignment
+In this course, students are permitted to integrate AI into some of the substantive work of the course. Review individual assignments to determine permissible uses. Unless otherwise noted, you should be able to demonstrate how you contributed to an assignment.
+[Faculty add specific requirements for AI use. For example: you are required to keep drafts of assignments and generative AI logs that demonstrate how you used AI and what portion of an assignment’s content was generated by AI]
+.
+right col
+left col
+CSUF's Using AI Technology Guidelines
+CSUF is committed to supporting teaching, learning, research, and service. Generative Artificial Intelligence (GAI) has the power to facilitate and disrupt each of these areas. The use of GAI tools requires a reflective approach, including consideration of biases and inaccuracies in AI output, as well as ethical use of these technologies. The University community should investigate where and when generative AI might be appropriate for achieving their objectives and should be transparent about its use.
+Guidelines have been developed for the campus community
+.
+ETHICAL Principles AI Framework for Higher Education
+The
+ETHICAL Principles AI Framework for Higher Education
+is designed to provide a flexible and adaptable foundation for the responsible use of Artificial Intelligence (AI) across diverse academic contexts. This framework recognizes the rapidly evolving nature of AI technologies and the varying needs of different departments, colleges, and institutions.
+Our goal is to offer a set of guiding principles that can be readily interpreted and applied to individual circumstances, ensuring relevance and utility as AI continues to advance. The framework intentionally avoids rigid definitions, allowing users to contextualize and adapt these principles to their unique environments, academic settings, and as technologies change.
+AI Continuum
+The AI continuum presented below may also assist you in thinking about crafting your AI policy. You can also utlized this
+AI Continuum Infographic
+.
+Note: If you allow AI use in your course, remind students about the rules for AI use on every assignment. The rules may vary depending on the assignment, so ensure students know what is allowed and what is not.
+Adapted by Dr. Shelli Wynants from Source:
+Perkins, Furze, Roe, and Mac Vaugh, 2023
+right col
+left col
+No AI
+AI use is not permitted at any stage of this assessment.
+All work must be completed independently in a controlled environment, relying solely on your own knowledge, understanding, and skills.
+AI for Planning
+AI may be used only during the planning stages, not in the final product.
+You may use AI tools to brainstorm, organize ideas, or explore directions before writing. However, all submitted work must be your own original creation. You may be asked to disclose how AI was used and reflect on what you learned from the process.
+AI as a Collaborator
+AI may assist with certain tasks, but must be critically evaluated and revised.
+You can use AI for drafting, generating ideas, receiving feedback, or refining language. However, all AI-generated content must be reviewed, edited, and adapted by you. You may be required to submit evidence of how AI was used, such as prompts, outputs, and revisions.
+Full AI Integration
+AI can be used throughout the task as a co-creator, with thoughtful direction.
+You may engage AI tools at any stage—brainstorming, writing, editing, etc.—as long as you guide their use and demonstrate your own critical thinking. Proper citation and documentation of AI interactions may be required.
+AI Exploration
+AI is used creatively and innovatively to explore new possibilities.
+This level involves co-designing assessments where students and educators work together to explore unique AI applications. You might customize or create GPTs, experiment with novel uses of AI, or apply it in field-specific ways to solve complex problems.
+right col
+left col
+(Re)thinking Assessments with AI in Mind
+View this
+assessment checklist
+and evaluate where you are in your AI journey. Don’t panic if you don’t do many – or any of these – yet. This can be a first step to evaluating and choosing strategies that may work for you.
+Explore
+student perspectives
+from the "
+Augmenting Learning with AI: Student Voices on Growth, Ethics, and Myths
+" student panel
+Defend Against AI Cheating (originally proposed in the article
+Defense Against AI Cheating
+in Inside Higher Ed)
+Make discussions actual discussions. Let’s retire the “post once, reply twice” formula. It has become the busywork of the digital age. Instead, use online forums for true interaction: peer review, debating applied examples or solving problems collaboratively. If an online activity doesn’t require genuine human back-and-forth, it probably doesn’t need to happen in a discussion forum.
+Use pedagogies that motivate honesty. In a recent op-ed in The New York Times, psychologist Angela Duckworth argued that willpower is a false narrative. People who successfully eat healthfully or reduce social media use don’t do it through sheer determination; they do it by structuring their environment so that the right choice is the easy choice. We can adopt this in our teaching. By scaffolding projects, integrating process-based feedback and using mastery-based grading when possible, we make doing the work more rewarding, and easier, than trying to engineer a prompt to fake it.
+Teach small, even when the class is big. Human connection combats cheating, and positive social pressure is a strong motivator to do the right thing. This is easy in a small seminar, but what about a large lecture class? The key is to find ways to make students feel seen and heard. At Duke University, Professor Mohamed Noor flipped his large lectures, breaking the class into small groups to work on problems while he circulated. On my own campus at Georgia State University, five of my colleagues who co-teach a large-enrollment course created vertically integrated project teams. These small teams offer a way for students to apply course knowledge to solve problems they care about while developing meaningful relationships with their peers and instructors. When students feel their contributions matter, they are less likely to ask a chatbot to do their thinking for them.
+right col
+Back To Page Top
+mobile menu
+Menu
+Lock Icon - login required
+Portal
+Campus Wide
+Resources
+on this page
+Page Topics
+Search Icon
+Search
+switch to light mode
+Dark Mode

@@ -1,0 +1,150 @@
+
+RIT Department of Computer Science
+Syllabus
+-----
+Schedule
+-----
+Handouts
+-----
+Demos
+-----
+Office Hours
+-----
+AI Cluster
+-----
+Slides
+CSCI-331 Intro to AI: Syllabus
+Fall 2026
+331 Catalog Description
+An introduction to the theories and algorithms used to create artificial intelligence (AI) systems. Topics include search algorithms, logic, planning, machine learning, and applications from areas such as computer vision, robotics, and natural language processing. Programming assignments are an integral part of the course.
+Prerequisites:
+(CSCI-243 or SWEN-262) and (MATH-251 or STAT-205) or equivalent courses.
+Instructor Contact
+Jansen Orfan
+Office: GOL-3673
+E-mail: jro@cs.rit.edu
+Website:
+http://www.cs.rit.edu/~jro
+Office Hours:
+See
+http://www.cs.rit.edu/~jro
+for current hours.
+Course Policies and General Information on Assignments
+All work in this course is to be completed individually unless specified otherwise.  You may
+discuss the homework and labs
+in general
+with your
+classmates, tutors, and the instructor but
+you are not allowed to share answers, exam notes, or code
+. Discussing specific implementation details/solutions/answers with anybody else (include with people not in the class) is not permitted until the late deadline has passed. After that deadline, you are encouraged to discuss the assignment with your peers, the instructor, and anybody else who will listen.
+The use of generative AI (e.g. GPT or other LLMs) is prohibited and considered academically dishonest. Furthermore, you will likely spend more time trying to get it to work correctly than you would spend getting help in office hours.
+Assignment grades can be disputed within one week
+after you grade is received (through Gradescope). Dispute the grade with the
+instructor, not the grader.
+Assignments will be checked for similarity in an effort to detect
+academic integrity
+violations. Assignments may be uncharacteristically similar because:
+Students share code
+Students copy code from the same source
+Students use a generative model
+All three are considered a violation of academic integrity in this class.
+Recording of audio and/or video is
+prohibited
+(unless a part of an approved DSO accommodation). Recording still images of lecture material is allowed but students should - out of respect for others' privacy - avoid including people (students, instructors, etc).
+Programming Assignments
+Work will be submitted through Gradescope.
+Programs must compile and run through the Gradescope environment. The environment will have libraries similar to those found on the CS Linux machines.
+Make sure the libraries you are using are available!
+Unless stated otherwise, all assignments must compile/run in Python3.14 or Java25.
+Assignments are evaluated primarily through testcases.
+Partial credit will not be awarded for code alone. I.e. if it does not run then it does not matter how "close" it was to working.
+You may submit multiple times but your last submission is the one that will be graded. This includes any late deductions.
+Late policy:
+You may submit up to 72 hours late with the following penalty applied:
+≤ 24 hours: 5%
+≤ 48 hours: 10%
+≤ 72 hours : 20%
+> 72 hours: Not accepted
+Written Homework
+Written work will be submitted via Gradescope.
+If you scan any handwritten homework be sure it is legible! If and only if you have the time, I suggest learning
+LaTeX
+to properly render any complex math that Word and other text editors struggle with.
+Late policy:
+You may submit up to 1 day late with a penalty scaling from 5-20%
+Reading Quizzes
+Quizzes can be found on myCourses under, "Quizzes"
+Quizzes are not timed but there are due dates - typically a few hours before class.
+Pay attention to the quiz detail page. Some quizzes can be taken multiple times with the highest score kept, others only allow one attempt.
+Often quizzes are on reading material not yet covered in lecture.
+Late policy:
+Quizzes will not be accepted late.
+Exams
+Unless otherwise stated, Exams are closed book, notes, device, etc.
+Late policy:
+Exams cannot be made up.
+Materials
+Required
+Artificial Intelligence: A Modern Approach
+, 4th edition, Russell &
+Norvig, Prentice Hall, 2021 9780134610993
+Additional Resources
+Knowledge Representation and Reasoning - Brachman and Levesque
+is a great text book on logic and available online through the library.
+Instructor notes (if needed) will be handed out as specified in the course schedule.
+The Course Schedule
+, including information
+about reading and homework assignments, quizzes, exams, etc., will
+be linked from the course web page.
+When available, slides and examples will be posted online.
+Grading (331)
+Component
+Weight
+Final Exam
+25%
+Midterm Exams
+25%
+Reading Homework
+10%
+Practical Homework
+10%
+Programming Labs
+30%
+Letter Grades
+Letter grades for the course are based on the following scale.
+Letter Grade
+Minimum course
+average for this grade
+A
+93%
+A-
+90%
+B+
+87%
+B
+83%
+B-
+80%
+C+
+77%
+C
+73%
+C-
+70%
+D
+60%
+F
+(0%)
+CS Common Course Policies Include:
+Rescheduling an Exam
+http://www.rit.edu/academicaffairs/policiesmanual/d110
+Course Withdrawal
+http://www.rit.edu/academicaffairs/policiesmanual/d060
+.
+Disability Services
+See the DSO:
+http://www.rit.edu/dso
+.
+Academic Integrity
+http://www.rit.edu/academicaffairs/policiesmanual/d080
+.

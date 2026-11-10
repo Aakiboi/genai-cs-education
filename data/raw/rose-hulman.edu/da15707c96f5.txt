@@ -1,0 +1,52 @@
+Computer Science Faculty and Students Explore the Power of AI Through Hands-on Experiences | Rose-Hulman
+Computer Science Faculty and Students Explore the Power of AI Through Hands-on Experiences | Rose-Hulman
+Skip to content
+News
+Home
+News
+Computer Science Faculty and Students Explore the Power of AI Through Hands-on Experiences
+Computer Science Faculty and Students Explore the Power of AI Through Hands-on Experiences
+Monday, January 26, 2026
+From reimagined curricula and cross-disciplinary courses to undergraduate research and industry projects, RHIT is preparing graduates to lead confidently in a world increasingly impacted by AI.
+Artificial intelligence has become a new frontier. Ideas and concepts once thought of as science fiction are now at the forefront of learning and practice not only in science and technology, but also in health care and education. At Rose-Hulman, students and faculty are exploring the power of AI through hands-on experience — not just to enhance productivity, but to think critically about how to use it responsibly.
+“This is not a one-off endeavor; we think holistically about how students can use AI in their classes,” said
+Sriram Mohan, PhD,
+department head and professor of
+computer science and software engineering
+. “No matter what program they’re in, we want students to be comfortable in a world with AI and in their abilities to thrive in settings where the use of AI is not feasible or discouraged.”
+Rose-Hulman continually studies how emerging technologies shape learning. In a recent computer science departmental survey, students described AI as a “practical necessity with intentional boundaries … a supplement, not a substitute, for learning.” Students reported using AI to debug, automate and prototype faster, similar to how professionals at leading tech firms use the technology.
+The findings guide how the department teaches and prepares all students—not just those in the computer science major—for a rapidly changing world. “When a student graduates from Rose-Hulman and goes to work in industry, we want them to be comfortable working for companies where AI is part of their daily jobs,” Mohan said.
+Matteo Calviello, a senior double majoring in computer science and
+data science
+, echoed Mohan’s perspective. “For any software engineering or data science job, every company expects you to know AI,” he said. “The fact that we use it and are allowed to use it makes us competitive for industry jobs.”
+Calviello has participated in several AI-focused projects — both in and outside the classroom — exploring machine learning and deep learning. He took part in a lunar autonomy challenge sponsored by NASA and Johns Hopkins University, where he developed a computer system that received images from a simulated lunar robot and used them to interpret features of the moon. Calviello used AI to help debug the system.
+He also worked with his brother, Tommaso, a
+biomedical engineering
+major at Rose-Hulman, on a challenge from Medtronic. Together, they developed an AI system capable of reading MRI and CT scans to identify specific findings, including types of tumors and dementia.
+A Computer Science Major That Powers Tomorrow’s Engineers
+This year, Rose-Hulman reimagined its computer science major to allow students to pursue a developer or research pathway focused on
+AI
+, data science, or
+cybersecurity
+among other specializations. To meet student and faculty demand, the department has expanded the number of
+AI-related courses
+it offers. There are currently 14 regularly offered AI-focused courses in the curriculum, seven of which are offered during the spring quarter. This is in addition to special topics courses, independent study, and research opportunities.
+Studying AI is not limited to computer science students. Biomedical and
+mechanical engineering
+majors are increasingly pursuing AI and Data Science minors to enhance their competitiveness in research and industry. A three-tier structure that allows students to engage with AI at different depths based on their interests and career goals with help meet the needs of all Rose students.
+The first tier is for students seeking careers in AI, who will pursue a broad set of electives leading to an AI specialization or second major. The second tier is designed for students who want to understand how AI applies to their chosen disciplines and may choose to minor in AI.
+The third tier includes courses designed for non-computer science majors who want to leverage AI beyond tools such as ChatGPT to improve productivity. One such class is AI Fundamentals for STEM Professionals, a multidisciplinary (MDS) course and collaborative effort between computer science and mechanical engineering that will be offered in spring. The MDS class co-developed and will be co-taught by Matt Boutell, PhD, associate department head of computer science and software engineering and Dan Stoecklein, PhD, assistant professor of mechanical engineering.
+One of the highlights of this new course is the inclusion of faculty members in different departments using AI or connected with alumni using AI in their field. Individuals in chemical engineering, biochemistry, mechanical engineering, or electrical engineering will present a guest lecture to the class to illustrate how AI is being used in engineering as well as computer science.
+AI and the Pathway to Research and Industry
+A distinguishing feature of Rose-Hulman is that students can access AI research opportunities as early as their first year. “If a student wants to do research in AI, we have a long list of faculty members willing to work with them,” Mohan said. “This is not research for the sake of research. It leads to student publications in AI.”
+That opportunity has benefited William Valentine, a junior majoring in computer science who has already published three AI-related conference papers, including one during his first year. That research focused on improving autonomous vehicle navigation.
+Valentine’s primary research interest is human-robot interaction — specifically, how robots can effectively socially interact work more effectively with people. His most recent paper, developed with Professor of Computer Science and Software Engineering Michael Wollowski, PhD, focused on resolving ambiguities in human instructions to robots. Valentine’s second paper was written during a summer Research Experience for Undergraduates at the University of Nevada, Reno, following his first year. That work examined whether computer programs can predict social comfort levels to help robots interact with people without violating social norms. Valentine served as first author on both publications.
+Valentine praised the Rose-Hulman faculty and computer science department for providing research opportunities from his first week on campus. “Rose was great in providing immediate acces­s to meaningful research opportunities,” he said. “At a bigger school, there may be more research occurring, but there may be limited opportunities for undergraduates to meaningfully contribute to that work.”
+Rose-Hulman computer science students are not only developing software with AI — they are helping define what ethical, human-centered computing looks like.
+Preksha Sarda, a senior double majoring in computer science and data science with a minor in robotics, spent the summer working on an AI-focused health care project for a company. She used large language models to help create an applicati­on that summarizes long-form electronic health records into concise reports for physicians, nurse practitioners, and physician assistants. She noted the importance of such tools in rural communities, including areas near her hometown of Ames, Iowa, that may lack access to advanced health record systems.
+“When you work in a hospital, doctors may have 20 or more consults and only three minutes to review a patient file,” Sarda said. “That can mean clicking through multiple screens, and providers may miss important details charted years earlier. Records often exist in different formats, systems and versions that don’t always transfer cleanly.”
+While students are leveraging AI for learning and research in the classroom and industry, Rose-Hulman faculty are also helping companies adopt AI in their business practices. At least one-fourth of the computer science faculty engage in industry consulting related to AI. These partnerships create learning opportunities that directly benefit students.
+Facebook
+X
+Email
+Print

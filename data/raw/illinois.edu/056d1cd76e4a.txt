@@ -1,0 +1,352 @@
+CS598LMZ: Software Quality Assurance with Generative AI
+CS598LMZ: Software Quality Assurance with Generative AI
+CS598LMZ: Software Quality Assurance with Generative AI
+Instructor:
+Lingming Zhang
+(
+lingming@illinois.edu
+)
+TA:
+Chunqiu Steven Xia
+(
+chunqiu2@illinois.edu
+)
+Class Time:
+Tues/Thur 09:30AM - 10:45AM (Central Time) [
+Zoom Link
+]
+Instructor Office hours:
+Tues/Thur 08:30AM - 09:30AM (Central Time) [Zoom Link same as above]
+TA Office hours:
+Thur 3:00PM - 5:00PM (Central Time) [
+Zoom Link
+]
+Forum and assignment/project submissions:
+Campuswire
+(
+Create an account with your netid@illinois.edu email address, you should already have access; join before your first class as all notifications will be there
+)
+Course Overview
+Topics:
+Modern Large Language Models (LLMs) like ChatGPT have demonstrated remarkable capabilities across diverse fields, notably in natural language processing and programming. In this course, we will together explore the impact of such advanced generative AI techniques on the important area of software quality assurance. This course will dive deep into the intersection of generative AI and software quality assurance, illustrating how these technologies can be synergistically combined to elevate software reliability, robustness, and correctness. We will cover a range of interesting topics, including foundational principles and cutting-edge research on software quality assurance, recent representative LLMs for code, emerging techniques on leveraging LLMs for software quality assurance, as well as innovative methods targeting quality assurance of LLMs themselves.
+Prerequisites:
+Note that this is a research-driven course, and requires students with strong backgrounds in both machine learning and programming:
+Research background in PL/FM/SE or NLP/ML fields (mainly targeting students interested in research)
+Proficient in Python programming
+Completed courses in NLP/ML
+Solid background in algorithms
+Strong problem solving skills
+Class Organization
+This course does not require any textbook. In each class, the students will participate in the discussion of research papers related to the same topic. Note that each student is expected to read the papers before each class. During the class, the students will be randomly chosen to answer questions related to the papers, such as:
+What is the problem the paper tries to solve, and why this is important?
+What is the proposed solution, and what is the difference(s) with prior work?
+How is the proposed solution evaluated (e.g., with what benchmarks/subjects and what metrics) and is that convincing?
+What are the results and do they meet the expectations?
+What do you like the most about the paper and what are the limitations of the paper? (i.e., pros/cons)
+What could be the potential future work?
+Grading Details
+There is no exam! The grading will be mainly based on the following aspects:
+Homework Assignments (20%):
+There will be five assignments released on Campuswire ("Assignments" page). Please make sure that you follow the instructions and deadlines. No extensions or late submissions will be allowed unless the student reaches out before the deadline, and provides documentation of a valid excuse such as medical emergency or personal hardship.
+Paper Presentation (20%):
+Each student is going to lead the discussion for one paper. The student should prepare slides for presenting the paper in details.
+Select at least five classes you would like to present by Jan. 26th
+(submission link shown in Campuswire "Assignments").
+Upload your initial slides to Campuswire a week before your presentation slot for comments, and upload the final version of the slides 48 hours before the lecture.
+Note that you should not directly reuse the original slides from the authors, but feel free to incorporate anything useful from the original slides in your own slides.
+Class Participation (10%):
+This is a discussion-based course, so it does matter that you show up in our zoom/in-person class meetings and participate in the discussion.
+Course Project (50%):
+The best way to learn software engineering is go there and do software engineering! You will undertake your own course project in a group (3-5 students per group). I will provide a list of directions (available on Campuswire) to get you started thinking, but I highly encourage you to pursue your own ideas. You are encouraged to use
+GitHub
+to host your development history and all the code/data.
+For the teams proposing your own ideas, you are
+required
+to meet with Lingming before Feb. 5th to discuss your proposal.
+The detailed/deadlines for each phase can be found in the below schedule section, while here are the grading details for each phase of the project:
+Proposal submission/presentation (5%)
+Midterm project report/presentation (20%)
+Final project report/presentation (25%)
+Based on your points, you will get at least these grades: A (93%), A- (90%), B+ (87%), B (83%), B- (80%), C+ (77%), C (73%), C- (70%), D+ (67%), D (63%), D- (60%), and F (for less than 60%). The instructor reserves the right to lower the number of required points but will not increase them.
+Tentative Schedule
+Date
+Topics/Readings
+Memo
+Module I: Background and Basics
+01/16
+Course Introduction
+Presenter: Lingming Zhang (
+Slides
+)
+01/18
+Program Analysis Basics (I)
+Presenter: Lingming Zhang (
+Slides
+)
+01/23
+Program Analysis Basics (II)
+Presenter: Lingming Zhang (see above link)
+01/25
+Software Testing
+[Additional Read]
+Feedback-directed Random Test Generation
+(ICSE'07)
+[Additional Read]
+Finding and Understanding Bugs in C Compilers
+(PLDI'11)
+[Additional Read]
+Fuzzing with Code Fragments
+(SEC'12)
+[Additional Read]
+Compiler Validation via Equivalence Modulo Inputs
+(PLDI'14)
+Presenter: Lingming Zhang (
+Slides
+)
+01/30
+Automated Debugging
+[Additional Read]
+Visualization of Test Information to Assist Fault Localization
+(ICSE'02)
+[Additional Read]
+Practical Program Repair via Bytecode Mutation
+(ISSTA'19)
+[Additional Read]
+A Survey on Software Fault Localization
+(TSE'16)
+[Additional Read]
+Automated Program Repair
+(CACM'19)
+Presenter: Lingming Zhang (
+Slides
+)
+02/01
+LLM Basics
+Presenter: Steven Xia (
+Slides
+)
+Module II: Code LLMs
+02/06
+Encoder-only Models
+CodeBERT: A Pre-Trained Model for Programming and Natural Languages
+(EMNLP'20)
+GraphCodeBERT: Pre-training Code Representations with Data Flow
+(ICLR'21)
+Presenter:
+02/08
+Encoder-Decoder Models
+CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation
+(EMNLP'21)
+CodeT5+: Open Code Large Language Models for Code Understanding and Generation
+Competition-Level Code Generation with AlphaCode
+Presenter:
+02/13
+Decoder-only Models
+CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+Textbooks Are All You Need
+StarCoder: may the source be with you!
+Presenter:
+02/15
+Proposal Presentation
+Each team should prepare 4-5 slides to present your proposal in class for about 5min, including:
+Problem: the problem you want to work on and the background
+Proposed solution: how you want to solve it
+Evaluation: how you will evaluate it (e.g., with what benchmarks/subjects and what metrics)
+Initial results: what you did so far
+Future plan: what you will do in the midterm and final reports
+02/20
+Trained on Foundation Models
+Code Llama: Open Foundation Models for Code
+Evaluating Large Language Models Trained on Code
+Presenter:
+02/22
+Instruction Tuning
+WizardCoder: Empowering Code Large Language Models with Evol-Instruct
+Magicoder: Source Code Is All You Need
+OctoPack: Instruction Tuning Code Large Language Models
+Presenter:
+02/27
+Others
+LLM-Assisted Code Cleaning For Training Accurate Code Generators
+TRACED: Execution-aware Pre-training for Source Code
+(ICSE'24)
+AST-T5: Structure-Aware Pretraining for Code Generation and Understanding
+CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules
+LongCoder: A Long-Range Pre-trained Language Model for Code Completion
+(ICML'23)
+Presenter:
+Module III: Code LLMs for Software QA
+02/29
+Fuzz Testing I
+Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models
+(ISSTA'23)
+Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries
+(ICSE'24)
+White-box Compiler Fuzzing Empowered by Large Language Models
+Presenter:
+03/05
+Fuzz Testing II
+Universal Fuzzing via Large Language Models
+(ICSE'24)
+Large Language Model guided Protocol Fuzzing
+(NDSS'24)
+KernelGPT: Enhanced Kernel Fuzzing via Large Language Models
+Presenter:
+03/07
+Unit Testing
+No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation
+CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models
+(ICSE'23)
+An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation
+Presenter:
+03/12
+Spring Break
+03/14
+Spring Break
+03/19
+Program Repair
+Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning
+(FSE'22)
+Automated Program Repair in the Era of Large Pre-trained Language Models
+(ICSE'23)
+Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair
+(FSE'23)
+Presenter:
+03/21
+Automated Debugging
+Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT
+Teaching Large Language Models to Self-Debug
+Demystifying GPT Self-Repair for Code Generation
+Presenter:
+03/26
+Project Midterm Presentation
+Each team should prepare 8-9 slides to present the midterm progress report in class for about 8min (plus 2min for Q&A), including:
+Problem: the problem you are working on
+Solution: how you are currently solving it
+Evaluation: how you are evaluating it
+Current results: what you did so far and whether you have met your midterm goal
+Future plan: what you will do in the next month to wrap up the project
+03/28
+Project Midterm Presentation
+04/02
+Program Analysis
+Harnessing the Power of LLM to Support Binary Taint Analysis
+Large Language Models for Code Analysis: Do LLMs Really Do Their Job?
+How Far Have We Gone in Vulnerability Detection Using Large Language Models
+Presenter:
+04/04
+Software Verification
+Baldur: Whole-Proof Generation and Repair with Large Language Models
+Lemur: Integrating Large Language Models in Automated Program Verification
+Presenter:
+Module IV: Software QA for Code LLMs
+04/09
+Benchmarking
+Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation
+(NeurIPS'23)
+ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation
+(ICSE'24)
+CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution
+Presenter:
+04/11
+Code Correctness
+Large Language Models and Simple, Stupid Bugs
+(MSR'23)
+Who Answers It Better? An In-Depth Analysis of ChatGPT and Stack Overflow Answers to Software Engineering Questions
+Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code
+(ICSE'24)
+Large Language Models of Code Fail at Completing Code with Potential Bugs
+(NeurIPS'23)
+Presenter:
+04/16
+Code Security
+Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions
+(Oakland'22)
+Large Language Models for Code: Security Hardening and Adversarial Testing
+Generate and Pray: Using SALLMS to Evaluate the Security of LLM Generated Code
+Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants
+CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models
+Presenter:
+04/18
+Model Security
+How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs
+GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts
+Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study
+Tree of Attacks: Jailbreaking Black-Box LLMs Automatically
+Presenter:
+04/23
+Project Final Presentation
+Each team should prepare 10-15 slides to present the final report in class for about 10min (plus 2min for Q&A), including:
+Problem: the problem you are working on
+Solution: how you are currently solving it
+Evaluation: how you are evaluating it
+Current results: what you did so far and whether you have met your final goal
+[Optional] Future plan: some potential future work if you still have bandwidth after the course
+04/25
+Project Final Presentation
+04/30
+System Reliability
+NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers
+(ASPLOS'23)
+NeuRI: Diversifying DNN Generation via Inductive Rule Inference
+(FSE'23)
+Fuzzing Automatic Differentiation in Deep-Learning Libraries
+(ICSE'23)
+Presenter:
+Academic Integrity Policy
+The University of Illinois at Urbana-Champaign Student Code should also be considered as a part of this syllabus.
+Students should pay particular attention to Article 1, Part 4: Academic Integrity.
+Read the Code at the following URL:
+http://studentcode.illinois.edu/
+.
+Academic dishonesty may result in a failing grade.
+Every student is expected to review and abide by the Academic Integrity Policy:
+http://studentcode.illinois.edu/
+.
+Ignorance is not an excuse for any academic dishonesty.
+It is your responsibility to read this policy to avoid any misunderstanding.
+Do not hesitate to ask the instructor(s) if you are ever in doubt about what constitutes plagiarism,
+cheating, or any other breach of academic integrity.
+Students with Disabilities
+To obtain disability-related academic adjustments and/or auxiliary aids,
+students with disabilities must contact the course instructor and the as soon as possible.
+To insure that disability-related concerns are properly addressed from the beginning,
+students with disabilities who require assistance to participate in this class should
+contact Disability Resources and Educational Services (DRES)
+and see the instructor as soon as possible.
+If you need accommodations for any sort of disability,
+please speak to me after class, or make an appointment to see me,
+or see me during my office hours. DRES provides students with academic accommodations,
+access, and support services.
+To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TDD),
+or e-mail a message to
+disability@uiuc.edu
+.
+Please refer to
+http://www.disability.illinois.edu/
+.
+Family Educational Rights and Privacy Act (FERPA)
+Any student who has suppressed their directory information pursuant to
+Family Educational Rights and Privacy Act (FERPA) should self-identify
+to the instructor to ensure protection of the privacy of their attendance
+in this course.
+See
+http://registrar.illinois.edu/ferpa
+for more information on FERPA.
+Statement on Mental Health
+Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional well-being. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University's resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
+Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
+McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
+University wellness center: https://wellness.illinois.edu/
+Statement on Anti-Racism and Inclusivity
+The intent of this section is to raise student and instructor awareness of the ongoing threat of bias and racism and of the need to take personal responsibility in creating an inclusive learning environment.
+The Grainger College of Engineering is committed to the creation of an anti-racist, inclusive community that welcomes diversity along a number of dimensions, including, but not limited to, race, ethnicity and national origins, gender and gender identity, sexuality, disability status, class, age, or religious beliefs. The College recognizes that we are learning together in the midst of the Black Lives Matter movement, that Black, Hispanic, and Indigenous voices and contributions have largely either been excluded from, or not recognized in, science and engineering, and that both overt racism and micro-aggressions threaten the well-being of our students and our university community.
+The effectiveness of this course is dependent upon each of us to create a safe and encouraging learning environment that allows for the open exchange of ideas while also ensuring equitable opportunities and respect for all of us. Everyone is expected to help establish and maintain an environment where students, staff, and faculty can contribute without fear of personal ridicule, or intolerant or offensive language. If you witness or experience racism, discrimination, micro-aggressions, or other offensive behavior, you are encouraged to bring this to the attention of the course director if you feel comfortable. You can also report these behaviors to the Bias Assessment and Response Team (BART) (https://bart.illinois.edu/). Based on your report, BART members will follow up and reach out to students to make sure they have the support they need to be healthy and safe. If the reported behavior also violates university policy, staff in the Office for Student Conflict Resolution may respond as well and will take appropriate action.
+Sexual Misconduct Policy and Reporting
+The University of Illinois is committed to combating sexual misconduct. As such, you should know that faculty and staff members are required to report any instances of sexual misconduct—which can include harassment, sexual assault, sexual exploitation, dating violence, domestic violence, and stalking—to the University's Title IX Office. What this means is that as your instructor, I am required to report any incidents of sexual misconduct that are directly reported to me, or of which I am somehow made aware. When a report is received, an individual with the Title IX Office reaches out to provide information about rights and options, including accommodations, support services, the campus disciplinary process, and law enforcement options.
+There is an exception to this reporting requirement about which you should be aware. A list of the designated University employees who, as counselors, confidential advisors, and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found here: wecare.illinois.edu/resources/students/#confidential.
+Appointments with our campus's confidential advisors, who are specifically trained to support students who have experienced sexual misconduct, can be made by calling 217-333-3137 or emailing wrcadvocacy@illinois.edu.
+Other information about resources and reporting is available here: wecare.illinois.edu.
+Please send feedbacks and questions to
+lingming@illinois.edu
+.

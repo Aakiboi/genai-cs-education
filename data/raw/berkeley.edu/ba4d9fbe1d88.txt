@@ -1,0 +1,234 @@
+Policies | CS 188 Fall 2026
+Policies | CS 188 Fall 2026
+Skip to main content
+CS 188 FA26
+Report an
+accessibility issue
+.
+This site uses
+Just the Docs
+, a documentation theme for Jekyll.
+Search CS 188 Fall 2026
+Policies
+Table of contents
+Description
+Enrollment
+Prerequisites
+Communication
+Projects
+Homeworks
+Accommodations and Extensions
+Lectures
+Readings
+Discussions
+Office Hours
+Exams
+Grading
+Collaboration Policy
+Permitted
+Absolutely Forbidden
+GenAI Policy
+Reusing Code from Past Semesters
+DSP
+Inclusion
+Auditing
+Acknowledgements
+Description
+This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
+By the end of this course, you will have built autonomous agents that efficiently make decisions in fully informed, partially observable and adversarial settings. Your agents will draw inferences in uncertain environments and optimize actions for arbitrary reward structures. Your machine learning algorithms will classify handwritten digits and photographs. The techniques you learn in this course apply to a wide variety of artificial intelligence problems and will serve as the foundation for further study in any application area you choose to pursue.
+If you need a PDF copy of a course syllabus for your records, click here.
+Where the course website and the PDF syllabus differ, the course website takes precedence.
+Enrollment
+Class listing on classes.berkeley.edu
+In general, course staff does not control enrollment; we have to follow
+the department’s enrollment policies
+. We do not have any enrollment codes or any other way to circumvent the department policies. If you have any questions about enrollment, please reach out to the emails listed in the enrollment policies page.
+If you are a UC Berkeley student unable to enroll in the class right now, but plan to enroll later (e.g. you’re waiting for a CS major declaration to be processed), please email cs188@berkeley.edu so that we know who you are and can add you to course platforms.
+Please do not email us if you are a concurrent enrollment student with a pending application; you will be added automatically within 3-4 days of submitting your application.
+For other enrollment-related questions, please see
+this FAQ page
+.
+Prerequisites
+CS 61A or 61B
+: Prior computer programming experience is expected (see below)
+CS 70 or Math 55
+: Familiarity with basic concepts of propositional logic and probability are expected (see below)
+CS61A AND CS61B AND CS70 is the recommended background.
+The required math background in the second half of the course will be significantly greater than the first half. The self-diagnostic assignment Homework 0 will help check your preparation.
+Course programming assignments will be in Python. We do not assume that students have previous experience with the language, but we do expect you to learn the basics very rapidly. Project 0 is designed to teach you the basics of Python and how the CS 188 submission autograder works. Project 1 is a good representation of the programming level that will be required for subsequent projects in this class.
+Communication
+The course schedule and all resources (e.g. lecture slides, discussion worksheets) will be posted on this website.
+All course announcements and content/logistics questions will happen on
+Ed (the course discussion forum)
+. We will be automatically enrolling everyone onto Ed.
+If you need to contact the course staff privately, please make a private question on Ed or email cs188@berkeley.edu.
+Projects
+There are 5 required programming projects (Projects 1-5), submitted on Gradescope. We’ll enroll all students in Gradescope automatically.
+Projects will by default be graded automatically for correctness, though we will review projects individually as necessary to ensure that they receive the credit they deserve. Projects can be submitted as often as you like before the deadline; we strongly encourage you to keep working until you get a full score.
+Project 0 (ungraded, optional) is to be completed alone. All other projects can be completed alone or in teams of two. If done in a team of two, the person who submits needs to tag the other team member on Gradescope. However, it is important that the submission reflects the understanding of both team members. Specifically, it is not acceptable to “take turns” doing alternate assignments; each assignment must reflect significant effort from both team members.
+Projects cannot be turned in late unless you have extensions or accommodations. There are no slip days, but there is an extensions form linked on the website if you need more time on an assignment.
+Homeworks
+Homeworks are submitted to Gradescope. Homeworks are automatically graded on Gradescope for correctness, and you can submit as many times as you like up to the deadline; we encourage you to work until you have fully solved this portion of the homework. Solutions are shown when you get an answer correct, and we encourage you to review the solutions.
+We’ll add all enrolled students in Gradescope automatically (it may take a day or two after you enroll to get added). If you are unofficially auditing the class, you can use this entry code to get access to
+ungraded
+practice copies of the homeworks:
+4VK322
+.
+Homeworks cannot be turned in late unless you have extensions or accommodations. There are no slip days, but there is an extensions form linked on the website if you need more time on an assignment.
+You have one homework drop. In other words, we will automatically drop your lowest homework score at the end of the semester.
+Accommodations and Extensions
+As instructors, our goal is to teach you the material in our course. The more accessible we can make it, the better. If you encounter any extenuating circumstances, please let us know as soon as possible so we can best help you succeed in the class.
+If you ever need an extension during the semester, please fill out
+the extensions form
+. We will be using the Flextensions system – here is a
+guide to using Flextensions
+. We aim to respond to your extension requests within 2 days, and if you do not hear from us by then, please make a private post on Ed.
+If you need an extension for more than 7 days, please first talk to a staff member in OH or make a private post on Ed. We want to check in with you to make sure you’re not falling off track.
+The Disabled Students’ Program (DSP) supports disabled students at UC Berkeley. They offer a wide range of services and accommodations. If you are facing barriers in school due to a disability, apply to DSP! Students registered with DSP can expect to receive an onboarding email within a week of sending us your formal letter of accommodation through the AIM portal.
+Lectures
+We will have a 90-minute live lecture on Mondays and Wednesdays, 2:00-3:30 PM in The Gateway Building 1210. This is the listed lecture time on the course schedule.
+We’ll try to livestream lectures over Zoom, but can’t promise that the tech will always work. The link to join lecture remotely is on the website.
+Lecture attendance is not taken. There is no extra credit for attending lecture.
+Lectures will be recorded and recordings will be posted.
+In addition to lecture recordings from the current semester, we’ve posted links to Pieter Abbeel and Dan Klein’s lecture recordings from
+Fall 2018
+. These should mostly cover the same content as the current semester’s lectures, though in cases of content disputes, the current semester’s lectures will be used as the definitive source of truth.
+Readings
+The official textbook for the course is the
+fourth edition of AIMA
+. You can reach out to course staff if you’re having trouble finding a copy of the textbook.
+We also have an
+unofficial CS188 textbook
+written by former TAs.
+The unofficial textbook should mostly cover the same content as lecture. However, in cases of ambiguity, the lectures and official AIMA textbook are the main sources of truth.
+Discussions
+TAs will hold weekly 1-hour live discussions throughout the week. Discussion sections start Tue, Sept 8.
+There are two types of discussion sections:
+Regular sections focus on reviewing the concepts from lecture, usually with a mini-lecture and associated problems.
+Exam prep sections focus on solving more difficult problems from past exams, usually without a mini-lecture.
+You can attend any discussion sections you want. (For example, you could attend a regular section followed by a exam prep section.)
+Discussion attendance is not taken. There is no extra credit for attending discussion.
+Only in-person discussions will be offered. We’ll try to post recordings of discussion worksheets, but no promises.
+Office Hours
+Course staff will hold office hours throughout the week. Office hours start Tues, Sept 8.
+Office hours will be hybrid, so you can show up in-person or remotely. To request help, make a ticket on the
+office hours queue
+.
+See the course calendar on the website for the office hours schedule and in-person locations.
+Exams
+The midterm is on Monday, October 19, 2026, 7–9pm PT.
+The final exam is on Thursday, Dec 17, 2026, 3-6pm PT.
+If you are unable to take the exam at the scheduled time, we will be offering only one alternate exam time,
+in-person only, immediately after the scheduled exam
+.
+More logistics for the exam will be released closer to the exam date, including a form for you to sign up for an alternate-time exam.
+Grading
+Overall grades will be determined from:
+Projects (25%)
+Homework Assignments (20%)
+Midterm (20%)
+Final Exam (35%)
+Grade
+Overall Percentage
+A
+[85, 100]
+A-
+[80, 85)
+B+
+[75, 80)
+B
+[70, 75)
+B-
+[65, 70)
+C+
+[60, 65)
+C
+[55, 60)
+C-
+[50, 55)
+D+
+[45, 50)
+D
+[40, 45)
+D-
+[35, 40)
+F
+[0 , 35)
+Staff may adjust grades upward based on class participation. The grade of A+ will be awarded at staff discretion based on exceptional performance.
+If you are taking the class P/NP, you will need to attain a letter grade of C- or higher AND take the final to pass. If you are a graduate student taking the class SUS, you will need to attain a letter grade of B- or higher AND take the final to pass.
+Collaboration Policy
+We believe that most students can distinguish between helping other students understand course material and cheating. Explaining a subtle point from lecture or discussing course topics is an interaction that we encourage, but you must write your solutions strictly by yourself (with your partner on projects). You must not ask for homework/project solutions on Stack Overflow or other online sites; although you may ask for help with conceptual questions. You must not receive help on assignments from students who have taken the course in previous years, and you must not review homework or project solutions from previous years.
+If you choose to work with a partner, all work must be done synchronously in a pair-programming fashion. By creating a partnership, both you and your partner are responsible for the work in your repository and the work you submit.
+Before you’ve submitted your final work for a project, you should never be in possession of solution code that you (or your partner) did not write. You will be equally culpable if you distribute such code to other students or future students of CS 188 (within reason).
+You must ensure that your solutions will not be visible to other students.  DO NOT GIVE ANYONE YOUR CODE! DO NOT POST SOLUTIONS TO PROJECTS ONLINE. If you use GitHub or another source control system to store your solutions electronically, you must ensure your account is configured so your solutions are not publicly visible. If you use GitHub, it offers free private repositories that allow you to keep your solutions private; please use one. If you’re not sure what you’re doing is OK, please ask.
+Listed below are some non-comprehensive examples of what is allowed, and disallowed.
+Permitted
+Discussion of approaches for solving a problem. Such help should be cited as comments in your code. For the sake of others’ learning experience, we ask that you try not to give away anything juicy, and instead try to lead people to such solutions.
+Discussion of specific syntax issues and bugs in your code, without showing another student your code. Verbally discussing syntax issues is permitted, but Zoom screen sharing your code, for example, is never permitted. Cite any non course staff (course staff meaning Reader, TA, and Instructor) person you received advice from.
+Using small snippets of non-188 code that you find online for solving tiny problems such as code for iterating through a Python dictionary. Such usages must be cited in comments in your code.
+Absolutely Forbidden
+Typing or dictating code into someone else’s computer.
+Looking at someone else’s project code to understand a particular idea or part of a project.
+Possessing project solution code that you did not write yourself or another student’s project code in any form, be it electronic or on paper. This includes the situation where you’re trying to help someone debug. Distributing such code is equally forbidden.
+Posting solution code to any assignment in a public place (e.g. a public git repository, mediafire, etched into stones above the Mediterranean, etc). This applies even after the semester is over.
+Working in lock-step with other students. Your workflow should not involve a group of people identifying, tackling, and effectively identically solving a sequence of subproblems.
+Sharing or receiving a solution from a friend.
+Sharing or receiving a solution from a friend after the assignment is due.
+Sharing or receiving a solution from a friend after the semester is over.
+Submitting a solution from a friend to see what the autograder looks like.
+Looking at a solution that is not yours for “ideas”.
+Looking at a solution on an unattended laptop.
+Publicly posting your solutions for any reason, including for your resume.
+GenAI Policy
+We recognize GenAI tools (ChatGPT, Gemini, Cursor, etc.) are ubiquitous and can help you learn, but your submission must be your own original work. In this course, GenAI is a consulting tool, not an author.
+You can carefully use GenAI on assignments, but think of GenAI as a peer in the course. Each assignment will have a section to reflect on your usage of GenAI. You must fill this out to receive credit for the assignment, whether or not you used GenAI or not.
+We note that in the past, the single best determinator of students’ exam scores was how well they understood the projects. We advise you to not use GenAI as a shortcut on the projects as this may harm your understanding.
+Warning
+: Your attention is drawn to the
+Department’s Policy on Academic Dishonesty
+. In particular, you should be aware that copying or sharing solutions, in whole or in part, from other students in the class or any other source without acknowledgement constitutes cheating. If you are found liable for misconduct, you will receive all of these penalties:
+Referral to the Center for Student Conduct (CSC).
+Negative points on the entire assignment category (for example, even if you plagiarize only a single question on a single project, you would receive negative points on the entire projects category).
+Depending on severity, a failing grade in the course. The penalty for misconduct on multiple projects is an F in the class.
+If you choose to work with a partner, all work must be done synchronously in a pair-programming fashion. By creating a partnership, both you and your partner are responsible for the work in your repository and the work you submit. If you work in a group, the penalties apply for all group members, even if only one group member engaged in misconduct, or if the other group member was unaware of the misconduct.
+These policies have been consistently applied for many semesters, and in order to ensure consistency and avoid biases, we cannot reduce the penalties or make any exceptions, even if you ask us.
+This policy is not a game to be defeated, and such circumventions will be seen as plagiarism.
+Reusing Code from Past Semesters
+If you have completed assignments during past semesters and would like to reuse your work, you do not have to let staff know ahead of time. However:
+We cannot promise that the assignments are identical across semesters.
+By submitting work from past semesters, in part or in whole, you are claiming that the work submitted is completed entirely by you (and if applicable, your former project partner). If you are unsure if the work is your (and if applicable, your former project partner’s) original work, we’d recommend redoing the assignment from scratch.
+If you intend to reuse code for a project, you are required to work alone. If you had a project partner while working on your project originally, you may submit the portions of the projects that they completed.
+DSP
+We committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with the instructors or head TAs. All DSP and accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to staff members with the “DSP Data Access” tag on the course website.
+If you have a disability, or think you may have a disability, you can work with the Disabled Students’ Program (DSP) to request an official accommodation. The Disabled Students’ Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process, at
+https://dsp.berkeley.edu
+. Students registered with DSP can expect to receive an onboarding email within a week of sending us your formal letter of accommodation through the AIM portal.
+Inclusion
+We believe in the crucial importance of creating a learning environment that is welcoming and respectful to students of all backgrounds. The following are specific steps that will help us in achieving this goal:
+If you feel your academic performance has been impacted negatively due to a lack of inclusion, or due to experiences outside of class such as current events or family matters, please reach out to the instructors and staff. Our job is not only to teach but to support you in every way we can.
+If something happens in the course that runs counter to the goal of making every student feel safe, respected, and welcome, please contact the head TA or the instructors; if you don’t feel comfortable contacting course staff, you can fill out
+this form
+to anonymously let the department know.
+You may also consult a departmental
+Faculty Equity Advisor
+, or fill out the
+anonymous feedback form
+for the College of Engineering for equity and inclusion related feedback.
+If you have a preferred name or set of pronouns that differ from your legal name, you may designate a preferred name for the classroom by following these
+steps
+.
+As a member of the CS 188 community, realize that you have an important duty to help other students feel respected in helping create an inclusive learning environment.
+Auditing
+If you are not an officially enrolled student in the class, but you’d like to unofficially audit the class, all of the resources we can share are posted publicly on the course website, or on the auditors Gradescope (entry code:
+4VK322
+).
+Lectures: Slides and recordings are posted on the website.
+Discussions: Worksheets, solutions, and video walkthroughs are posted on the website.
+Past exams: Blank exams and solutions are posted on the Resources section of the website. We do not have staff resources to proctor and grade exams for auditors, but you can try out and self-grade any past exams on your own.
+Homeworks: You can use this Gradescope course entry code to gain access to the homeworks:
+4VK322
+. This Gradescope class contains copies of the autograded portions of our homeworks.
+Projects: The projects and their autograders are all publicly available on the Projects section of the website. We do not provide Gradescope autograders for the projects, because they are identical to the autograders already bundled in the project releases.
+We do not have staff resources to grade assignments or answer questions from auditors, so unfortunately we cannot grant access to Ed or the current semester’s Gradescope for auditors.
+Acknowledgements
+Parts of the syllabus have been adapted from CS61A, CS61B, CS61C, CS161, CS168, and CS152.

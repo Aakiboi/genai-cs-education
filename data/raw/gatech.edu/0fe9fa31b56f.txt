@@ -1,0 +1,60 @@
+New Policies Navigate Role of AI Assistants in CS Courses | College of Computing
+New Policies Navigate Role of AI Assistants in CS Courses | College of Computing
+Skip to main navigation
+Skip to main content
+MENU
+College of Computing
+New Policies Navigate Role of AI Assistants in CS Courses
+Thursday, June 15, 2023
+Emily Smith
+College of Computing
+School of Computing Instruction
+Artificial Intelligence
+The rise of large language models like ChatGPT has sent a wave of worry across the educational landscape. When students can use programs to do their projects, how do you stop them from cheating?
+David Joyner, Executive Director of Online Education and Online Master of Science in Computer Science (OMSCS) is one of the first to create an official policy on using artificial intelligence (AI) tools in class, aimed at balancing collaboration and academic integrity.
+While other technologies slowly roll out over a period of months or years, AI assistance (especially ChatGPT) became available to anyone with an internet connection overnight. Joyner says his policies aren’t intended to stop students from using AI.
+“These policies are intended to guide students toward how to use AI effectively while ensuring that they are still accomplishing the goals we set out for them,” Joyner said.
+“If we don't have policies clarifying how students can use AI assistance, then using them isn’t cheating. The question is more: why do we need to consider over-relying on AI assistance to be a form of cheating?”
+Although work copied from ChatGPT is noticeably vague and potentially detectable through AI content detectors, Joyner says enforcing rules is not his main concern since there’s no strong advantage garnered.
+“Even if a student is able to get an advantage from ChatGPT on the assignments, they still need to prove themselves on the tests to perform well in the class,” he said.
+“I tend to look at it less as catching students cheating and more as designing assignments on which ChatGPT can only be moderately helpful. The heuristics are as much about making sure students are using it effectively as a learning aid rather than as a learning replacement as it is for preventing misconduct.”
+Image
+Executive Director of OMSCS and Online Education David Joyner
+Developing the policy
+The policy on collaborating with AI aligns closely with policies on collaboration with human peers, which Joyner says, “is a great signifier of how far AI has come.”
+The idea is to allow students to do anything that will help them achieve set learning goals, while prohibiting them from misrepresenting how well they have accomplished them.
+He says discussing homework with classmates is a great example that predates AI.
+“When two classmates talk about how they plan to approach a project, are they learning? I would argue, yes!” Joyner said. “Does this help them misrepresent how much they have learned? As long as it stays at the level of discussion, no!”
+But if one student uses another's content directly, they’re not learning nearly as much as recreating their own version. They’re also misrepresenting what they themselves have learned by using their classmate's content since they likely did not learn from it before reusing it.
+What makes collaboration with AI more challenging is that lines can be blurrier because of the availability and flexibility of AI systems. Joyner says a student who asks ChatGPT to explain and fix a bug in their code likely learns from the experience, but likely hasn't learned the material if they use that fix directly.
+“That's why I feel we do need dedicated policies on collaboration with AI even if the philosophy of those policies is the same as those on collaboration with people: because AI is not human, because tools like ChatGPT are always available, and because the responses from these assistants are already textual. Completing a task with AI can feel more like the student has done it by themselves than completing it with another person would feel—but that gap between understanding and assessment would still remain,” he said.
+Advantages and disadvantages of AI in class
+Using technology like ChatGPT while learning has advantages and disadvantages. While Joyner says he hopes AI assistants will usher in a golden age of informal learning, there are downsides to misusing these tools.
+Advantages:
+AI assistants are highly accessible, providing students with tailored explanations on a wide range of topics.
+Constant availability promotes informal and individualized learning experiences.
+ChatGPT can simplify complex concepts as well as provide examples and analogies.
+Disadvantages:
+Over-reliance on AI tools can hinder the development of fundamental skills.
+Students could misrepresent how well they have accomplished learning goals.
+AI assistants may make mistakes, requiring students to develop a critical understanding of AI limitations.
+Policies on AI will be implemented in four out of five classes taught by Joyner. All four involve learning goals that are deeply tied to developing code or essays themselves.
+A formal policy has not been written for his fifth class, which is more project oriented. Here, the code is simply a means to an end versus being connected to learning goals.
+“I think that differentiation is important for educators to consider in our class design. Students need to learn how to use AI effectively because they'll be expected to do so in the real world. The students who thrive in the workplace in the coming years will be those who learn to use AI efficiently, but also those who learn what AI cannot do and ensure they can provide that added benefit. Our classes need to be designed with that in mind: we need to ensure students have room to learn to use AI-based assistance effectively. 'Effectively' will mean different things in different subjects and at different levels.”
+Tentative policy language:
+We treat AI-based assistance, such as ChatGPT and Copilot, the same way we treat collaboration with other people: you are welcome to talk about your ideas and work with other people, both inside and outside the class, as well as with AI-based assistants.
+However, all work you submit must be your own. You should never include in your assignment anything that was not written directly by you without proper citation (including quotation marks and in-line citation for direct quotes).
+Including anything you did not write in your assignment without proper citation will be treated as an academic misconduct case. If you are unsure where the line is between collaborating with AI and copying AI, we recommend the following heuristics:
+Heuristic 1: Never hit “Copy” within your conversation with an AI assistant. You can copy your own work into your own conversation, but do not copy anything from the conversation back into your assignment.
+Instead, use your interaction with the AI assistant as a learning experience, then let your assignment reflect your improved understanding.
+Heuristic 2: Do not have your assignment and the AI agent open at the same time. Similar to the above, use your conversation with the AI as a learning experience, then close the interaction down, open your assignment, and let your assignment reflect your revised knowledge.
+This heuristic includes avoiding using AI directly integrated into your composition environment: just as you should not let a classmate write content or code directly into your submission, so also you should avoid using tools that directly add content to your submission.
+Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.
+Recent
+Stories
+Georgia Tech Researchers Recognized With Test of Time Awards
+Monday, November 9, 2026
+Richard DeMillo Celebrated for Decades of Contributions to…
+Monday, November 9, 2026
+College to Celebrate Inaugural Entrepreneurship Week…
+Wednesday, November 4, 2026

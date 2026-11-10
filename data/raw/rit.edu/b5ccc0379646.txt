@@ -1,0 +1,107 @@
+
+Course Description:
+This seminar will provide Software Engineering students with an
+overview of the discipline of Software Engineering and
+opportunities that exist for students. Topics include an overview
+of departmental resources, fundamental concepts and events,
+teaming, testing, co-op and full-time employment opportunities.
+Students will participate in a variety of activities that present
+an introductory view of the different facets of Software
+Engineering.
+* Please spend some time reading this document, as it contains
+vital information about the texts, course policies and grading.
+Attendance Policy:
+Come to class. We only have one scheduled meeting each week of the term, so missing one week correlatively results in missing a substantial portion of course time. Missing a class session gives you a
+zero
+for that week's attendance/project pair. For final grading, the lowest attendance and project/activity pair is dropped. This allows you to do poorly one week, or miss a week of class without an excused absence given
+prior
+to the class session. These points (maximum 70%) are then added to your, homework and Interview paper grade to get your final numeric grade. Attendance to the Final Exam is obligatory and associated with acceptance of your Final Interview Paper.
+Course Topics:
+The course will introduce you to a variety of concepts and
+topics, among them are the following:
+Introduction to Software Engineering Department resources
+Software Engineering in our world
+Teaming
+The Software Engineering Lifecycle
+Software development process
+Professional responsibility
+Software Testing
+Coop and Career opportunities
+Opensource and issues of the Software Trade
+Course Objectives:
+Upon completion of this seminar, student shall:
+Describe different employment opportunities for Software
+Engineering graduates.
+Identify fundamental Software Engineering concepts and
+resources.
+Apply a project test plan and assess the effectiveness of the
+test plan to the development team.
+Identify strategies to address issues that can arise in a team
+project.
+Develop a simple project using appropriate tools in a team
+environment.
+Identify departmental resources available to support students
+traverse the program.
+Describe differences in the characteristics between Software
+Engineering courses and other computing courses.
+Method of Instruction:
+Course will combine lecture, project, in-class activities, written
+assignments and final paper.
+Textbook(s):
+None Required at this time.
+Late Work
+Late work will not be accepted unless prior accommodations are made with the instructor. The individual instructor may choose to accept late work on a case by case basis with deducted points.
+Grading Breakdown:
+A final course grade is a combination of your grades on exams,
+quizzes, class activities and team projects (The instructor reserves the right to alter this at any time and without notice).
+Component
+Percentage of Final Grade
+Class Sessions
+35%
+Project
+35%
+Preparation, and Participation (including any
+assignment/homework submission)
+20%
+Interview Paper
+10%
+Note
+: If you are just interested in starting
+your "career" with a passing grade of "D" then come to class,
+don't participate and submit formidable Project and Final
+Interview Papers. On the other hand if you follow the above you
+should be able to score a good grade.
+* Please be aware that the myCourses grade-book feature will be
+used to communicate
+raw
+grades to you, but is
+NOT
+used for calculating final grades.
+Furthermore, the following table is the way we compute letter
+grades. We do round to the nearest integer.
+Grade
+Percentage Range
+A
+93 +
+A-
+<=90-92.9
+B+
+<=87-89.9
+B
+<=83-86.9
+B-
+<=80-82.9
+C+
+<=77-79.9
+C
+<=73-76.9
+C-
+<=70-72.9
+D
+60-69.9
+F
+under 60
+Chat GTP/AI Policy
+The usage of Generative AI is not allowed in this course.
+Grading
+The instructor will make every attempt to submit grades on submitted materials within a two week time-frame. However, in the event grades are not returned in this time frame, students should notify the instructor immediately. Additionally, due to the significant time required to grade the submissions in this course, it will not be possible to grade all items within the two week time frame.

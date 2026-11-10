@@ -1,0 +1,77 @@
+Artificial Intelligence Policies: Guidelines and Considerations - Duke Center for Teaching and Learning
+Artificial Intelligence Policies: Guidelines and Considerations - Duke Center for Teaching and Learning
+Skip to content
+Bringing purpose, adventure, and joy to the practice of teaching.
+Menu
+Artificial Intelligence Policies: Guidelines and Considerations
+Home
+Generative AI and Teaching at Duke
+Artificial Intelligence Policies: Guidelines and Considerations
+Last updated: August 9, 2026
+Our
+2026/2027 syllabus template
+includes AI policy guidance provided by the Office of Undergraduate Education.
+Draft your own AI policy
+Under the Duke Community Standard, the
+unauthorized use of generative AI
+to complete assignments, exams, and other academic assignments is considered academic dishonesty. The university’s statement sets a base level policy, however, it does not explain what
+unauthorized
+means for your course.
+All instructors should update their syllabi to include clear guidance on the use of generative AI in their courses. We encourage faculty to thoughtfully determine their stance, recognizing that in a rapidly evolving AI landscape, standardized, one-size-fits-all policies are neither sustainable nor reflective of the diversity of teaching approaches.
+As generative AI becomes increasingly widespread, it is important to consider not only your stance on its use in the classroom but also in your own scholarly and professional work. Establishing a course-specific AI policy enables you to set expectations, engage students in meaningful conversations about AI, and provide clarity if academic integrity concerns arise.
+The following guidelines for developing an AI policy for your syllabus include examples of generative AI policies from instructors, universities, and centers of teaching and learning. For the most part, they have been
+curated from a crowd-sourced document
+that we encourage you to explore on your own to find AI policies developed by instructors in your field and represent your level of comfort with the use of AI. Other sources for sample policies are cited in the text itself.
+Do your homework
+Kevin Gannon (Queens College in Charlotte) argues in an article titled
+“Should I Write an AI Policy”
+(NetID login required) that instructors should start with research into the topic before writing their policy. He offers a list for instructors of varied sources that provide a primer on the mechanics of generative AI, pros and cons of AI use, and a grounding in how generative AI can be incorporated into teaching.
+We encourage you to try at least one generative AI tool. A good way to start exploring is to enter the prompts that you give students for an assignment into the AI tool, and see what the tool returns. It is important to learn how to
+write effective prompts
+and also explore existing
+prompt ideas
+.  Keep an open and curious mindset when considering whether such tools could be helpful to some or all of your students.
+Share the rationale behind your policy
+As you define your individualized AI syllabus statement, your reasoning should be grounded in the intellectual work of the course, your discipline and your understanding of critical thought. Some of the questions you might ask yourself are: What will students lose (or gain) by using generative AI in your course? What do you want students to understand about AI and their intellectual development? We encourage you to explain the rationale for your policies with your students and open a conversation about AI with them. Below are three policy examples that detail the instructors’ thinking behind their AI policy.
+A policy example from Joel Gladd
+(University of Western Idaho) identifies two guiding principles for AI use in the classroom: “1) Cognitive dimension: Working with AI should not reduce your ability to think clearly. We will practice using AI to facilitate—rather than hinder—learning. 2) Ethical dimension: Students using AI should be transparent about their use and make sure it aligns with academic integrity.”
+Lis Horowitz (Salem State University) shares a practical reason behind a zero tolerance policy for generative AI in their writing course. “Since writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all writing assignments should be prepared by the student. Developing strong competencies in this area will prepare you for a competitive workplace. Therefore, AI-generated submissions are not permitted and will be treated as plagiarism.”
+By defining the idea of integrity, Megan McNamara (UC Santa Cruz) points out what is at stake when we talk about academic honesty and personal growth. As she states, “Integrity – other people’s perception of your word as true – is one of the most valuable assets you can cultivate in life. Being attentive to integrity in academic settings allows others to trust that you have completed work for which you are taking credit.” Her course allows students to use AI in limited ways and this rationale sets the foundation for this use.
+Support AI literacy
+Although students may already use generative AI, it does not mean that they understand the limitations of the tool or how to use it properly. Instructors can play an important role in helping students develop AI literacy skills. One important dimension is helping students recognize both the limitations of AI. When students understand that generative AI can produce hallucinations, biases, and inaccuracies, they see more clearly why it cannot serve as a shortcut to strong academic work. Ethan Mollick (Penn’s Wharton School) frames it this way, “[d]on’t trust anything it says. If it gives you a number or fact, assume it is wrong unless you either know the answer or can check in with another source. You will be responsible for any errors or omissions provided by the tool. It works best for topics you understand.” The library at Baylor University has a guide for students with an overview of AI’s shortcomings, plus information on
+how to verify sources and double check AI responses
+.
+While most academic style guides now provide guidance on citing generative AI, explaining these practices to students reduces uncertainty about how to act within the Duke Community Standard and raises their awareness of what is at stake when engaging with AI content. You have the option to personalize your approach to attributions beyond citations. Some educators are instructing students to submit a transcript of the conversation with generative AI as an appendix to their written work. Another alternative might be a reflective piece as a companion to an assignment, as Pam Harland (Plymouth State University) has done by providing guiding questions for students: “What was your prompt?” “Did you revise the AI model’s original output for your submission?” “Did you ask follow-up questions?” “What did you learn?”
+A final dimension of AI literacy is knowing how to prompt AI effectively. Instructors should
+build prompt skills
+to share with students and develop lesson plans (even if it is to only critique AI and not integrate it into your course assignments.)
+Explore the continuum of policies
+If you decide to allow generative AI as a tool for learning in your courses, clarify for your students the circumstances in which AI is allowable. Kim Sydow Cambell (University of Texas) offers an example policy that expands upon the tasks that students can ask AI to perform:
+“Because the effective use of Artificial Intelligence (AI) tools is increasingly important to the work of technical communicators, their use is sometimes required or allowed in course assignments. AI tools can support a content creator during all phases of their work:
+pre-writing: before content is created, writers can use some tools to research topics, collect genre samples, brainstorm ideas, craft outlines, etc.
+drafting: some tools support the generation of content
+revising: after content is generated, many tools aid writers in identifying and altering style/tone, spelling, punctuation, grammar, etc.”
+From Howard University of Law, Howard Bruckner explains to students what tasks are acceptable and underscores the students’ responsibilities for ethical use. “Generative AI tools can be invaluable for generating ideas, identifying sources, synthesizing text, and starting to understand what is essential about a topic. But YOU must guide, verify and craft your work product; do not just cut and paste without understanding.”
+You may discover that if you allow students to engage with generative AI, specific guidelines may need to accompany each assignment.
+Below are general approaches to AI use for you as starting points in your exploration of what your AI policy will be. We invite you to consider them as starting points in your exploration of what your AI policy will be.
+Use prohibited
+Students are not allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course. Each student is expected to complete each assignment without substantive assistance from others, including automated tools.
+Use only with prior permission
+Students are allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course if instructor permission is obtained in advance. Unless given permission to use those tools, each student is expected to complete each assignment without substantive assistance from others, including automated tools.
+Use only with acknowledgement
+Students are allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course if that use is properly documented and credited. For example, text generated using ChatGPT-3 should include a citation such as: “Chat-GPT-3. (YYYY, Month DD of query). “Text of your query.” Generated using OpenAI. https://chat.openai.com/” Material generated using other tools should follow a similar citation convention.
+Use is freely permitted with no acknowledgement
+Students are allowed to use advanced automated tools (artificial intelligence or machine learning tools such as ChatGPT or Dall-E 2) on assignments in this course; no special documentation or citation is required.
+About AI detection software
+We do not recommend AI detection software as a part of your AI policy because of
+false positive rates, biased detections, and software shortcomings
+. If you choose to use these tools, inform students in advance. Detection results should never be the sole evidence of academic dishonesty, but can open a conversation with students if approached from a questioning perspective and not punishment.
+If you’d like to discuss your AI policy in more depth, please reach out to
+ctl@duke.edu
+You can also explore our
+general guidance on AI in teaching.
+Want Center for Teaching and Learning News?
+Sign up
+for our monthly email newsletter
+Search for:
+Search Button

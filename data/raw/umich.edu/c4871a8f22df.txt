@@ -1,0 +1,232 @@
+CSE 598: Learning-Enabled Systems, Fall 2026
+CSE 598: Learning-Enabled Systems, Fall 2026
+Course Overview
+This course explores the intersection of AI and systems with a focus on how AI
+techniques can help design, optimize, and manage computer systems. Modern
+systems are facing growing complexity that arises from scale, heterogeneous
+hardware, deep dependencies, and highly dynamic workloads. These complexities
+make it difficult to rely on traditional approaches to reason about, control,
+and predict the system behavior. At the same time, as the backbone of computing
+services, systems today face ever more stringent requirements about their
+reliability, availability, performance, security, etc. The advances of AI
+techniques provide opportunities to address these gaps.
+The course covers a broad range of systems, including operating systems,
+distributed systems, databases, storage, and networking. It examines how AI
+techniques can be applied to key system components such as schedulers, file
+systems, caching and memory management, query optimizers, and distributed
+protocols. Rather than focusing solely on parameter tuning, the course will
+take a holistic view of how learning-based approaches can deeply integrate with
+complex systems to guide system design, implementation, policy decisions, and
+augment or rethink traditional system mechanisms.
+The course traces the evolution of AI for systems research. It begins with
+early work that predates deep learning, such as statistical modeling and
+classical machine learning for system optimization. It then progresses to more
+recent advances, such as learned system components and leveraging large
+language models (LLMs) for system-related tasks.
+Scope
+: This course focuses on
+AI for Systems
+: using AI techniques to design, optimize, and manage
+computer systems. It is
+NOT
+about
+Systems for AI
+, which studies
+systems and infrastructure for supporting AI workloads.
+Learning Objectives
+By the end of the course, students will be able to:
+Understand systems problems that are suitable for AI and machine learning techniques.
+Gain insights on how learning techniques integrate with conventional system mechanisms, including their trade-offs.
+Critique current AI-for-systems research, including its assumptions, methodology, costs, and limitations.
+Identify open problems at the intersection of AI and computer systems.
+Design and evaluate new learning-enabled system components.
+Prerequisite
+: EECS 482 (Introduction
+to Operating Systems) or equivalent systems background. Prior exposure to
+machine learning (e.g., EECS 445) is helpful but not required.
+Staff
+Instructor
+Ryan Huang
+Email:
+ryanph@umich.edu
+Address:
+Leinweber 4146
+Office Hours:
+Tuesday 4:30pm-5:30pm or by appointment
+Meetings
+Lecture
+Tuesday/Thursday 3:00pm-4:30pm, 1200 EECS
+First class
+Tuesday, September 1, 2026
+Last class
+Thursday, December 10, 2026
+Course Structure
+This course is research oriented. It is structured as a mixture of
+instructor-led lectures, student-led paper presentations, guest lectures and
+discussions. There are very few traditional lectures; most class meetings are
+discussions of research papers that everyone is expected to have read
+beforehand.
+Readings
+This course does not have a required textbook. The course readings consist
+primarily of research papers from top systems and interdisciplinary venues such
+as
+SOSP, OSDI, NSDI, SIGCOMM, SIGMOD/VLDB, ASPLOS,
+and
+MLSys
+. These papers
+include both foundational work and recent progress so students understand the
+evolution of ideas and recurring challenges.
+Most classes will have two
+required
+papers to read. You
+MUST
+read the required papers
+before
+class and be prepared to
+discuss them. For some topics, we will list additional optional papers. You are
+encouraged, but not required, to read those. Students often find it useful to
+form a reading group to discuss papers together before the class period, and we
+encourage the practice.
+Reading List and Schedule
+If your machine learning background is rusty, the following references are
+useful companions while reading the papers. They are
+not
+required:
+Dive into Deep Learning
+, Zhang, Lipton, Li, and Smola. Freely available at
+d2l.ai
+.
+Deep Learning with Python
+, 3rd Edition, Chollet and Watson, 2025. Covers
+modern deep learning and generative AI using Keras, PyTorch, JAX, and
+TensorFlow. Freely available at
+deeplearningwithpython.io
+.
+Reinforcement Learning: An Introduction
+, 2nd Edition, Sutton and Barto, 2018.
+Note
+: this course assumes that you
+have taken an undergraduate operating systems course. It will
+not
+cover
+background knowledge such as how virtual memory or a scheduler works, and most
+papers we read make the same assumption. If your undergraduate systems
+knowledge is rusty, reviewing past lectures
+(
+example
+)
+will help you better comprehend the papers.
+Grading
+In-class Participation
+15%
+Paper Reviews
+10%
+Paper Presentation
+20%
+Project Report + Code
+45%
+Project Presentation
+10%
+For the group-based projects, each student is expected to make substantial and
+clearly identifiable technical contributions and will be assessed based on
+their contributions. To support fair evaluation, students will be asked to
+submit individual contribution summaries at major milestones.
+Significant imbalance in contribution will result in
+different grades among members of the same team.
+Structure and Policies
+Participation
+: Participation
+grades are based on consistent engagement with course discussions and
+activities rather than speaking frequency alone. Students are evaluated using
+multiple indicators, including:
+demonstrated preparation for weekly readings;
+contributions to discussion that advance technical understanding;
+asking thoughtful questions or offering constructive critiques; and
+providing feedback during peer presentations.
+Each student will also serve as a discussion leader for assigned papers during
+the semester, which contributes to the participation component. If you remain
+silent in the class, you will gain little out of this course.
+Paper Review
+: You are required to
+submit a brief review for the required reading in each class. Reviews
+must be turned in
+by 12 pm
+on the day of
+the class. Please refer to the detailed requirements on
+this page
+.
+Presentation
+: Each student will
+be responsible for presenting and leading discussion for one or more research
+papers during the semester. The goal of the presentation is not only to
+summarize the paper, but also to critically analyze its motivation, design
+choices, methodology, and implications. Presenters are expected to discuss with
+the instructor in advance to ensure appropriate depth and scope. Detailed
+requirements are described on
+this page
+.
+Attendance
+:
+Three
+absences of
+classes are allowed for good reasons (e.g., conference presentation,
+interview). However, reviews of the papers must still be turned in.
+Discussion
+: You are strongly
+encouraged to discuss the papers with other students in the class – you may
+have insights that others do not, and vice versa. Often students form reading
+groups, which I heartily encourage. Note that group discussion, however, is not
+an effective substitute for actually reading the paper.
+Project
+: A major component of
+this course is a semester-long, research-oriented project on using AI
+techniques to address a systems problem. You will work in a team of 2-3
+students. Detailed requirements for the project are described on
+this page
+.
+Missing and Late Submission
+:
+You may miss up to
+three paper reviews
+without penalty. For each additional missed
+review beyond three, a 30% deduction will be applied. Therefore, missing a total
+of seven paper reviews results in a zero for the review grade.
+Missing the submission of any other assignment (e.g., proposal) will result in
+a zero for that assignment. Late submissions of any assignment (including paper
+reviews, proposals, etc.) will incur the following penalties:
+<= 12 hour, 10%
+<= 1 day, 20%
+<= 2 days, 40%
+<= 3 days, 80%
+> 3 days, no credit
+Academic Integrity
+: All students are required to
+know and adhere to the College of Engineering
+Honor Code
+and
+university policies. They apply to all course requirements, including the
+paper reviews, proposals, course project code and documentation.
+Violations of the policies will result
+in serious consequences
+.
+Use of GenAI
+: This is a course
+about
+AI techniques, and you will read papers and build projects that use
+LLMs. That said, you may
+not
+use GenAI tools to
+do the required intellectual work for you, such as generating your paper
+reviews, answering the assigned paper questions, or writing your project
+reports. You
+may
+use them to help you understand background and concepts in a
+paper, and as a coding aid in your project. In the latter case, you must disclose
+how they were used in your write-up.
+Latest Announcements
+08/21
+Welcome to CSE 598! The first class meets Tue 09/01 in EECS 1200.
+08/21
+Course tentative
+schedule
+posted.

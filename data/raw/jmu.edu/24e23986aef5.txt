@@ -1,0 +1,442 @@
+CS 470 - Syllabus
+CS 470 - Syllabus
+CS 470
+Parallel and Distributed Systems - Spring 2025
+Home
+Syllabus
+Calendar
+Assignments
+Resources
+Syllabus
+Introduction
+Over the past few decades, we have seen a monumental explosion in the amount
+of computational power available to address a variety of problems important to
+the human race. This increase in computational power has been made possible by
+the creation of large-scale parallel and distributed computing systems. These
+systems come in many shapes and sizes, but there are many common themes.  In
+this course, we will explore these themes and the various ways to develop
+software for such systems.
+Course Plan
+This class will meet Monday, Wednesday, and Friday 3:00pm-3:50pm in EnGeo
+2204. My office hours will be posted on Canvas and outside my office (King Hall
+227).
+The material in this course will be presented using a combination of
+readings and lectures, and you will occasionally have your understanding tested
+using online Canvas quizzes.
+You are responsible for
+watching the course website and Canvas for quizzes. For some topics, we will
+also complete an in-class, hands-on lab to help reinforce some aspect of the
+material.
+Quizzes and labs are intented to be
+formative
+assessments,
+helping you engage with the material for more effective learning. Accordingly,
+they are a relatively small portion of your final grade. Three major exams (two
+midterms and a final exam) will serve as the
+summative
+assessment of course material to verify that you have reached an acceptable
+level of mastery, and these will constitute a more significant portion of your
+final grade.
+This is an advanced systems course, and thus software development will be a
+significant focus of the course. You will complete three regular programming
+projects as well as a final project of your choice, and your performance on
+these projects will constitute a significant portion of your final grade. Your
+project solutions will be graded for correctness, performance, style, and
+documentation. The projects are intended to be
+summative
+,
+showing me whether you can apply course content to build an actual software
+product.
+If you wish, you may work with another student in a two-person team for the
+four regular course projects. If you wish to do this, you must notify me at least a
+week before the due date so that I can set up submission groups on Canvas.
+Teams for the final project may be larger
+than two people depending on the scope of the project; if you wish to work in a
+larger team, please contact me as early as possible to discuss appropriate group
+sizes and project scopes.
+In addition to the three regular projects, you will also complete a
+final project
+, where you will
+gain experience working on large, open-ended problems while
+reinforcing general course concepts.
+Unlike regular project groups, final project groups
+may contain up to four people, although due to prior experience I recommend
+keeping the project sizes to at most three.
+Course Topics
+Here is a rough outline of topics that will be covered in this course:
+This outline is subject to change. Here is a link to the current outline (in
+mind map format):
+cs470_topics.mm
+You can read and edit the mind map using the open-source
+FreePlane
+software package or use the
+interactive outline
+.
+Objectives and Expectations
+This course is an introduction to parallel and distributed systems. We will
+explore shared memory, cluster, grid, peer-to-peer, and cloud computing models
+along with parallel software patterns, distributed file systems and performance
+considerations. The course work includes a significant programming component.
+By the end of the course, you should be able to do the following:
+Describe hardware architectures relevant to parallel and distributed
+systems
+Describe relevant societal and scientific problems that can be addressed
+using parallel and distributed computing
+Compare and apply parallel decomposition strategies including task and data
+parallelism
+Justify the role of middleware for distributed and parallel computation
+Build software for shared-memory multiprocessing (including the use of
+accelerators), and for distributed computation using message-passing
+Describe tradeoffs between wide-scale parallel paradigms, including cluster,
+grid, and peer-to-peer computing
+Compare and contrast local, networked, and distributed file systems
+Explain performance metrics and how they relate to our understanding of a
+program's behavior
+This course requires a lot of prerequisite systems knowledge, most of which
+you should have seen in CS 261 or CS 361. Here is a list of some other things
+you should be able to do reasonably quickly by the time you take CS 470:
+Login to a remote Linux server via SSH in a terminal
+Copy files and folders on the command line (
+cp
+)
+Edit files from the command line (e.g.,
+nano
+or
+vim
+)
+Download files using the command line (e.g.,
+curl
+or
+wget
+)
+Implement a singly-linked list
+Use a debugger to find segfault sources
+Use a debugger or logs to trace execution
+Use Valgrind to locate memory problems
+If you are unsure whether you could comfortably do one or more of these
+things, I encourage you to practice them ahead of the first day of class.
+Course Textbook
+Parallel Programming, 2nd Edition
+Peter Pacheco and Matthew Malensek
+This is a very practical handbook for software development on parallel
+and distributed systems. We will use this book as a reference as we learn
+how these systems work and how to best exploit the various kinds of
+parallelism they provide. The book should also serve as a good reference
+should you ever encounter the need to write such software later in your
+career. We will supplement this textbook with material from
+other sources as appropriate throughout the semester.
+The textbook is available online through JMU's Elsevier ScienceDirect
+subscription:
+Table
+of Contents
+(access on campus or sign in via your institution)
+Distributed Systems, 2nd Edition
+Andrew Tanenbaum and Maarten Van Steen
+This is a standard distributed systems textbook that covers a range of
+topics, some of which we will be covering in this course. This is NOT a
+required textbook, but I will be using it as a source for some of the
+lectures in the latter half of the course.
+Grading Criteria
+You are responsible for all material discussed in lecture and discussion
+section and posted on the class web page, including announcements, deadlines,
+policies, etc.
+Your final course grade will be determined according to the following
+percentages:
+Quizzes
+10%
+Labs
+10%
+Regular Projects
+15%
+Final Project
+15%
+Midterm Exams
+30%
+Final Exam
+20%
+Unless otherwise noted, grades will be assigned using a standard 90/80/70/60
+grading scale with standard +/- cutoffs (0,3,7).
+Final course letter grades may be curved at the end of the semester based on
+each student's overall performance for all coursework. Other factors that may
+influence a curve are your general performance trend over the semester
+(improving or degrading) and your general investment in the course (attendance
+and participation). These are aspects of the course for which I do not give
+formal grades, but they may factor into your final letter grade assignment.
+If you believe I have made an error while grading your work or calculating
+your final score, please bring it to my attention after class or during office
+hours. If I determine that there has been a simple mistake, I will fix it
+immediately and no formal request is necessary.
+If you believe an exam question or assignment has been graded unfairly, you
+must submit a verbal or written formal request for a regrade. Such requests
+must be submitted within one week of when the assignment in question is
+returned to you.
+Any coursework submitted for
+reconsideration may be regraded in its entirety, which could result in a lower
+score if warranted.
+Completing the programming assignments is an essential part of the course.
+Therefore,
+I reserve the right to fail any student who
+does not make a good-faith attempt on all course projects
+, regardless of
+the student's performance or scores on the other coursework.
+I will attempt to provide as much feedback as I can regarding your
+performance on the projects, and I will assign an overall project grade
+holistically according to the following grading scale:
+Exceptional
+A
+Good
+B
+Satisfactory
+C
+Deficient
+D
+Unacceptable
+F
+Projects will be graded according to the rubric given in their description, and
+deductions may be taken for inconsistent code style, memory leaks, using unsafe
+functions, or other demerits as noted below and in the project description and
+project guide.
+Some portion of project grades may be determined based on automated tests.
+You code will also be graded for elegance, style, and documentation according to
+software engineering principles. I will also incorporate your written analysis
+into the final project grade. If you have any questions about these criteria,
+please inquire on Discord and I will provide clarification.
+Numeric points will be assigned as follows: A=100, B=85, C=70, D=50, F=25.
+I may assign "plus" or "minus" grades on projects at my discretion; however,
+this is not guaranteed.
+Your grade for the final project is based on several submissions
+throughout the semester and will be graded according to the following
+percentages:
+Preliminary Deliverables
+5%
+Proposal
+15%
+Draft Deliverable
+25%
+Poster and Showcase
+25%
+Demo and Deliverable
+30%
+Major final project grades (with the possible exception of the final
+deliverable) will be accompanied by written feedback about how the project could
+be improved for the next deliverable.
+Instructor Contact Info
+My preferred method of communication is via email
+(my address is
+lam2mo
+at the standard domain). My
+office hours are posted on Canvas as well as outside my office
+If you wish to schedule a meeting outside office hours, send me an
+email and provide a list of potential times that work for you.
+I do my best to respond to emails in a timely fashion. You may reasonably
+expect a response to an email inquiry within 24-48 hours during the week; feel
+free to re-send an email if you do not receive a response in that time frame.
+However, I do not guarantee responses over the weekend, and
+I do not guarantee any response at all to email inquiries sent
+during the last 24 hours before a project due date.
+This policy exists
+to encourage timely work on projects.
+Course Policies
+Important announcements will be made in class and/or via Canvas announcements.
+Please make it a habit to check Canvas daily. You alone are responsible for missed
+assignment due dates.
+Although every effort has been made to be complete and accurate, unforeseen
+circumstances arising during the semester could require the adjustment of any
+material given here. Consequently, given due notice to students, I reserve the
+right to change any information on this syllabus or in other course materials.
+You are permitted to use course materials for your own personal use only.
+Course materials may not be distributed publicly or provided to others
+(excepting other students in the course), in any way or format unless
+explicitly allowed.
+Attendance and Participation
+You must attend class during the first week of the semester in order to
+"claim" your seat in the class. To assure that the maximum number of students
+can benefit from the course, I reserve the right to drop any student who does
+not attend the first two classes of the semester. This frees up seats for
+students on the waitlist. If you have mitigating circumstances (i.e., health or
+travel issues) that prevent you from attending a class the first week, please
+notify me BEFORE that class time.
+After the first week, attendance is not mandatory, but general I do expect
+everyone to attend as regularly as possible. I view my students' time as valuable,
+and my goal as a teacher is to make class attendance and participation well
+worth the time investment for you.
+I expect you to attend every class session
+and participate fully
+in order to derive the maximum benefit of this course. If
+you believe that there is something I could change about the way I am handling
+the course in order to improve its effectiveness for you, please let me know via
+email or office hours.
+It is very important to me that all students feel secure and included in my
+courses. I also believe that a diversity of background and experiences enriches
+the classroom. If at any time you have a concern about my classroom environment
+or your classmates, please talk to me immediately so that we can address the
+situation. If you wish to be called by anything other than what is listed in
+MyMadison (e.g., nicknames, pronouns, etc.), please let me know. If you wish to
+communicate with me without other students present, please email me to set up an
+appointment.
+Please silence your cell phone while class is in session. If you have a
+laptop or tablet, you are encouraged to bring it to class and use it to work
+along with programming examples and exercises. Mute the volume to avoid
+unintended interruptions, and do not use any electronic devices for activities
+that may distract other students. Repeated violations of this policy may result
+in disciplinary action or a grade penalty in the course.
+I expect you to check the website calendar, Canvas, and Discord
+regularly for important announcements. You may also use Discord to ask
+general questions of interest to the class as a whole (e.g., administrative
+issues or project clarification questions) as well as to offer each other
+general advice on class assignments. However, do not post any information that
+would violate the university academic integrity policy. If you are unsure about
+this, please email me for approval before you post.
+As a college student, there may be times when personal stressors interfere
+with your academic performance and/or negatively impact your daily life. If you
+or someone you know is experiencing mental health challenges at James Madison
+University, please connect with the Counseling Center (CC) located within the
+Student Success Center on the 3rd floor. You can learn more about available CC
+services by visiting their website or calling the Center (540-568-6552). Their
+services are free and confidential. Other available support resources to
+consider on campus include, but are not limited to the: Office of the Dean of
+Students, Health Center, Learning Strategies Instruction, and the Office of
+Disability Services.
+Programming Projects
+Projects must be submitted electronically following the instructions given
+in class and on the website. Projects may not be submitted by any other means
+(e.g., do not email your projects to me unless I request that). It is
+your responsibility to test your program and verify that it works properly
+before submitting it.
+All projects are due at 23:59 (11:59pm) on the day indicated on the project
+assignment unless noted otherwise.
+Projects may be submitted up to 72 hours late for a letter grade penalty
+per 24-hour period. For example, a submission that would have earned an A in an
+on-time submission will earn a B if submitted up to 24 hours
+late, or a C if submitted up to 48 hours late. If you make
+multiple submissions, I will typically grade the latest submission. If you wish
+me to grade a different submission, you must indicate this before the 72-hour
+late period is over.
+Regardless of the above policy, I reserve the right to refuse to grade any
+projects submitted after the beginning of the second class period following the
+project deadline, because I may discuss the solution in class.
+Project extensions will not necessarily be granted due to server congestion,
+system problems, network problems, power outages, etc., so do not wait to submit
+a project until the night it is due.  No consideration in grading will be made
+for errors made in transferring files or submitting the wrong version of your
+project.  Having a working, non-submitted version will not count; only submitted
+code will be be counted.
+I strongly urge you to use
+version control software and/or keep redundant backups of your work to
+avoid data loss.
+You will be responsible for developing your own techniques for testing your
+projects before submitting it.
+I will grade your
+projects based on test cases not provided to you in advance.
+Because
+grading may be done automatically, you must follow the project specification
+exactly.
+Your code will be graded on a combination of correctness, completeness,
+documentation, and code style. If you have any questions as to what constitutes
+good documentation or code style, be sure to ask ahead of time or refer to any
+provided style guide.
+Any "hard coding" in a project assignment will result in a score of zero for
+that project, and is considered a bad-faith effort. Hard coding refers to
+attempting to make a program appear as if it works correctly, when in fact it
+does not. One example of hard coding would be printing the desired output
+instead of computing it. If you have any questions as to what constitutes hard
+coding for a particular assignment, be sure to ask ahead of time.
+Adding and Dropping the Course
+Students are responsible for adding and dropping courses. Please consult
+the appropriate
+academic
+calendar
+for the exact deadlines. I will not give "WP" or "WF" grades to
+students requesting a drop after the deadline except in extraordinary
+circumstances.
+Academic Honesty
+You are expected to comply with the JMU Honor Code as stated in the Student
+Handbook and available from the
+Honor Council website
+on all
+assignments, projects, and exams.
+Consulting with other students about problems and solutions is not
+necessarily a violation of the honor code, depending on the particular
+assignment. All final work turned in for an assignment must be your own unless
+it is a group project. In particular,
+you may not share any
+source or binary code on programming assignments
+unless the project
+specification explicitly allows it. This includes but is not limited to: direct
+file copying, public repositories,
+detailed verbal
+descriptions, screen captures, and photos. If you are in doubt about whether
+something is an honor code violation, please contact me immediately.
+The use of AI-assisted code generation tools such
+as Github Copilot are allowed on the labs and projects for this course this
+semester.
+In the comments at the top of each project submission, you
+must include an "AI-Assist Statement" that discloses the extent of your use of
+AI-assist technologies on the assignment. If you did not use such a technology,
+you may simply state "I did not use any AI-assist tools while creating this
+solution."
+This policy is experimental and will be re-evaluated
+throughout the semester, potentially with modifications mid-semester. Any
+revisions to the policy will be broadcast via Canvas announcement and discussed
+in class at least 72 hours prior to the next applicable deadline.
+In this course, we will be using a shared computing resource (a 17-node
+cluster). We will discuss proper use of this resource, but it is your
+responsibility to use this resource honestly and fairly.
+Any improper use of this resource (hacking, abuse,
+denial-of-service, etc.) will be considered a violation of section
+II.A.16 of the honor code as well as any applicable criminal code.
+If you are in doubt about whether something is an honor code violation with
+respect to this aspect of the course, please contact me immediately.
+If I find evidence of a violation of the honor code, I will bring the matter
+to the attention of the involved individuals via email and request a
+face-to-face meeting. As per section IV of the honor code, first time student
+offenders may agree that a violation has occurred and accept an appropriate
+penalty by submitting an "Informal Resolution Agreement Form" to the honor
+council. If the student is not a first-time offender or if there is disagreement
+about the violation or penalty, the matter will be referred to the honor council
+under section V of the honor code.
+Disability Accommodations
+If you need an accommodation based on the impact of a disability, you must
+contact the
+Office of Disability Services
+if you
+have not previously done so. Disability Services will provide you with an
+Access Plan letter that will verify your need for services and make
+recommendations for accommodations to be used in the classroom. Once you have
+shown me this letter, we will sit down and review the course requirements, your
+disability characteristics, and your requested accommodations to develop an
+individualized plan appropriate for this course. I will not make any
+accommodations without the appropriate documentation, as I am not qualified to
+diagnose disabilities.
+Excused Absences
+Besides the policies in this syllabus, the University's policies apply
+during the semester. Various policies that may be relevant appear in the
+Undergraduate
+Catalog.
+Excused absences will be granted at my
+discretion and only with appropriate documentation.
+Please contact me as
+soon as possible if you wish to request an excused absence.
+Missing an exam for reasons such as illness, religious observance,
+participation in required university activities, or family or personal
+emergency (such as a serious automobile accident or the funeral of a close
+relative) all are circumstances that may qualify as an excused absence.
+However, you must provide documentation that the absence qualifies as excused.
+I will arrange a makeup exam or substitute assignment at my discretion.
+The policies for excused absences do not apply to in-class activities (which
+cannot be made up) or project assignments.  Projects will be assigned with
+sufficient time to be completed by students who have a reasonable understanding
+of the necessary material and begin promptly.  In cases of extremely serious
+documented illness of lengthy duration or other protracted, severe emergency
+situations, I may consider extensions on project assignments depending upon the
+specific circumstances. Please contact me as early as possible if you believe
+you will need such an extension.
+Inclement Weather
+This class will operate in accord with JMU's official
+cancellation policy
+.
+Because it is an online class, we will generally NOT cancel due to inclement
+weather. Please contact me ASAP if you anticipate difficulty attending class
+or submitting an assignment because of inclement weather.
+Copyright © 2025 Mike Lam | Design by
+Blog Liber

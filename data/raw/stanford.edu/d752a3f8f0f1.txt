@@ -1,0 +1,205 @@
+AIMES Library of Examples | Center for Teaching and Learning
+AIMES Library of Examples | Center for Teaching and Learning
+Skip to main content
+Skip to secondary navigation
+Stanford University
+Your Perspective on AI is Invaluable
+Submit a thought piece—in any format—on a question or challenge at the intersection of AI and education by
+November 6, 2026
+. Selected pieces from university community contributors will earn a $2,000 award, spark Stanford-wide conversation, and be featured at a January 2027 public event.
+Explore competition details.
+Stanford
+Center for
+Teaching and Learning
+Search this site
+Submit Search
+AIMES Library of Examples
+Main content start
+Welcome to the AI Meets Education at Stanford (AIMES) Library of Examples
+The examples here are all from Stanford faculty, lecturers, and instructors and have been incorporated into actual classes. They include a range of teaching artifacts: course policies, assignments, learning goals, in-class activities, teaching strategies, and more. These examples are meant to spark ideas and showcase a variety of approaches to teaching in a university setting during a time when generative AI exists. As with the
+AIMES project
+more broadly, this collection of examples does not represent any institutional position, either in favor or nor against generative AI, and examples illustrate approaches ranging from non-use of AI, to constrained use, to more extensive use. Your disciplinary conventions, learning goals, courses and curricula, ethical and critical considerations will all be important factors in your own instructional choices.
+Stanford Terms of Use
+apply. Please address questions and suggestions for additional examples to
+ctl-stanford@stanford.edu
+.
+How to Use This Resource
+Filter the examples below according to your interests and explore individual examples to find out more.
+By selecting among the radio buttons on the left, you can choose which kinds of examples to display on the page.
+Within each filter category, scroll to reveal additional choices.
+You can filter in just one category or in multiple categories.
+When you find an example on the page that you would like to learn more about, click its title to open a page with more details (e.g., pedagogical highlights, instructor insights, course materials).
+Filter Categories
+How is AI used in the resource?
+Filters indicate the instructional stance toward AI in the example
+"AI Use is Assigned" - students are instructed to use AI for specific assignments or activities
+"AI Use is Limited" - instructors constrain AI use to particular tasks or domains
+"AI Use is Prohibited" - no AI use is allowed
+What type of resource?
+Filters describe the kind of teaching artifact: Assessment, Assignment, Course Description, Course Policy, In-class Activity, Learning Goals
+What disciplinary area?
+Filters describe these disciplinary groupings: Humanities/Arts, Professional, Science/Engineering, Social Science
+Key Resources and Policies
+As you consider what if any role generative AI will play in your teaching, please be aware of the following important policies and resources.
+Stanford AI Playground
+: Allows Stanford instructors, TAs, students, staff, and others to safely try various AI models from a variety of developers. It is protected by single sign-on and all information stays within the Stanford environment. However, it is not suitable for use with any high-risk data.
+Honor Code Policies:
+Instructors are encouraged to set and communicate their own course-based policies for AI use. Because instructors' course policies differ, Stanford-wide honor code guidance is simple and broad, as articulated by the
+Office of Community Standards
+. Unless the instructor indicates otherwise, AI use is treated similarly to assistance from another person, with substantial use to complete an assignment or exam prohibited and acknowledgment of any use of AI other than incidental required.
+Plagiarism and AI Detection:
+No central tools are provided by Stanford. Detection tends to be plagued with false positives, false negatives, and ambiguous results. Instructors are only permitted to use detection tools with
+prior notice to students
+. Some disciplines and departments have their own specialized detection software. Instructors must take care not to violate FERPA and student privacy by sharing student work with unapproved software platforms.
+Critical AI Literacy for Instructors:
+A self-paced professional development resource for instructors who are new to generative AI technology.
+Learn more and links to enroll
+.
+Consultations:
+Center for Teaching and Learning staff are available to consult with instructors and TAs on their pedagogical plans, including those related to AI, and to adjusting methods to account for AI even if not used in their own courses.
+Request a CTL consultation.
+General AI Teaching Strategies
+For general strategies, read this
+short overview
+. It complements the educational approaches to AI in the examples featured here. You can also skip to sections with strategies for particular approaches to AI via the links below.
+Strategies When Assigning AI Use
+Strategies When Limiting AI Use
+Strategies When Prohibiting AI Use
+AI Examples from Stanford Instructors
+Find examples of generative AI use, policies, assignments, and more from Stanford courses.
+Filtered by
+How is AI used in the resource?
+-AI Use is Assigned
+-AI Use is Limited
+-AI Use is Prohibited
+What type of resource?
+-Assessment
+-Assignment
+-Course Description
+-Course Policy
+-In-class Activity
+-Learning Goals
+What disciplinary area?
+-Humanities/Arts
+-Professional
+-Science/Engineering
+-Social Science
+Course Policy
+Adaptation, Environmental Behavioral Sciences
+In addition to a clear policy for the course, this example offers a broader disciplinary perspective.
+In-class Activity
+AI Art & Aesthetics
+These in-class activities provide a structure for students to guide their peers through the creative possibilities of AI.
+Short Assignment
+AI Art & Aesthetics
+This course encourages students to critically consider the role of AI in art, through ethical, political, and historical lenses.
+Learning Goals
+Art Meets AI
+Learning goals encompass both exploring and critiquing AI technologies.
+Short Assignment
+Art Meets AI
+Students learn to both create with and critique AI in this midterm group project.
+Learning Goals
+Artificial Intelligence and Journalism
+The learning goals for this journalism class highlights a multidisciplinary, analytical approach to evaluating AI systems.
+Course Policy
+Artificial Intelligence and Journalism
+In this course the instructor invited students to co-create the class AI course policy, using the framework set by the Stanford Honor Code and Board of Conduct Affairs.
+Learning Goals
+Artificial Intelligence Applications in the AEC Industry
+This course educates professionals on AI system implementation within the Architecture, Engineering, and Construction industry.
+Course Policy
+Censorship and Propaganda
+This concise AI policy balances openness to technology with in-class assessments and grading for accuracy.
+Course Policy
+Decolonizing Archives: Video & AI
+This studio art course policy encourages nuanced AI decisions and instructor-student collaboration on an AI agreement.
+Long Assignment
+Decolonizing Archives: Video & AI
+This project prompts students to analyze AI biases in depth and thoroughly document their process.
+Department Guidance
+Department AI Guidance in One Quantitative Field
+A department-wide AI guidance document provides explanations and clear baseline policies in a quantitative field.
+Course Policy
+Design for Behavior Change
+This limited-use AI course policy emphasizes learning, disclosure, and reflection.
+Course Policy
+Doing Environmental History: Water Justice
+This syllabus statement on AI pledges co-develop of the class policy with students, as well as situating the good and the bad of AI in the context of student educational journeys.
+Short Assignment
+Economic Analysis I
+AI-prohibited problem sets use a novel scoring approach to emphasize learning and preparation for in-person exams.
+Assessment
+Economic Analysis I
+In-person exams serve distinct purposes and address the existence of widely available AI.
+Short Assignment
+Equity and Governance for Artificial Intelligence
+This CS class assignment simulates being a congressional staffer working on AI-related legislation.
+Long Assignment
+Equity and Governance for Artificial Intelligence
+A group project assignment prompts students to evaluate AI models using authentic legislative methods.
+Course Policy
+Ethics and Influence of AI
+Provides the rationale for restrictions of AI in coursework.
+Course Policy
+Fiction Writing
+This course policy addresses technology use in and out of the classroom.
+Learning Goals
+Getting Ahead of Bias in AI Applications
+Learning goals in this first-year seminar articulate a range of skills needed to analyze the use of AI in healthcare, including biases and benefits.
+Course Policy
+Governing Artificial Intelligence
+This succinct course policy limits AI use in a course that explores the challenges and opportunities AI presents for governments, companies, and society at large
+Course Policy
+Governing the Use of Artificial Intelligence in Federal Criminal Justice
+The AI policy for this law policy course discourages the usage of AI-generated content, but allows some usage for research.
+Final Project Assignment
+Human-Centered AI
+This final project involves research and focuses on places where AI and humans meet.
+Short Assignment
+Human-Centered AI
+Three assignments guide students to explore how AI can affect learning, influence the design process, and be engineered with a human in the loop.
+Learning Goals
+Human-Centered AI
+Learning goals are framed as questions in a course where the field is changing rapidly.
+Course Policy
+Human-Centered AI
+This brief course policy requires documentation of any use of AI in assignments.
+In-class Activity
+Introduction to Computer Networking
+In a first-day-of-class discussion, students bring up questions about the honor code, including AI use.
+Final Project Assignment
+Media, Mind, and Black Mirror
+Students generate data for a final project by interacting with a chatbot throughout the course.
+Course Policy
+Media, Mind, and Black Mirror
+This course policy allows the usage of AI on assignments but not exams and models disclosure via a template.
+Short Assignment
+Media, Mind, and Black Mirror
+AI-focused assignments are used as the class prep material for each day of this course.
+Learning Goals
+Music and AI
+Course learning goals span a wide range of domains, from technical to critical, and address various AI skills.
+Long Assignment
+Music and AI
+Multiple assignments build toward prototyping an interactive AI music application.
+Course Policy
+Philosophy of Artificial Intelligence
+This brief, cogent note informs students of several reasons for not using LLMs for writing.
+Long Assignment
+Privacy, Surveillance, and Freedom in the Digital Age
+The final project has pivoted in format from a traditional written work to other forms of media due to the prevalence of generative AI.
+Course Policy
+Rhetoric of Robots and AI
+This first-year writing course policy helps students parse permitted and unpermitted uses of AI.
+Course Policy
+Technology, Innovation, and Great Power Competition
+Detailed course policies guide students through ongoing AI-powered analysis.
+Short Assignment
+Technology, Innovation, and Great Power Competition
+Students use AI in multiple types of short, weekly assignments in specific ways
+Final Project Assignment
+Technology, Innovation, and Great Power Competition
+Students intentionally use and reflect on AI in a final presentation and policy memo.
+Load More Opportunities
+Back to Top

@@ -23,7 +23,7 @@ with offset, e.g. `2026-11-10T12:45:37-05:00` — get it from `date -Iseconds`, 
     Exact token counts are parsed from those transcripts by `tools/token_usage.py` (Phase 5);
     this file supplies the labels that the transcripts lack.
 - `logs/validation.jsonl` — written automatically by the pytest hook in `tests/conftest.py`;
-  ad-hoc checks Claude runs outside pytest are appended by hand as `{ts, phase, check, command, result, evidence}`.
+  ad-hoc checks Claude runs outside pytest go in `logs/adhoc_checks.jsonl` as `{ts, phase, check, command, result, evidence}`.
 
 ## "Prepare to clear" protocol
 When the human says **"Prepare to clear"** (or "prepare to compact"):
@@ -37,6 +37,6 @@ When the human says **"Prepare to clear"** (or "prepare to compact"):
 - Python 3.10, standard library + `requests`, `beautifulsoup4`, `pytest` (see `requirements.txt`).
 - Web UIs are static HTML/JS in `site/` (no build step) so they publish on GitHub Pages.
   Each reads JSON from `site/data/` that a Python script generates — never hand-edit generated data.
-- Raw downloaded pages go in `data/raw/` (untracked). Every coded data point must cite its source URL
+- Extracted page text goes in `data/raw/` (committed, so reviewers can verify quotes). Every coded data point must cite its source URL
   and retrieval date. Never invent a policy or quote; mark unknowns as `null` / "not found".
 - Run tests with `python -m pytest`. Don't claim something works without running it.

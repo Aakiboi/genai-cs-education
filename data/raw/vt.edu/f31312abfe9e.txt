@@ -1,0 +1,500 @@
+Special Topics and Advanced Topics Courses  | students.cs | Virginia Tech
+Special Topics and Advanced Topics Courses  | students.cs | Virginia Tech
+Virginia Tech®
+home
+Universal Access Toggle
+Universal Access
+Close Universal Access dialog
+Universal Access Options
+Report a
+barrier
+Accessibility
+portal
+Pause all background videos
+Underline all links
+students.cs
+Search
+Search query
+×
+search
+Search this site
+Search all vt.edu sites
+People search
+Frequent Searches:
+Web
+results for
+Sort by relevance
+Sort by date
+News
+results for
+Sort by relevance
+Sort by date
+Filter search
+Categories
+Academics
+Campus Experience
+Culture
+Impact
+Research
+Story type
+Feature
+Notice
+Story
+Video
+Apply filters
+Clear filters
+Video
+results for
+Sort by relevance
+Sort by date
+People
+results for
+People Results
+See more
+VT News Results
+See more
+Special Topics and Advanced Topics Courses
+Spring 2027
+CS 6104: Adv. Topics in Theory of Computation: Further Topics in Quantum Information Theory
+CRN: 14012
+Instructor: Khatri
+Area 1: Algorithms and Theory
+Course Description:
+This course will cover advanced topics in quantum information theory, including; quantum channels, quantum entropies, multipartite entanglement, coding theory (channel capacity theory), error correction, and learning theory. Students will become up to date on the latest research in these subtopics. A solid foundation in linear algebra, particularly prior coursework in quantum computing (CS 4134 and/or CS 5134 and/or equivalent in physics), is required.
+CS 6204:  Adv. Topics in Systems: Cryptographic Privacy-Enhancing Technologies
+CRN: 14013
+Instructor: Hoang
+Area 2: Computer Systems
+Course Description:
+This course focuses on cryptographic foundations and advanced techniques for building privacy-preserving data systems. Students will learn how modern cryptographic tools enable  computation, search, retrieval, and verification over sensitive data while providing rigorous privacy and security guarantees. Topics may include secure multiparty computation, encrypted search, private information retrieval, oblivious data access, zero-knowledge proofs, verifiable computation, and privacy-preserving machine learning. By the end of the course, students will be able to understand the security goals and threat models behind these technologies, analyze the tradeoffs between privacy, efficiency, and functionality, evaluate representative protocols used in secure data systems, and reason about how these techniques can support emerging applications such as private analytics, secure cloud services, and privacy-preserving retrieval-augmented generation.
+CS 6204: Adv. Topics in Systems: Sustainable AI across the Computing Continuum
+CRN: 14014
+Instructor: Nikolopoulos
+Area 2: Computer Systems
+Course Description:
+This course treats inference for today's large language, vision-language, and diffusion models as a systems problem spanning the whole computing continuum -- from wrist-worn and embedded devices, through edge micro-clouds, to GPU datacenters -- and judges every technique not just by latency and throughput but by its energy, memory, and carbon cost. Topics include speculative and distributed decoding at the edge, asynchronous CPU-GPU execution on memory-constrained GPUs, KV-cache and long-context optimization, quantization- and partitioning-based model serving, diffusion-model serving and precision control, vision-language and multimodal inference efficiency, tiered-memory and GPU-sharing infrastructure, and energe-aware, LLM-guided runtime control. Alongside weekly paper presenations and a reproduction excerise, students work in small teams on a semester-long project that extends an open-source inference system with a new optimization, evaluation, or workload, and report its impact on the accuracy-latency-energy frontier.
+CS: 6604: Adv. Topics Data & Info: Data Security and Privacy in the Age of AI
+CRN: 14019
+Instructor: Kantarcioglu
+Area 6: Data and Information
+Course Description:
+As artificial intelligence becomes embedded in healthcare, finance, cybersecurity, social platforms, and everyday decision-making, protecting the data that powers these systems has become a critical challenge.
+Data Security and Privacy in the Age of AI
+introduces students to the foundational ideas and modern techniques needed to build AI systems that can use sensitive data responsibility. The course covers access control, secure data processing, confidential computing, anonymization, differential privacy, and other privacy-preserving approaches for AI applications. Students will also explore how AI and machine learning models can be attacked, how private information may be exposed through trained models, and how these risks can be detected and mitigated. By connecting core security and privacy principles with emerging AI threats and defenses, the course equips students with highly relevant skills for research and careers in trustworthy AI, cybersecurity, data science, healthcare analytics, and privacy engineering. It is especially well suited for students who want to understand not only how to build powerful AI systems, but also how to make them secure, privacy-preserving, and worthy of trust.
+CS: 6704: Adv. Topics in Software Engineering: DevOps
+CRN: 22126
+Instructor: Brown
+Area 7: Software Engineering
+Course Description
+: Recent developer surveys suggest software engineers are least likely to trust AI for CI/CD and DevOps tasks, so that is what we will cover in this class. This course will give students opportunities to gain hands-on experience, engage with empirical research, and examine how AI is reshaping the building, automating, deploying, and monitoring of software across CI/CD, DevOps, MLOps, and AgentOps workflows. Students will leave the course with practical skills and a deeper understanding of how modern software and ML-enabled systems are engineered and deployed in practice.
+CS 6724: Adv. Topics HCI: Participatory Design
+CRN: 14021
+Instructor: Williams
+Area 8: Human-Computer Interaction
+Course Description
+: This course provides an advanced introduction to participatory design methods and frameworks. This involves learning about the different ways researchers and community members collaborate to generate knowledge that benefits everyone. The course will cover recommended practices for building equitable partnerships with communites, as well as methods for gathering and synthesizing data to understand community priorities. Students will also have the opportunity to reflect on how their own identity shapes their design practices. At the end of the course, students will be expected to develop a community engagement plan and research proposal.
+CS 6804: Adv. Topics in Intelligent Systems: Large Language Models
+CRN: 22069
+Instructor: Reddy
+Area 9: Intelligent Systems
+Course Description
+: Large Language Models (LLMs) are transforming how machines understand, generate, and reason over natural language, enabling applications ranging from conversational assistants and scientific discovery to autonomous AI agents. This graduate-level course provides a comprehensive introduction to the theory, algorithms, systems, and applications that underpin modern LLMs. This is a 6000-level seminar course that will cover several recent research topics in the field of Generative AI. Some of the topics that will be discussed include Agents, LLM Reasoning, LLM Safety, and AI4Science.
+CS 6804: Adv. Topics in Intelligent Systems: Foundations of Controllable Generative AI: From Pixels to World Models
+CRN: 14024
+Instructor: Yanardag Delul
+Area 9: Intelligent Systems
+Course Description
+: Generative models can now produce strikingly realistic text, images, audio, and video — but raw generative power is only useful when it can be directed. This seminar examines the foundations of controllable generative AI: the principles and techniques that let us steer what a model produces, how it produces it, and how reliably it follows our intent. Beginning with the core generative paradigms — autoregressive models, diffusion, and flow-based methods — the course builds toward the mechanisms that make generation controllable. We then follow these ideas into one of the field's most active frontiers, controllable video generation and its extension toward interactive world models, where control means not merely shaping a single image but governing the dynamics of a simulated environment over time. Through close reading of recent papers, in-class discussion, and a term project, students will develop both a working command of current methods and a critical perspective on the open problems that define the field. The course will be implemented as a roleplaying seminar on controllable generative AI, in which students rotate through personas — researcher, red-teamer, archaeologist, social impact assessor, and more — to examine the same methods from competing points.
+CS 6804: Adv. Topics in Intelligent Systems: AI for One Health
+CRN: 14025
+Instructor: Zhang
+Area 9: Intelligent Systems
+Course Description
+: This graduate-level course explores the rapidly evolving landscape of artificial intelligence applications in One Health, an interdisciplinary framework that connects human, animal, and environmental health. Students will examine how cutting-edge AI and machine learning methods are transforming biomedical discovery and public health, including the use of electronic health records, medical imaging, and genomic data to predict disease diagnosis, prognosis, and treatment outcomes; sensor and wearable technologies to monitor animal health, behavior, and productivity; and multi-omics and environmental surveillance data to understand ecosystem health, pathogen transmission, antimicrobial resistance, and emerging health threats. Through recent research papers, case studies, and hands-on discussions, the course will highlight both methodological advances and real-world challenges in developing trustworthy, interpretable, and impactful AI systems for integrated health solutions.
+Fall 2026
+CS 5914: MS Research Symposium
+CRN: 83742 (Blacksburg)
+Instructor: V. Pettit
+Area 0: Ethics and Research
+Course Description:
+Introduces students to the academic, research, and professional expectations of graduate study in the College of Engineering. Topics include degree planning, research communication, professional identity, research advisor and lab group selection, academic policies and resources, and career planning. Students develop scholarly communication skills through presentations and written assignments while exploring research opportunities and creating an Individual Development Plan to support their academic and professional goals.
+CS 6204:  Adv. Topics in Systems: Agentic Operating Systems
+CRN: 83901 (Blacksburg)
+Instructor: Li
+Area 2: Computer Systems
+Course Description:
+This seminar explores the emerging intersection of operating systems and agentic workloads. We will examine both classic and recent OS techniques, and discuss how the rise of agentic systems is reshaping assumptions in systems and OS research. Through guided reading and discussion of foundational and cutting-edge papers, the course will highlight opportunities for tighter integration between OS design and agent-driven computation, and consider how these trends may influence the next generation of systems.
+CS 6604: Adv. Topics Data & Info: Semidefinite Programming and Quantum Information
+CRN: 83900 (Blacksburg)
+Instructor: Sikora
+Area 6: Data and Information
+Course Description:
+This course introduces semidefinite programming and its role in quantum information theory. Topics include positive semidefinite matrices, convexity, duality theory, optimality conditions, and standard semidefinite programming techniques, followed by quantum applications such as quantum states and measurements, state discrimination, optimal measurements, trace and fidelity-based quantities, entropy, nonlocal games, and quantum money. The course emphasizes both mathematical foundations and the use of semidefinite programming as a tool for analyzing quantum information problems.
+CS: 6604: Adv. Topics Data & Info: Securing the Modern Internet
+CRN: 91934 (Blacksburg)
+Instructor: Pauley
+Area 6: Data and Information
+Course Description:
+The Internet as-deployed is far from the pure vision of its designers. In this course we'll examine the state of the world's largest network as it exists today, with a particular focus on measurement and security implications. Topics span network-layer routing (NAT, IPv6, overlay networks) to application-layer exploitation (active threat collection, intrusion analysis, and perimeter defense). Students will review current literature, present findings, and engage directly with live threat telemetry, developing measurement methodologies and analytical techniques to characterize real-world vulnerabilities in Internet infrastructure through project-driven implementation and analysis of real networked systems.
+CS: 6604: Adv. Topics Data & Info: Foundations of Multiagent Systems: Game Theory, Learning, and Strategic Interaction
+CRN: 83905 (Alexandria, In-Person)
+CRN: 92371 (Blacksburg ONLY, Online)
+Instructor: Das
+Area 6: Data and Information
+Course Description
+: This course provides a rigorous introduction to the theory and algorithms underlying systems in which multiple autonomous agents interact. Students will develop a working understanding of game-theoretic reasoning, including normal and extensive form games. Nash equilibria, and mechanism design, before turning to multiagent learning and questions of fairness and accountability in algorithmic systems. The course also examines applications of these ideas to AI in society, such as public resource allocation and related domains. In the latter part of the semester, students will engage directly with current research through paper readings and presentations.
+CS 6724: Adv. Topics HCI: Intelligent XR
+CRN: 91684 (Blacksburg)
+Instructor: Bowman
+Area 8: Human-Computer Interaction
+Course Description
+: The combination of wearable smart glasses with extended reality (XR) displays has the potential to drive the next paradigm of general-purpose computing. This course will review current apporaches that leverage AI to enhance the user experience of XR, and will provide a platform for discussion and exploration of next-generation intelligent XR systems. Critical readings, guest speakers, and student projects with examine intelligent XR from multiple angles.
+CS 6804: Adv. Topics in Intelligent Systems: From Foundation Models to AI Agents
+CRN: 83909 (Blacksburg)
+Instructor: Wang
+Area 9: Intelligent Systems
+Course Description
+: This advanced course explores the evolution of modern AI from large-scale foundation models to autonomous AI agents capable of reasoning, planning, and collaboration. Students will study the principles behind transformer-based architectures, multimodal learning, and long-context reasoning, and examine how these models are extended into agentic systems that interact with tools, environments, and other agents. The course emphasizes both theoretical understanding and practical skills, including building, adapting, and evaluating AI systems using state-of-the-art frameworks. Through hands-on assignments and a final project, students will develop and analyze intelligent agent systems for real-world applications, gaining insight into emerging research directions at the intersection of foundation models, efficiency, and multi-agent intelligence.
+CS 6804: Adv. Topics in Intelligent Systems: World Models
+CRN: 83910 (Blacksburg)
+Instructor: Thomas
+Area 9: Intelligent Systems
+Course Description
+: World models are AI systems that learn to simulate environments, predicting how the world evolves over time and in response to actions. Long studied in model-based reinforcement learning, world models have become a central focus of machine learning research as video generation models begin to serve as approximate simulators of the physical world and embodied agents learn to play within them. This graduate seminar examines the foundations of world modeling alongside the current research frontier. Topics include latent dynamics models and model-based reinforcement learning; video generation as world simuation; interactive and controllable world generation; world models for robotics and autonomous driving; memory, spatial consistency, and long-horizon prediction; physical reasoning and evaluation; and the robustness, security, and safety of world models. Students will reach and critique current research papers, lead presentations and discussions, and complete a semester-long research project.
+Spring 2026
+CS 5914 Emerging Topics: Graduate Course Design in Computer Science
+CRN:
+22503
+(Blacksburg)
+Instructor:  S. Coulson & H. Matusovich
+Area 0 : Ethics and Research Methods
+Course Description
+: This course gives Computer Science Ph.D. students a hands-on opportunity to design a real, credit-bearing course that will launch for the Fall 2026 cohort of CS master’s students (both MS and MS Accelerated). Students will critically examine research on graduate education in engineering exploring factors that influence persistence, attrition, advising, and student engagement and connect those insights to their own experiences.
+Using backward design and evidence-based teaching practices, participants will develop measurable learning outcomes, aligned assessments, and inclusive, active learning activities for a new credit-bearing course intended for the Fall 2026 cohort of CS master’s students focused on research engagement and professional development.
+The course emphasizes practical design and iteration through workshops, feedback cycles, and teaching demonstrations. Depending on enrollment and departmental needs, participants may also have the opportunity to teach the course they design in Fall 2026, gaining authentic instructor-of-record experience before graduation.
+CS 6104: Adv. Topics in Theory of Computation: Topics in Quantum Complexity and Cryptography
+CRN: 13740 (Blacksburg)
+Instructor: Mantri
+Area 1: Algorithms and Theory
+Course Description:
+This graduate seminar explores the complexity of quantum states and transformations and how it shapes quantum algorithms and cryptography. We begin with a short bootcamp on qubits, circuits, and entanglement, then move through core ideas from complexity theory (BQP, QMA, Local Hamiltonian) to advanced topics like Quantum PCP/NLTS, proofs of quantumness, delegation, quantum money, and pseudorandom states and unitaries.  The course is intended for students who want to understand modern computational complexity and cryptography through a quantum lens—especially those from algorithms, theory, security, physics, or data science—with comfort in linear algebra and probability but no prior quantum required. The goal is to explore the results and, more importantly, the questions that bring you to the research frontier. Students will complete a focused research project with a final presentation.
+CS 6204:  Adv. Topics in Systems: Software and Hardware Fuzzing for Fun and Profit
+CRN: 13742 (Blacksburg)
+Instructor: Hicks
+Area 2: Computer Systems
+Course Description:
+This graduate seminar course covers seminal papers on software and hardware fuzzing (i.e., coverage-guided mutational fuzz testing). Students will gain hands-on experience with the lastest advances in fuzzing from both academia and industry by building their own high-performance fuzzer, leveraging advancements from recent research papers. The course includes coverage of both seminal and research papers on fuzzing from across security, software engineering, and systems research communities.
+CS 6204: Adv. Topics in Systems: TBD
+CRN: 22321 (Blacksburg)
+Instructor:  Williams
+Area 2: Computer Systems
+Course Description
+: TBD
+CS 6204: Adv. Topics in Systems: Understanding Disaggregate Memory in Data Centers
+CRN: 20956 (Alexandria, In-Person)
+CRN: 22351 (Blacksburg ONLY, Online)
+Instructor: Noh
+Area 2: Computer Systems
+Course Description:
+Modern datacenter architecture is undergoing a fundamental transformation. Disaggregated memory (DM) decouples memory from compute, treating it as a first-class, network-accessible resource that can be pooled and shared as flexibly as cloud storage. Major IT firms including Meta, Google, Microsoft, and AWS are actively deploying DM systems, while Intel, AMD, and Samsung are investing heavily in their enabling technologies.
+In this course, we will explore various technological aspects that make DM possible. Specifically, architectural foundations such as CXL and RDMA that enable near-local remote memory access, performance trade-offs in latency, bandwidth, and consistency that arises through disaggregation, and real-world deployments from industry leaders, among others, will be discussed. To gain hands-on experience, students will be asked to pursue individual projects as part of the course.
+CS 6444: Verification and Validation in Scientific Computing
+CRN: 21673 (Blacksburg)
+Instructor: Roy
+Area 4: Numerical and Scientific Computing
+Course Description
+: Reliability of modeling simulation; understanding total predictive capability of modeling and simulation.
+CS 6604: Adv. Topics Data & Info: Preparing the Future CS Faculty
+CRN: 13743 (Blacksburg)
+Instructor: Farghally
+Area 6: Data and Information
+Course Description
+: Effective teaching approaches and required  instructional/research skills for CS educators. Learning theories, active learning, multimedia presentation, course design, teaching with technology, student motivation, and inclusive learning. CS education research methods and publication venues. Preparing a teaching, research, and diversity statements for CS academic job applications.
+CS: 6604: Adv. Topics Data & Info: TBD
+CRN: 22352 (Alexandria)
+Instructor: Boker
+Area 6: Data and Information
+Course Description
+: TBD
+CS 6724: Adv. Topics HCI: TBD
+CRN: 13746 (Blacksburg)
+Instructor: Chen
+Area 8: Human-Computer Interaction
+Course Description
+: TBD
+CS 6724: Adv. Topics HCI: Privacy and Security in Extended Reality (VR, AR, MR)
+CRN: 13745 (Blacksburg)
+Instructor: David-John
+Area 8: Human-Computer Interaction
+Course Description
+: In this class, students will explore the emerging frontier of security and privacy risks unique to extended reality (XR) technology as well as the latest techniques in useable privacy and security. XR includes immersive virtual reality (VR) via head-worn displays, wearable augmented reality (AR) glasses, and mobile-based AR applications such as Pokemon Go. Topics will include privacy risks introduced by XR sensors such as always-on RGB and depth camera sensing, privacy-leakage from behavioral tracking via motion data, novel attack surfaces introduced by VR and AR hardware, authentication techniques, perceptual attacks through virtual content, user manipulation in immersive environments, evaluating state-of-the-art defense mechanisms and privacy-preserving techniques tuned to XR data and systems, and more.
+CS 6724: Adv. Topics HCI: TBD
+CRN: 21043 (Alexandria)
+Instructor: Luther
+Area 8: Human-Computer Interaction
+Course Description
+: TBD
+CS 6804: Adv. Topics in Intelligent Systems: Frontier AI Systems
+CRN: 21538 ​(Blacksburg)
+Instructor: Vu
+Area 9: Intelligent Systems
+Course Description
+: The primary goal of this course is to examine recent developments in large language models (LLMs) and generative AI. We will study advances in LLM training, alignment, and evaluation, covering topics such as Transformers and novel architectures, LLM pretraining and post-training, efficient training and inference, large reasoning models and test-time scaling, multimodal models, diffusion models, agentic AI, self-evolving agents with reasoning memory, etc. Students will also learn how to read and evaluate research papers, formulate research problems, and develop potential solutions. The course is intended for graduate students who want to apply recent advances in LLMs and GenAI to their own research.
+CS 6804: Adv. Topics in Intelligent Systems: AI for Science: From Hypothesis to Validation
+CRN: 13747 (Blacksburg)
+Instructor: Zhou
+Area 9: Intelligent Systems
+Course Description:
+This graduate seminar course explores algorithmic foundations and emerging methods at the interface of combinatorial optimization, machine learning, and genomics. The course emphasizes problem formulation and algorithm design—how biological questions can be translated into precise mathematical problem statements, and how algorithmic choices influence biological interpretation.  Particular focus will be placed on understanding theoretical principles, algorithmic innovation, and interpretability in biological contexts.
+By the end of the course, students will understand how emerging sequencing technologies open new algorithmic problems—and how combinatorial and machine learning methods enable discovery of new biological insights.
+CS 6824: Adv. Topics Comp Biol & Bioinf: Combinatorial Genomics with Machine Learning
+CRN: 21539 (Blacksburg)
+Instructor: Sashittal
+Area 10: Computational Biology and Bioinformatics
+Course Description:
+This graduate seminar course explores algorithmic foundations and emerging methods at the interface of combinatorial optimization, machine learning, and genomics. The course emphasizes problem formulation and algorithm design—how biological questions can be translated into precise mathematical problem statements, and how algorithmic choices influence biological interpretation.  Particular focus will be placed on understanding theoretical principles, algorithmic innovation, and interpretability in biological contexts.
+By the end of the course, students will understand how emerging sequencing technologies open new algorithmic problems—and how combinatorial and machine learning methods enable discovery of new biological insights.
+Fall 2025
+CS 5914: Emerging Topics in CS: Educational Technology
+CRN: 83715 (Bburg)
+Instructor: Williams
+Area 8: Human-Computer Interaction
+Course Description:
+This project-based course provides students with the opportunity to apply human-computer interaction methods to prototype and market an educational technology. Students will choose from one of four broad areas that require innovation: K-12 education, workforce development, mental and physical health, or social discourse and civic engagement. They will be organized into interdisciplinary teams to identify a specific problem and context, review relevant literature, select an appropriate theory or framework, conduct contextual inquiry and analysis, and create a high-fidelity prototype.
+CS 5914: Emerging Topics in CS: Cloud Computing: Fundamentals and Applications
+CRN: 83719 (Innovation Campus)
+Instructor: Mengistu
+Area 7: Software Engineering
+Course Description:
+Focused on all-round practical and theoretical knowledge about Cloud Computing. Economics of Cloud Computing and foundational concepts such as the basics of Cloud Computing, service provisioning and deployment models, networking, and security in the cloud as well as virtualization and containerization technologies used in Cloud Computing. Deals with serverless computing, big data analytics, software development, and machine learning/artificial intelligence on the cloud. The theoretical foundations are complemented with practical hands-on project using state-of-the-art solutions for Cloud Computing (such as Google's Google Cloud Platform (GCP) or Amazon’s Amazon Web Services (AWS)).
+CS 6104: Adv. Topics in Theory of Computation: Algorithms for Big Data
+CRN: 92276 (Bburg)
+Instructor:  Vakilian
+Area 1: Algorithms and Theory
+Course Description
+: This course studies algorithmic techniques for processing massive data sets that exceed the memory capacity of a single machine. These challenges arise in areas such as machine learning, web search, network analysis, signal processing, and scientific computing. We will focus on mathematically rigorous models for designing space-efficient algorithms, along with provable limitations of what can be achieved in these models. Topics include:
+Streaming algorithms and sketching for building compact data summaries
+Dimensionality reduction methods that preserve geometric structure
+Numerical linear algebra for large matrices, including regression, low-rank approximation, and matrix completion
+Graph sparsification and sublinear algorithms for large-scale graph data
+Impossibility results and lower bounds that characterize the limits of what can be computed efficiently
+The course will focus on rigorous models and provable guarantees, with an emphasis on the theoretical foundations of these algorithms, while also drawing connections to practical applications.
+Prerequisites:
+Mathematical maturity and a solid background in algorithms (e.g., CS5104), discrete probability, and linear algebra.
+CS 6204:  Adv. Topics in Systems: TBD
+CRN: (Bburg)
+Instructor: TBD
+Area 2: Computer Systems
+Course Description:
+TBD
+CS 6204: Adv. Topics in Systems: Large Scale Distributed Systems
+CRN: 83783 (Bburg)
+Instructor: Butt
+Area 2: Computer Systems
+Course Description
+: Explore the design and architecture of distributed systems that can scale to handle vast amounts of resources across large-scale networks. Topics include distributed algorithms, fault tolerance, consistency models, and performance optimization in real-world systems such as deep learning systems, cloud computing, microservices, and big data platforms.
+CS 6404: Adv. Topics in Mathematical Software: Inverse Problems and Data Assimilation
+CRN: 91979 (Bburg)
+Instructor: Sandu
+Area 4: Numerical and Scientific Computing
+Course Description
+: TBD
+CS 6604: Adv. Topics in Data and Information: Spatial Data Management
+CRN: 92044 (Innovation Campus)
+Instructor: Lu
+Area 6: Data and Information
+Course Description
+: This course explores advanced topics in spatial data and information systems, focusing on both foundational concepts and hands-on application. Students will gain experience in spatial data management, query processing, high-dimensional indexing, and spatial data mining. Emphasis is placed on research skills such as literature analysis, innovation, and communication. Topics include spatial data models, spatial query languages, spatial networks, and emerging trends like mobile and spatio-temporal applications.
+CS 6704: Adv. Topics in Software Engineering: Software Testing and Debugging in Emerging Domains
+CRN: 91980 (Bburg)
+Instructor: Gulzar
+Area 7: Software Engineering
+Course Description
+: The type of software we write today has dramatically changed in the last decade, from sequential Java applications to data-intensive applications integrated with ML/AI components. The prevalence of these emerging applications was mainly because of platforms such as Apache Spark, TensorFlow, and SparkML, which have almost removed the development and deployment barrier. However, frameworks once used by domain experts are now being leveraged by data scientists, business analysts, and researchers. This shift in user demographics calls for immediate advancements in developing, debugging, and testing practices for emerging applications. This class will discuss several aspects of these emerging applications’ and the corresponding advances made by the software testing and debugging research community. By the end of the seminar, students will be well-versed in:
+Emerging Applications: Big Data, ML/AI Apps in TensorFlow, and Databases-backed Applications
+Program analysis
+Current state-of-the-art in debugging, fault-isolation, and explanation
+Advanced methods for Testing and Debugging traditional softwares
+Recent advancements in testing and debugging research for emerging applications
+Performance debugging and optimization
+CS 6724: Adv. Topics in Human-Computer Interaction: Introduction to Computing Education Research
+CRN: 83787 (Bburg)
+Instructor: Smith
+Area 8: Human-Computer Interaction
+Course Description
+: This course offers an introduction to Computing Education Research (CER), an interdisciplinary field situated at the intersection of education research and human-computer interaction (HCI). CER seeks to understand the challenges students face in learning computing topics (e.g., programming) and to design interventions and educational tools that support students in overcoming these barriers. Students will explore the historical development of CER, examine learning theories pertinent to computing education (e.g., constructivism, cognitivism, behaviorism), analyze research methodologies commonly used to evaluate educational tools and interventions, and review several key areas of research specific to computing education. The course will focus on written reflections on readings related to these topics and culminate in the development of a research proposal centered on the creation and evaluation of an intervention or tool.​
+CS 6804: Adv. Topics in Intelligent Systems: AI Security and Privacy
+CRN: 92160 ​(Bburg)
+Instructor: An
+Area 9: Intelligent Systems
+Course Description
+: This course explores the intersection of artificial intelligence (AI), security, and privacy through the lens of cutting-edge research. Topics include adversarial attacks and defenses, backdoor attacks and defenses, privacy leakage and preservation techniques, and intellectual property (IP) risks and protections in AI systems. Students will engage with recent research papers, lead discussions, and complete hands-on coding projects to deepen their understanding of these challenges and defense strategies. The course is designed to foster critical thinking and identify open problems in the field, serving as a foundation for research-oriented students.
+CS 6804: Adv. Topics in Intelligent Systems: Machine Learning for Healthcare (Epidemiology)
+CRN: 83789 (Bburg)
+Instructor: Cui
+Area 9: Intelligent Systems
+Course Description
+: This course will cover foundations of computational+networked epidemiology and machine learning algorithms+systems in context of public health applications. The objective of the course is to introduce this emerging multi-disciplinary domain. The course will touch the following from an application viewpoint: (a) Foundations of modeling disease dynamics, (b) Calibration, Surveillance and Forecasting of disease spread (c) Detection, Reverse-engineering and Control, and (d) Additional topics such as Phylodynamics, Disparities, Tracing and Data collection. From a methodology viewpoint the course will feature (i) Non-linear systems, (ii) Network algorithms, (iii) Stochastic Optimization, (iv) ML and neural models for spatio-temporal, graphs and social media data, (v) HPC simulations, and (vii) Visualization techniques.
+Spring 2025
+CS 5914: Emerging Topics in CS: Data Security and Privacy in the Age of AI
+CRN: 13592 (Bburg)
+Instructor: Kantarcioglu
+Area 6: Data and Information
+Course Description:
+This course provides essential tools for safeguarding sensitive data in AI applications while ensuring robust privacy protections. Topics covered include: Fundamentals of Access Control, encryption-based methods for secure data processing, confidential computing , data anonymization, differential privacy, and approaches to understanding and defending against privacy and security threats to AI models.
+CS 5914: Emerging Topics in CS: Self-Improving AI code
+CRN: 21332 (Bburg)
+Instructor: Nikolopoulos
+Area 2: Computer Systems
+Course Description:
+Use specialized code generation LLMs to optimize the code we use to train and infer from LLMs. Develop AI agents for HPC code generation.
+CS 6104: Adv. Topics in Theory of Computation: Frontiers in Quantum Information and Computation
+CRN: 21333 (Bburg)
+Instructor: Khatri
+Area 1: Algorithms and Theory
+Course Description
+: After an introduction to the basics of quantum information theory and quantum computing, this course dives into topics of current research, including: how to realize large-scale quantum computers (error correction), building a quantum internet (entanglement distribution), and models of quantum (machine) learning.
+CS 6204: Adv. Topics in Systems: Cryptographic Privacy-Enhancing Technologies
+CRN: 13663 (Bburg)
+Instructor: Hoang
+Area 2: Computer Systems
+Course Description:
+This course provides essential cryptographic techniques for enhancing privacy with provable security while ensuring critical functionality of data systems. Topics covered include: secure multiparty computation, encrypted search, private information retrieval, privacy-preserving and verifiable machine learning.
+CS 6604: Adv. Topics in Data and Information:  Data-Centric AI
+CRN: 13670 (Online Sync)
+Instructor: Reddy
+Area 6: Data and Information
+Course Description
+: Data-Centric AI is an emerging paradigm that emphasizes the critical role of data quality in AI systems. It employs an iterative and systematic approach to improving datasets, often proving more impactful for performance than refining model architectures. This course will explore data-centric AI methods, focusing on enhancing data quality and developing agentic AI workflows. Special attention will be given to 'AI for Science,' where we will investigate innovative methods for understanding and analyzing scientific data.
+CS 6604: Adv. Topics in Data and Information: CS Pedagogy
+CRN: 22081 (Bburg)
+Instructor: Farghallay
+Area  6: Data and Information
+Course Description
+: Effective teaching approaches and required instructional/research skills for CS educators. Learning theories, active learning, multimedia presentation, course design, teaching with technology, student motivation, and inclusive learning. CS education research methods and publication venues. Preparing a teaching, research, and diversity statements for CS academic job applications.
+CS 6724: Adv. Topics in Human-Computer Interaction: TBD
+CRN: 21334
+Instructor: Rho
+Area 8: Human-Computer Interaction
+Course Description
+: TBD
+CS 6724: Adv. Topics in Human-Computer Interaction: Nature HCI
+CRN: TBD (Bburg)
+Instructor: McCrickard
+Area 8: Human-Computer Interaction
+Course Description
+: Connecting with nature is an essential human need increasingly challenged by urbanization. In response, the field of Human-Computer Interaction (HCI) is exploring how to design digital technologies that facilitate and enhance our interactions with the natural environment. These technologies offer instrumental benefits by guiding individuals to natural areas, using enhanced navigational aids and disseminating information about these environments through visualization techniques. Additionally, machine learning algorithms can identify patterns in nature-related activities, aiding in planning. This course will apply core HCI techniques (analysis, design, prototyping, evaluation) to explore this emerging area.
+CS 6804: Adv. Topics in Intelligent Systems: Fantastic Generative AI Models and Where to Find Them
+CRN: 13674 (Bburg)
+Instructor: Yanardag
+Area 9: Intelligent Systems
+Course Description
+: Fantastic Models and Where to Find Them is a roleplaying seminar-style course that takes students on an exciting journey through the cutting-edge world of generative AI, with a primary focus on computer vision applications such as image and video generation, editing, and synthesis. The course will also touch on critical topics in natural language processing to provide a comprehensive understanding of the interplay between vision and language in generative models. Each week, students will engage with seminal and state-of-the-art research papers, taking on dynamic roles such as reviewer, researcher, or hacker to critically analyze, present, and experiment with the ideas. This immersive format fosters a collaborative and hands-on learning experience, equipping students with the skills and insights to navigate and contribute to the forefront of generative AI research.
+Fall 2024
+CS 5914: Emerging Topics in CS: Caching and Garbage Collection Algorithms in Contemporary Systems from Embedded to Clouds
+CRN: 92303 (Online)
+Instructor: Noh
+Area: TBD
+Course Description:
+In this course, we will concentrate on two key algorithms widely used in contemporary systems. Specifically, cache replacement algorithms and garbage collection algorithms in log structured-based systems (LSS) will be discussed. Caching replacement algorithms have been a topic of research for decades, yet we continually see new developments. Every major IT company, including Google, Meta, and Amazon, is developing its own replacement algorithm at various levels of systems as they are core to enhancing performance. Similarly, the notion of garbage collection algorithms for LSS has been around for decades. Yet, we still see developments of new algorithms as LSS has become fundamental in systems such as SSDs and Key Value Stores (KVS) such as RocksDB. In this course, our goal is to garner a concrete understanding of these algorithms and the developments around these algorithms within systems.
+Prerequisite
+: an undergraduate course in operating systems.
+*If you have not taken an operating systems course but feel that you meet the prerequisite, please discuss with the instructor.
+CS 5914: Emerging Topics in CS: Decision Making under Uncertainty
+CRN: 83528 (NCR); 83525 (Bburg)
+Instructor: Cho
+Area: 9 Intelligent Systems
+Course Description:
+We make decisions in our everyday lives, often under conditions of uncertainty caused by various factors. Despite several decades of research across multiple domains and disciplines, decision-making under uncertainty remains a challenging problem. This area has been explored in numerous directions, reflecting its complexity and significance. In this course, we will focus on key concepts, theories, applications, and the latest advancements in Artificial Intelligence (AI) related to decision-making under uncertainty. Given our time constraints and our focus as computer scientists, we will delve into methods supporting decision-making, specifically through belief theory, reinforcement learning, and deep learning.
+CS 5914: Emerging Topics in CS: Diversity Issues in CS
+CRN: 91671 (Bburg)
+Instructor: Seyam
+Area 0: Ethics and Research Methods. Not for MEng credit.
+Course Description
+: This course aims at helping students who are attending two of the major diversity conferences in the field of CS to prepare for the experience of participating in such events. The two conferences are:
+CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference
+Grace Hopper Celebration for Women in Computing
+The course also builds upon such participation to engage students in diversity-related conversations, which would enable them to explore themselves and express their own ideas.
+CS 5914: Emerging Topics in CS: AI Tools for Software Delivery
+CRN: 83527 (Online)
+Instructor: Atkinson
+Area 7: Software Engineering
+Course Description:
+This course is specifically designed for master’s students who have an interest in gaining knowledge about Artificial Intelligence (AI) and Machine Learning (ML) and how they are utilized in software development. Our main emphasis will be on exploring how you can leverage generative AI to enhance the software development process, including generating code, reading and analyzing code, as well as testing and documentation.
+CS 5914: Emerging Topics in CS: Cloud Computing: Fundamentals and Applications
+CRN: 91706 (NCR)
+Instructor: Mengistu
+Area 7: Software Engineering
+Course Description
+: This course gives students all-round practical and theoretical knowledge about Cloud Computing. The course starts with the economics of Cloud Computing and covers foundational Cloud Computing concepts such as the basics of Cloud Computing, service provisioning and deployment models, networking, and security in the cloud as well as virtualization and containerization technologies used in Cloud Computing. Serverless computing, big data analytics, and machine learning on the cloud will also be discussed. The discussions on the theoretical foundations are complemented with practical hands-on projects. Students will get a chance to use state-of-the-art solutions for Cloud Computing (such as Google's Google Cloud Platform (GCP) or Amazon’s Amazon Web Services (AWS)).
+CS 5914: Emerging Topics in CS: Open Source Intelligence
+CRN: 92336 (NCR)
+Instructor: Luther
+Area 8: Human Computer Interaction
+Course Description
+: Open Source Intelligence (OSINT) investigations, which rely entirely on publicly available data such as social media, play an increasingly important role in protecting societies, from preventing cyberattacks, to combating disinformation, to finding missing persons. In this course, students will learn how to conduct effective, ethical OSINT investigations in domains such as cybersecurity, journalism, law enforcement, and human rights. Students will learn fundamental skills for OSINT collection and analysis, including ethics and security, discovery, verification, preservation, and publication, and the use of relevant tools and technologies. Students will work in teams to plan and execute a fictional scenario-driven OSINT Capture the Flag (CTF) event and hone their investigation skills by competing in other students' CTF events. Prerequisites: None, but creativity, tenacity, and enthusiasm for teamwork are encouraged.
+CS 6204: Adv. Topics in Systems: Threat Detection, Investigation, and Response
+CRN: 83590 (Bburg)
+Instructor: Gao
+Area 2: Computer Systems
+Course Description
+: This course aims to discuss key research topics in threat detection and forensics analysis. Example topics include: system auditing, ML-based threat detection, forensic investigation via data provenance techniques, threat intelligence, incident response, vulnerability management, and programmable defenses.
+CS 6204: Adv. Topics in Systems: Computing for Social Good
+CRN: 83591 (Bburg)
+Instructor: Hasan
+Area 2: Computer Systems
+Course Description
+: As computing has become more ubiquitous in the lives of more people around the world -- from widespread mobile connectivity to pervasive applications of AI -- so too has the desire to apply these technical advances for social good. This course is designed for students who seek to build and design computing systems (broadly defined) to effect positive social change; as such, it takes a systems perspective to this objective: tracing root causes and identifying opportunities to effect change in an effective, beneficial, and sustainable way. Drawing upon readings from within computer science (including HCI, networking, and ICTD) as well as related literature (e.g., development economics and STS), we will take a critical perspective towards technology for social good to differentiate among interventions that actually yield social benefits, those that have minimal impact, and those that actively cause harm (despite good intentions). We will evaluate examples from a range of important areas, including global development, sustainability, health, social justice, policy, and liberation.
+CS 6604: Adv. Topics in Data and Information: Machine Learning on Graphs
+CRN: 83599 (Bburg)
+Instructor: Zhou
+Area 6:  Data and Information
+Course Description
+: In the era of big data, graph presents a fundamental data structure for modeling relational data of various domains, ranging from physics to chemistry, from neuroscience to social science. Machine learning on graphs (MLG) provides a powerful tool to distill knowledge and learn expressive representations from graph-structured data. In this course, we will introduce a number of advanced topics in MLG, including network ranking, network alignment, network summarization, community detection, anomaly detection, graph neural networks, logical reasoning over knowledge graphs, and multi-network mining.
+CS 6704: Adv. Topics in Software Engineering: Concepts in Software Engineering
+CRN: 83597 (Bburg)
+Instructor: Meng
+Area 7: Software Engineering
+Course Description
+: Software Engineering (SE) focuses on the process of developing and maintaining software. The SE research proposes solutions to various problems in the requirements analysis, design, implementation, testing, and maintenance of software. With various approaches investigated, researchers aim to improve programmer productivity and software quality.
+The goal of this course is two-fold. First, it will increase your knowledge of various research topics in SE to cultivate research interests in the area, and to recommend best practice for software development and maintenance. Second, it will provide an environment that promotes and rewards creative thinking, problem solving, idea presentation, and oral and written communication.
+CS 6724: Adv. Topics in Human-Computer Interaction: Participatory Design
+CRN: 91681 (Bburg)
+Instructor: I.F. Williams
+Area 8: Human-Computer Interaction
+Course Description
+: This course is designed to provide students with a comprehensive understanding of participatory design methods and frameworks. This involves learning about the different ways in which researchers and community members collaborate to generate knowledge that is useful for everyone. The course will cover recommended practices for building equitable partnerships with communities, as well as methods for gathering and synthesizing data to understand community priorities. Students will also have the opportunity to reflect on how their own identity shapes their design practices. At the end of the course, students will be expected to develop a community engagement plan and research proposal.
+CS 6724: Adv. Topics in Human-Computer Interaction: Privacy Tech, Law, and Design
+CRN: 91681 (Bburg)
+Instructor: Y. Yao
+Area 8: Human Computer Interaction
+Course Description:
+This course provides an in-depth look into privacy, privacy laws and self-regulations, privacy-enhancing technologies and mechanisms, and privacy design. Privacy will be examined from historical, philosophical, cultural, legal, economic, behavioral, and technical perspectives. This course is designed primarily for graduate students who are interested in privacy and are from a wide range of disciplines such as information science, computer science and engineering, law, business, media studies, economics, politics, and psychology.
+CS 6804: Adv. Topics in Intelligent Systems: Multimodal Vision
+CRN: 91682 (Bburg)
+Instructor: Thomas
+Area 9: Intelligent Systems
+Course Description:
+Humans are able to reason about how concepts read in text, heard in audio, and seen in visual content (different modalities of data) relate to one another by drawing on a learned multimodal understanding of the world. For example, reading a textual description might allow one to recognize a bird they have never seen before by drawing on a background understanding of what the color blue looks like and what a high-pitched bird call sounds like. Thus, building artificially intelligent systems capable of robust multimodal reasoning is an area of intense research interest. This graduate-level seminar course will introduce students to the latest research in multimodal computer vision, with a significant emphasis on vision and language. The course will feature foundational lectures, in-depth student-led presentations on state-of-the-art research, and classroom discussions. Students will complete an intensive, semester-long research project and report. A background in deep learning is strongly recommended. Example topics include representation learning, fusion, pretraining, privileged modalities, prompt learning, cross-modal retrieval, model architectures (e.g. transformers, two-stream, convolutional), attention mechanisms, zero-shot and few-shot recognition, knowledge representation, generative models, foundation models, and embodied vision.
+CS 6824:	Adv. Topics Comp Biol & Bioinf: AI-powered Molecular Modeling
+CRN: 91776 (Bburg)
+Instructor:  Bhattacharya
+Area 10 : Computational Biology and Bioinformatics
+Course Description
+: This course will survey the emerging field of computational modeling of molecular structures driven by advances in artificial intelligence (AI), with an emphasis on predictive modeling. We will investigate relevant issues from interdisciplinary perspectives of macromolecular modeling and machine learning. Topics will include: deep generative modeling, language modeling of molecular sequences, macromolecular geometry learning and representation,and end-to-end learning: from sequence to structures. The course will emphasize readings in the scientific literature and novel projects.
+CS 6104: Adv. Topics in Theory: Quantum Algorithms
+CRN: 92411 (Online Sync)
+Instructor:  Flammia
+Area 1: Algorithms and Theory
+Course Description
+: This course provides an in-depth exploration of quantum algorithms, focusing on foundational concepts and cutting-edge research. Topics include seminal algorithms like Shor's and Grover’s as well as advanced subjects such as quantum simulation, machine learning, and hybrid quantum-classical algorithms will also be covered. The course includes lectures and student-led presentations. A strong background in linear algebra is required.
+Archive
+For prospective students
+Application Deadlines
+Graduate courses
+Funding opportunities
+New student information
+Student forms
+Force/add information
+2026-27 Grad Manual
+Mechanics and procedures

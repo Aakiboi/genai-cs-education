@@ -1,0 +1,33 @@
+Collaborative course design - Teaching@UW
+Collaborative course design - Teaching@UW
+Skip to content
+Current site
+All the UW
+Search scope
+Current site
+All the UW
+Enter search text
+University of Washington
+University of Washington
+Students
+Parents
+Faculty & Staff
+Alumni
+Teaching@UW
+Collaborative course design
+Kevin Lin
+Assistant Teaching Professor
+Paul G. Allen School of Computer Science & Engineering
+Seattle campus
+Describe a challenge you have wrestled with in your teaching.
+Whether we like it or not, undergraduate students are increasingly using generative AI in their academic work. But beyond the potential negative impacts to learning, recent research suggests that “help-seeking requests are now often mediated by generative AI,” with students “feeling increasingly isolated and demotivated as the social support systems they rely on begin to break down” (
+Hou et al. 2025
+). With the turn to generative AI, social help-seeking behaviors that were once commonplace have been replaced by generative AI. Course policies that curtail the use of generative AI provide a way for instructors to clarify desirable behaviors—and may even be instrumental to addressing this erosion of social learning—but they don’t necessarily lead to intrinsic motivation or a shared understanding of  the goals and constraints that inform the policy.
+In the computer sciences, many students aspire to work in the tech industry, and the tech industry increasingly expects employees across almost all roles to use generative AI to support their work. Do students see our generative AI policies as responsive to their interests, values, and goals? How might we make our generative AI policies more intrinsically motivating to students so that we can rebuild our social learning communities? How can our generative AI policies change in response to students and the world around us?
+What did you do to solve or overcome that challenge?
+I co-designed parts of the learning experience with students. During class the first week of the quarter, I gathered student survey responses to questions about our course policies on generative AI, participation, and in-class technology use. I then identified key themes and discussed the findings with my teaching assistants to determine the best way forward. Finally, I shared a draft policy with the class, conducted a straw poll to informally ratify the policy, and solicited another round of feedback for minor revisions. The goal of this process was not to produce the most popular policy or even the most ideal policy for any one person, but rather to craft a policy that we could come to a consensus on. In this way, the course policy would derive its legitimacy from the class: not the instructors or the outside tech industry, but all the people most directly engaged in the work of learning the course.
+To better describe the design space and support student brainstorming, during the student survey, I described example policies that I had previously considered, such as outlawing generative AI use entirely, or granting complete permission to use generative AI, as well as examples of where specific uses would be allowed or curtailed and why. Drawing on active learning techniques like peer instruction, I gave time for students to think about each policy on their own before discussing with a neighboring student. Later in the quarter, to continue the conversation, I reopened class discussion to revisit the course policies and improve the learning experience. This second round of co-design led to a number of revisions to course policies beyond generative AI, participation, and in-class technology use.
+What did you learn from that experience?
+Co-design is not only an invitation to dialogue about course policies, but also a transfer of power from instructors to students. By co-designing policies with students, we invite all the possibilities, responsibilities, and expectations of democracy into our classrooms. How do we design in-class dialogue to and discussion to incorporate as many people as possible, ensuring not only the loudest voices are heard? How can we work toward shared understanding in a world where common ground is increasingly hard to find? How can we describe the aspirational worlds we want to reach, and not just name the present realities that we want to avoid?
+While these challenges—inequitable participation, consensus building, and the knowledge-action gap—might seem grand and unsolvable, they are actually questions embedded in all our teaching. Methods ordinarily used for active learning like peer instruction, live polling, and random call can be applied to structure dialogue for equitable participation. Methods from educational assessment like small-group instructional diagnosis can help us selectively surface key themes raised by individual students and quickly estimate class-wide agreement. Methods from the design literature like iterative design might help us re-evaluate and improve our course policies over time between weeks in a quarter and over quarters in a year.
+Our courses have always been microcosms for the world—engaging people and ideas spanning decades if not centuries or millennia—and co-designing our policies together with students and staff can help teach all of us how we can engage more deeply with each other in order to build the better worlds we all need.

@@ -1,0 +1,72 @@
+Academic Integrity Policy
+Academic Integrity Policy
+Academic Integrity Policy
+All students are reminded that they are expected to adhere to the
+academic integrity policy
+for any course at Cornell.  While academic integrity cases are extremely rare for this
+course (it has the lowest number of violations for any course in the CS department),
+they do occasionally happen.
+Copyrighted Material
+The primary concern in this course is the
+improper use of copyrighted materials
+.
+You may not use any material – such as software libraries, art, or music –
+that prohibits Cornell from distributing your game non-commercially. Improper
+usage of copyrighted materials is a violation of the code of academic integrity,
+and will be treated as such.
+This is particularly important if you use the
+Newgrounds Audio Library
+to add audio and
+music to your game. You must follow the licensing terms for any material that
+you use. Most of the time, this requires credit in your game. In that case,
+you must credit the rights holder in both you game manual and in the game
+itself
+.
+Artificial Intelligence Tools
+Tools like ChatGPT are becoming increasingly powerful, and are now a part of the
+modern development process. Because your end product of this course is a game,
+and not a specific algorithm, we have a reasonably permissive policy on the
+use of AI tools. Indeed, we have no problem with you using these tools
+so
+long as the tools themselves do not violate the policy on copyrighted material
+.
+In this regard, we are sticking to the
+Steam policy
+on generative AI in games.
+However, that is the problem. Almost all of the generative AI tools have been
+trained using copyrighted material without the creators’ explicit permission.
+Midjourney has admitted to training on
+Magic: The Gathering
+cards. There is
+evidence that Stable Diffusion has trained on Getty Images.  The only generative
+art tool we know that has a training set that with no copyright issues is
+Adobe Firefly
+. So you are allowed
+to use that one. For anything else, you must ask first.
+Generative AI for software has the same problem. Software has licenses, and some
+of those licenses are not compatible with generative AI. In particular, there
+is a strong argument that if a large-language model is trained on
+GPL
+software, then any software
+it generates is also covered by the GPL license. One of our requirements is
+that code must be
+Steam legal
+, so this is
+not acceptable. Again, verify that the training set is clear of any improper
+code before using an AI tool.
+Individual Work
+The vast majority of your grade in this class comes from group projects. However,
+there are a few
+individual activities
+.
+For those activities, the usual computer science academic integrity policies
+apply. In particular,
+you are not to submit any material that is not
+fundamentally your own
+. This means you should not get help from anyone other
+than a
+course staff
+member, you should not use
+generative AI to complete the assignment for you, and you should not look at
+any solutions posted online.
+

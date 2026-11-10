@@ -1,0 +1,389 @@
+CSE442: Data Visualization
+CSE442: Data Visualization
+CSE442
+Data Visualization
+(Fall 2025)
+instructor
+Prof. Jeffrey Heer
+OH: Tue 10–11am
+Gates Center 302
+assistants
+Shaan Chopra
+OH: Th 2–3pm
+Gates Center 151
+Madeleine Grunde-McLaughlin
+OH: Fri 10:15–11am
+Gates Center 374
+Sebastin Santy
+OH: Mon 5:15–6:15pm
+Allen Center 220
+Will Wang
+OH: Online / Ed
+or by appointment
+lectures
+Location: Gates G20
+Time: TuTh 11:30–12:50
+CSE442
+About
+Textbook
+Learning Goals
+Schedule
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Assignments
+CP
+A1
+A2
+A3
+FP
+Resources
+Q&A
+(
+Ed
+)
+The world is awash with increasing amounts of data, and we must keep afloat with our relatively constant perceptual and cognitive abilities. Visualization provides one means of combating information overload, as a well-designed visual encoding can supplant cognitive calculations with simpler perceptual inferences and improve comprehension, memory, and decision making. Furthermore, visual representations may help engage more diverse audiences in the process of analytic thinking.
+In this course we will study techniques and algorithms for creating effective visualizations based on principles from graphic design, perceptual psychology, and cognitive science. Students will learn how to design and build interactive visualizations for the web, using the
+Vega-Lite
+and
+D3.js (Data-Driven Documents)
+frameworks.
+In addition to class discussions, students will complete visualization design and data analysis assignments, as well as a final project. Students will share the results of their final project as both an interactive website and a video presentation.
+Textbooks
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray, O'Reilly Press.
+To read online, use the "O'Reilly (Formerly Safari)" link on the
+UW library page
+.
+Code examples available on
+GitHub
+.
+Vega-Lite Visualization Notebook Curriculum
+. Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft.
+Learning Goals & Objectives
+This course is designed to provide students with the foundations necessary for understanding and extending the current state of the art in data visualization. By the end of the course, students will have gained:
+An understanding of key visualization techniques and theory, including data models, graphical perception, and methods for visual encoding and interaction.
+Exposure to a number of common data domains and corresponding analysis tasks, including multivariate data, geo-spatial data, and networks.
+Practical experience building and evaluating visualization applications.
+Schedule & Readings
+Week 1
+Thu 9/25
+Introduction
+Slides
+Assigned:
+Assignment 1: Visualization Design
+(Due: Fri 10/3)
+REQUIRED
+Notebook: Introduction to Vega-Lite (JSON version)
+.
+REQUIRED
+Chapter 1: Information Visualization, in
+Readings in Information Visualization
+. Stuart Card, Jock Mackinlay, and Ben Shneiderman. 1999.
+Optional
+Decision to Launch the Challenger, in
+Visual Explanations
+. Edward Tufte.
+(Importantly, see also a
+critique of Tufte's argument
+.)
+Week 2
+Tue 9/30
+Visualization Tools, Part 1
+Slides
+REQUIRED
+Notebook: Data Types, Graphical Marks, and Visual Encoding Channels (JSON version)
+.
+REQUIRED
+Chapter 3 in
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray.
+Either read or skim depending on your comfort level with HTML, CSS, and JavaScript.
+Optional
+The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations. Ben Shneiderman. Proc. IEEE Conference on Visual Languages, 1996.
+Thu 10/2
+Visual Encoding & Design
+Slides
+REQUIRED
+Notebook: Scales, Axes, and Legends (JSON version)
+.
+REQUIRED
+Chapters 2, 4 in
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray.
+Optional
+Chapter 3: The Power of Representation, in
+Things That Make Us Smart
+. Don Norman.
+Fri 10/3
+Tableau Tutorial
+- 4:00–5:30pm
+(Zoom)
+Week 3
+Tue 10/7
+Deceptive Visualization
+Slides
+Assigned:
+Assignment 2: Deceptive Visualization
+(Due: Wed 10/15)
+REQUIRED
+Notebook: Multi-View Composition (JSON version)
+.
+REQUIRED
+Design and Redesign in Data Visualization. Martin Wattenberg and Fernanda Viégas. 2015.
+Thu 10/9
+Data Transformation
+Slides
+REQUIRED
+Notebook: Data Transformation (JSON version)
+.
+Optional
+Polaris: A System for Query, Analysis and Visualization of Multi-dimensional Relational Databases. Chris Stolte, Diane Tang, and Pat Hanrahan. IEEE Transactions on Visualization and Computer Graphics, 2002.
+Optional
+Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations. Kanit Wongsuphasawat, Dominik Moritz, Anushka Anand, Jock Mackinlay, Bill Howe & Jeffrey Heer. IEEE Transactions on Visualization and Computer Graphics, 22(1), 649-658, 2016.
+Optional
+Exploratory Data Analysis, NIST Engineering Statistics Handbook.
+Optional
+Sections "Overview" Through "Conditional Probability". Exploratory Data Analysis. CADDIS Volume 4. United States Environmental Protection Agency.
+.
+Week 4
+Tue 10/14
+Interaction Techniques
+Slides
+REQUIRED
+Notebook: Interaction (JSON version)
+.
+Optional
+The Death of Interactive Infographics? Dominikus Baur. 2017.
+Optional
+In Defense of Interactive Graphics. Gregor Aisch. 2017.
+Optional
+Interactive Dynamics for Visual Analysis. Jeffrey Heer & Ben Shneiderman. 2012.
+Thu 10/16
+Maps
+Slides
+Assigned:
+A2 Peer Review
+(Due: Tue 10/21)
+Assigned:
+Assignment 3: Interactive Visualization
+(Due: Mon 11/3)
+REQUIRED
+Notebook: Cartographic Visualization (JSON version)
+.
+REQUIRED
+Chapters 5 in
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray.
+Optional
+Chapter 11: The Cartogram: Value-by-Area Mapping, in
+Cartography: Thematic Map Design
+. Dent.
+Week 5
+Tue 10/21
+Visualization Tools, Part 2
+Slides
+REQUIRED
+Notebook: Introduction to D3, Part 1
+.
+REQUIRED
+Chapters 6, 7, 8 in
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray.
+Optional
+D3: Data-Driven Documents. Michael Bostock, Vadim Ogievetsky & Jeffrey Heer. InfoVis 2011.
+Optional
+Vega-Lite: A Grammar of Interactive Graphics. K. Wongsuphasawat, D. Moritz, A. Satyanarayan & J. Heer. OpenVis Conf 2017.
+Thu 10/23
+D3.js Deep Dive
+REQUIRED
+Notebook: Introduction to D3, Part 2
+.
+(Note: we will work through this in class, but we encourage you to skim it ahead of time!)
+REQUIRED
+Chapters 9, 10 in
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray.
+Week 6
+Mon 10/27
+Web Publishing Tutorial
+- 4:00–5:30pm
+(Gates 271 & Zoom)
+Tue 10/28
+Animation
+Slides
+REQUIRED
+Easing Functions Cheat Sheet.
+REQUIRED
+Chapters 11, 12 in
+Interactive Data Visualization for the Web, 2nd Edition
+. Scott Murray.
+Optional
+Animated Transitions in Statistical Data Graphics. Jeffrey Heer & George Robertson. IEEE InfoVis 2007.
+Optional
+Effectiveness of Animation in Trend Visualization. George Robertson, Roland Fernandez, Danyel Fisher, Bongshin Lee, & John Stasko. InfoVis 2008.
+Thu 10/30
+Color
+Slides
+REQUIRED
+Color Use Guidelines for Data Representation. Cynthia Brewer. Proc. Section on Statistical Graphics, American Statistical Association, pp. 55-60, 1999.
+Color Scheme Explorer
+.
+Optional
+How to pick more beautiful colors for your data visualizations. Lisa Charlotte Rost.
+Optional
+Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps. Yang Liu, Jeffrey Heer. ACM CHI 2018.
+Optional
+D3 color scales:
+d3-scale-chromatic
+Optional
+Colorgorical: Creating Discriminable and Preferable Color Palettes for Information Visualization. Connor Gramazio, David Laidlaw & Karen Schloss. IEEE Transactions on Visualization and Computer Graphics. 2017.
+Week 7
+Tue 11/4
+Perception
+Slides
+Assigned:
+A3 Peer Review
+(Due: Wed 11/12)
+Assigned:
+Final Project
+(Multiple Due Dates)
+REQUIRED
+Perception in Visualization. Christopher Healey.
+Optional
+39 Studies About Human Perception in 30 Minutes. Kennedy Elliott.
+Optional
+Graphical Perception: Theory, Experimentation and the Application to the Development of Graphical Models. William S. Cleveland, Robert McGill. J. Am. Stat. Assoc. 79(387):531-554, 1984.
+Thu 11/6
+Final Project and Perception Exercise
+Slides
+REQUIRED
+Up and Down the Ladder of Abstraction. Bret Victor. 2011.
+Optional
+Visualizing Algorithms. Mike Bostock. 2014.
+Week 8
+Tue 11/11
+Veteran's Day - No Class
+Thu 11/13
+Uncertainty
+Slides
+REQUIRED
+The Visual Uncertainty Experience. Jessica Hullman. OpenVis Conf 2016.
+Optional
+Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error. Michael Correll, Michael Gleicher. IEEE InfoVis 2014.
+Optional
+Visual Semiotics & Uncertainty Visualization: An Empirical Study. Alan MacEachren, Robert Roth, James O'Brien, Bonan Li, Derek Swingley, Mark Gahegan.
+IEEE InfoVis 2012.
+Optional
+When(ish) is My Bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems. Matthew Kay, Tara Kola, Jessica Hullman, Sean Munson. ACM CHI 2016.
+Week 9
+Tue 11/18
+Networks
+Slides
+REQUIRED
+The Barnes-Hut Approximation: Efficient computation of N-body forces. Jeffrey Heer. 2017.
+Optional
+Squarified Treemaps. Mark Bruls, Kees Huizing & Jarke van Wijk. Eurographics Data Visualization 2000.
+Optional
+Scalable, Versatile and Simple Constrained Graph Layout. Tim Dwyer. EuroVis 2009.
+Optional
+Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data. Danny Holten. InfoVis 2006.
+Optional
+Use the Force! Michael Bostock. 2011.
+(
+Video
+)
+Optional
+d3-hierarchy. Michael Bostock.
+Optional
+d3-force. Michael Bostock.
+Thu 11/20
+Final Project Feedback — Playtest Day
+Week 10
+Tue 11/25
+Scalable Visualization
+Slides
+Optional
+Sections 1, 4, and 6. A structured review of data management technology for interactive visualization and analysis. Leilani Battle and Carlos Scheidegger. IEEE VIS 2020.
+Optional
+Falcon: Balancing Interactive Latency and Resolution Sensitivity for Scalable Linked Visualizations. Dominik Moritz, Bill Howe, Jeffrey Heer. ACM CHI 2019.
+Optional
+imMens: Real-time Visual Querying of Big Data. Zhicheng Liu, Biye Jiang, Jeffrey Heer. EuroVis 2013.
+Optional
+Dynamic Prefetching of Data Tiles for Interactive Visualization. Leilani Battle, Remco Chang, Michael Stonebraker. SIGMOD 2016.
+Optional
+Trust, but Verify: Optimistic Visualizations of Approximate Queries for Exploring Big Data. Dominik Moritz, Danyel Fisher, Bolin Ding, Chi Wang. ACM CHI 2017.
+Thu 11/28
+Thanksgiving - No Class
+Week 11
+Tue 12/2
+Evaluation & Review
+Slides
+Optional
+A Nested Model for Visualization Design and Validation. Tamara Munzner. InfoVis 2009
+Optional
+Design Study Methodology: Reflections from the Trenches and the Stacks. Michael Sedlmair, Miriah Meyer & Tamara Munzner. InfoVis 2012.
+Thu 12/4
+Final Project Showcase
+Assignments
+Class Participation
+10%
+Assignment 1: Expository Visualization
+10%
+Assignment 2: Deceptive Visualization
+15%
+Assignment 2: Peer Review
+5%
+Assignment 3: Interactive Visualization
+20%
+Assignment 3: Peer Review
+5%
+Final Project
+35%
+Activities, Learning Assessments & Expectations for Students
+Important Announcements
+: We will send all course announcements through Ed, including corresponding emails. You should make sure that you do not miss these messages. You are responsible for checking your email and Ed with regular frequency.
+Readings
+: To contribute to lively and insightful discussions, we each need to do our part to be prepared. Students are expected to complete assigned readings prior to lecture. All readings are listed in the course schedule.
+Lectures & In-Class Activities
+: It is important to attend lectures and read the readings. In class we will assume that you have read the day's readings and are ready to engage in the day's activities. In-class lectures will be in person and recorded. For in-class activity days, lectures may be pre-recorded and shared ahead of time. Students may miss one activity day without penalty to their course participation grade. In addition, students may have excused absences due to illness, work-related travel, or other issues; please reach out to the instructor as needed.
+Assignments
+: There will be three assignments to help prepare you for the final project. These assignments are designed to give students experience in creating and evaluating visualization tools. See the course calendar for assignment dates.
+Final Project
+: A team-based (1-4 person) final project is due at the end of the course, with periodic milestones. The goal of the final project is to identify a new, interesting and challenging visualization problem, and to apply the techniques and skills learned in class to address this problem. Students are welcome to choose a topic area of interest (including one's own research) for the final project.
+Please feel free to reach out about personal, academic, or intellectual concerns. However, please consult the syllabus and Canvas first for logistical questions, such as when an assignment is due or how much an assignment is worth in terms of grading.
+Policies
+Late Policy
+: You have two (2) total late days that you can apply as needed to turn in an individual assignment (A1, A2, Peer Reviews) after the due date without penalty. For example, you can submit A1 and A2 one day late, or submit just the A2 peer review two days late. No late days are given for A3 or final project milestones. Beyond late days, we will deduct 10% for each day an assignment is late. Please contact the instructors on Ed Discussion prior to a deadline if you intend to apply your late days or if you would like to request additional accommodations.
+Generative AI Policy
+: All visualization designs in this course should be the result of your own design thinking and deliberation. If you are inspired by third party works it is fine to borrow design ideas and even example code; just be sure to cite such sources in your write-up and indicate how and to what extent you drew upon each source. If you use AI for code completion help (as opposed to design assistance), you must also document how and to what extent you used it. For assignment write-ups, you may
+not
+use generative AI: you must write your own. We will not grade you on grammar, spelling, or fluency, and we want to read your rationales in your own voice. If we detect likely AI-generated write-ups, we will investigate and contact you for follow-up.
+Plagiarism Policy
+: Assignments should consist primarily of original work. Building off of others' work—including 3rd party libraries, public source code examples, and design ideas—is acceptable and in most cases encouraged. However, failure to cite such sources will result in score deductions proportional to the severity of the oversight.
+Religious Accommodation
+: Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW's policy, including more information about how to request an accommodation, is available here:
+Religious Accommodations Policy
+. Accommodations must be requested within the first two weeks of this course using the
+Religious Accommodations Request form
+.
+Resources
+See the
+resources page
+for visualization tools, related web sites, and software development tips.
+Q&A
+Questions should be posted on the
+course discussion site (Ed)
+.  If you have a private question, please email the instructors at
+cse442@cs
+or discuss it at office hours.
+Computer Science & Engineering
+-
+University of Washington

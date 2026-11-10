@@ -1,0 +1,97 @@
+About | Cornell CS 6158
+About | Cornell CS 6158
+Skip to main content
+Cornell CS 6158
+Welcome to
+Cornell CS 6158
+- Software Engineering in the Era of AI (Fall 2026 Edition)!
+Course Description
+Recent advances in Machine Learning (ML)/Artificial Intelligence (AI), and more recently in LLMs, have led to remarkable results in natural language processing, video generation, code generation, etc. In software engineering, LLMs are bringing a transformative change on how software is being developed and changing how developers write and maintain code. On one hand, ML/AI enable solving challenging software engineering problems through data-driven techniques. On the other hand, ML/AI systems present novel software engineering challenges that traditional methods cannot handle. This course will explore research in this important intersection of software engineering and ML/AI. Topics that will be covered include:
+Foundational software engineering concepts, such as program analysis, software testing, and debugging
+Software engineering techniques for improving the quality of ML/AI systems
+The use of ML/AI techniques (including Large Language Models) to improve software engineering
+Prerequisites
+Students are expected to know fundamental concepts at least in Machine Learning and/or Software Engineering, and have strong programming skills in Python and Java. Also, students are expected to have taken courses in SE/PL or NLP/ML. Relevant SE/PL courses: CS 5150, CS 5154, CS 3110, CS 4120, or equivalent; NLP/ML courses: CS 4770, CS 4740, CS 4780, CS 4782, or equivalent.
+Course Info
+Instructor
+:
+Saikat Dutta
+Instructor Email
+: saikatd@cornell.edu
+Lectures
+: Mon/Wed 10:10AM - 11:25AM,
+Location
+: Upson Hall 222
+Office Hours
+: Mondays 1 PM - 2 PM, Gates Hall 438 (or by appointment)
+Course Objectives
+Students will be able to:
+Understand and apply static and dynamic program analyses such as automated test generation, debugging, and dataflow analysis.
+Apply machine learning-based techniques to solve software engineering problems.
+Apply automated software engineering techniques to machine learning systems.
+Understand and analyze recent research results in software engineering.
+Course Administration
+We are using Canvas as course management system. Announcements will be posted on the course webpage or on Canvas. Check the news section and Canvas regularly for updates.
+Unless mentioned otherwise, all deliverables are due by 11.59 PM Eastern Time. Deadline is strict.
+Students must work individually on each assignment and submit on Canvas by the due date.
+Readings to complement in-class discussions will be noted in the schedule section of the course web page. On each class day, read one paper: the first paper if you are assigned Presenter 1, and the second paper if you are assigned Presenter 2 or Discussant. Ignore any additional papers listed that day. Ask at least 2 unique questions on Perusall before the lecture. You may skip submitting questions up to 5 times. Presenters and discussants do not submit questions for the papers they lead that day.
+Students may miss up to 3 lectures without penalty.
+Presenters lead the discussion of one research paper. Discussants read and lead the discussion of both papers that day and do not give a presentation. If you need advice on the slides, you may schedule a meeting with the instructor a week before you are due to present. This is optional.
+The course project will be completed in self-selected pairs. We will discuss possible projects early in the semester. There will be mandatory project meetings with the instructor: once in the beginning to discuss potential topics and project scope, and two meetings to keep track of project progress. Project grade will be based on the quality of the progress made, rather than on the length of the reports.
+Method of Assessing Student Achievement
+Activity
+Grade
+Details
+In-class Participation and Reviews
+20%
+On each class day, read one paper: the first if you are assigned Presenter 1, and the second if you are assigned Presenter 2 or Discussant. Ignore any additional papers that day. Discussants also read the other paper on the day they lead discussion.
+Submit at least 2 questions on Perusall by 11.59 PM ET on Friday (for Monday papers) and Monday (for Wednesday papers). Presenters and discussants do not submit questions for the papers they lead that day.
+Participate in the discussion of the papers in class, and submit a feedback form on Canvas for the presenters and discussants by the end of that day. You may miss up to 5 feedback submissions without penalty.
+You may skip submitting questions up to 5 times without penalty; each additional skipped submission decreases the final grade by proportionally to the total number of skipped submissions.
+Presentation and Discussion Lead
+20%
+Presenters: select at least two papers you would like to present by Sep 10, 11.59 PM ET.
+You may schedule a meeting with Saikat a week before your presentation slot if you need advice on the slides/presentation.
+Presenters: prepare a 15-20 minute presentation on the paper, then lead a 10-15 minute discussion, unless a discussant is assigned for that day.
+Discussants: read both papers, lead the discussion of both, and submit the questions and answers for both papers to Canvas. No presentation is required.
+Assignments
+10%
+Total 3-4 assignments will be given throughout the semester.
+Students must work
+individually
+on each assignment and submit on Canvas by the due date.
+Project
+50%
+Students are expected to work on a research project in groups of 2. The research topic should be at the intersection of Software Engineering and ML/AI.
+Project Proposal (2 page) due on Sep 14. Discuss and get approval on project topic from Saikat.
+Proposal Presentation (5 min) on Sep 28. Get feedback from other students.
+Mid-term project report on Oct 19 (2-3 pages). Discuss current progress and challenges with Saikat.
+Final Report (5 pages) due on Dec 10.
+Final Presentations (15 min) between Nov 30 and Dec 7.
+Grade Distribution
+Grading is absolute. Grade boundaries are decided later in the semester, but you may assume that scores above 90% will receive at least A-, Scores above 80% will receive at least B-, and scores above 65% will receive at least C-.
+Paper Presentation/Review Guidelines
+If you are the presenter:
+You should prepare a 15-20 minute presentation on the paper.
+See the schedule to find the paper you must present on the day. Each day has at least two papers. If you are assigned “Presenter 1”, you should present the first paper. If you are assigned “Presenter 2”, you should present the second paper. Ignore any additional papers for that day on the schedule.
+Compile a list of at least 5 questions from the comments left by your classmates on the paper on Perusall.
+Lead the discussion of these questions in class (10-15 minutes session), except for days where an explicit discussant has been assigned. For example, select a question from the list and the person who asked it to start the discussion and share their thoughts on that question. Then, invite other students to share their thoughts on that question. You can explicitly pick different students in class to respond to each question. Your job is to guide the discussion and engage your classmates in the discussion. You need not answer all questions yourself.
+You do not need to submit questions for any paper on the day your are presenting.
+Submit your presentation slides to canvas. This is mandatory to allow us to assign grades.
+If you are the discussant:
+You should read both the papers on the day and lead the discussion of both papers.
+Coordinate with the presenters to compile the list of most interesting questions.
+You do not need to prepare a presentation.
+On canvas, submit the list of questions and their answers for each paper. You should submit a response to all the questions asked on Perusall to Canvas (for the paper presentation assignment) for both papers. Feel free to merge similar questions together or ask additional questions on Perusall if the question is not clear. This is mandatory to allow us to assign grades.
+If you are the not the presenter or the discussant:
+You should carefully read only one paper each day and leave at least 2 questions on Perusall. You must not repeat comments posted by other students, but you can add to the discussion.
+You should submit the questions on Perusall by Friday 11.59 PM ET for Monday’s paper and Monday 11.59 PM ET for Wednesday’s paper.
+“Which paper should I read?” If you are assigned Presenter 1 on any day, submit questions for the first paper on the days you do not present. If you are assigned Presenter 2 or Discussant on any day, submit questions for the second paper on the days you do not present. Ignore any additional papers listed that day.
+On each class day you are not presenting or discussing, read that one assigned paper. Discussants read both papers on the day they lead discussion. On a week with only one class meeting, read only the paper or papers for that day.
+You can miss reviews of up to 5 papers without penalty.
+At the end of the class, you must submit a feedback form on canvas for the presenters and the discussants. These forms are due by the end of the presentation day. You can miss up to 5 feedback submissions without penalty.
+AI Usage Policy
+You may use AI tools – including generative AI tools, coding agents, and agents – for any work in this course, unless otherwise specified. You may decide when and how to use them without requesting permission, and course activities and assessments are designed with that availability in mind. Please see assignment specific advice below.
+You remain responsible for understanding the work you submit and for its correctness and provenance. You should review and test AI-generated contributions and be prepared to explain, evaluate, and modify any part of the submission.
+Unless the assignment states otherwise, you do not need to cite AI merely because it assisted you, nor do you need to submit a record of your interactions with it.
+For paper reviews, you are expected to read the paper on your own and write your own reviews. You are free to use AI to understand concepts of the paper and/or refine your review text, but please refrain from generating entire reviews using AI.

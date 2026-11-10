@@ -1,0 +1,46 @@
+SCI Pilots AI-Enhanced Capstone to Advance Software Engineering Instruction | College of Computing
+SCI Pilots AI-Enhanced Capstone to Advance Software Engineering Instruction | College of Computing
+Skip to main navigation
+Skip to main content
+MENU
+College of Computing
+SCI Pilots AI-Enhanced Capstone to Advance Software Engineering Instruction
+Friday, May 10, 2024
+Emily Smith
+College of Computing
+School of Computing Instruction
+Artificial Intelligence (AI) is transforming industries and redefining problem-solving methods, especially within the rapidly evolving tech sector.
+A recent Forbes article
+highlights a significant shift in recruitment strategies, noting an increasing demand for professionals who can effectively leverage AI alongside their technical skills.
+"The demand for skilled professionals who can adeptly use AI has never been higher," the article states, emphasizing the need for complex problem-solving abilities and technical proficiency.
+The School of Computing Instruction (SCI) at Georgia Tech is responding to these industry shifts by launching a transformative initiative this summer. The redesigned Computer Science (CS) capstone course bridges the gap between academic learning and real-world software development demands.
+"Students still need a foundational understanding of computer science because these tools aren’t perfect, but we want to equip them with the ability to use them," SCI Chair Olufisayo Omojokun said.
+"With this redesign, we're positioning the capstone as a platform for testing and refining the application of generative AI technologies in real-world scenarios."
+Image
+SCI Chair Olufisayo Omojokun judges student projects at the Capstone expo. Photos by Terence Rushin/ College of Computing.
+Course Overview
+Led by SCI Lecturer Nimisha Roy, the course is designed to simulate the tight deadlines of the industry, offering students practical experience of project constraints. This summer, students will choose from various projects centered around developing Google Chrome apps, with each project designed to challenge and enhance their skills in software design, implementation, testing, and project management.
+"The course starts by grounding students in traditional software development methods to establish a solid base," Roy said. "Students first create system design artifacts using conventional approaches. They then enhance these designs using AI-driven tools like Lucidchart and Mermaid, allowing for a direct comparison between traditional and AI-enhanced processes.”
+She says this approach not only highlights the transformative impact of AI on design productivity and quality but also emphasizes the crucial role of documentation in software development.
+Image
+SCI's Nimisha Roy works with students at the Spring 2024 Capstone Expo. Photos by Terence Rushin/ College of Computing.
+AI tools like GitHub Copilot, Codeium, and Testim are introduced to streamline coding and testing processes for the implementation phase.
+"We anticipate that the integration of AI from the beginning of the implementation phase will significantly boost productivity and enable the development of more complex features compared to traditional methods," Roy said.
+Students will rigorously test this hypothesis by comparing the quality of design documentation and final software products against those from previous semesters.
+Objectives and Impact
+Reflecting on the course's goals, Roy said, "This isn't just about enhancing technical skills. It's about preparing students to critically assess the role of AI in software development, considering its impact on productivity, output quality, user engagement, and the learning curve associated with adaptability."
+She adds that this initiative underscores Georgia Tech's dedication to pioneering advancements in CS education that bridge the gap between academic learning and industry demands, setting a new standard for educational practices.
+Image
+Students present their software design project at the Spring 2024 Capstone Expo. This summer, students will use AI tools during the course. Photos by Terence Rushin/ College of Computing.
+Future Directions
+As the course unfolds, there is a palpable sense of excitement and anticipation regarding its potential future impact. Beyond the immediate objectives, future iterations of the capstone course may explore further advancements in AI technologies and their implications for software development practices.
+“Using these tools could potentially lead to a scenario where future capstone projects involve students accomplishing more or higher-quality projects,” said Omojokun.
+SCI’s initiative marks a significant shift in how future software developers are trained and sets a new standard in educational practices, aligning closely with industry advancements and future needs.
+Recent
+Stories
+Georgia Tech Researchers Recognized With Test of Time Awards
+Monday, November 9, 2026
+Richard DeMillo Celebrated for Decades of Contributions to…
+Monday, November 9, 2026
+College to Celebrate Inaugural Entrepreneurship Week…
+Wednesday, November 4, 2026

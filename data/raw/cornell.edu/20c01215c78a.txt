@@ -1,0 +1,284 @@
+Syllabus - CS 3410 Spring 2026
+Syllabus - CS 3410 Spring 2026
+CS 3410 Spring 2026
+Schedule
+Syllabus
+Resources
+Calendar
+Staff
+Ed
+Gradescope
+Auto
+Light
+Rust
+Coal
+Navy
+Ayu
+Schedule
+Syllabus
+Resources
+Calendar
+Staff
+Ed
+Gradescope
+Syllabus
+CS 3410, “Computer System Organization and Programming,” is your chance to learn how computers
+really
+work.
+You already have plenty of experience programming them at a high level, but how does your code in Java or Python translate into the actual operation of a chunk of silicon?
+We’ll cover systems programming in C, assembly programming in RISC-V, the architecture of microprocessors, the way programs interact with operating systems, and how to correctly and efficiently harness the power of parallelism.
+TL;DR
+Course communication will happen on
+Ed
+.
+Log in with your
+netid@cornell.edu
+email address. You should already have access.
+You’re responsible for knowing everything that we post as announcements there. Ignore announcements at your own risk.
+Homework hand-in and grading happens on
+Gradescope
+.
+There are programming assignments.
+The deadline is usually Wednesday night at 11:59pm. See the
+schedule
+for details.
+You have 12 total “slip days” you can use throughout the semester. You may use up to 3 for a given assignment.
+Your lowest homework score will be dropped.
+There are two prelims and a final exam.
+Organization
+Announcements and Q&A: Ed
+Assignments: Gradescope
+Content
+Grading
+Assignments
+Exams
+Topic Mastery Quizzes
+Labs
+Participation
+Policies
+Academic Integrity
+Generative AI
+Respect in Class
+Special Needs and Wellness
+Organization
+Announcements and Q&A: Ed
+We will use
+Ed
+for all announcements and communication about the course. Log in there with your
+netid@cornell.edu
+email address. The course staff will post important updates there that you really want to know about! Check often, and don’t miss the announcement emails.
+You can also ask questions—about lectures, homework, or anything else—on Ed.
+What to post.
+If you can answer someone else’s question yourself, please do! But be careful not to post solutions.
+If you’re not sure whether something is OK to post, contact the course staff privately. You can do that by marking your question as “Private” when you post it.
+How to ask a good question.
+A good post asks a specific question. Here are some examples of bad posts:
+“Tell me more about broad topic X.”
+“Does anyone have any hints for problem Y?”
+If you need help with a homework problem, for example, be sure to include what you’ve tried already, exactly where you’re stuck, and what you’re currently thinking about how to proceed. If you just ask for help without any evidence of effort, we’ll punt the question back to you for more details.
+Never post screenshots of code.
+They are inaccessible, hard to copy and paste, and hard to read on small screens (i.e., phones).
+Use Ed’s “code block” feature and paste the actual code.
+Use Ed, not email.
+Do not contact individual TAs or the instructors via email.
+Use private Ed posts instead.
+The only exception is for sensitive topics that need to be kept confidential; please email
+cs3410-prof@cornell.edu
+with those.
+Assignments: Gradescope
+You will submit your solutions to assignments and receive grades through
+Gradescope
+.
+We try to grade anonymously, i.e., the course staff won’t know who we’re grading.
+So please do not put your name or NetID anywhere in the files you upload to Gradescope.
+(Gradescope knows who you are!)
+Content
+Grading
+Final grades will be assigned with these proportions:
+Assignments:
+25%
+Preliminary Exams:
+30%
+Final Exam:
+30%
+Topic Mastery Quizzes:
+5%
+Participation:
+10%
+Assignments
+Problem sets are usually due on Wednesday at 11:59 PM. See the
+course schedule
+.
+All assignments are individual.
+You’ll turn in assignments via
+Gradescope
+.
+Slip days.
+You have a total of
+12 slip days
+to use throughout the semester,
+of which you can use
+at most 3
+for a given assignment.
+A “slip day” is a 24-hour penalty-free extension on an assignment deadline that you can use without even asking for permission.
+Use slip days to make your life easier when dealing with:
+routine illness
+minor injury
+travel
+job fairs
+job interviews
+large workloads in other courses
+extra-curriculars
+just getting overwhelmed
+We trust you to use your slip days wisely. They often mean you have less time to work on the next assignment.
+Dropped score.
+We will
+drop one score
+to calculate your final grade: that is, your lowest-scoring problem set won’t count, even if that score is zero.
+Use this policy to cope with extenuating circumstances, or that especially difficult week in your semester, by skipping one assignment.
+Other lateness.
+Late submissions (beyond slip days) will not be accepted.
+In
+truly exceptional
+circumstances where slip days do not cut it, contact the instructor.
+Exceptional circumstances require some accompanying documentation.
+Grade cap.
+In terms of your final course grade, assignment scores are
+capped at 85%
+.
+All scores above 85% will count as “full credit” and an A average; scores below 85% will be scaled accordingly (e.g., 80% on an assignment maps to a final-grade value of 94.1%).
+This policy is meant to help you focus holistically on learning what each assignment is trying to teach you, not on maximizing individual points.
+Exams
+There will be
+two prelims
+and a
+final exam
+. See the
+course schedule
+for dates.
+Check your schedule now.
+There is a makeup exam for people with another prelim on the same day. (See the
+schedule
+for the dates.) To sign up for the makeup, post privately on
+Ed
+. The deadline to request a makeup for both prelims is February 6.
+Topic Mastery Quizzes
+Weekly topic mastery quizzes will help reinforce the lessons from a given week’s lectures. We’ll release the quiz on Monday. The material will be covered in lectures that week. The quiz due date is the Friday of the same week as the relevant lectures.
+These quizzes are also on
+Gradescope
+.
+Because they’re meant to help you practice, grading on these quizzes is very forgiving:
+You are welcome to retake the quiz as many times as you like. We’ll keep your best attempt.
+The score is capped at 90%, so scoring 9/10 is “full credit” and counts the same as scoring 10/10.
+We will drop your
+two
+lowest scores.
+No extensions are available on these quizzes.
+Labs
+CS 3410 has
+lab sections
+that are designed to help get you ready for the assignments.
+During lab, you are welcome to work together with other students on solving the lab exercise.
+Collaboration is
+not
+allowed on the actual assignment, so do not start working on the assignment itself during lab.
+Attendance is required.
+You must attend the lab section you are registered for.
+(If you need to change lab sections, please use the “swap” feature on Student Center to avoid losing your spot in the main course registration.)
+To count as attending a lab session, you must arrive on time, actually work on the lab tasks, and receive a checkoff from a TA on your progress during lab.
+You are responsible for making sure that your attendance is recorded each time.
+Participation
+The “participation” segment of your grade has three main components:
+4% for lecture attendance, as measured by occasional
+Poll Everywhere
+polls.
+4% for lab attendance, as recorded by the lab’s instructors.
+2% for surveys:
+The introduction survey (on Gradescope) in the first week of class.
+The mid-semester feedback survey.
+The semester-end course evaluation.
+We know that life happens, so you can miss up to 3 lab sections and 5 lectures without penalty.
+Policies
+Academic Integrity
+Absolute integrity is expected of all Cornell students in every academic undertaking. The course staff will prosecute violations aggressively.
+You are responsible for understanding these policies:
+Cornell University Code of Academic Integrity
+Computer Science Department Code of Academic Integrity
+On
+assignments
+, everything you turn in must be 100% completely your own work. You may discuss the work in generalities with other students using natural language, but
+you may not show anyone else your code or look at anyone else’s code
+.
+Specifically:
+Do not show any (partial or complete) solution to another student.
+Do not look at any (partial or complete) solution written by another student.
+Do not search the Internet for solutions, on Google or Stack Overflow or anywhere else.
+Do not post solutions on Ed, except in private threads with course staff.
+Do
+ask someone if you’re confused about what the assignment is asking for.
+Definitely
+ask the course staff if you’re not sure whether or not something is OK.
+Here’s the policy for
+exams
+: you may not provide assistance to anyone or receive assistance of any kind from anyone at all (outside of the course staff). All exams are closed book.
+This course is participating in Accepting Responsibility (AR), which is a pilot supplement to the Cornell Code of Academic Integrity (AI). For details about the AR process and how it supplements the AI Code, see the
+AR website
+.
+Generative AI
+You can use the
+Cornell’s official
+Microsoft 365 Copilot Chat
+tool
+in specific ways (specified below) to support your learning in CS 3410.
+You may not use any other generative AI tools in your work on CS 3410:
+for instance, no ChatGPT, Gemini, Claude, DeepSeek, or the GitHub Copilot tools built into Visual Studio Code.
+(The reason for this restriction is that Cornell’s Microsoft Copilot subscription includes a privacy guarantee.
+Other chatbots will use whatever you type into them as training data.)
+There are rules about
+how
+you may use Microsoft Copilot.
+The main intent is that
+the work you submit must be 100% handwritten by you
+.
+In CS 3410, it is a violation of academic integrity to submit any code generated by any AI tool.
+More specifically, these uses of Microsoft Copilot are prohibited:
+Pasting CS 3410 material into Copilot.
+You may not copy and paste code, assignment instructions, or links to assignment materials
+into
+the chatbot.
+Submitting Copilot-generated code or text.
+You may not copy and paste answers
+from
+the chatbot into anything you submit as part of an assignment.
+Asking Copilot to solve the homework for you.
+Do not ask the chatbot for solutions to any part of any assignment. For example, you may not paste your current code into Copilot and ask it to locate the bug.
+On the other hand, these uses of Microsoft Copilot are allowed:
+Asking for general background on a 3410-related topic.
+Looking up details on how to use specific APIs.
+Generating practice problems as a study aid.
+Any violation of this policy will be considered an academic integrity violation and will be handled according to university guidelines. If you are unsure whether a specific use of GenAI is permitted, ask the course staff before proceeding.
+Also, remember that the course staff is always happy to help on
+Ed
+!
+If you’re not sure whether it’s OK to ask Copilot about something, you can ask us instead.
+Respect in Class
+Everyone—the instructors, TAs, and students—must be respectful of everyone else in this class. All communication, in class and online, will be held to a high standard for inclusiveness: it may never target individuals or groups for harassment, and it may not exclude specific groups. That includes everything from outright animosity to the subtle ways we phrase things and even our timing.
+For example: do not talk over other people; don’t use male pronouns when you mean to refer to people of all genders; avoid explicit language that has a chance of seeming inappropriate to other people; and don’t let strong emotions get in the way of calm, scientific communication.
+If any of the communication in this class doesn’t meet these standards, please don’t escalate it by responding in kind. Instead, contact the instructors as early as possible. If you don’t feel comfortable discussing something directly with the instructors—for example, if the instructor is the problem—please contact the CS advising office or the department chair.
+Special Needs and Wellness
+We provide accommodations for disabilities.
+Students with disabilities can contact
+Student Disability Services
+at
+for a confidential discussion of their
+individual needs.
+If you experience personal or academic stress or need to talk to someone who can help, contact the instructors or:
+Engineering academic advising
+Arts & Sciences academic advising
+Learning Strategies Center
+Let’s Talk Drop-in Counseling
+at Cornell Health
+Empathy Assistance and Referral Service (EARS)
+Please also explore
+other mental health resources
+available at Cornell.

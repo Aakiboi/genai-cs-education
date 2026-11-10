@@ -1,0 +1,99 @@
+Maryland Today | 15 Proposals for AI-Focused Courses Awarded New…
+Maryland Today | 15 Proposals for AI-Focused Courses Awarded New…
+Skip site navigation
+Athletics
+Arts & Culture
+Campus & Community
+People
+Research
+Athletics
+Arts & Culture
+Campus & Community
+People
+Research
+Terp
+Subscribe
+Campus & Community
+15 Proposals for AI-Focused Courses Awarded New Grants
+Funds Administered by AIM to Support Classes in 10 Colleges and Schools Across the University
+Grants are supporting 15 new courses that will enable students from across the university to take on major societal challenges in a world where AI is increasingly prevalent. (Photo by Adobe Stock)
+May 03, 2026
+By
+Alyssa Ryan
+Fifteen new courses in architecture, education, English, public policy and more that will prepare University of Maryland students to lead in a society increasingly shaped by artificial intelligence (AI) were awarded $230,000 from the
+Artificial Intelligence Interdisciplinary Institute at Maryland
+(AIM) 2026-27 course development grant program.
+AIM’s mission is to shape the future of AI—ensuring it serves all of humanity and society—through interdisciplinary research, education and community engagement. UMD and its philanthropic and industry partners plan to invest more than $100 million in the institute over the next decade.
+“The strong response in this second year of applications demonstrates remarkable enthusiasm across campus for developing new AI-focused courses,” said Neda Atanasoski, AIM associate director of education and professor and chair of the Harriet Tubman Department of Women, Gender, and Sexuality Studies. “We are thrilled to be developing new pathways into AI through courses that meet general education requirements, enabling students from across the university to explore big questions such as AI and the built environment.”
+This year’s awards, which include five graduate courses and add to the seven courses that received grants last year, represent 10 colleges and schools and will appeal to students with a wide range of educational interests. The courses will be fully developed by the end of 2026 and presented at an AI education symposium at UMD in spring 2027.
+The following proposals were selected for Pathway to AI grants ($50,000):
+Humans and the Built Environment: Understanding AI Through the Spaces We Inhabit
+School of Architecture, Planning and Preservation Associate Clinical Professor Hooman Koliji, Associate Professor Joseph Williams and Professor Mohammad Gharipour plan to introduce undergraduate students to AI through the spaces they live in, from cities and transportation systems to buildings, infrastructure and cultural heritage sites. Designed for students from any discipline and requiring no technical background, the course uses case studies, hands-on workshops and critical analysis to build AI literacy in real-world, visible contexts. By examining how AI systems are trained, how bias enters through data and modeling choices, and how algorithmic decisions shape design, access and resource allocation, students gain a deeper understanding of AI as a force that structures both physical environments and social outcomes.
+Learning, Agency and Inquiry in the Age of AI
+College of Education Professor Doug Lombardi, Assistant Clinical Professor Lauren Trakhman, Associate Professor David Weintrop and doctoral student John Robertson plan to create a new undergraduate course exploring how AI is reshaping what it means to learn, think and create knowledge. Through hands-on studios and case-based workshops, students compare human and machine learning, develop more accurate mental models of AI systems, and examine how AI affects trust, inquiry, reasoning and metacognitive skills. The course equips students with practical strategies for learning with AI, along with frameworks for verification, ethical judgment, and responsible agency in academic, civic and professional settings.
+The following proposals were selected for AI + X grants
+($10,000):
+AI and Teams
+College of Information Associate Professor Susannah Paletz and Postdoctoral Associate Rohit Mallick are developing a course that examines how AI is reshaping teamwork and what it means to collaborate in teams that include both humans and intelligent systems. Aimed at junior and senior undergraduates, the course introduces students to the science of teams while exploring topics such as trust, communication, creativity, emotion, diversity and the distinction between AI as a tool versus AI as a teammate. By critically evaluating the opportunities and challenges of human-AI collaboration across professional contexts, students gain a deeper understanding of how teams function and how AI may transform collective work.
+Artificial Intelligence: Transforming Food, Agricultural and Environmental Systems
+A new undergraduate course developed by environmental science and technology Assistant Professor Akash Koppa will introduce students to the core concepts, applications and implications of AI in agriculture, food and environmental sciences. Through theory, case studies and expert seminars, students examine how AI tools such as LLMs and computer vision systems work in practice across areas such as precision farming, environmental modeling and veterinary diagnostics. By critically assessing both the promise and limitations of these technologies, students build the foundational AI literacy needed to make informed decisions about their education and future careers.
+Autonomy/AI Fundamentals for the Development, Test and Evaluation, Verification and Validation Workforce
+This graduate course—co-taught by faculty members Donald Costello of the Maryland Autonomous Technologies Research Innovation & eXploration (MATRIX) Laboratory, aerospace engineering Associate Professor Mumu Xu and computer science Associate Professor Pratap Tokekar—prepares students to evaluate autonomous and AI-enabled aviation systems as they move through the development, test and evaluation, verification, and validation process required for real-world deployment. Students are introduced to the core concepts, control methods and risk-mitigation challenges involved in assessing uncrewed and ultimately autonomous transportation systems. Through hands-on work in formal methods, reinforcement learning and perception programming, the course builds practical skills for analyzing the safety, performance and reliability of AI systems in aviation.
+Covering Our AI Life: Reporting on Algorithms, Platforms, and Power
+Philip Merrill College of Journalism Assistant Professor Daniel Trielli’s new course will prepare students to report on how AI and algorithmic systems shape social life, institutional decision-making, and power relations, treating these AI systems as institutions in themselves that require investigation rather than as neutral technologies. Through a mix of conceptual modules and hands-on reporting exercises, students will learn to investigate these technologies using interviews, documents, data and policy analysis. Students will be better prepared to cover AI-related institutions as a core part of contemporary public interest through reporting.
+Embodied AI Studio: Installation, Performance and Intelligent Media Through Reflective Making
+This 400-level hands-on course, developed by immersive media design Lecturer Jonathan Martin and computer science Assistant Professor Huaishu Peng, brings together art, design, engineering and computer science students to explore how AI can be experienced through bodies, objects and spaces. Through studio projects and a semester-long capstone, students prototype interactive works that combine generative AI or computer vision with physical computing in forms such as wearables, responsive objects, installations and simple robotic behaviors. The course will help students build technical fluency, critically examine the ethical and social dimensions of embodied AI, and produce a public-facing, portfolio-ready project.
+Patterns of Violence: AI and Data Science in Conflict Research
+This new upper-level undergraduate course created by government and politics Professor David Cunningham will introduce students to the quantitative study of violent conflict through the tools of data science and AI. The course builds on existing methodological training to provide students with hands-on experience in AI-assisted coding, data collection, visualization and analysis. It will help students investigate patterns of conflict while developing practical research skills that prepare them for careers and graduate study in government, nongovernmental organizations and related fields.
+Surfing the Model: The Creative Practice/Critical Literacy of Writing with AI
+A new undergraduate course created by English Associate Professor Lillian-Yvonne Bertram invites students to move beyond the hype of AI and develop a critical, creative and informed understanding of large language models (LLMs) and AI writing tools. Through hands-on experimentation and historical, ethical and social analysis, students learn how LLMs work, how they are reshaping reading and writing practices, and where their limitations and biases emerge. By using low-code or no-code platforms and project-based work, students build practical skills in AI-assisted writing while examining the broader environmental, social justice and intellectual consequences of these technologies.
+The following proposals were selected for New AI Course Development grants
+($10,000):
+AI-Aided Community Planning Studio
+School of Architecture, Planning and Preservation Professor Clara Irazábal is creating a graduate course intended to prepare students to engage the growing role of AI in planning and community development through an accountable, public-interest lens. Centered on a different civic challenge each semester, the course teaches students to use AI to diagnose inequities, co-design solutions with communities, evaluate tradeoffs, and develop implementable planning and policy proposals with clear monitoring metrics. By framing AI as a tool in the service of social justice rather than as an end in itself, the course helps students build practical, adaptable skills for responsible planning practice.
+AI for Nonprofits: Mission-Driven and Equitable Implementation
+School of Public Policy Associate Clinical Professor Ebonie Johnson Cooper plans to create a graduate course that teaches nonprofit leaders to use AI strategically, ethically and in line with their mission. The course uses projects and case studies to explore how AI can aid fundraising, grant writing, program evaluation, communication and community engagement, with a focus on organizations serving marginalized communities. It emphasizes equitable, human-centered implementation, helping students evaluate AI tools, address bias and accessibility, and lead responsible technology adoption.
+Exploring and Innovating with AI in Special Education
+This graduate course proposed by College of Education Assistant Professor Sehrish Shikarpurya examines current issues at the intersection of AI, accessibility and special education, preparing students to use emerging technologies responsibly in research and instruction. Designed primarily for graduate students in special education and related fields, it emphasizes ethical analysis, accessible research design and inclusive teaching practices that support students with disabilities across K–12 and higher education settings. By exploring how AI can both expand opportunity and deepen inequity, the course equips future scholars and educators to shape more accessible, equitable and innovative learning environments.
+Human-AI Collaborative Learning and Work
+Teaching and Learning, Policy and Leadership Professor FengFeng Ke is developing a graduate course focused on human-AI collaborative learning work. It uses AI as a socio-cognitive partner that shapes and is shaped by human thought, learning and problem-solving. The course utilizes case studies in education, medicine, engineering and science, focusing on how hybrid AI-teams negotiate shared agency, optimize collaborative learning, and address the ethical and cognitive implications of AI-mediated decision-making.
+Interpretable AI: Bridging Technical and Philosophical Perspectives
+Electrical and computer engineering Assistant Professor Sanghamitra Dutta is developing an interdisciplinary undergraduate course to introduce interpretable AI, with a focus on making machine learning transparent, understandable and trustworthy in high-stakes domains such as healthcare and finance. Students explore approaches from inherently interpretable models to
+post hoc
+methods and LLM techniques, integrating perspectives from philosophy, cognitive science and human-computer interaction. Through demonstrations and projects, the course prepares students to build effective, accountable, ethical and human-centered AI systems.
+Modern Software Development
+Computer science Senior Lecturer Anwar Mamat and Assistant Professor Leonidas Lampropoulos are developing an undergraduate course to equip students with the skills necessary to build production-quality software using modern generative AI-assisted workflows, from design to deployment. Team projects cover core software engineering practices—version control, testing, architecture, security, user interface and experience, and cloud deployment—while building fluency with AI tools transforming each stage. Hands-on application is combined with critical reflection on correctness, ethics and responsible use, highlighting both the power and limits of AI in contemporary software development.
+AI at Maryland
+The University of Maryland is shaping the future of artificial intelligence by forging solutions to the world’s most pressing issues through collaborative research, training the leaders of an AI-infused workforce and applying AI to strengthen our economy and communities.
+Read
+more
+about how UMD embraces AI’s potential for the public good—without losing sight of the human values that power it.
+Learn how
+Forward: The University of Maryland Campaign for the Fearless
+will accelerate our momentum in addressing the grand challenges of our time and changing life and lives.
+Topics
+Campus & Community
+Tags
+Artificial Intelligence
+Student Experience
+Units
+Artificial Intelligence Interdisciplinary Institute at Maryland
+School of Architecture, Planning and Preservation
+College of Education
+College of Agriculture and Natural Resources
+College of Information
+A. James Clark School of Engineering
+College of Computer, Mathematical, and Natural Sciences
+Philip Merrill College of Journalism
+College of Arts and Humanities
+College of Behavioral and Social Sciences
+School of Public Policy
+Related Articles
+Campus & Community
+Padel Facility a Hit in Greater College Park
+October 20, 2026
+Terps embrace fast-growing sport at new local club.
+Campus & Community
+Alumni Association Honors 7 Maryland Standouts at A Celebration of Terps
+October 26, 2026
+The Maryland Awards recognize leaders in sports broadcasting, entrepreneurship, philanthropy, aerospace and beyond.

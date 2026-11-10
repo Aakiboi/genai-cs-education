@@ -1,0 +1,183 @@
+Communicating Course Policies and Talking with Students | Center for Teaching & Learning
+Communicating Course Policies and Talking with Students | Center for Teaching & Learning
+Skip to main content
+|
+RTL Commons
+Center for Teaching & Learning
+Communicating Course Policies and Talking with Students
+Overview
+As generative AI continues to shape the educational landscape, instructors are increasingly expected to make informed decisions about how these tools align with their pedagogical values and goals. Yet navigating this terrain can feel overwhelming. This resource aims to support you as you think through how to communicate clearly and constructively with students about GenAI. Drawing from guidance provided by Berkeley's Academic Senate, it offers a comprehensive overview of how to set expectations, open up dialogue, and foster a culture of transparency, integrity, and shared responsibility.
+Communicating Your GenAI Expectations
+Even if you haven’t finalized your stance on generative AI in your course, students are already wondering how (or if) they’re allowed to use it. They may come in with different assumptions about what constitutes appropriate use. Some may not even realize that tools like ChatGPT can raise questions about academic integrity. A clearly stated course policy on GenAI use helps ensure that students understand not only what is allowed, but also why. Policies are more effective when they are grounded in pedagogical reasoning and tied to the specific learning goals of the course. A transparent policy also reduces student anxiety, supports academic integrity, and allows space for students to reflect on the ethical and disciplinary dimensions of GenAI use.
+In short, a good GenAI policy should not merely act as a set of rules but should invite students into a shared conversation about how, when, and why certain technologies can (or shouldn’t) be used in the service of learning.
+Sample Language from Berkeley’s Academic Senate
+The following sample syllabus statements have been provided by UC Berkeley’s Academic Senate. They span a range of approaches, from fully integrating GenAI into coursework to prohibiting it entirely. Instructors are encouraged to adapt these to their specific course context and instructional priorities.
+Full AI
+This is a GenAI-required course. Students will be required to use GenAI tools provided by the instructor to complete assignments. Students may also use other GenAI tools unless specifically prohibited. There may be assignments in this class (e.g., exams) where the use of GenAI is not permitted, and these will be clearly identified in the syllabus.
+Some AI
+This course enables limited uses of GenAI tools but also prohibits broad use of them in cases that would be considered plagiaristic if the tool’s output had been composed by a human author.
+If unauthorized GenAI use on a particular assessment is suspected, the instructors may require you to complete a short, in-person examination orally or on paper, related to the content and skills tested in the original assessment.
+Permitted use cases (examples):
+It may be used to perform research in ways similar to search engines such as Google, and for other functions attendant to completing an assignment.
+It may be used as a writing assistant in its capacity as a word processor, such as Word or Pages, i.e., for correcting grammar and spelling, and other functions like synonym suggestion.
+It may be used as translation software for consultation purposes; you should never present the GenAI translation as your own text.
+Copying any text directly from a homework or lab problem into a GenAI tool is considered cheating. Students, however, are permitted to break problems into steps and paraphrase those steps in their own words.
+When assignments in the course permit or incorporate the use of GenAI tools, the assignment will ask you to include an acknowledgement of your use of any type of GenAI in your submitted work and share the prompts and outputs utilized at the time of submission. The suggested format is as follows:
+I acknowledge the use of [insert AI system(s) and link] to [specific use of GenAI]. The prompts used include [list of prompts]. The output from these prompts was used to [explain the use].
+GenAI tools may be used for [assignment types A, B, and C] with appropriate citation, but not for [assignment types D, E, and F].
+Unpermitted use cases (examples):
+GenAI tools may not be used for any purpose in any exam situation.
+The use of GenAI tools such as ChatGPT or equivalent should not be used to summarize, generate, or interpret any thoughts present in any of your work. The software may not be used to compose any part of the submitted assignment.
+GenAI should never be employed for a use that would constitute plagiarism if the GenAI source were a human or organizational author.
+Having another person/entity do the writing of any substantive portion of an assignment for you is against academic integrity policies, and can include hiring a person or a company to write essays and drafts and/or other assignments, research-based or otherwise, and using GenAI tools.
+No AI
+In this course, we prioritize active engagement, students’ knowledge acquisition, and the development of critical thinking skills. To achieve these objectives, we have chosen to prohibit the use of any GenAI tools or automated services during class sessions and when completing assignments or exams. GenAI use is not permitted in any aspect of completing work that is part of an assignment, including brainstorming, drafting, analysis, editing, or generation of figures or images.
+If unauthorized AI use on a particular assessment is suspected, the instructor may require you to complete a short, in-person examination orally or on paper, related to the content and skills tested in the original assessment.
+The Academic Senate’s full guidance also addresses
+risks and limitations of GenAI
+,
+access to GenAI tools
+,
+citation guidance
+, and
+policy enforcement mechanisms
+. Read the full
+GenAI Guidance for Instructors
+.
+AI Course Policy Examples from Berkeley Instructors
+See how Berkeley instructors across disciplines are communicating expectations around AI in their courses.
+MATH 52 (Calculus II) & MATH 74 (Transition to Upper-Division Mathematics)
+Zvezdelina Stankova, Teaching Professor of Mathematics
+Mathematics Department
+Course level:
+Undergraduate
+Class size:
+MATH 52: ~680 students, MATH 74: ~65 students
+Statement appears in:
+Syllabus, bCourses, homework assignments
+AI Statement:
+In this course, we prioritize active engagement, students' knowledge acquisition, and the development of critical thinking skills. To this end, GenAI tools are not allowed to answer polls and when completing exams and most HWs. In some HWs and investigative parts of the course, GenAI (or other online tools) will be specified to use in completing aspects of work, including calculations, analysis, or generation of figures or images. You can use AI tools for grammar, punctuation, and word-smithing on HWs, or for calculations only as specified in the HWs, but not for generating ideas and the structure of the solutions. You need to learn to use AI maturely and as a tool, not a replacement for active learning.
+How to Conduct Benefit-Cost Analysis
+Daniel Acland, Associate Professor of Research
+Public Policy Department
+Course level:
+Graduate
+Class size:
+~30 students
+Statement appears in:
+Syllabus
+AI Statement:
+ChatGPT and similar bots are powerful tools for research and can do a remarkable amount of data acquisition and analysis as well. I am a big proponent of using these tools to increase productivity. If you are not using them yet, you are falling behind, and for learning how to use them there is no substitute for getting on there and trying different things for hundreds of hours. However, two things:
+These bots are getting more accurate, but they make what ChatGPT itself calls “creative inferences.” You should confirm everything that goes into your deliverables. Also, not paying a modest sum for the most advanced version is a false economy.
+You may not use generative AI to do ANY writing whatsoever, including the earliest of rough drafts or the latest of copy edits. Not even one sentence, and not even to help you with English as a second language. Grammarly is fine. If you have any doubt about what you may use AI for, ask me first.
+About this approach:
+I assume graduate students can take responsibility for their own learning and how AI affects it. I want them to use it because they have to do a lot of research and AI does a good job, these days, of finding stuff that is deeply buried. However, I deplore the use of AI for writing. Writing is part of understanding. If you can explain something in writing, you probably don't understand it yourself. Writing in my field is a way of disciplining your thinking.
+Economics for Policy Makers
+Daniel Acland, Associate Professor of Research
+Public Policy Department
+Course level:
+Graduate
+Class size:
+~50 students
+Statement appears in:
+Syllabus
+AI Statement:
+You may not use artificial intelligence of any kind on any part of this course, except for exam preparation. Use of AI on any quiz, resource collection assignment, or memo will be considered cheating. We will not attempt to enforce this rule, as we believe that is fundamentally impossible, but you need to understand that if you break this rule, you are cheating, and cheating is considered quite, quite wrong in this society.
+About this approach:
+This class is about basic concepts and skills and how to apply them and communicate them. If they use AI to figure out how to analyze some policy, or communicate the analysis, they are not learning that for themselves. They need to learn how to do 100% of the work themselves. Among other reasons for this, if they do not understand the basics fully they will never be able to harness the power of AI as an assistant effectively and responsibly.
+Introduction to Science, Technology, and Society
+Shreeharsh Kelkar, Continuing Lecturer
+Interdisciplinary Studies Field (ISF)
+Course level:
+Undergraduate
+Class size:
+~75 students
+Statement appears in:
+Syllabus
+AI Statement:
+All your assessments in this course will be done in the classroom on pen and paper and without digital devices (which must remain closed and inside your bags unless I explicitly ask you to take them out). As such, there will not be much opportunity for you to use ChatGPT or any other generative AI program. This is deliberate. I found that students were writing bland, generic, similar-sounding prose in their take-home papers and this is why I have moved to in-class assessments.
+I will admit that I find generative AI to be quite useful for many tasks. It is especially good when I am looking for information on a topic. But as someone who has both lived in a world with and without it, there are clearly some uses of it that are better than others and some that are outright bad.
+It is a bad -- in fact, downright terrible -- idea to use AI to do the readings.
+Reading a summary of the reading is not the same thing as doing the reading. Obviously, doing the readings for courses is not quite the same thing as curling up with a novel; you have to really interrogate the text and get the essence of the argument and the evidence, for which please see the "How to read" page for tips and tricks.
+But using AI if you have difficulties while reading -- e.g., if you don't understand a certain line or paragraph -- is actually a great idea. My suggestion is that when you ask AI a question about comprehension and it provides an answer, annotate your document with this answer
+but in your own words
+.
+Using AI to create summaries and reading them is like trying to learn how to play tennis by watching a video of someone else playing or even watching a video of a coach explaining something.
+You cannot learn to play tennis without actually playing.
+Similarly, you cannot understand a reading without actually reading it and then summarizing it in your own words.
+Do not use AI to summarize the readings. Instead, write a summary of the reading in your own words. Only if you are able to express what the reading says in your own vocabulary can you claim to have understood it. Copy-pasting a summary into your notes is not learning; it's empty note-taking.
+Most important: Do NOT do your actual writing using AI.
+You can ask AI to comment on your argument and perhaps suggest revisions.
+But NEVER let any kind of AI prose into the significant writing that is YOURS.
+This blogpost (which I agree with in its entirety)
+gets into why. One reason is that you are responsible for the text that you write and there are many contexts where your readers may not like that you used LLMs to generate text that was meant to be yours.
+But even more important, remember that writing is thinking;
+a lot of your ideas will occur to you as you write. Writing something out is a way of understanding it. When you outsource the writing, you outsource the thinking. It is okay to use AI to brainstorm ideas or to scrutinize your argument but never, ever, copy-paste AI text into your writing.
+About this approach:
+I wanted to create an AI statement/policy that focuses on my concerns about
+learning;
+I wanted to avoid using the policy to do any kind of political position-taking on AI. I also wanted to also bring in the fact that I do find AI useful (though I probably use it a lot less than many people). Policing AI use has become harder and harder and I find myself unable to assess student learning anymore from take-home assignments (reading responses, papers, and the like). To some extent, this problem can be solved by just switching to exams and in-class assignments and while we may lose something, there is also much to gain from the exam format. But I worry that students are skipping the hard part where they struggle with texts and learn something in the process of writing about it. Speaking for myself, I don't think I've understood something unless I can put it in my own words, in plain English rather than jargon. Even for exams, I see students studying out of AI-generated summaries rather than their own notes on the readings. Hence, this policy and this advice. My hope is that at least some students will take this advice seriously and use their writing to think; and I hope that the rest will see that their exam performance becomes better when they struggle with reading a text; that this is a feature rather than a bug.
+Addressing AI in Social Sciences Classes
+The goals of education are to develop intellectual habits and skills that can serve students well not just in courses but also in life beyond the classroom. Education should expose students to a range of information and ideas that can provide context and structure for their own original thinking. This intellectual development requires students to actively work and to actively think. Without engaging in the work of thinking, students do not establish research and analytical habits; do not gain critical communication skills; do not learn about the perspectives and facts that are essential contexts for clear analysis and creative ideas.
+To the extent that Artificial Intelligence (AI) can facilitate students’ intellectual development, it is similar to other such resources. AI can be more than an encyclopedic reference: AI also can respond to questions, provide tailored information, and even exchange in “conversations” that can help people hone their own ideas.
+AI has the potential, however, to actually
+do
+the intellectual work for students, robbing them of the opportunity to develop as critical thinkers. AI can process materials, summarize them, generate topics and ideas, analyze information, produce outlines, and write entire essays. AI can also “correct” expression: improving (or bringing closer to normative standards) grammar, word choice, and writing structure. Yet it is by doing this intellectual work that thinking skills are developed: patiently following the trail of an idea, seeing where they may have gotten a fact or hypothesis wrong, and recalibrating or redirecting before setting off again. The ultimate goal is for students to be able to explain, as clearly as possible, what they have concluded and why. AI thus threatens to undermine the learning process itself, by short-circuiting individual struggles to gain insight and knowledge.
+Each faculty member in the Division of Social Sciences will therefore need to decide what the best policy for students’ AI use in their classes ought to be. If no policy is specified in a syllabus, it will be presumed that AI use is entirely banned from student assignments.
+*****
+What follows is a template that the Division has constructed to guide faculty in their thinking about how best to use AI in the specific context of their courses. It is based on the idea that there is not a universal approach that will work for all disciplines across the Division.
+We encourage faculty either to use this list of checkboxes to present to students or to take those boxes that are checked and construct a policy that is clear and easy to understand.
+AI Policy for this course:
+No Artificial Intelligence tool is permitted for class assignments, with the following exceptions:
+No exceptions
+or: ONLY the checked exceptions
+Grammar and/or spelling help (for minor writing assistance on student’s own completed drafts)
+Copy-editing help (suggestions for clarity, phrasing, structure of expression based on student’s own completed drafts)
+Substantial editing help (suggestions for restructuring student’s own drafts, identifying problems with argument or structure of student’s own draft; substantial intellectual help for student’s own drafts)
+Generating topics and/or research questions for a student assignment (including generating options from which a student selects and/or which the student elaborates)
+Generating outlines or arguments for the student to complete with their own writing
+Identification of relevant information sources and reference materials
+Summaries of relevant information, related scholarship, or similar materials
+Writing drafts and/or finished text for part or all of a submitted paper
+Finding data for analysis
+Formatting data
+Analyzing data
+Generating visual materials (graphs, slides, images, etc.)
+Acting as the intellectual interlocutor with the student for idea generation: providing critical perspectives on student’s ideas and work, or other feedback to the student on their work before submitting it to the instructor
+Acting as a study-buddy for the student, providing supplementary quiz activities to reinforce learning course content
+Translating English-language course material into a student’s native language
+Translating student-produced writing from the student’s native language into English
+Translating primary source documents in another language into English
+Instructors will assume that students have refrained from using AI except in the allowed (i.e., checked) cases. Instructors may request students sign a statement that they have not used AI, or have used it only for allowed purposes. If instructors suspect the impermissible use of AI (use beyond that explicitly allowed above), instructors may request students provide oral and/or documentary evidence supporting the claim that this is the student’s own work. If the instructor finds that the student has abused AI, penalties may include: zero for the assignment, failing the course, reporting the student for violation of academic integrity policies, and/or other penalties at the instructor’s discretion.
+Talking with Students About AI
+A written policy can set expectations, but students may still need help understanding what those expectations mean in practice. Because approaches to AI vary across courses, consider making time to explain not only
+what
+is permitted or prohibited, but also
+why
+you’ve taken that approach and how it connects to the learning in your course.
+You might clarify:
+whether expectations vary across assignments
+what students should do if they are unsure whether a particular use is allowed
+how you want students to acknowledge or cite AI use
+what responsible use looks like in the context of your course
+where students can find campus guidance and licensed tools
+The
+Vice Provost for Undergraduate Education
+has prepared
+An Incoming UC Berkeley Undergraduate Student’s Guide to AI: Best Practices & Tools
+, a student-facing resource on navigating course-specific AI expectations, using AI responsibly, finding campus-licensed tools, and accessing other Berkeley AI resources. You may want to share the guide with students as a starting point for conversations about AI use in your courses.
+Navigating AI in Teaching & Learning
+Communicating Course Policies and Talking with Students
+Deepening Students’ Understanding of GenAI Output
+Guiding Pedagogical Principles in an Age of AI
+Redesigning Assignments and Assessments
+Reflecting on GenAI
+Understanding GenAI and Campus Expectations
+Additional Resources
+AI Teaching Examples from Berkeley
+RTL Commons: AI in Teaching & Learning
+Connect With Us
+Schedule a consultation
+Review CTL Core Services
+Email:
+teaching@berkeley.edu

@@ -1,0 +1,165 @@
+Schedule of Classes
+Schedule of Classes
+SCHEDULE of CLASSES
+OFFICE of the REGISTRAR
+Skip to Search Box
+Skip to Search Result
+All Courses
+General Education Courses
+My Saved List (
+0
+Courses
+)
+Final Exams
+Past Schedules
+Course:
+Section:
+Term:
+Summer 2026
+Fall 2026
+Winter 2027
+Spring 2027
+Open Sections Only
+Credit:
+>=
+=
+<=
+0.0
+1.0
+2.0
+3.0
+4.0
+Level:
+All
+Undergraduate
+Graduate
+Instructor(last,first):
+Delivery:
+Face-to-Face
+Blended Learning
+Online
+Start Time:
+after
+at
+before
+between
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+:
+00
+15
+30
+45
+AM
+PM
+and
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+:
+00
+15
+30
+45
+AM
+PM
+Location/Program:
+Show All
+College Park
+District of Columbia
+Frostburg State
+Hagerstown
+Heat Center, Hartford County
+Reagan Building
+Shady Grove
+Southern Maryland
+UMAB
+Freshmen Connection
+Professional Programs: Face-to-Face
+Professional Programs: Online
+Science in the Evening
+Universities at Shady Grove / EDUC
+Course Days:
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Hide
+Advanced Options
+Courses - Fall 2026
+CMSC
+Computer Science
+Department Site
+Open Seats as of
+11/10/2026 at 12:30 PM
+CMSC389A
+(Perm Req)
+Special Topics in Computer Science; Modern Software Development with GenAI
+Syllabus Repository
+(0)
+Credits:
+3
+Grad Meth
+:
+Reg
+Prerequisite: Minimum grade of C- in CMSC250 and CMSC216
+This course prepares students for the evolving software engineering landscape by teaching them to use AI to boost productivity and build AI-powered applications. Students gain hands-on experience in full-stackdevelopment, leveraging AI tools across the software lifecyclefrom design and coding to testing and cloud deployment while integratingintelligent models such as LLMs and AI agents into their systems. Topicsinclude AI-assisted development (code generation, refactoring, documentation, and agent-based workflows for version control and deployment), building intelligent applications (including RAG pipelines and performance optimization), and core software engineering fundamentals such as version control, architecture, testing,security, UI/UX design, APIs, and cloud deployment. Emphasis is placed on evaluating AI-generated outputs for correctness, security, limitations, and ethical considerations, while using AI to automate testing and quality assurance. Through practical projects, students develop the skills to design and build modern, AI-native software systems.
+Hide Sections
+All Sections
+Face-to-Face
+Blended Learning
+Online
+0101
+Anwar Mamat
+Seats
+(
+Total:
+50
+,
+Open:
+0
+,
+Waitlist:
+0
+)
+TuTh
+12:30pm
+-
+1:45pm
+CSI
+1121
+Flagship Institution of the
+University System of Maryland
+University of Maryland, College Park, MD 20742, USA
+/
+Phone:
+301.405.1000
+Copyright
+© 2026 University of Maryland
+/
+Privacy
+/
+Web Accessibility
+Contact us
+with comments, questions and feedback
+/

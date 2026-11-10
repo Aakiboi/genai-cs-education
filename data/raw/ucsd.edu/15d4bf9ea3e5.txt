@@ -1,0 +1,169 @@
+CSE 190 - TOPICS IN COMPUTER SCIENCE AND ENGINEERING (2025-2026) | Computer Science
+CSE 190 - TOPICS IN COMPUTER SCIENCE AND ENGINEERING (2025-2026) | Computer Science
+Skip to main content
+CSE 190 - TOPICS IN COMPUTER SCIENCE AND ENGINEERING (2025-2026)
+Updated: February 2nd, 2026
+CSE 190 - Topics in Computer Science and Engineering
+CSE 190 is a topics of special interest in Computer Science and Engineering course. Topics may vary from quarter to quarter.
+Prerequisites also vary per course/per instructor. Department approval required.
+Units: 4
+CSE 190 is typically offered every quarter as staffing allows.
+CSE 190 may be repeated for credit a maximum of 3 times (maximum of 12 units; assuming courses taken for a different topic)
+A maximum of
+one
+CSE 190 may be enrolled/waitlisted per quarter
+Note:
+For the Fall 2023 Computer Science (CS26) curriculum, all CSE 190 courses will be labeled with a corresponding "Tag(s)" (Systems, Theory/Abstraction, and/or Applications of Computing). CSE 190 offerings before Fall 2023 are untagged but may be used as an Open CSE Elective for Computer Science majors who have changed to the FA23 CS26 curriculum.
+____________________________________________________________________________
+Spring 2026
+CSE 190 A00 :
+Introduction to Deep Reinforcement Learning with Prithviraj Ammanabrolu
+Prerequisite:
+(CSE 12 or DSC 40B) and (CSE 15L or CSE 29 or DSC 80) and (COGS 118D or CSE 103 or ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186) and (CSE 100 or CSE 100R)
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+This course will build the concepts required to understand modern advances in reinforcement learning and its intersection with deep learning. It will start with search and reasoning techniques as well as provide an overview of the deep learning concepts like gradient descent up to LLMs. It will end in the intersection of the two talking about modern advancements like Deep Q Networks and RL used with LLMs. This will be an assignment focused class and students will be expected to code many of the concepts learned in class using Python.
+CSE 190 C00 :
+Introduction Blockchain Security with Deian Stefan
+Prerequisite:
+CSE 110
+CS Curriculum Tag(s)
+: Systems ; Applications of Computing
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+This course focuses on the security of blockchain technologies. Students will be introduced to many parts of the blockchain infrastructure — from the design and implementation of consensus protocols, to the programming layers above them, and the DeFi applications handling billions of dollars — and explore the different ways these systems can—and have—failed under adversarial settings. We will study attacks against real systems, revisit the security and assumptions of widely deployed protocols and applications, and analyze the impact of attacks, scams, and thefts.
+CSE 190 D00 : Human Robot Interaction with Riek, Laurel
+Prerequisite:
+Students should have a deep interest in human-focused research questions and human-centered technology development. Students should be comfortable reading and discussing scientific papers. Additionally,  this class requires familiarity with programming, data structures, and basic software engineering (e.g., CSE 8A, CSE 100, CSE 110). Students should be comfortable decomposing a complex problem, selecting suitable algorithms, and implementing them. Prior exposure to robotics is helpful, but not required. Experience using unix-like operating systems is also a plus.
+Class is unofficially co-scheduled with CSE 276B Section A00.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+CS Curriculum Tag(s)
+: Systems ; Applications of Computing
+To enroll:
+Please complete this form to be considered for enrollment:
+https://forms.gle/
+EjvSQta1mWnB11wL6
+Description:
+Robots are entering our world - in homes, hospitals, roadways, schools, and workplaces. How do we make them functional, useful, and acceptable? This course will explore key computational, scientific, and design concepts in human-robot interaction (HRI). We will review foundational and recent papers in the field, and engage in projects with physical robots.
+CSE 190 F00 : Generative AI and Programming
+Politz, Joseph Gibbs
+Prerequisite:
+CSE 110
+Class is unofficially co-scheduled with CSE 291P Section A00.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+No exceptions.
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Application deadline is Friday 2/27
+.
+Please complete this form to be considered for enrollment:
+https://forms.gle/
+BB962J9PXfHH2vFt5
+Description:
+Generative artificial intelligence (AI) tools that synthesize rich output from user-supplied prompts have enabled new kinds of programming. This includes both AI systems that edit source code (AI as agents that assist with coding), and AI systems that use API calls to an LLM to provide user-facing features (AI as API). In this course, we explore both of these with hands-on use of these tools to build applications, along with some background about how generative AI works (and when it fails to work) in this setting.
+____________________________________________________________________________
+Winter 2026
+CSE 190 A00 :
+Algorithms and Systems for Biomolecular Big Data
+with Bandeira, Nuno Filipe Cabrita
+Prerequisite:
+No course prerequisites
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+(Changed form application to EASy request. You MUST submit an EASy to enroll)
+Description:
+Computational analysis of massive volumes of data holds the potential to transform society. However, the computational translation of data into knowledge requires more than just data analysis algorithms – it also requires proper matching of data to knowledge for interpretation of the data, testing pre-existing knowledge and detecting new discoveries. We will study these concepts in the context of the longest-running (and arguably most important) human quest for knowledge of vital importance: the use of biomolecular big data to study human health and disease. With the sequencing of the genome and subsequent identification of the list of parts (i.e., genes and their protein products), there is renewed emphasis on understanding the many roles of the protein gene products using automated high-throughput approaches. The last few years have thus seen tremendous improvement in the quality and quantity of available data, as well as the realization that advanced algorithms and big data crowdsourced platforms are critical to the success of this technology. This course will cover the statistical, algorithmic and systems foundations of the various computational challenges arising from the need to match such data to related knowledge bases, with a special emphasis on investigations of cancer and infectious diseases (including the SARS-CoV-2/COVID19 pandemic).  In addition, we will also cover data science aspects of how these algorithms are integrated with global big data repositories and how these support communities of experts in distributed collaborative annotation of biomolecular ‘living data’.
+CSE 190 B00 :
+Data Center Systems
+with Ousterhout, Amy
+Prerequisite:
+CSE 120
+CS Curriculum Tag(s)
+: Systems
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+Data centers form the backbone of large-scale applications today, powering everything from popular online platforms such as Zoom, TikTok, and ChatGPT to critical enterprise systems in healthcare and other industries. In this course, students will learn how next-generation data centers work. We will explore the characteristics of data center applications and data center hardware (servers, networks, accelerators) and we will learn how to provide high performance, isolation, reliability, and energy efficiency for data center applications. We will also discuss the security, economic, and sustainability challenges facing data center operators. Students will gain hands-on experience with these concepts by working in small groups to implement a cloud application, deploy it in the cloud, and analyze its performance.
+CSE 190 C00 :
+Programmers are People Too
+with Coblenz, Michael J
+Prerequisite:
+CSE 110 or CSE 130.
+Class is unofficially co-scheduled with CSE 291P Section C00.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+Programmers of all kinds express their ideas using programming languages. Unfortunately, languages can be hard to use correctly, resulting in lengthy development times and buggy software. How can these languages be designed to make programmers as effective as possible?
+In this course, we will learn research methods for analyzing and improving the usability of programming languages. Students will apply these techniques to languages of current and historical interest, and in the process, expand their knowledge of different ways to design languages. This course is intended as preparation for conducting independent research on the usability of programming languages. The first part of the course will emphasize research methods from human-computer interaction research, with examples drawn from programming languages and development environments. The second part of the course will focus on reading research papers that describe key results from the field. The course will include homework assignments as well as a group research project.
+CSE 190 D00 :
+Post-Quantum Cryptography
+with Micciancio, Daniele
+Prerequisite:
+Linear Algebra (Math 18 or Math 20F or Math 31AH) and Discrete Mathematics (Math 15A or CSE20)  and Probability (Math 11 or CSE 21), and Algorithms (CSE101).
+Recommended (but not required)
+: Theory of computation (CSE105).
+CS Curriculum Tag(s)
+: Theory/Abstraction and/or Applications of Computing
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+As quantum computing advances from theory to reality, traditional cryptographic systems face increasing threats. This course introduces students to the field of Post-Quantum Cryptography (PQC) the study and development of cryptographic algorithms believed to be secure against quantum adversaries. The course covers several post-quantum algorithms, focusing on lattice-based and hash-based cryptography, as recently standardized by NIST. Emphasis will be placed on both theoretical foundations and  practical considerations, including security proofs, concrete security estimates, efficiency, implementation challenges, and current standardization efforts. By the end of the course, students will be equipped to understand and evaluate post-quantum schemes, their security, and their role in building secure systems for the quantum era.
+CSE 190 E00 : Working with Large Code Bases
+w
+ith Soosai Raj, Adalbert Gerald
+Prerequisite:
+CSE 110
+CS Curriculum Tag(s)
+: Applications of Computing
+and/or
+Systems
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+This
+hands-on practicum
+introduces students to understand and work with large codebases. Students will learn how to fix bugs and modify/add features in existing unfamiliar code. Students will learn processes, techniques, and tools for working with large codebases. Students will work in small teams on a large open-source codebase throughout the course. By the end of the course, students will develop practical skills and confidence to collaborate on complex software projects in real-world settings. This course is recommended for students *without* internship experience, although anyone is welcome to register.
+CSE 190 F00 : Search and Optimization Algorithms
+w
+ith Gao, Sicun (Sean)
+Prerequisite:
+CSE 150B.
+Class is unofficially co-scheduled with CSE 257 Section A00.
+Undergraduate students must enroll in the undergraduate version, and graduate students must enroll in the graduate version. Students will not receive credit for both classes.
+CS Curriculum Tag(s)
+: Theory/Abstraction
+To enroll:
+Submit course clearance request via
+Enrollment Authorization System (EASy)
+Description:
+The course covers several important algorithmic ideas for search and optimization problems relevant to many areas in computer science and various engineering domains.
+____________________________________________________________________________
+Fall 2025
+CSE 190 A00 : Human-Centered AI with Kristen Vaccaro
+Prerequisite:
+No course prerequisites
+CS Curriculum Tag(s)
+: Applications of Computing
+To enroll:
+Submit an application via this form:
+https://go.ucsd.edu/4kh1Fye
+Description:
+This course provides an introduction to harnessing the power of AI so that it benefits people and communities. Topics will include: agency and initiative, fairness and bias, transparency and explainability, confidence and errors, and privacy, ethics, and trust. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. Students will learn to think critically (but also optimistically) about what AI systems can do and how they should be integrated into society.

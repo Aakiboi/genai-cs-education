@@ -1,0 +1,111 @@
+18-742 Computer Architecture and Systems, Spring 2026
+18-742 Computer Architecture and Systems, Spring 2026
+18-742 Computer Architecture and Systems, Spring 2026
+18-742 Home
+Syllabus
+Summaries
+Project
+Announcements
+1/6:  Announcements will be via Ed
+18-742 Ed Discussion
+Overview
+18-742 is a PhD course in computer architecture and systems.
+The learning objectives are:
+To understand the state of the art in computer architecture,
+and how and why we got there.
+To understand how to engage in computer architecture and systems research.
+To investigate novel ideas in computer architecture and systems through a semester-long research
+project.
+Please note: This course is open to ECE and SCS Ph.D. students. Other
+students may be admitted by the permission of the instructor; please
+attend the first few sessions to see if you're interested. There will
+be a hard limit for the total number of students to ensure good
+in-class discussion and sufficient "face-time" for project
+meetings.
+This course assumes a basic familiarity with computer architecture
+concepts. The course will consist of a reading/lecture/discussion
+component and a project component. The class will cover approximately
+50 research papers (25 are required reading). Some of these papers
+will introduce students to the basic principles on which modern
+computer architecture and systems are based. Others will cover more
+recent work to explore the state of the art and observe the evolution
+of computer architecture over time.
+Students are expected to read papers before the class and participate in
+the discussion during the class.
+Lecture time:  MWF 11:00 - 12:20
+Note:  Class will meet on average two times per week.
+See the
+syllabus for the exact schedule.
+Units:  12
+Location:  DH 1112
+We will be using Ed for class announcements and out-of-class questions.
+Rather than emailing questions to Phil, Deepanjali, or Jaylen,
+please post your questions on Ed at
+18-742 Ed
+.
+Although most of the course information is on these web pages, the course
+is also on
+Canvas
+.
+In particular, assignments will be turned in using Canvas.
+Course Staff
+Instructor
+Name
+Email
+Office
+Office Hours
+Phil Gibbons
+gibbons AT cs DOT cmu DOT edu
+GHC 7221
+Fri 1-2 pm
+Teaching Assistants
+Name
+Email
+Office
+Office Hours
+Deepanjali Mishra
+deepanjm AT andrew DOT cmu DOT edu
+CIC 4120 Hot Metal
+Th 1-2 pm
+Jaylen Wang
+jaylenw AT andrew DOT cmu DOT edu
+CIC 4111 Smithfield
+Wed 3-4 pm
+Course Admin
+Name
+Email
+Office
+Michael Stanley
+mstanle2 AT andrew DOT cmu DOT edu
+GHC 7117
+Course Policies
+Collaboration
+Students are encouraged to talk to each other, to the course
+staff, or to anyone else about any of the assignments, but must write up
+their own solutions.
+For group projects, students can collaborate within the group fully and
+work together to write all project reports.
+Generative AI Course Policy
+It is NOT permitted to use Generative AI systems such as ChatGPT to
+help write paper summaries and project reports.
+It is NOT permitted to use Generative AI systems to generate research ideas or solutions for your course projects.
+You are welcome to use Generative AI systems (e.g., CoPilot) for
+assistance in writing code for your course project.  It does not need
+to be explicitly cited or mentioned when submitting your
+code. However, for all code you submit and experimental findings you
+report, please make a good faith effort to double-check the correctness
+of both the code and the findings that result from the code.
+Late Policy
+The deadline for any assignment
+can be extended with a 10% penalty per day.
+No deadline can be extended by more than two days.
+Assignments will
+NOT
+be accepted 48 hours after the due date.
+The project presentations must be given on the day they are scheduled.
+If you are ill
+:  Contact the instructor and get a medical note.
+Last updated: 2026-01-08 14:37:39 -0500
+[
+validate xhtml
+]

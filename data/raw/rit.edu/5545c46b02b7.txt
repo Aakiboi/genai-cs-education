@@ -1,0 +1,174 @@
+SWEN-262 — Syllabus
+SWEN-262 — Syllabus
+RIT Department of Software Engineering
+SWEN-262: Engineering of Software Subsystems
+Syllabus
+Course Description
+An introduction to the principles of contemporary software design at
+the subsystem and architecture level. Topics include reverse
+engineering, refactoring, design of software subsystems, design
+patterns, and a reinforcement of core software development lifecycle
+skills including agile development, version control, UML, unit
+testing, and more. Students will have an opportunity to practice
+their software design and development skills on mid-to-large scale
+software systems both individually, and as part of a team. AI use is
+deliberately scoped throughout — restricted where it would substitute
+for a student's own understanding, and structured with explicit
+guardrails where it's used to support design and implementation work.
+AI Policy
+AI use in this course is deliberately scoped based on the specific activity and
+the student's expected level of proficiency in that skillset.
+Coding and implementation.
+Students in SWEN-262 are expected to
+be proficient object-oriented programmers after having learned and practiced OOP
+in GCIS-123, GCIS-124, and SWEN-261. Whereas previous courses restricted the use
+of AI to assist while you were learning the fundamentals of OOP, now that you
+have mastered those fundamentals, you will often be
+expected and
+encouraged
+to use AI assistance when writing code.
+Design, analysis, and modeling.
+Many of the other skills used in
+this class — software design, state diagrams, design principles, design
+patterns, and so on — are much less developed. The AI policy for tasks involving
+those nascent and developing skills will be
+much more prescribed and
+restricted
+.
+Please pay close attention to the instructions on each activity indicating the
+acceptable use policy for AI. Unless otherwise stated,
+AI use is
+prohibited
+for any given activity.
+Use of AI on the midterm or final exams constitutes a violation of academic
+honesty.
+Academic Honesty Policy
+In SWEN-262, all submitted individual work (quizzes, exams, mini-designs, etc.)
+is expected to be the result of your own, individual effort. Unless otherwise
+indicated, use of AI tools is strictly prohibited.
+All submitted team work (Design Project Release 1 & 2) is expected to be the
+result of a collaborative effort from the entire team. Contributions to team
+deliverables are expected to be the result of roughly equal effort across
+members of the team. Unless otherwise specified, use of AI tools is strictly
+prohibited. If one student on the team submits work that violates this policy,
+the entire team shares responsibility
+.
+The penalty for a first minor offense of the course academic honesty policy is a
+zero on the corresponding assignment. The penalty for a second offense or an
+egregious offense is an F in the course. Please consult
+RIT's
+Student Academic Integrity Policy
+for more information.
+Minimum Passing Grade
+The prerequisite for registering for coop is SWEN-262 with a grade of C-.
+Course Topics
+The course will encompass a variety of concepts and topics, among them are the following:
+Reverse Engineering Legacy Code
+Refactoring
+Classic GoF Design Patterns
+Domain Modeling
+Anti-Patterns
+Design Principles
+Unit Testing
+UML Class & Sequence Diagrams
+State Machines & State Diagrams
+AI-assisted Programming & Design
+Course Objectives
+This course treats software design as an engineering activity, not just a
+programming activity — one where systems are analyzed, planned, and evolved
+deliberately, not assembled ad hoc. By the end of the course, you will be able to:
+Safely reverse-engineer and refactor an unfamiliar legacy codebase, using structured analysis and AI-assisted tooling to identify design problems before changing any code.
+Individually design a software subsystem by applying an appropriate classic design pattern, and articulate that choice and its impact on the design using established design-principles language.
+Work as part of an agile software development team to architect, design, and implement a mid-sized software system from a clean sheet through full implementation.
+Learing Outcomes and Exam Study Guides
+Method of Instruction
+Flipped-classroom approach for some individualized learning, e.g., classic design patterns.
+Individual work on reverse engineering, refactoring, and each release's mini-design.
+Team work for the design project's design and implementation phases.
+Some class time used for lectures, but the majority is for in-class work (both individuals and teams).
+Students will also have an opportunity to present their individual work to the class, as well as presenting as part of their design project team.
+Textbook(s)
+Required:
+"Design Patterns: Elements of Reusable Object-Oriented Software", Gamma, Helm, Johnson, Vlissides (The Gang of Four [GOF])
+Recommended:
+"Refactoring: Improving the Design of Existing Code" (2nd Edition), Martin Fowler
+Attendance Policy
+Attending class is important because there will be time devoted to activities in almost
+every class session that contribute to your grade. During the individual phases of the
+course — the Reverse Engineering & Refactoring unit and the individual mini-design days
+of each Design Project release — class time is largely used for your own independent work,
+with the instructor and TA circulating to answer questions and give feedback in real time.
+Once teams are formed, most classes will also include team meeting time, some of which will
+be with the instructor discussing project work with each team. During these meetings with
+the instructor, you will be able to ask questions about the project and receive early
+feedback on your project work.
+Grading Breakdown
+A final course grade is a combination of your grades on exams, class activities, online discussion, and team projects.
+Component
+Percentage of Final Grade
+Class Activities
+5%
+Mini-Designs (2.5% each)
+5%
+Reverse Engineering & Refactoring
+20%
+Design Project Release 1
+15%
+Design Project Release 2
+15%
+Midterm Exam 1
+10%
+Midterm Exam 2
+10%
+Final Exam
+20%
+Practice Final
+(bonus)
++2%
+Individual
+Team-based
+Mixed (varies by session)
+Note
+: Individual adjustments to the team-based portions of the Design Project Release 1 and Release 2 grades may be made in either direction based on the assessment of your contribution by the instructor and your colleagues on the team.
+Grading Letter Breakdown
+The following chart will be used to determine your letter grade at the conclusion of the term.
+Grade
+Percentage Range
+A
+Score ≥
+93
+A-
+90
+≤ Score <
+93
+B+
+87
+≤ Score <
+90
+B
+83
+≤ Score <
+87
+B-
+80
+≤ Score <
+83
+C+
+77
+≤ Score <
+80
+C
+73
+≤ Score <
+77
+C-
+70
+≤ Score <
+73
+D
+60
+≤ Score <
+70
+F
+Score <
+60

@@ -1,0 +1,545 @@
+Generative AI | 10-423 + 10-623 + 10-723 | Fall 2025
+Generative AI | 10-423 + 10-623 + 10-723 | Fall 2025
+Generative AI
+For information about 10-x23 in Spring 2026, click here!
+10-423 + 10-623 + 10-723, Fall 2025
+School of Computer Science
+Carnegie Mellon University
+Syllabus
+Course Info
+Instructor
+:
+Aran Nayebi
+and
+Matt Gormley
+Meetings
+:
+10-423 / 10-623 / 10-723:
+MWF, 2:00 PM - 3:20 PM (GHC 4401)
+Lectures are on Mondays and Wednesdays.
+Occasional recitations are on Fridays and will be listed on the schedule.
+Piazza:
+https://piazza.com/cmu/fall2025/10423623723
+Gradescope:
+https://www.gradescope.com/courses/1079227
+Lecture Livestream:
+See Piazza Post
+Video Recordings:
+Panopto
+Office Hours Queue:
+https://ohq.eberly.cmu.edu/
+1. Course Description
+From generating images and text to generating music and art, the goal of generative modeling has long been a key challenge for artificial intelligence. This course explores the techniques from machine learning and artificial intelligence that are driving the recent advances in generative modeling and foundation models. Students will understand, develop, and apply state-of-the-art algorithms that enable machines to generate realistic and creative content. Core topics will include: the fundamental mechanisms of learning; how to build generative models and other large foundation models (e.g. transformers for vision and language, diffusion models); how to train such models (pre-training, fine-tuning) and efficiently adapt them (adapters, in-context learning); how to scale up to massive datasets (multi-GPU/distributed optimization); how to employ existing models for everyday use (generating code, coding with a generative model in the loop). Students will also explore the theoretical foundations and empirical attempts to understand their inner workings as well as learn about the ways in which things can go wrong (bias, hallucination, adversarial attacks, data contamination) and ways to combat these problems. Students in the course will develop understanding of modern techniques through implementation, but they will also employ existing libraries and models to explore their generative capabilities and limitations. The course is designed for students who have completed an introductory course in machine learning or deep learning.
+Learning Outcomes:
+Upon completion of the course, students should be able to…
+Differentiate between different mechanisms of learning such as parameter tuning and in-context learning.
+Implement the foundational models underlying modern approaches to generative modeling, such as transformers and diffusion models.
+Apply existing models to real-world generation problems for text, code, images, audio, and video.
+Employ techniques for adapting foundation models to tasks such as fine-tuning, adapters, and in-context learning.
+Enable methods for generative modeling to scale-up to large datasets of text, code, or images.
+Use existing generative models to solve real-world discriminative problems and for other everyday use cases.
+Analyze the theoretical properties of foundation models at scale.
+Identify potential pitfalls of generative modeling for different modalities.
+Describe societal impacts of large-scale generative AI systems.
+For more details about topics covered, see the
+Schedule
+page.
+2. Prerequisites
+Students entering the class are expected to have a pre-existing
+working knowledge of introductory machine learning or deep learning by
+taking one of (10301 or 10315 or 10601 or 10701 or 10715 or 11485 or
+11685 or 11785).
+You must strictly adhere to these pre-requisites! Even if CMU’s
+registration system does not prevent you from registering for this
+course, it is still your responsibility to make sure you have all of
+these prerequisites before you register.
+3. Recommended Textbooks
+The core content of this course does not follow any one textbook, but
+readings will be made available for free online.
+4. Course Components
+Grading
+The requirements of this course consist of participating in lectures,
+quizzes, exams, homework assignments, and a project. The
+grading breakdown differs for 10-423 and 10-623 and 10-723. The courses are
+identical in their content, except that students in 10-623 will also
+do HW623 and students in 10-723 will do HW623 and Quiz723.
+10-423:
+40% Homework Assignments (5 total)
+10% In-class Quizzes (5 total, but we drop your lowest)
+20% In-class Exam (1 total)
+25% Project
+5% Participation
+On Piazza, the
+Top Student “Endorsed Answer” Answerers
+can earn
+bonus points
+10-623:
+40% Homework Assignments (6 total)
+10% In-class Quizzes (5 total, but we drop your lowest)
+20% In-class Exam (1 total)
+25% Project
+5% Participation
+On Piazza, the
+Top Student “Endorsed Answer” Answerers
+can earn
+bonus points
+In addition to HW1 - HW4, students registered for 10-623 are required
+to complete HW623. This assignment will focus on understanding, explaining,
+and evaluating key topics from the recent literature on generative AI.
+10-723:
+40% Homework Assignments (6 total)
+10% In-class Quizzes (6 total, but we drop your lowest)
+20% In-class Exam (1 total)
+25% Project
+5% Participation
+On Piazza, the
+Top Student “Endorsed Answer” Answerers
+can earn
+bonus points
+In addition to Quizzes 1-5, students registered for 10-723 are required to complete Quiz723. This quiz may be scheduled in-class on a Friday or a weekday evening.
+Grade cutoffs:
+≥ 97% A+
+≥ 93% A
+≥ 90% A-
+≥ 87% B+
+≥ 83% B
+≥ 80% B-
+≥ 77% C+
+≥ 73% C
+≥ 70% C-
+≥ 67% D+
+≥ 63% D
+otherwise R
+Each individual component (e.g. an exam) may be curved
+upwards
+at
+the end. As well, the cutoffs above are merely an
+upper bound
+, at
+the end they may be adjusted down. We expect that the number of
+students that receive A’s (including A+, A, A-) is at least half the
+number of students that take the midterm exam(s). The number of B’s
+(including B+, B, B-) will be at least two-thirds the number of A’s.
+Quizzes
+Unless otherwise noted, all quizzes are closed-book.
+You are required to attend all quizzes (one special quiz Quiz723 is
+for 10-723 students only). All quizzes will take place in-class on
+either Monday, Wednesday, or Friday. The exact dates are announced on
+the course schedule.
+The quizzes are intended to be a low-stakes assessment, as compared to
+the exam. As such, when computing your final average quiz grade, we
+will drop your lowest quiz.
+Exams
+Unless otherwise noted, all exams are closed-book.
+You are required to attend the exam. The exam will be given in class
+and the exact date announced on the course schedule.
+If you have an unavoidable conflict with an exam (e.g. an exam in
+another course), notify us
+by filling out “exam conflict” form
+.
+These Exam Conflict Forms are announced on Piazza before each exam.
+If your conflict is
+with an exam in another course
+, please promptly email the following people to let them know of the exam conflict:
+the instructor(s) for this course
+the education associate(s) for this course
+the instructor(s) for the other course
+In the case of exam conflicts, we will discuss with the other course and
+suggest a resolution. One possible resolution is that we will accommodate
+you and will ask you to fill out the exam conflict form above. Please note
+that email should ONLY be used to address conflicts with an exam in another
+course. The definition of a final exam conflict and the standard procedures
+are described here:
+https://www.cmu.edu/hub/registrar/exams-and-grading/conflict-guidelines.html
+Homework
+There will be several assignments for 10-423 (and one additional
+assignments for 10-623 and 10-723 only). They contain both written questions and
+programming. Written portions ask students to analyze why the
+algorithms work as they do. The programming portions will both (a) ask
+students to implement core algorithms from scratch and (b) apply
+existing libraries and models to real world problems in machine
+learning.
+Your solutions to the programming questions must be written in Python.
+More details are listed on the
+Coursework
+page.
+Project
+The course project affords an opportunity to apply generative modeling to a
+real-world machine learning problem in your domain of interest. The
+work will be completed in the last 4 weeks of the course, written up
+in a report, and presented at the poster session, which will be held
+during finals week.
+More details are listed on the
+Coursework
+page.
+Participation
+Your participation grade in the course will come from activities
+related to the project and occassional surveys/polls.
+Exit Polls
+Your submission of the exit polls counts towards your participation grade. There will be one after each homework assignment and one after each exam. You will receive full credit for any exit poll filled in within one week of its release on Piazza.
+Lectures
+Attendance at lectures is expected. Lectures will be livestreamed and
+recorded for later viewing, but (because we don’t have a professional
+videographer) the recording may be of poor quality or technical
+difficulties could result in no video recording at all.
+Recitations
+Reciations will be on Fridays.
+Attendance at recitations is required whenever there is a quiz
+scheduled for that day; otherwise attendance is not required, but
+strongly encouraged.
+These sessions will be interactive and focus on problem solving. The
+recitations will be recorded for later viewing, but we strongly
+encourage you to actively participate. A problem sheet will usually be
+released prior to the recitation. If you are unable to attend one or
+you missed an important detail, feel free to stop by office hours to
+ask the TAs about the content that was covered. Of course, we also
+encourage you to exchange notes with your peers.
+Office Hours
+The schedule for Office Hours will always appear on the Google
+Calendar on the Office Hours page.
+Readings
+The purpose of the readings is to provide a broader and deeper
+foundation than just the lectures and assessments. The
+readings for this course are
+required
+. We recommend you read them
+after the lecture
+. Sometimes the readings include whole topics
+that are not mentioned in lecture; such topics will (in general)
+not
+appear on the exams, but we still encourage you to skim those
+portions.
+5. Technologies
+We use a variety of technologies:
+Piazza
+We will use Piazza for all
+course discussion
+. Questions about
+homeworks, course content, logistics, etc. should all be directed to
+Piazza. If you have a question, chances are several others had the
+same question. By posting your question publicly on Piazza, the course
+staff can answer once and everyone benefits. If you have a private
+question, you should also use Piazza as it will likely receive a
+faster response.
+Gradescope
+We use Gradescope to collect PDF submissions of
+open-ended questions
+on the homework (e.g. mathematical derivations, plots, short answers). The course staff
+will manually grade your submission, and you’ll receive personalized
+feedback explaining your final marks.
+You will also submit your code for
+programming questions
+on the
+homework to Gradescope. In general, your code will not be evaluated by
+an autograder, but you are still required to submit it.
+In some cases, upon uploading your PDF, Gradescope will ask you to identify which
+page(s) contains your solution for each problem – this is a great way
+to double check that you haven’t left anything out.
+Regrade Requests:
+If you believe an error was made during manual
+grading, you’ll be able to submit a regrade request on Gradescope. For
+each homework, regrade requests will be open for only 1 week after the
+grades have been published. This is to encourage you to check the
+feedback you’ve received early!
+Zoom
+Lectures and recitations will be livestreamed via Zoom.
+Panopto
+Lecture and recitation video recordings will be available on
+Panopto.  The link to the Video Recordings is available
+in the “Links” dropdown and the recitation recordings will be
+available.
+Cloud Storage
+According to
+SquareTrade
+,
+one in three laptops fail over three years. That means your laptop is
+about to malfunction, perhaps catastrophically. As such,
+all of your
+work for this class must be backed up in the cloud.
+For example,
+everyone at CMU has storage on Google Drive and so your code
+can be backed up there. If you do your writeups in Overleaf, you’re
+already set. But, if you use a tablet, make sure your app is backing
+up your inked PDF. If you do your work on physical paper, snap an
+occasional (cloud stored) photo of it.
+6. General Policies
+Late homework policy
+Late homework submissions will receive partial credit based on the
+number of days late (one day is a 24-hour period):
+1 day late: 75% credit
+2 days late: 50% credit
+3 days late: 25% credit
+You receive 6 total grace days
+for
+use on any homework assignment
+. We will
+automatically keep a tally of these grace days for you; they will be
+applied greedily. No assignment will be accepted more than 3 days
+after the deadline. This has two important implications: (1) you may
+not use more than 3 graces days on any single assignment (2)
+you may
+not combine grace days with the late policy above to submit more than
+3 days late.
+All homework submissions are electronic (see Technologies section
+below). As such, lateness will be determined by the latest timestamp
+of any part of your submission. For example, suppose the homework
+requires two submission uploads – if you submit the first upload on
+time but the second upload 1 minute late, you entire
+homework will be penalized for the full 24-hour period.
+Late Policy for Project Deliverables
+Project deliverables submitted late will still receive partial credit as follows:
+1 day late: 90% credit
+2 days late: 75% credit
+3 days late: 55% credit
+4 days late: 30% credit
+5 days late: 0% credit
+You
+may not use grace days
+for project deliverables.
+Extensions
+In general, we do not grant extensions on assignments or offer a different day/time for a quiz. There are several exceptions:
+Medical Emergencies:
+If you are sick and unable to complete an
+assignment or attend class, please go to University Health
+Services. For minor illnesses, we expect grace days or our late
+penalties to provide sufficient accommodation. For medical
+emergencies (e.g. prolonged hospitalization), students may request
+an extension afterwards.
+Family/Personal Emergencies:
+If you have a family emergency
+(e.g. death in the family) or a personal emergency (e.g. mental
+health crisis), please contact your academic adviser and/or Counseling
+and Psychological Services (CaPS).
+University-Approved Travel:
+If you are traveling out-of-town to
+a university approved event or an academic conference, you may
+request an extension for any time lost due to traveling. For
+university approved absences, you must provide confirmation of
+attendance, usually from a faculty or staff organizer of the event
+or via travel/conference receipts.
+For any of the above situations, you may request an extension
+by
+emailing the Education Associate(s) at
+dpbird@andrew.cmu.edu
+– do not email
+the instructor or TAs
+. Please be specific about which assessment(s)
+you are requesting an extension for and the number of hours
+requested. The email should be sent as soon as you are aware of the
+conflict and at least
+5 days prior to the deadline
+. In the case of
+an emergency, no notice is needed.
+If this is a medical emergency or mental health crisis, you must also
+CC your
+CMU College
+Liaison
+and your academic advisor. Do not submit any medical documentation to
+the course staff. If necessary, your College Liaison and The Division
+of Student Affairs (DoSA) will request such documentation and they
+will view the health documentation and conclude whether a retroactive
+extension is appropriate. (If you haven’t interacted with your college
+liaison before, they are experienced Student Affairs staff who work in
+partnership with students, housefellows, advisors, faculty, and
+associate deans in each college to assure support for students
+regarding their overall Carnegie Mellon experience.)
+Audit Policy
+Formal auditing of this course is permitted. However, we give priority
+to students taking the course for a letter grade.
+You must follow the official procedures for a Course Audit as outlined
+by the HUB / registrar. Please do not email the instructor requesting
+permission to audit.  Instead, you should first register for the
+appropriate section.
+Next fill out the
+Course Audit Approval
+form
+and
+obtain the instructor’s signature in-person (either at office hours or
+immediately after class).
+Auditors are required to:
+Attend or watch all of the lectures.
+Submit at least 2 of HW1, HW2, HW3, or HW4. You are not required to submit HW0, but if you are unable to complete HW0 you will probably be unable to complete the other assignments.
+Auditors are encouraged to sit for the quizzes and exams, but should
+only do so if they plan to put forth actual effort in solving them.
+Pass/Fail Policy
+We allow you take the course as Pass/Fail. Instructor permission is
+not required. What letter grade is the cutoff for a Pass will depend
+on your specific program; we do not specify whether or not you Pass
+but rather we compute your letter grade the same as everyone else in
+the class (i.e. using the cutoffs listed above) and your program
+converts that letter grade to a Pass or Fail depending on their
+cutoff. Be sure to check with your program / department as to whether
+you can count a Pass/Fail course towards your degree requirements.
+Accommodations for Students with Disabilities:
+If you have a disability and have an accommodations letter from the
+Disability Resources office, please
+email the Education Associate(s)
+at
+dpbird@andrew.cmu.edu
+requesting to set up a meeting with them to discuss your
+accommodations and needs as early in the semester as possible. The EAs will
+work with you to ensure that accommodations are provided as
+appropriate. If you suspect that you may have a disability and would
+benefit from accommodations but are not yet registered with the Office
+of Disability Resources, I encourage you to contact them at
+access@andrew.cmu.edu
+.
+7. Collaboration and Academic Integrity Policies
+Read this carefully!
+Collaboration among Students
+The purpose of student collaboration is to facilitate learning, not to
+circumvent it. Towards that end, we strongly encourage
+collaboration. All collaboration must adhere to the following
+requirements.
+When collaborating on a written problem from the homework:
+You are
+not
+permitted to show a paper copy or electronic
+version of your final or partial solution to another student taking
+the course (e.g. handwritten solution on paper, PDF of your
+homework, Overleaf).
+Instead, you must discuss the problem at a whiteboard or
+chalkboard. If your discussion leads to a solution, that is fine so
+long as an effort has been made to ensure everyone in the discussion
+understands the solution. If you need to consult your notes during
+the discussion, you should step away from the whiteboard to do so.
+You may take notes (handwritten or typed) after you complete your
+discussion at the whiteboard, but you should not share those notes
+with each other (since it would violate rule 1 above).
+When collaborating on a programming problem from the homework:
+You should
+never
+have two laptops open side-by-side. You are
+not permitted to copy someone’s code directly.
+You are welcome to have a discussion around one person’s code (your
+own, or your collaborators) so long as
+only one laptop is open
+during your discussion. In this way, we encourage you to help each
+other find bugs, provide high-level suggestions on code structure,
+or even discuss fine-grained aspects of one person’s
+implementation.
+You are welcome to take notes after you complete your
+discussion. But you should not be taking notes while looking at
+someone else’s code since you risk violating rule 1 above.
+When collaborating on any type of problem for the homework:
+You must exchange names with your collaborator, so that you can
+note that you worked together on a specific problem in the
+“Collaboration Questions” at the end of each homework
+assignment. If you collaborated with someone at office hours, but
+missed their name note this in the “Collaboration Questions”.
+If you gave help after turning in your own assignment and/or after
+answering the questions above, you must update your “Collaboration
+Question” answers by sending a private note on Piazza to the
+instructors.
+Collaboration without full disclosure will be handled severely, in
+compliance with
+CMU’s Policy on Academic
+Integrity
+.
+Previously Used Assignments
+Some of the homework assignments used in this class may have been used
+in prior versions of this class, or in classes at other institutions,
+or elsewhere. Solutions to them may be, or may have been, available
+online, or from other people or sources.  It is explicitly forbidden
+to use any such sources, or to consult people who have solved these
+problems before. It is explicitly forbidden to search for these
+problems or their solutions on the internet.
+(Collaboration with other students who are currently taking the class
+is allowed, but only under the conditions stated above.)
+AI Assistance
+To best support your own learning, you should complete all graded
+assignments in this course yourself, without any use of generative
+artificial intelligence (AI), such as ChatGPT. Please refrain from
+using AI tools to generate any content (text, video, audio, images,
+code, etc.) for an assessment. Passing off any AI generated content as
+your own (e.g., cutting and pasting content into written assignments,
+or paraphrasing AI content) constitutes a violation of
+CMU’s academic
+integrity policy
+.
+(Instead of regurgitating the output of a machine, we encourage you to
+collaborate with your peers as stated above.)
+Policy Regarding “Found Code”:
+You are encouraged to read books and other instructional materials,
+both online and offline, to help you understand the concepts and
+algorithms taught in class. These materials may contain example code
+or pseudo code, which may help you better understand an algorithm or
+an implementation detail. However, when you implement your own
+solution to an assignment, you must put all materials aside, and write
+your code completely on your own, starting “from
+scratch”. Specifically, you may not use any code you found or came
+across. If you find or come across code that implements any part of
+your assignment, you must disclose this fact in your collaboration
+statement.
+Self-Plagiarism
+If you took a different course with similar assignments or previously attempted this course, note the following distinct policies:
+If you took a different course with similar assignments to this one, you
+may not
+reuse that work. Instead, you should set that work aside and complete the assignment for this course from scratch.
+If you registered for this course in a previous semester and completed some of the homework assignments, you
+may
+reuse your own work.
+Duty to Protect One’s Work
+To protect current and future students, do not post your solutions
+publicly, neither during the course nor afterwards.
+Penalties for Violations of Course Policies
+All violations (even first one) of course policies will always be
+reported to the university authorities (your Department Head,
+Associate Dean, Dean of Student Affairs, etc.) as an official Academic
+Integrity Violation and will carry severe penalties.
+The penalty for the first violation is a negative 100% on the
+assignment (i.e. it would have been better to submit nothing and
+receive a 0%).
+The penalty for the second violation is failure in the course, and
+can even lead to dismissal from the university.
+(The above policies are adapted from Roni Rosenfeld’s
+10-601 Spring
+2016
+Course Policies.)
+8. Support
+Take care of yourself.  Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at
+http://www.cmu.edu/counseling/
+. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night:
+CaPS: 412-268-2922
+Re:solve Crisis Network: 888-796-8226
+If the situation is life threatening, call the police:
+On campus: CMU Police: 412-268-2323
+Off campus: 911.
+If you have questions about this or your coursework, please let the instructors know.
+9. Diversity
+We must treat every individual with respect. We are diverse in many
+ways, and this diversity is fundamental to building and maintaining an
+equitable and inclusive campus community. Diversity can refer to
+multiple ways that we identify ourselves, including but not limited to
+race, color, national origin, language, sex, disability, age, sexual
+orientation, gender identity, religion, creed, ancestry, belief,
+veteran status, or genetic information. Each of these diverse
+identities, along with many others not mentioned here, shape the
+perspectives our students, faculty, and staff bring to our campus. We,
+at CMU, will work to promote diversity, equity and inclusion not only
+because diversity fuels excellence and innovation, but because we want
+to pursue justice. We acknowledge our imperfections while we also
+fully commit to the work, inside and outside of our classrooms, of
+building and sustaining a campus community that increasingly embraces
+these core values.
+Each of us is responsible for creating a safer, more inclusive environment.
+Unfortunately, incidents of bias or discrimination do occur, whether
+intentional or unintentional. They contribute to creating an
+unwelcoming environment for individuals and groups at the
+university. Therefore, the university encourages anyone who
+experiences or observes unfair or hostile treatment on the basis of
+identity to speak out for justice and support, within the moment of
+the incident or after the incident has passed. Anyone can share these
+experiences using the following resources:
+Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu,
+(412) 268-2150
+Report-It online anonymous reporting platform: reportit.net
+username: tartans password: plaid
+All reports will be documented and deliberated to determine if there
+should be any following actions. Regardless of incident type, the
+university will use all shared experiences to transform our campus
+climate to be more equitable and just.
+Contents

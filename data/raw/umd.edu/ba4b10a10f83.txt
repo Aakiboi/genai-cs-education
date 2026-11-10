@@ -1,0 +1,59 @@
+CS Faculty Members Receive AIM Grants to Develop AI-Focused Courses | UMD Department of Computer Science
+CS Faculty Members Receive AIM Grants to Develop AI-Focused Courses | UMD Department of Computer Science
+Skip to main content
+UMD Department of Computer Science
+Toggle navigation
+News & Events
+News
+Talks
+Events Calendar
+CS Video & Audio
+iCal Feed
+Newsletters
+News & Events Overview
+CS Faculty Members Receive AIM Grants to Develop AI-Focused Courses
+The three courses will give students hands-on experience with autonomous systems, embodied AI and AI-assisted software development.
+May 04, 2026
+Faculty in the University of Maryland Department of Computer Science are involved in three of the 15 new courses announced by the
+Artificial Intelligence Interdisciplinary Institute at Maryland
+as part of its 2026-27 course development grant program.
+The AIM grants, valued at $10,000 each, support courses that address societal challenges in an AI-driven world. The courses will be developed by the end of 2026 and presented at an AI education symposium at UMD in spring 2027.
+The three courses involving computer science faculty are:
+Autonomy/AI Fundamentals for the Development, Test and Evaluation, Verification and Validation Workforce
+This graduate course, co-taught by computer science Associate Professor
+Pratap Tokekar
+, Donald Costello of the Maryland Autonomous Technologies Research Innovation & eXploration Laboratory and aerospace engineering Associate Professor Mumu Xu, prepares students to evaluate autonomous and AI-enabled aviation systems as they move through the development, test and evaluation, verification and validation process required for real-world deployment. Students are introduced to the core concepts, control methods and risk-mitigation challenges involved in assessing uncrewed and ultimately autonomous transportation systems. Through hands-on work in formal methods, reinforcement learning and perception programming, the course builds practical skills for analyzing the safety, performance and reliability of AI systems in aviation.
+Embodied AI Studio: Installation, Performance and Intelligent Media Through Reflective Making
+This 400-level hands-on course, developed by computer science Assistant Professor
+Huaishu Peng
+and immersive media design Lecturer
+Jonathan Martin
+, brings together art, design, engineering and computer science students to explore how AI can be experienced through bodies, objects and spaces. Through studio projects and a semester-long capstone, students prototype interactive works that combine generative AI or computer vision with physical computing in forms such as wearables, responsive objects, installations and simple robotic behaviors. The course will help students build technical fluency, critically examine the ethical and social dimensions of embodied AI and produce a public-facing, portfolio-ready project.
+Modern Software Development
+Computer science Senior Lecturer
+Anwar Mamat
+and Assistant Professor
+Leonidas Lampropoulos
+are developing an undergraduate course to equip students with the skills necessary to build production-quality software using modern generative AI-assisted workflows, from design to deployment. Team projects cover core software engineering practices, including version control, testing, architecture, security, user interface and experience, and cloud deployment, while building fluency with AI tools transforming each stage. Hands-on application is combined with critical reflection on correctness, ethics and responsible use, highlighting both the power and limits of AI in contemporary software development.
+—Article adapted from a news release by Maryland Today
+The Department welcomes comments, suggestions and corrections.  Send email to
+editor
+[-at-]
+cs
+[dot]
+umd
+[dot]
+edu
+.
+Recent News
+November 10, 2026
+Finding the Way With TerpNav
+November 09, 2026
+UMD Researchers Receive EMNLP Best Paper Award
+Applying AI to Human Skill Learning Through Embodied Human-AI Collaboration
+November 05, 2026
+Teaching AI How to Speak
+November 04, 2026
+UMD Team Aims to Make Live Music Accessible Through Touch
+Browse All News
+RSS Feed

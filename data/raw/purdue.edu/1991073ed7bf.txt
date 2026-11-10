@@ -1,0 +1,188 @@
+Considerations for Your Syllabus and Course - Teaching@Purdue
+Considerations for Your Syllabus and Course - Teaching@Purdue
+Skip to content
+Teaching @ Purdue
+Generative AI Topics
+Overview of Generative AI
+Multi-Modal AI
+Considerations for Your Syllabus and Course
+Measuring Learning
+Creative Pedagogy and AI
+Algorithmic Literacy
+Leave Your Feedback
+Cancel reply
+You must be
+logged in
+to post a comment.
+Considerations for Your Syllabus and Course
+Home
+»
+Generative AI
+» Considerations for Your Syllabus and Course
+Like
+10
+Views:
+14,461
+AI and Your Course Syllabus
+With the rapid advancement of artificial intelligence-generated content tools, consider updating your course syllabus to clarify your plans and expectations around the use of AI. The Office of the Provost has provided
+Guidelines for Teaching & Learning in the age of AI
+, including several considerations for your syllabus.
+Below we offer some related considerations, including example language, and syllabi from Purdue faculty and instructors.
+What to know about AI
+Many students know about AI resources, but do not assume that they clearly understand this new evolving technology. Adding a short narrative can provide a good foundation for understanding the basics. Three suggested principles to apply to student usage of AI is:
+Make sure your students understand that ChatGPT and other AI agents are known to fabricate things, and they need to carefully consider that when assessing their output.
+Any use of AI-generated content should be documented according to the following practices (
+list your preferred documentation practice)
+.
+Students are responsible for their learning and will not develop the skills they need to be successful in their careers by relying entirely on AI to do the work for them.
+You can both encourage students to explore the utility of AI for their learning and remind them in your course to document AI production that is not their own.
+Transparency and clear expectations are most helpful for students.
+You may also want to determine the degree of LLM use that is allowable in your course, and for what purposes. For example, you may allow students to use an LLM for creating ideas, but not for specific deliverables. You could also limit a percent of certain work that could be LLM written. Finally, you can declare certain assignments to be entirely off-limits. You can see an example from
+faculty member Kate Zipay
+on item #5 in the
+Creative Pedagogy and AI
+section, “Getting Started with Writing”
+Below we’ve included several examples of syllabus language.
+Sample Syllabus Statements
+Purdue’s own Data Mine has some
+direct guidance on AI use
+and instructor communication.
+​​​​​​​Biochemistry professor Dr. Orla Hart
+outlines expectations
+for student use of AI and attribution in several different circumstances.
+Management professor Dr. Kate Zipay
+discusses
+ethics, communication and academic integrity around use of AI in coursework.
+Computer Engineering professor Dr. James Davis
+discusses
+the intersection of AI tools in a coding course.
+Engineering Education professor Dr. Kirsten Davis
+shares processes
+for a graduate course with a significant writing focus.
+University College London has
+documentation
+written directly for students.
+If you plan to engage students critically in discussions around AI,
+this language statement
+from the Universidad del Rosario is helpful.
+Finally, Lance Eaton has a curated set of syllabi policies sorted by subject on
+this Google Sheets document.
+Chatbots and Large Language Models can also scan the internet and replicate information. Given the increasing potential for chatbots to produce inaccurate information, your syllabus could include a warning about their tendency towards deceptive data (see
+Mollick 2023
+for suggestions).
+Concerns with AI Use and Monitoring
+LLMs are trained on specific written material, and curated by individuals within the organizations who created them. The algorithms necessarily
+reproduce the biases inherent
+in the training material and
+reflect specific cultural and societal
+norms. This cultural reproduction is strengthened when by an AI workforce is
+overwhelming male
+and
+white or Asian
+. The bias is also
+implicit
+despite efforts by AI companies to moderate biased output.
+The freely available LLMs are
+neither transparent
+in their algorithmic process nor documentation. This requires an increasingly critical approach to their output, and warrants caution for any course that mandates student use of these tools. We strongly suggest alternative assignments if you plan to integrate LLMs directly into your course learning, while also guiding students through careful interpretation of responses to student prompts.
+The structure of LLMs make their output largely undetectable by automated processes. University of Maryland researchers have
+outlined
+the theoretical and practical limitations of LLM-detection software. Further, purported detection tools have
+disproportionately returned false positives
+for non-native English speakers. We strongly encourage you to treat the output of any such software as highly suspect.
+Instead, consider proactively engaging with students on the value of written work as part of the thinking process in your course and discipline, and be transparent and direct with your expectations for writing in your learning environment. You can also emphasis resources (like
+Purdue’s Online Writing Lab
+) that can help students write in ways that are
+authentic
+to their learning in your course.
+Assignment and assessment guidelines
+AI has many possible uses to improve and expand students’ learning experience. However, students will need clear guidelines for when it is appropriate to use and how to use AI in the course. Adding guiding statements to each assignment and assessment description is one of the best ways to reinforce your position on student use of these tools to complete their assignments. Personal or reflective assignments are less susceptible to Large Language Models and chatbots. You might also consider asking students to connect course materials to their own life and experience, or document the relevance to their personal learning goals.
+Academic integrity
+As with other aspects of academic integrity, students benefit from clear and repeated guidance on course expectations. If your course includes generative content, such as typed assignments, code, or visual/musical media, you will want to emphasize how students should reference their usage of AI resources. Students will benefit from knowing that AI resources such as ChatGPT pull information and data from across the internet, which can lead to factual inaccuracies and implicit biases. If your course learning outcomes require individual student output that AI tools can mimic, you will want to make explicit whether you expect students to refrain from using these tools. Finally, if you have strong feelings about AI tools and the drawbacks of their use, discuss those issues in class with students. Share your perspectives on how you think these tools can help or hinder their learning, and why you value academic integrity. We suggest focusing on the benefit to students and their learning, and not potential negative consequences to their grade.
+Here
+is an example of an approach one instructor has taken with their students.
+Ethics
+If you are seeking guidance on ethical use of AI, consider
+this document
+from MLA-CCCC (Modern Language Association and Conference on College Composition and Communication) task force.
+Similarly, the
+Journal of Accountability in Research requires
+its contributors to specify:
+1) Who uses AI
+2) Time and date used
+3) Prompts used to generate text
+4) Sections containing AI-generated text
+5) Ideas resulting from AI use
+Purdue policy and guidelines
+As stated above, The Office of the Provost has released
+Guidelines for Teaching & Learning in the age of AI
+.
+If you have further questions about discussing Artificial Intelligence syllabus or would like additional language examples, please contact
+innovativelearningteam@purdue.edu
+.
+References
+Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. (2024). Measuring Implicit Bias in Explicitly Unbiased Large Language Models.
+https://arxiv.org/abs/2402.04105
+Gladd, J. (2022).
+Course policies related to ChatGPT and other AI yools
+. Creative Commons Attribution 4.0 International License. Retrieved Feb. 2, 2023 from
+https://docs.google.com/document/d/1WpCeTyiWCPQ9MNCsFeKMDQLSTsg1oKfNIH6MzoSFXqQ/edit
+Gupta, S., Shrivastava, V., Deshpande, A., Kalyan, A., Clark, P., Sabharwal, A., & Khot, T. (2023). Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs.
+https://doi.org/10.48550/arXiv.2311.04892
+Hosseini, M., Rasmussen, L. M., & Resnik, D. B. (2023). Using AI to write scholarly publications.
+Accountability in research
+, 1-9.
+https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535
+Kovač, G., Sawayama, M., Portelas, R., Colas, C., Dominey, P. F., & Oudeyer, P. Y. (2023). Large language models as superpositions of cultural perspectives.
+arXiv preprint arXiv:2307.07870
+.
+Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers.
+arXiv preprint arXiv:2304.02819
+.
+Liesenfeld, A., Lopez, A., & Dingemanse, M. (2023). Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators.
+arXiv preprint arXiv:2307.05532
+.
+Luo, J. (2024). A critical review of GenAI policies in higher education assessment: a call to reconsider the “originality” of students’ work.
+Assessment & Evaluation in Higher Education, 1-14.
+Mollick, E. (2023, February 23).
+Why all our classes suddenly became AI classes
+,
+https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes
+Sadasivan, V. S., Kumar, A., Balasubramanian, S., Wang, W., & Feizi, S. (2023). Can ai-generated text be reliably detected?
+arXiv preprint arXiv:2303.11156
+.
+Steipe, B. (2023). Syllabus Resources.
+The Sentient Syllabus Project.
+http://sentientsyllabus.org
+.
+University College London (2023, August 7).
+Engaging with AI in your education and assessment
+.
+https://www.ucl.ac.uk/students/exams-and-assessments/assessment-success-guide/engaging-ai-your-education-and-assessment
+Unizin (2023).
+Sample syllabus statements
+https://docs.google.com/document/d/1BJBLwk14zMbqn_ySKDrfFnNugKAe-xx0c8qBxLtWbBI/edit#heading=h.7haq5semmtm8
+Watkins, R. (2022). Update your course syllabus for ChatGPT.
+Medium
+. Retrieved Feb. 2, 2023, from
+https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003
+West et al. (2019).
+Discriminating systems: Gender, race and power in AI.
+AINow.
+https://ainowinstitute.org/wp-content/uploads/2023/04/discriminatingsystems.pdf
+World Economic Forum. (2018). Global gender gap report.
+https://www3.weforum.org/docs/WEF_GGGR_2018.pdf
+Module Navigation
+Next Module:
+Measuring Learning
+Previous Module:
+Multi-Modal AI
+Current Topic:
+Generative AI
+Next Topic:
+GTAs
+Leave Your Feedback
+Cancel reply
+You must be
+logged in
+to post a comment.

@@ -1,0 +1,127 @@
+AXL | AI Experimentation Lab at Harvey Mudd College
+AXL | AI Experimentation Lab at Harvey Mudd College
+Skip to content
+Vision
+Activities
+Conference
+Team
+Fellows
+Harvey Mudd College
+AI
+Experimentation
+Lab
+A lab focused on teaching, creativity, criticality, and societal impact with AI. Reimagining world-class undergraduate education in the age of Generative AI.
+Meet the Fall 2026 Fellows
+Learn More
+AI
+4
+Core Aims
+7
++
+Key Activities
+7C
+Consortium Partners
+2026
+Seed Conference
+The Opportunity
+The invention of photography transformed art, culture, science, and society in ways no one could have imagined.
+Nearly two centuries later, with Generative AI, we are at a similar inflection point
+—one that demands not revision but new thinking.
+Our Vision
+Cultivating Innovation for World-Class Education
+The AXL cultivates, supports, and shares the faculty, staff, and student innovations needed to keep HMC's promise of world-class undergraduate education in the age of GenAI.
+01
+(Re)Imagining Higher Education
+GenAI tools bring both challenges and opportunities. HMC is well placed to lead discussions of what we teach, why we teach it, and how we teach and assess it.
+02
+Communities of Practice
+Bringing together faculty, students, and staff across campuses to support new work on teaching about, with, and in the presence of GenAI.
+03
+Inspiring Creativity
+Providing access to cutting-edge GenAI tools and supporting collaborative experimentation so HMC stays current in a fast-moving field and leads by example.
+04
+Showcasing Leadership
+Positioning HMC as a leader in envisioning a GenAI future that weighs societal and environmental impacts, raising our profile nationally and internationally.
+Key Activities
+A Comprehensive Program
+Advancing GenAI education, research, and critical discourse across disciplines.
+🎓
+HSA-STEM Grants
+Interdisciplinary modules on the ethical, cultural, environmental, and societal implications of GenAI.
+💡
+Innovative Teaching
+Training and grants to support groundbreaking approaches to teaching with and about GenAI.
+🤝
+Learning Communities
+Communities of practice welcoming faculty, staff, and students from the 7Cs and beyond.
+🎤
+Speakers & Discussions
+Invited speakers and book clubs, held online to reach national and international audiences.
+📚
+Teaching Repository
+A growing repository of AI-aware teaching materials for every discipline.
+🔬
+Research & Creation
+Support for prototypes, artworks, and physical objects engaging AI tools and critical inquiry.
+Seed Stage Event
+(Re)Imagining Liberal Arts & STEM Education in the
+Age of GenAI
+In May 2026, faculty, administrators, and students spent two days at Harvey Mudd sharpening their thinking about how institutions should respond to generative AI—what to teach, how to assess, and what skills remain uniquely human. The archive and program site remain online.
+📅
+Held
+May 21-22, 2026
+📍
+Location
+HMC Campus
+Claremont, CA
+Revisit the Conference
+Attendee Sign In
+What the Conference Set Out to Do
+Educate faculty on GenAI technologies, advancements, and environmental impacts
+Discuss intention and intentionality in GenAI use
+Share examples of engaging students with GenAI in courses
+Foster student-faculty collaboration on academic honesty
+Bring in world-class experts on societal impact and sustainable AI
+Help participants develop modules for their own courses
+Leadership
+Our Team
+Nancy Lape
+Engineering
+Josh Brake
+Engineering
+Ken Fandell
+Art
+Julie Medero
+Computer Science
+FA26 Fellows
+AXL Fellows
+Each semester, a cohort of Harvey Mudd faculty and staff commits to a concrete experiment in a course they are teaching—building new tools, rewriting how learning is assessed, or making GenAI itself the subject. Fellows meet through the semester, report honestly on what worked, and share the results with the college.
+Sophia Bahena
+Engineering
+Replacing take-home exams in Chemical Reactors with scaffolded in-class quizzes every other week, alternating with student-led case studies on reaction systems and their impacts.
+Jonathan Chang
+Computer Science
+Formalizing the lab notebook in Natural Language Processing as a shared living document, shifting grading from generated code toward the visible process behind it.
+Lisette de Pillis
+Mathematics
+Retiring take-home exams in Differential Equations for six short in-class quizzes, each followed by an anonymous live “solution swap” in which students grade a classmate’s work.
+Harrison Li
+Mathematics
+Running a randomized study in Probability and Statistics in which group oral quizzes are AI-enabled or not, testing whether GenAI helps or hinders understanding.
+Paul Steinberg
+Humanities, Social Sciences, and the Arts
+Adding a week on AI governance to Science, Technology and Public Policy, surveying how countries regulate AI and bringing in a guest speaker.
+Chris Stone
+Computer Science
+Devoting four Math+CS Clinic sessions to using coding assistants responsibly—including revisiting AI-generated code weeks later to see who can still explain how it works.
+Francis Su
+Mathematics
+Building interactive, slider-driven visualizations for Real Analysis II—a course whose textbook has no pictures—so students can explore key proofs and form their own conjectures.
+TJ Tsai
+Engineering
+Developing a course chatbot tuned to specific learning objectives that helps students and shows the instructor where understanding is breaking down.
+Ten fellows in the inaugural Spring 2026 cohort came before them.
+All Fellows & Past Cohorts
+Join the Conversation
+Help shape the future of education in the age of AI. Get in touch to learn more about the AI Experimentation Lab.
+Get Involved

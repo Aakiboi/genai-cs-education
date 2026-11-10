@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GenAI in CS Education — Findings</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="data/findings.js"></script>
+</head><body>
+<script src="nav.js"></script>
+<main class="wrap">
+<h1>How US CS departments talk about generative AI</h1>
+<p class="sub" id="lede"></p>
+<div class="kpis" id="kpis"></div>
+
+<h2 id="rq1">RQ1 · What are students permitted to do?</h2>
+<div class="grid">
+  <div class="card"><h3>Course-level stance (each syllabus / SE course page)</h3><div class="chart"><canvas id="cStance"></canvas></div>
+  <p class="note">Ordinal codebook: 1 Prohibited → 5 Encouraged. "None" = page mentions AI but states no rule.</p></div>
+  <div class="card"><h3>Disclosure is the common condition</h3><div class="chart"><canvas id="cDisc"></canvas></div>
+  <p class="note">Share of documents that ask students to cite, disclose or document AI use.</p></div>
+</div>
+
+<h2 id="rq2">RQ2 · Tone of official publications</h2>
+<div class="grid">
+  <div class="card"><h3>Mean sentiment by document type (−1 cautious … +1 positive)</h3><div class="chart"><canvas id="cSent"></canvas></div></div>
+  <div class="card"><h3>Positive vs. cautious documents</h3><div class="chart"><canvas id="cSentPN"></canvas></div>
+  <p class="note">Positive: score &gt; 0.2; cautious: score &lt; −0.2. Department pages and news promote AI; course syllabi focus on risks and integrity.</p></div>
+</div>
+
+<h2 id="rq3">RQ3 · Is AI framed as a collaborator?</h2>
+<div class="grid">
+  <div class="card"><h3>Framing found in AI sentences (documents)</h3><div class="chart"><canvas id="cCollab"></canvas></div>
+  <p class="note">Collaborator = "as a collaborator/peer/partner", "collaborate with AI", pair programming. Tutor = tutor, rubber duck, study aid. Assistant = tool framing (not counted as collaboration).</p></div>
+  <div class="card"><h3>AI tools named in evidence sentences</h3><div class="chart"><canvas id="cTools"></canvas></div></div>
+</div>
+
+<h2 id="rq4">RQ4 · Software-engineering courses</h2>
+<div class="grid">
+  <div class="card"><h3>Stance in SE course documents</h3><div class="chart"><canvas id="cSE"></canvas></div></div>
+  <div class="card" id="seCard"></div>
+</div>
+
+<h2 id="rq5">RQ5 · Differences between institution types</h2>
+<div class="grid">
+  <div class="card"><h3>Mean course stance (1–5)</h3><div class="chart"><canvas id="cGroupStance"></canvas></div></div>
+  <div class="card"><h3>% of schools with disclosure / collaboration language</h3><div class="chart"><canvas id="cGroupPct"></canvas></div></div>
+</div>
+<p class="note" id="rq5note"></p>
+
+<h2 id="schools">Schools</h2>
+<div class="controls"><input type="search" id="qS" placeholder="Search schools…">
+<select id="fTier"><option value="">All tiers</option><option>R1</option><option>non-R1</option></select>
+<select id="fCtl"><option value="">Public + private</option><option>public</option><option>private</option></select>
+<select id="fReg"><option value="">All regions</option><option>West</option><option>Midwest</option><option>Northeast</option><option>South</option></select></div>
+<div class="tbl" id="tSchools"></div>
+
+<h2 id="evidence">Evidence explorer</h2>
+<p class="sub">Every code links to the source page and the exact sentences that triggered it.</p>
+<div class="controls"><input type="search" id="qD" placeholder="Search school, title or quote…">
+<select id="fCat"><option value="">All document types</option><option value="policy">Institution guidance</option><option value="department">Department</option><option value="course">Course</option><option value="se_course">SE course</option></select>
+<select id="fSt"><option value="">All stances</option></select>
+<label><input type="checkbox" id="fCol"> collaboration only</label></div>
+<div class="card list" id="docs"></div>
+
+<h2 id="method">Method</h2>
+<div class="card">
+<p><b>Sample.</b> 30 US institutions, stratified: 22 R1 (10 private, 12 public) and 8 non-R1, across four regions. For each school, one domain-restricted web search found public teaching-center guidance, CS department publications, CS course syllabi and software-engineering courses. These pages were downloaded (HTML/PDF → text).</p>
+<p><b>Coding.</b> A transparent, rule-based codebook (<code>pipeline/code.py</code>, <code>specs/02-coding-analysis.md</code>) codes only sentences that mention AI. It assigns stance (1–5), sentiment (−1…+1), disclosure, collaboration framing, and whether AI is the subject of SE instruction. School-level stance is the median of its course documents.</p>
+<p><b>Validation.</b> <span id="valtext"></span> All tests are on the <a href="validation.html">validation page</a>.</p>
+</div>
+
+<h2 id="limitations">Limitations</h2>
+<div class="card"><ul>
+<li>Purposive sample: search ranking decided which pages were found, so this is not a census. Each school's few documents may not represent all its courses.</li>
+<li>Some pages could not be fetched: sites that block automated clients (HTTP 403) and pages rendered only by JavaScript. Failures are listed in <code>data/documents.json</code>.</li>
+<li>Keyword rules miss irony and nuance, and can pick up unrelated text (e.g., news sidebars). Teaching-center pages list every template option, so they code as "mixed".</li>
+<li>Sentiment is lexicon-based: integrity language ("violation") reads as negative even when a policy is permissive.</li>
+<li>Pages are a snapshot from the retrieval date shown in each record; policies change each term.</li>
+</ul></div>
+<p class="note" id="gen"></p>
+</main>
+<script>
+chartDefaults();
+const F = window.FINDINGS, L = F.stance_labels;
+const SC = k => css(k === "None" || k === "null" ? "--s0" : "--s" + k);
+const order = ["1", "2", "3", "4", "5", "None"];
+const lab = k => k === "None" ? "No rule stated" : L[k];
+const pct = (a, b) => b ? Math.round(100 * a / b) : 0;
+const T = F.totals, sch = F.schools;
+const permSchools = sch.filter(s => s.course_stance >= 4).length, withStance = sch.filter(s => s.course_stance != null).length;
+
+$("#lede").textContent = `${T.documents} public documents from ${T.schools} institutions, coded with a transparent codebook. Generated ${fmtTime(F.generated)}.`;
+$("#kpis").innerHTML = [
+  [T.schools, "institutions sampled"], [T.documents, "documents coded"],
+  [pct(permSchools, withStance) + "%", `of schools with course rules permit or encourage AI (${permSchools}/${withStance})`],
+  [pct(F.disclosure_docs, T.documents) + "%", "of documents require disclosure"],
+  [pct(F.collaboration.docs_any, T.documents) + "%", "of documents frame AI as collaborator/tutor"],
+  [`${F.gold.correct}/${F.gold.n}`, "gold-set stance agreement"],
+].map(([v, l]) => `<div class="card kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+const bar = (id, labels, data, colors, opt = {}) => new Chart($(id), { type: "bar",
+  data: { labels, datasets: [{ data, backgroundColor: colors, borderRadius: 4 }] },
+  options: { indexAxis: opt.h ? "y" : "x", plugins: { legend: { display: false } }, scales: opt.scales || {} } });
+const dist = d => order.filter(k => d[k]).map(k => [k, d[k]]);
+
+let cs = dist(F.course_stance_dist);
+bar("#cStance", cs.map(([k]) => lab(k)), cs.map(([, v]) => v), cs.map(([k]) => SC(k)));
+new Chart($("#cDisc"), { type: "doughnut", data: { labels: ["Requires disclosure", "No disclosure language"],
+  datasets: [{ data: [F.disclosure_docs, T.documents - F.disclosure_docs], backgroundColor: [css("--s5"), css("--s0")] }] },
+  options: { plugins: { legend: { position: "bottom" } } } });
+
+const catName = { policy: "Institution guidance", department: "Department", course: "Course", se_course: "SE course" };
+const cats = Object.keys(F.sentiment_by_category);
+bar("#cSent", cats.map(c => `${catName[c]} (n=${F.sentiment_by_category[c].n})`), cats.map(c => F.sentiment_by_category[c].mean),
+  cats.map(c => F.sentiment_by_category[c].mean >= 0 ? css("--s4") : css("--s1")), { scales: { y: { min: -1, max: 1 } } });
+new Chart($("#cSentPN"), { type: "bar", data: { labels: cats.map(c => catName[c]), datasets: [
+  { label: "Positive", data: cats.map(c => F.sentiment_by_category[c].positive), backgroundColor: css("--s4") },
+  { label: "Cautious", data: cats.map(c => F.sentiment_by_category[c].negative), backgroundColor: css("--s1") }] },
+  options: { plugins: { legend: { position: "bottom" } } } });
+
+bar("#cCollab", ["Collaborator", "Tutor", "Assistant (tool)"], [F.collaboration.collaborator, F.collaboration.tutor, F.collaboration.assistant],
+  [css("--s5"), css("--s4"), css("--s0")], { h: true });
+const tools = Object.entries(F.tools_mentioned);
+bar("#cTools", tools.map(t => t[0]), tools.map(t => t[1]), css("--accent"), { h: true });
+
+let se = dist(F.se_stance_dist);
+bar("#cSE", se.map(([k]) => lab(k)), se.map(([, v]) => v), se.map(([k]) => SC(k)));
+$("#seCard").innerHTML = `<h3>AI as the subject of SE instruction</h3>
+  <div class="kpi"><div class="v">${F.se_ai_subject.docs}/${F.se_ai_subject.of}</div><div class="l">SE course documents teach AI-assisted development (coding agents, code generation, prompt/spec-driven work)</div></div>
+  <div class="kpi" style="margin-top:12px"><div class="v">${F.se_ai_subject.schools}/${T.schools}</div><div class="l">schools with at least one document that treats AI-assisted software engineering as course content</div></div>
+  <p class="note">Pattern: introductory programming courses restrict AI to protect fundamentals, while upper-level and SE courses increasingly require it and teach how to verify AI-generated code.</p>`;
+
+const groups = [["R1", F.by_tier.R1], ["non-R1", F.by_tier["non-R1"]], ["Public", F.by_control.public], ["Private", F.by_control.private],
+  ...Object.entries(F.by_region)];
+bar("#cGroupStance", groups.map(g => `${g[0]} (n=${g[1].n})`), groups.map(g => g[1].mean_course_stance), css("--accent"), { scales: { y: { min: 1, max: 5 } } });
+new Chart($("#cGroupPct"), { type: "bar", data: { labels: groups.map(g => g[0]), datasets: [
+  { label: "Disclosure", data: groups.map(g => g[1].pct_disclosure), backgroundColor: css("--s5") },
+  { label: "Collaboration", data: groups.map(g => g[1].pct_collaboration), backgroundColor: css("--s4") }] },
+  options: { plugins: { legend: { position: "bottom" } }, scales: { y: { max: 100 } } } });
+$("#rq5note").textContent = "Group sizes are small (non-R1 n=8), so treat differences as descriptive, not significant.";
+
+const pill = (s, t) => `<span class="pill st${s ?? 0}">${esc(t ?? (s ? L[s] : "None"))}</span>`;
+const sent = v => v == null ? "—" : (v > 0 ? "+" : "") + v.toFixed(2);
+function drawSchools() {
+  const q = $("#qS").value.toLowerCase(), t = $("#fTier").value, c = $("#fCtl").value, r = $("#fReg").value;
+  renderTable($("#tSchools"), sch.filter(s => (!q || s.name.toLowerCase().includes(q)) && (!t || s.tier === t) && (!c || s.control === c) && (!r || s.region === r)), [
+    { key: "name", label: "School" }, { key: "tier", label: "Tier" }, { key: "control", label: "Control" }, { key: "region", label: "Region" },
+    { key: "n_docs", label: "Docs" }, { key: "course_stance", label: "Course stance", render: s => s.course_stance ? pill(s.course_stance) : "—" },
+    { key: "guidance_stance", label: "Inst. guidance", render: s => s.guidance_stance ? pill(s.guidance_stance) : "—" },
+    { key: "dept_sentiment", label: "Dept./guidance tone", render: s => sent(s.dept_sentiment) },
+    { key: "disclosure", label: "Disclosure", render: s => s.disclosure ? "✓" : "" },
+    { key: "collaboration", label: "Collab.", render: s => s.collaboration ? "✓" : "" },
+    { key: "se_ai_subject", label: "AI in SE", render: s => s.se_ai_subject ? "✓" : "" }]);
+}
+["#qS", "#fTier", "#fCtl", "#fReg"].forEach(s => $(s).oninput = drawSchools); drawSchools();
+
+$("#fSt").innerHTML += order.map(k => `<option value="${k}">${lab(k)}</option>`).join("");
+function drawDocs() {
+  const q = $("#qD").value.toLowerCase(), c = $("#fCat").value, st = $("#fSt").value, col = $("#fCol").checked;
+  const rows = F.documents.filter(d => (!c || d.category === c) && (!st || String(d.stance) === st) && (!col || d.collaboration_any) &&
+    (!q || (d.school + " " + d.title + " " + Object.values(d.evidence).flat().join(" ")).toLowerCase().includes(q)));
+  $("#docs").innerHTML = rows.length ? rows.map(d => {
+    const ev = [["Stance", d.evidence.stance], ["Disclosure", d.evidence.disclosure], ["Collaboration", d.evidence.collaboration],
+      ["SE / AI as subject", d.evidence.se_ai_subject], ["Positive", d.evidence.sentiment_pos], ["Cautious", d.evidence.sentiment_neg]]
+      .filter(e => e[1].length).map(([n, qs]) => `<div class="meta">${n}</div>${qs.map(x => `<blockquote>${esc(x)}</blockquote>`).join("")}`).join("");
+    return `<div class="item"><b>${esc(d.school)}</b> · ${catName[d.category]} · ${pill(d.stance, d.stance_label)} · tone ${sent(d.sentiment)}
+      <div><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.title || d.url)}</a> <span class="meta">retrieved ${esc(d.retrieved.slice(0, 10))}</span></div>
+      <details><summary class="meta">${d.ai_sentences} AI sentences · show evidence</summary>${ev || '<p class="meta">No coded evidence.</p>'}</details></div>`;
+  }).join("") : '<p class="meta">No documents match.</p>';
+}
+["#qD", "#fCat", "#fSt", "#fCol"].forEach(s => $(s).oninput = drawDocs); drawDocs();
+
+const hr = F.human_review;
+$("#valtext").textContent = `Stance agreed with independently described course policies on ${F.gold.correct} of ${F.gold.n} gold-set pages. ` +
+  (hr && hr.n ? `Human coding of ${hr.n} sampled documents: agreement ${Math.round(hr.agreement * 100)}%, Cohen's κ = ${hr.kappa}.`
+             : "A 25% stratified sample (data/review_sample.csv) is ready for independent human coding; κ appears here once it is filled in.") +
+  " Unit tests check every rule, and an automated test confirms every quote appears verbatim in its source.";
+$("#gen").textContent = "Data generated " + fmtTime(F.generated) + " by python project2.py analyze.";
+</script>
+</body></html>

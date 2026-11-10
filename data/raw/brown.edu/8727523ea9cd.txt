@@ -1,0 +1,217 @@
+CSCI 1250 | Course Info
+CSCI 1250 | Course Info
+CS125
+Course Missive
+Course Missive
+Staff
+TAs
+Hours and Location
+Introduction
+Course Content Overview
+Prerequisites and CS curriculum
+Aims
+Objectives
+Textbooks
+Recommended DVDs and online courses
+Assignments
+Time Commitment
+Attendance, Class Participation, and Classroom Policies
+Assessment and Late Policies
+Collaboration and AI Policy
+Inclusivity
+Health
+Software
+Computers
+Finally
+Staff
+Instructor: Prof. Barbara Meier
+CIT 401; office hours by appointment, just email me to work out a time
+barbara_meier@brown.edu
+TAs
+HTA: Kaia Bennett
+TA: Juliana Escuti
+TA Email:
+cs1250tas@lists.brown.edu
+Hours and Location
+Class: M, W 12-1:50 in CIT 316.
+TA hours, some special sessions, in MS lab: see syllabus for hours
+Introduction
+This course will introduce students to the 3D computer animation production pipeline which includes script/story writing, production planning, creating geometric models and their surface properties, designing motion, staging and lighting the action, compositing rendered images with 2D effects, and editing them into a short finished film. The first two thirds of the course will lead students through a series of exercises that build on each other to learn basic skills in the use of 2D and 3D animation tools. The remainder of the course focuses on group projects that will result in a short finished animation. At each step student work will be evaluated visually for expressiveness, technical correctness, and aesthetic qualities.
+Course Content Overview
+Learning 3d production:
+about 8-10 weeks
+Do tutorials and learn 2D and 3D techniques in modeling, shading, lighting, effects, and motion
+Propose a group final project with detailed story and visuals
+Final Project:
+3-4 weeks
+Create a short film in a group of 4-5 students
+Class time will be spent in lecture, in-class projects, discussion, watching films, demonstration, and critique of student work. The critique is essential for students to learn the iterative cycle of visually evaluating work in progress, determining possible improvements, and then implementing those improvements.  For many assignments, work will be critiqued more than once so that students get the opportunity to improve their work and get feedback on the results.  By looking at other students’ work, they are able to practice critical evaluation more often and with more distance than they can with their own work.
+Prerequisites and CS curriculum
+There are no absolute prerequisites for this course, but computer competence and experience in some related area is required.  Related areas include computer graphics, visual arts or MCM production courses, some RISD courses, or production experience in a related area such as computer graphics, filmmaking, video production, animation, digital imaging, or photography. Both the course and work in animation require collaboration, so good communication skills are also required. The course is limited to 20 students and instructor permission is required.  Students will have to demonstrate prior experience before being given permission to register.  If the course is over subscribed, preference will be given by seniority and to more experienced students, but some spots will be reserved for motivated juniors and sophomores. Given that this is a Brown course, we typically can take only a small number of RISD students even if they are well-qualified. This course is aimed primarily at undergraduates who are interested in collaborative work. Grad students are welcome to apply, but should understand that they will need to be fully engaged in interactive classroom activities and a group project.
+The Computer Science Department is committed to multi-disciplinary study and welcomes students who would like a taste of computing as well as those who are interested in the full course meal. This course is open to CS concentrators, non-concentrators, and RISD students. CS students who have taken CSCI 1230 or CSCI 2240 will find this course to be a creative application of the graphics algorithms explored in those courses.
+Aims
+These aims are broad goals for this course, while objectives are the concrete measures by which the aims are realized.
+Our aims are that by the end this course you will:
+(1) learn and use the production pipeline to create your own animated film
+(2) see animation as an artistic and personal expression both in what you view in others' work and in what you create
+(3) develop your critical eye so that you can improve your work
+Objectives
+To achieve the aims above, students will be able to do the following by the end of the semester:
+Model simple objects with geometry
+Create shaders to depict surface properties
+Light a simple scene to create a desired dramatic effect
+Understand basic animation controls
+Create a simple but polished animated film through the production pipeline from concept to finished movie with sound.
+Collaborate with other students on preproduction tasks and coordinate individual efforts during a production
+Visually and technically analyze a work in progress, both orally and written, for your own and other students’ work
+Develop problem-solving techniques for improving one’s work
+Begin to develop a relationship to the medium of animation both through expression in one’s work and viewing of other student and professional work
+For CS concentrators and technical folks: apply computer science technical knowledge and skills to a creative endeavor.
+For more artistic and less technical folks: get a good foundation of technical knowledge to facilitate artistic expression.
+Textbooks
+Required Texts
+None
+Recommended Texts
+Some class material will be taken from these sources, and others to be announced:
+Digital Lighting and Rendering
+by Jeremy Birn, 3rd ed. ISBN 978-0321928986.
+Cinefex, a journal of visual effects, published quarterly (available in Rock)
+Steven Katz,
+Film Directing Shot by Shot
+, Michael Wiese Productions, 1991
+Eadweard Muybridge,
+Animals in Motion
+, Dover, 1957.
+Eadweard Muybridge,
+The Human Figure in Motion
+, Dover, 1989.
+Richard Yot,
+Light for Visual Artists: Understanding & Using Light in Art & Design
+, Laurence King Publishing, 2011.
+Mike Wellins,
+Storytelling for Animation
+, 2005.
+Ed Hooks,
+Acting for Animators
+, 2003.
+Charles Solomon,
+The History of Animation
+, Wings Books, 1994.
+Frank Thomas and Ollie Johnston,
+Disney Animation: The Illusion of Life
+Richard Williams,
+The Animator's Survival Kit
+, Faber and Faber Ltd, 2001.
+George Maestri,
+Digital Character Animation 3
+, New Riders, 2006.
+Kate Alexander et al.,
+Ideas for the Animated Short
+, Focal Press, 2008.
+The Art of <fill in your favorite Pixar, Disney, Sony, Dreamworks animated feature>
+Nancy Beiman,
+Prepare to Board! Creating Story and Characters for Animated Features and Shorts
+, Focal Press, 2007.
+Online resources
+Many Maya training resources are online for free or subscription. You are welcome to view these on your own. Beware of random free tutorials you find online; the quality of these has high variance! Brown provides campus-wide access to tutorials on LinkedIn Learning and some will be pointed out at the relevant time. Go
+here
+to get started.
+Assignments
+This course has garnered a reputation for taking a lot of time and being fast-paced, but we would like to help you contain the time spent to a reasonable amount. Animation is a time intensive process, but not all of the time requires hard thinking; some is just going through steps you’ve already figured out how to do.
+Students taking this course have widely varying backgrounds; therefore, they may choose, within bounds, the level of complexity for their projects, both technically and aesthetically.  As long as the lower bound has been met, projects will not be penalized for being “simple,” but they should be polished. Students should consider what they want to get out of the course, their strengths, and their other commitments when choosing projects.
+The choice of projects is the most controllable key to keeping your time commitment within your budget.
+While each assignment is relatively straightforward, the complexity and vagaries of production software end up eating your time.  We will try to eliminate as much wheel-spinning as possible, but going down dead ends and contending with the software are part of the process. Students should plan accordingly and start assignments promptly. The group final project, in particular, can be quite time-consuming and students should plan for this when choosing their course load. The due dates and mandatory critique of the final project will be listed in the course calendar; students should make travel plans accordingly. The final screening is not required, but is your chance to show off your hard work to your friends and celebrate with the class.
+Most handins have two components: the product of the assignment and a written progress report and evaluation.
+Both must be turned in by 2am on the day they are due.
+The evaluation is a paragraph in which you discuss the challenges you faced, both technical and aesthetic, and how you approached and solved them or worked around them. For some assignments, there are specific questions or areas that you are asked to discuss. You should include ideas for how your work can be improved. Assignments turned in without a meaningful evaluation are marked down 1/3 of a letter grade.
+You are encouraged to
+start early and work steadily on every assignment
+. This will allow you to make several iterations on your project. Getting away from your project is as important as working on it. The time away helps in two ways: it can help you think of a different approach to solving a problem and it can help you view your work with a fresh eye so that you can find ways to improve it. Most assignments have an intermediate progress handin that is critiqued in class on the same day. Starting early ensures you get maximum benefit from this progress critique. The minimum effort that will receive credit for the progress handin is one hour of work. Of course, students are encouraged to do much more so they get helpful feedback during the progress critique. In addition, some assignments build on the previous ones;
+staying on schedule is essential
+. There may be a production assignment and a final project preproduction assignment due close to each other or we may post the next assignment before the current one is due. We recognize this can add to general confusion, but it can also work to your advantage because looking around the corner to the next task can often help you do a better job on the current task. You may also find that your lab time can be made more efficient when you are working on two things at once. For example, you can work on the next tutorial if you are stuck on the current problem.  Finally, we provide computers with the required software in the MS lab. If you rely on this, please note that other classes often use the MS lab in the evenings for sections, so you will need to plan your time there accordingly.
+The due dates can be found on the course calendar.  Tutorials and assignments are to be completed individually except for the final project which will be done in groups of four or five students.
+Assignments are handed in with a handin script that runs from a terminal window. The TAs will provide info on how to do this, but ultimately you are responsible for learning how to do this. This process can take several minutes if you have big files. The time stamp on the file is used to determine the handin time.
+Time Commitment
+There are two 1-hour-50-minute mandatory class meetings per week and one 30-minute conference with the professor outside class time in November. There are five 1-2 week projects in this course in addition to the final project. Each project covers a phase of the production pipeline and seeks to introduce students to the creative and technical processes of that phase. Each project also requires the completion of several guided tutorials that introduce students to the details of using the software to achieve the project goals. The time required to complete the tutorials and projects varies widely, but most students report 10-20 hours per week. The final project may require significantly more time, 20-30 hours/week in the 2-3 weeks after the Thanksgiving break.
+Attendance, Class Participation, and Classroom Policies
+This is a studio/seminar course. The success of the class depends on your participation in discussions, projects, and critiques; therefore
+attendance is mandatory
+.  You must email me before class if you have a legitimate conflict or are sick in order to be excused.
+Students who have more than two unexcused absences class may not pass.
+The class participation grade will be based on participation in discussions, critiques, in-class exercises, and presentations. Coming to class, but having your head stuck in your laptop is not okay. Plan on being an active participant in class.  Please note that it is a large part of the grade, and can raise or lower the final grade significantly.
+Students are asked to refrain from distracting behavior in the classroom such as cell phone use/ringing, texting, playing games, social networking, email, chatting, and making out (yes, it has happened). If you use a laptop, be sure to close it while we are watching films.
+Since our class meets during lunch, you may eat in the classroom. It is a small room, so be courteous. On some days we will meet in the MS lab. You may not eat during class on those days because no food is allowed in the lab. These days will be announced in advance. Please clean up after yourself and
+throw away food trash in the kitchen
+. The classroom trash is not emptied every day.
+Assessment and Late Policies
+The following is an approximate breakdown of the contributions of the course components:
+Tutorials: 5%
+Assignments: 40%
+Participation in Class Discussion, in-class Projects, and Critique: 15%
+Final Project: 40%
+Each project will be graded by the professor using a rubric that shows how well the design and technical criteria for that project have been met. The rubric will be available when the assignment is handed out. Most projects include one or more guided tutorials in addition to a standalone project. Tutorials are graded by undergraduate TAs on a five point scale. In real-life production, following your supervisor’s artistic and technical direction is key to getting projects done to a successful level within a time budget. Accordingly, we place emphasis on following the directions of assignments in this course. If you want to explore an alternate path or otherwise “show us your stuff,” do the regular assignment first and then play to your heart’s content. We love to see what you can do.
+To receive a passing grade in this course, students must:
+1. Participate in class critiques and discussions on a regular basis. I expect you to come to all classes having prepared assignments for critique and/or to have read and considered reading assignments carefully.
+2. Complete all assignments and the final project.
+3. Submit a written evaluation for all assignments and the final project.
+Assignments must be handed in with the handin script by 2am on their due dates.
+In-progress works are not graded, but if work is not presented on a critique day, is handed in after 10am, or does not not meet the minimum effort of at least one hour of work, the assignment will be marked down 1 letter grade. Late in-progress assignments (turned in from 2:01am to 10am) are marked down 1/2 letter grade. Assignments turned in after 10am will not be critiqued during class.  Final assignment versions are marked down 1/3 letter grade for each 24-hour period late up to one full letter grade. You may not hand in a final version for critique and then hand it in again late after receiving the in-class critique.
+For final versions of assignments, students have three “free” late days.
+These will be applied for maximum benefit in calculating final grades, but will not show up in grades for individual assignments.
+Free late days do not apply to progress handins, final projects, or tutorials.
+Late final projects will only be accepted with a Dean’s or doctor’s note.
+Extensions on an assignment will only be given for
+valid medical or personal situations
+, and must be supported with a note from Health Services, your doctor, or a Dean. The note can be retroactive. Our goal is for you to complete this class and we can work out alternate schedules if needed. The free late days should cover an occasional concurrent deadline or short illness. Occasionally, there may be opportunities to earn more free late days.
+In this course you will be learning new skills.  Some would argue that letter grades are not appropriate during this process.  You are welcome to take the class S/NC, but the same passing grade requirements apply. All final grades are assigned by the professor.
+Collaboration and AI Policy
+In the real world of production, nearly all work is collaborative and there is almost always more than one way to achieve the same goal. In this course, we encourage students to discuss approaches with each other on assignments in which each student will be pursuing a different project (e.g. a different object to model). For assignments in which all students are working on the same project, more care should be taken not to share strategies. Students may also find they are stuck not knowing how to proceed with the software.  In this case, it is best to see a TA or ask a question in the course Slack. If TAs are not available soon, then asking another student for direction is okay. However, one student may not “drive” the software for another student. Students need to acquire a basic level of competence at each production task in order to complete the final project. Students may critique each other’s work outside of class, but students whose work is being critiqued should figure out how to improve their own work.
+Students may not do assignments using software that duplicates the functionality of Maya (e.g. Blender), and then import the results into Maya. Students may not use third party solutions to any assignment with the exception of sound material, images, or movie clips that are incorporated into a larger piece. This includes downloads from the web and scripts, recipes, etc. from any outside source whether they are published or not. You are welcome to use tutorials to learn a technique, but you may not hand in the results of a tutorial as an assignment. For further information, please refer to Brown’s Academic Code.  If you are not sure about something, see me or TAs before proceeding.
+Students may use AI chatbots to help them solve problems using the software. Acceptable examples:
+How do I make my shadows softer?
+How can I move an object in its own coordinates?
+How do I contrain a mesh to another mesh?
+What are some playful props that a frog might own?
+Unacceptable examples:
+Create an aged metal shader for Arnold.
+Draw a 10-panel storyboard where a frog turns into a prince.
+Write a short story about a girl who is bullied.
+My personal experience with AI chatbots is that they are wrong about the details of Maya software around 80% of the time. Many solutions to Maya problems are found in online videos and the chatbots don't encode that info well. In addition, they often conflate  the 3D softwares so that the answer they give is for Blender, not Maya, or worse, a combination of two or more softwares. I've found that asking the chatbot to explain how something works can be a better way to learn. I've even pasted a few sentences from a Maya help page and asked the chatbot to explain it with more context.
+Students may not use Generative AI to create any 3D assets for use in this course. Students may use GenAI image creation for help with creating concept art. In this special case, the student should attribute any generated images to AI and include the prompt or reference images used to create it.
+Students are encouraged to ask about AI chatbot and GenAI usage if they have questions. There are far too many use cases to document in a policy. Large professional animation studios generally prohibit the use of AI because they don't want to share their data with AI companies and they want the chain of IP ownership to be clear. Smaller and independent studios do use GenAI, but we want you to learn these skills so you can produce work on your own. The artistic and technical skills you learn in this course can only be learned experientially, in other words by doing it yourself. If you just want immediate results, don't take this course, and use any tool you like.
+Inclusivity
+Creating an inclusive educational environment that embraces diversity is a matter of utmost importance. We want to ensure that all students feel welcome and capable of excellency inside and outside class despite differences in race, nationality, gender, sexual orientation, religion, age, physical or cognitive abilities, economic background, military experience, political ideology, and many other dimensions. You are encouraged to discuss any issues of inclusivity or the lack of it with the staff at any time during the course. You may also contact the CS Department’s Diversity Coordinator (
+morgan_beltre@brown.edu
+) if desired. While we aim to do our best, please remember we aren’t perfect. Feel free to mention or send a quick email to say, “I felt weird when….” to help our community create the best learning environment possible.
+Health
+CSCI 1250 students will be spending most of their course work time using computers. Check
+here
+and
+here
+for best practices to safeguard your health and well-being. We want you to work hard, but not suffer to a detrimental level. Students who would like consideration for disabilities should register with
+SAS
+.
+Students who are struggling with issues other than course content, such as time management, should consider contacting Brown's
+Academic Support
+services. Students who are having personal issues unrelated to this course that are impacting their ability to participate in class activities or complete assigned work should contact the offices of the
+Dean of Student Life
+or the
+Dean of the College
+.
+Software
+We will be using Autodesk Maya 2024, Arnold, Adobe After Effects (optional), and Adobe Premier Pro for class assignments. (An ongoing project is using Maya 2024 and that is what the CS department render farm will be running this semester.) Students may use their own computers or the Mac Minis in the MS Lab, CIT 167. CSCI 1250 students have priority over most other students using the lab since these computers are the only ones with installed software. The lab is also used for some class sections, so students should plan their work time around these. Brown offers
+free versions of the Adobe software for students
+. All Maya assignments must be turned in using the course handin script cs125_handin from a terminal window on the CS dept file system in formats that will load into Maya 2024, unless specifically stated otherwise. TAs are available to help students set up their accounts for handing in assignments. Maya and Arnold are free for student use and can be downloaded
+here
+. It is worth spending the effort to get the correct version of Maya now.  Note that it takes longer than the usual 2 minutes to download and install so don't wait to the last minute.
+Computers
+If you haven't taken a CS course before, then you should read the computing policies on the
+CS web page
+. If you have problems with your account, see the consultants in the Sun Lab - the other room with computers on the first floor of the CIT. They can fix the problem or pass the problem on to someone who can. CS dept computers are backed up automatically and you can (usually) recover lost files. See a consultant or
+this page
+for help.
+You will be given a disk space quota for the semester for course work.  The space on the CS file system will not be enough for all your projects. It is highly recommended you use your own computer, an external drive, or cloud space (8-10 GB will probably be enough space) to store past assignments. It is recommended that you keep your most current work on the CS file system, because we can't make accommodations for lost data on your own hardware. Final project groups are given additional common space for project files. Running out of disk space will not be accepted as a valid excuse for late or missing assignments.
+Using your own computer:
+If you choose to use your own laptop, you will likely want to purchase a 3-button mouse (2 buttons and clickable scroll wheel is fine) for using Maya since the interface is designed to work with one. Using your laptop's track pad and modifier keys does not provide all functionality. You will need a minimum of 8-10 GB of storage on your hard drive for class work, and another 2-4 Gb for the software.  You are responsible for backing up your work to another disk: to the Brown CS filestystem, to another drive, or to the cloud. Your laptop will probably not be sufficient to do all the rendering necessary for this class. Without an expensive paid license, rendering happens in the "foreground" which means you won't be able to use Maya while you're rendering. Rendering is also CPU/GPU-intensive and can quickly overheat a laptop, not to mention make it unusable for anything else at the same time. You have access to the MS lab computers and a render farm that runs on the CIS compute grid. Take the time to learn both so you aren't stranded later in the semester.
+Finally
+Making animation is fun, but it takes a lot of time to do great work. For example, Pixar animators typically animate about 10 seconds in a 40-50 hour work week. That does not include designing,  modeling, shading, lighting, or compositing. You will not have the luxury of spending that much time, and your work will not look as polished at this stage. But don’t be discouraged – you are in the beginning of learning this great art medium. Expect the software to make you insane at times. Just choose your projects wisely and stay on top of the assignments.  You can do this!

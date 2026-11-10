@@ -1,0 +1,31 @@
+name,domain,tier,control,region
+Stanford University,stanford.edu,R1,private,West
+Massachusetts Institute of Technology,mit.edu,R1,private,Northeast
+Carnegie Mellon University,cmu.edu,R1,private,Northeast
+Harvard University,harvard.edu,R1,private,Northeast
+Princeton University,princeton.edu,R1,private,Northeast
+Cornell University,cornell.edu,R1,private,Northeast
+Duke University,duke.edu,R1,private,South
+Northwestern University,northwestern.edu,R1,private,Midwest
+Johns Hopkins University,jhu.edu,R1,private,Northeast
+Brown University,brown.edu,R1,private,Northeast
+University of California Berkeley,berkeley.edu,R1,public,West
+University of Illinois Urbana-Champaign,illinois.edu,R1,public,Midwest
+University of Washington,washington.edu,R1,public,West
+University of Michigan,umich.edu,R1,public,Midwest
+Georgia Institute of Technology,gatech.edu,R1,public,South
+University of Texas at Austin,utexas.edu,R1,public,South
+University of California San Diego,ucsd.edu,R1,public,West
+Purdue University,purdue.edu,R1,public,Midwest
+University of Maryland,umd.edu,R1,public,South
+Ohio State University,osu.edu,R1,public,Midwest
+Arizona State University,asu.edu,R1,public,West
+Virginia Tech,vt.edu,R1,public,South
+Cal Poly San Luis Obispo,calpoly.edu,non-R1,public,West
+Harvey Mudd College,hmc.edu,non-R1,private,West
+Williams College,williams.edu,non-R1,private,Northeast
+Rose-Hulman Institute of Technology,rose-hulman.edu,non-R1,private,Midwest
+James Madison University,jmu.edu,non-R1,public,South
+Grand Valley State University,gvsu.edu,non-R1,public,Midwest
+Rochester Institute of Technology,rit.edu,non-R1,private,Northeast
+California State University Fullerton,fullerton.edu,non-R1,public,West

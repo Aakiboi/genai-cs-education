@@ -1,0 +1,113 @@
+CSCI 339: Distributed Systems
+Syllabus for Fall 2026
+General Info
+Instructor: Jeannie Albrecht
+Email: jeannie@cs.williams.edu
+Ofﬁce: TCL 305
+Class Meetings: MTh 1:10 - 2:25
+Webpage: http://www.cs.williams.edu/˜jeannie/cs339/index.html
+Textbook: Distributed Systems, by Van Steen and Tanenbaum, 4th ed.
+Course Description
+This course studies the key design principles of distributed systems, which are collections of
+independent networked computers that function as single coherent systems. Covered topics
+include communication protocols, processes and threads, naming, synchronization, consis-
+tency and replication, fault tolerance, and security. We also examine some speciﬁc real-world
+distributed systems case studies, ranging from the Internet to ﬁle systems. Class discussion
+is based on readings from the textbook and research papers. The goals of this course are to
+understand how large-scale, distributed computational systems are built, and to provide you
+with the tools necessary to evaluate new technologies after the course ends.
+Grading Details
+Grades will be computed as follows:
+15% Classwork
+30% Programming Projects
+35% Midterm Exam
+20% Final Project
+Each of these items are explained in detail in the following sections. In general, beyond
+the 3 hours we spend together during our class meeting time, you should expect to spend (on
+average) at least 10 hours per week on work related to class.
+Classwork
+Lectures are mandatory and you are expected to attend regularly. One goal of this course is
+to promote discussion of the issues in distributed systems among all class members. As such,
+you are encouraged and expected to ask questions, point out weaknesses, and make observa-
+tions during class.
+One key aspect of class discussions will involve the analysis of a number of technical pa-
+pers that we will read during the course of the semester (roughly one per week). These papers
+1
+have historical signiﬁcance in the evolution of distributed systems. You will complete a short
+quiz in class that focuses on the main ideas of each paper. Your classwork grade will be based
+on your performance on the quizzes. You cannot make up a missed quiz for any reason,
+but your lowest score will be dropped.
+Programming Projects
+There will be 3 programming projects (in addition to the ﬁnal project) during the semester.
+Details will be available on the course webpage. To complete the projects, you will need the
+ability to develop software programs using Java, C/C++, and Python. If you have not used
+C/C++ recently (or at all), you may want to refresh your knowledge using one of the many
+good books on the topic. In particular I recommend the classic, The C Programming Lan-
+guage, by Kernighan and Ritchie, because it is short and simple. I have a few reference books
+in my ofﬁce that you are welcome to use. There are also many online tutorials. If you feel that
+need extra help, please come see me or the TAs.
+We will primarily use the department’s Linux computers for projects. If you are not famil-
+iar with the Linux/UNIX computing environment, talk to me as soon as possible.
+Programming assignments must be submitted by their due date. Late submissions will be
+penalized 25% of their value for each date late. Extensions will only be granted on a case-by-
+case basis for extenuating circumstances. Come talk to me.
+Midterm Exam
+There will a written midterm examination in this course. The exam will be closed book, closed
+notes, and will stress conceptual understanding of the material. Details regarding the speciﬁc
+format of the exam will be discussed in class.
+Final Project
+In lieu of a ﬁnal exam (and in addition to the three programming projects described above)
+you will complete a ﬁnal project on a topic of your choosing. I will post some sample project
+ideas on the course webpage later in the semester. I encourage you to be creative and pick a
+topic related to distributed systems that will be fun and challenging to explore. You may work
+with a partner on your ﬁnal project. In addition to completing the programming aspect of the
+project, you and your partner will present your results to your classmates and write a paper
+describing your work.
+Collaboration and GenAI
+In class activities and exams are to be completed individually unless otherwise speciﬁed. You
+are allowed to work with a partner on programming assignments. I encourage collaboration
+and assistance between groups in understanding material, but not in developing solutions.
+Please be sure to give explicit credit for any help received.
+2
+The use of Internet resources and GenAI tools are available for this course. In general, you
+may use them as learning aids. However,you must write your own core logic and under-
+stand every line of code you submit. You are responsible for the correctness and integrity
+of your work. Part of your grade on each project will be determined by a code review and oral
+presentation. You may be quizzed on any code that you submit. In addition, you must prop-
+erly cite the use of any external sources. Finally,please abide by any assignment-speciﬁc
+GenAI policies. The policy stated here is what should be followed if an assignment-speciﬁc
+policy is not provided. Given the rapidly changing landscape, I reserve the right to adjust
+speciﬁc rules regarding GenAI and Internet resources as the course progresses.
+IMPORTANT: If you have any doubts or questions about any of this, please come see me.
+Uncredited collaborations and inappropriate uses of external resources will be considered a
+violation of the honor code.
+Calendar
+The following calendar is a (very) tentative schedule of topics that we will cover in class. This
+schedule will likely change, so you should check the course webpage frequently for updates.
+Lecture Topic
+1 Course Overview (VST Ch 1–2, VST is an abbreviation for your textbook)
+2 Intro to Networks and C/C++ (VST Ch 3–4), Project 1 out
+3 Routing Basics
+4 IP, TCP, UDP
+5 TCP
+6 Networks Wrapup
+7 Naming and Discovery, Project 1 due
+8 RPCs, Project 2 out
+9 RPCs
+10 CDNs and Proxy Caches
+11 Email and Porcupine
+12 Time and Review (VST Ch 5), Project 2 due
+13 Midterm in class , Project 3 out
+14 Coordination and Agreement, MapReduce (VST Ch 7–8)
+15 MapReduce and Hadoop
+16 Storage Systems and RAID
+17 BigTable and Distributed File Systems, Project 4 out
+18 Internet of Things, Project 3 due
+19 Security, (VST Ch 9)
+20 P2P Systems Overview
+21 DHTs and Chord, Project 4 checkpoint due
+22 Blockchains
+23 Federated Learning
+24 Project Presentations
+25 Project Presentations, Project 4 due during Reading Period
+3

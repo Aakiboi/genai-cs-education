@@ -1,0 +1,127 @@
+AI and Students | Computing and Information Services | Harvey Mudd College
+AI and Students | Computing and Information Services | Harvey Mudd College
+Skip to main content
+Skip to navigation for this section
+Home
+Resources for
+Resources for
+Students
+Faculty and Staff
+Alumni
+Parents
+Mudd A–Z
+Open search
+Admission and Financial Aid
+Toggle Admission dropdown menu
+Discover Harvey Mudd
+Connect to Harvey Mudd
+Apply to Harvey Mudd
+Afford to attend Harvey Mudd
+Academics
+Toggle Academics Dropdown
+DEPARTMENTS
+Biology
+Chemistry
+Computer Science
+Engineering
+Humanities, Social Sciences, and the Arts
+Mathematics
+Physics
+INTERDISCIPLINARY CENTERS
+Hixon Center for Climate and the Environment
+Center for Design Education
+Hixon-Riggs Program for Responsive Science and Engineering
+Majors at Harvey Mudd
+Academic Emphases at Harvey Mudd
+Faculty of Harvey Mudd
+Common Core Curriculum
+English Language Learning
+Student Awards and Fellowships
+Registrar
+Dean of the Faculty
+Institutional Research
+Learning Programs
+Study Abroad
+Upward Bound
+Summer Session
+The Makerspace
+Artificial Intelligence Innovation at Mudd
+Entrepreneurship
+Advanced STEAM Pre-collegiate Immersion for Research and Exploration (ASPIRE)
+Clinic
+Toggle Dropdown
+Sponsors and Projects
+Prospective Sponsors
+Impact on Society
+Clinic Events
+History of the Clinic Program
+Clinic Program Contacts
+Research
+Toggle Dropdown
+Summer Research and Scholarship
+Scholarship Focus Areas and Research Labs
+Research Videos
+Sponsored Faculty Research
+HMC-Sponsored Faculty Research Grants
+Postdoctoral Program in Interdisciplinary Computation
+Student Research Opportunities
+Student Life
+Toggle Dropdown
+Academic Resources and Study Abroad
+Campus Life
+Career Services
+Civic and Community Engagement
+Housing and Residential Life
+Institutional Diversity
+Wellbeing
+About Division of Student Affairs
+Meet the DSA Staff
+Dean of Students
+ASHMC
+Athletics
+Commencement
+Orientation
+Accessible Education
+International Students and Scholars
+Study Abroad
+Mudders Care for Mudders
+Emergency Resources
+Student Handbook
+Hazing Prevention and Policy
+Title IX and Sexual Assault
+Workplace Violence Policy
+7C Demonstration Policy
+Annual Fire Safety and Security Report
+About
+Toggle Dropdown
+Visit Campus
+Harvey Mudd  News
+Upcoming Events
+Fast Facts
+History
+President's Office
+Mission and Strategic Planning
+Giving
+Toggle Dropdown
+Make Your Gift Now
+Annual Fund
+Endowed Giving at Harvey Mudd
+Planned Giving
+Current and Special Giving Initiatives
+Ways to Give
+Contact College Advancement
+Close
+Submit
+AI and Students
+Students should make sure they understand AI guidelines for their classes and other academic projects (e.g. Clinic, thesis).  Students must consult with the instructor and course policies – seeking clarification as needed – before using AI for academic work. The operational guidelines referenced on this site are intended to complement—not replace—the specific instructions and expectations set by individual faculty members. Some HMC faculty are making use of
+suggested language for AI use in courses
+; students should make sure they are familiar with which AI Use policy is in place for the class in question.
+Harvey Mudd College students have access to AI that meets college data protection requirements for AI tools, included in Google Workspace (Gemini and NotebookLM) and Microsoft 365 (Copilot).  If a student is using AI for an approved use, they are strongly encouraged to use these tools as opposed to consumer versions (whether free or paid) and especially if they are working with college data. Use of tools that have been purchased by the college ensures that your data is private and is not used to train large language models. It also improves cybersecurity, especially with respect to data leakage.
+If you are working with college data, it is really important to understand how the college classifies data and how that affects which AI tools can be used.  Please make sure to read the section on
+Using AI with HMC data
+.
+Be mindful of copyright and whether you have permission to use other people’s content (eg course materials or another student’s work).  Please keep your obligations under the honor code in mind.
+The resources currently available for students at HMC include:
+Google Gemini for Education
+Google NotebookLM
+Microsoft Copilot

@@ -1,0 +1,157 @@
+CS2953-A
+CS2953-A
+CS2953-A
+Engineering Complex Systems with Generative AI
+spring 2027
+Course Description
+In his seminal “
+No Silver Bullet
+” essay, Turing-Award winner Fred Brooks argues that no single breakthrough—whether technological or managerial—can deliver even a tenfold improvement in software productivity. CS2953-A explores a counter-argument: Could Generative AI deliver improvements of not just one, but multiple orders of magnitude—and if so, how?
+Through discussion, experimentation, and ambitious engineering projects, the seminar examines the potential and limits of applying large language models, agents, and AI-assisted workflows to the development of production-grade systems that must meet demanding standards of performance, reliability, security, and usability.
+Participants will collectively construct a toolbox of techniques, workflows, and recipes that amplify human engineering capabilities.
+Lecture/lab:
+Wed. 3–5:30PM, CIT 227
+Office Hours:
+Wed. 2–3PM, CIT 267
+Course Content
+CS2953-A is an experimental new seminar that explores overambitious, production-grade software systems by making maximal use of generative AI—including large-language models, agents, retrieval-augmented systems, tool-using pipelines, and autonomous orchestration frameworks.
+To build systems that are reliable, secure, efficient, and usable, the seminar will draw also from techniques and tools in systems, programming languages, computer security, and formal methods. These include:
+specification mining
+task decomposition
+automated testing and verification
+runtime monitoring and guardrails
+automated reasoning and formal verification
+performance tuning and optimization
+documentation generation
+Students will work in teams to eventually contribute (1) a production-grade software artifact, along with tests, documentation, and evidence that it operates according to the specification, and (2) a chapter to the course’s handbook on AI-assisted systems engineering, including workflows that worked, tools and techniques used, failure modes encountered, and lessons learned.
+Lectures & Assignments
+The following schedule is indicative and will be refined based on the evolving interests of instructors and students as well as ongoing findings.
+Date
+Topic
+Resources (papers, blog posts, videos)
+Homework
+Jan 27
+No Silver Bullet revisited in the age of generative AI
+Brooks — No Silver Bullet; Karpathy — Software 2.0; Karpathy — Software 3.0 talk
+Write a short memo: If Brooks were writing today, which arguments would change and which would remain true? Propose two system ideas that might plausibly achieve a 100× productivity improvement using GenAI.
+Feb 3
+The emerging AI software engineering stack
+Papers on LLM-assisted programming; OpenAI tool-use documentation; LangChain architecture blogs
+Form teams and produce a project concept for an intentionally ambitious production system that maximizes GenAI leverage. Submit a one-page architecture sketch.
+Feb 10
+Context engineering for large codebases
+Papers on repository-level code understanding; Sourcegraph blog posts on code intelligence
+Build a repository context pipeline for your project (code indexing, documentation retrieval, architecture summaries). Demonstrate the AI navigating your repository effectively.
+Feb 17
+AI-assisted system architecture
+Software architecture design resources; Google SRE design guidance
+Produce a system architecture document co-designed with AI including components, APIs, failure modes, and scalability considerations.
+Feb 24
+Generating nontrivial systems
+Papers on program synthesis; GitHub Copilot studies
+Implement a substantial portion of your system using GenAI workflows and document where generation succeeds or fails.
+Mar 3
+AI-assisted debugging and diagnosis
+Automated debugging literature; engineering blog posts on debugging workflows
+Create an AI-assisted debugging pipeline capable of analyzing stack traces, logs, and test failures. Demonstrate diagnosing a bug in your system.
+Mar 10
+Testing and verification
+Papers on automated test generation; fuzzing and property-based testing resources
+Use AI to generate tests, invariants, or specifications. Evaluate the effectiveness of AI-generated tests in discovering bugs.
+Mar 17
+Security and adversarial interactions
+Research on prompt injection; OWASP LLM security guidance
+Write a threat model for your AI-assisted system and demonstrate at least one adversarial attack and a potential defense.
+Mar 24
+Autonomous development agents
+Research on agentic workflows (AutoGPT, SWE-agent); papers on long-horizon agents
+Build an AI agent capable of completing development tasks such as implementing a feature or fixing an issue. Evaluate success and failure modes.
+Mar 31
+Spring recess
+—
+No assignment.
+Apr 7
+AI for performance engineering
+Systems papers on performance tuning; engineering resources on profiling
+Use AI to perform profiling, bottleneck identification, and optimization and demonstrate measurable improvement.
+Apr 14
+Agents as software engineers
+Research on autonomous coding agents; engineering discussions on AI development workflows
+Configure an agent capable of opening pull requests, writing documentation, and responding to issues. Run a live autonomous development experiment.
+Apr 21
+Operating AI-assisted systems in production
+SRE literature; engineering blogs on operating distributed systems
+Simulate production operation of your system including monitoring, incident response, and updates assisted by AI.
+Apr 28
+Final demonstrations and synthesis
+Selected reflections on AI and software engineering
+Final project presentation demonstrating the system, evaluating productivity gains, and presenting reusable AI-assisted engineering recipes.
+Projects
+The course projects are designed to be unrealistically ambitious, result in useful, and mix various other aspects—including varying degrees of expertise, requiring background in multiple areas, and multiple levels of specification.
+Example projects include the following:
+Convert the
+Smoosh symbolic execution engine
+from
+Lem
+to
+Lean
+, including symbolic and concrete bindings to system-call implementations.
+Combine and transition research/prototype implementations of
+different ahead-of-time analyses
+into a unified product targeting production software.
+Turn the complete
+software foundations
+series from
+Rocq
+to
+Lean
+, including appropriate guides for cross-environment setup.
+Collect, characterize, and package a realistic benchmark suite for characterizing
+performance-optimizing
+software systems targeting
+microservices
+.
+Resources
+Reflections
+Andrej Karpathy —
+Software 2.0
+Karpathy —
+Software 3.0 / Programming with Prompts
+Steve Yegge —
+The Next Big Language
+Ed Forson —
+Why AI Agents Unlock Software 2.0
+Sourcegraph —
+The Revenge of the Junior Developer
+Peter Naur —
+Programming as Theory Building
+Talks
+Andrej Karpathy —
+Software 3.0
+Andrej Karpathy —
+State of AI Coding
+Bret Victor —
+Inventing on Principle
+Y Combinator — AI Startup School
+Papers
+SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+Rigorous Evaluation of Coding Agents on SWE-Bench
+AutoCodeRover: Autonomous Program Improvement
+SWE-Effi: Evaluating the Effectiveness of Software Engineering Agents
+SWE-RL: Training Self-Improving Software Engineering Agents
+MetaGPT: Multi-Agent Software Development
+Interactive Agents for Software Engineering
+ToM-SWE: User-Aware Software Engineering Agents
+Benchmarks
+SWE-Bench
+SWE-Bench Reading List
+Amazon SWE-PolyBench
+CodeClash Benchmark
+Tools
+Cursor AI IDE
+GitHub Copilot
+LangChain
+LlamaIndex
+Replit Ghostwriter
+Staff
+Course staff information will be posted here.

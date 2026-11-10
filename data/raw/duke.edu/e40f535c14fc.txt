@@ -1,0 +1,616 @@
+Spring 2027 Course Bulletin | Department of Computer Science
+Spring 2027 Course Bulletin | Department of Computer Science
+Skip to main content
+Enter your keywords
+Search
+Menu
+Secondary Menu
+News
+Events
+Resources
+Spring 2027 Course Bulletin
+Upcoming Important Dates
+DEADLINE to apply for Fall 2027 admission to the
+4+1 MSCS Undergraduate Program
+- Thursday, October 1, 2026
+Shopping carts open for Spring 2027
+on Monday, October 19, 2026 and the first registration window for Spring 2027 opens Wednesday, October 28, 2026.
+DEADLINE to apply for
+Graduation with Distinction for Fall 2026
+- Friday, November 13, 2026
+DEADLINE to submit application for
+Spring 2027 Independent Study
+course with a CS professor - Friday, January 15, 2027
+Quick Links
+Registration
+Need to register for classes? Need your hold removed? Check our Registration Logistics page first.
+NOTE: Your CS faculty advisor is NOT who you should consult about Registration. We have a dedicated team to clear you for Registration, or you can meet with the DUS to be cleared. See above Registration section.
+REGISTRATION CLEARANCE
+Permission Number Requests
+Please use the form below (Duke login required) to request permission numbers for Spring 2027 Computer Science courses. Permission numbers are generally only for bypassing pre-requisites and will place you on the waitlist if a course is full.
+SPRING 2027 PINS
+Independent Study
+Application deadline for CS Independent Study with a Computer Science faculty member Spring 2027 -
+Friday, January 15th
+INDEPENDENT STUDY COURSES
+Undergraduate General Advising
+The DUS has drop-in hours for any questions you may have about majoring or minoring in Computer Science. You will also be assigned a Computer Science faculty advisor, but they only give general advice about going to graduate school or getting jobs.
+Your CS faculty advisor DOES NOT clear you for Registration. See Registration section above.
+IN-PERSON OR VIRTUAL DUS MEETING
+COMPSCI FACULTY ADVISOR REQUEST
+Special Programs
+4+1 MSCS (Five-Year) Undergrad Program
+The new CS 4+1 MS program offers an opportunity for Duke undergraduates to earn an MS degree in CS (MSCS) with an extra (fifth) year at Duke. The MSCS degree is in addition to your undergraduate degree. This 4+1 program may be a good path for you if you are able to take two or more “extra” graduate courses as an undergraduate, beyond any courses you need for your undergraduate degree. The 4+1 MSCS program is suitable primarily for CS majors and CS minors.
+Application deadline -
+Thursday, October 1st
+Learn more
+Graduation with Distinction (GWD) - Honors Program
+Application deadline for Fall 2026 -
+Friday, November 13th
+Learn more
+CS Undergraduate Course Policy & Requirements
+S/U Course Credit
+MATH 111, MATH 112 and COMPSCI 101 -- Only these three courses are accepted as S/U (if they can be taken S/U) and count towards degree requirements for CompSci majors and minors. For other majors and minors you plan to have, you need to check if they will also allow these courses to count if taken S/U.
+For IDM majors, only these three courses -- MATH 111, MATH 112 and COMPSCI 101 -- are accepted as S/U (if they can be taken S/U) and count towards the CompSci part of your IDM. Check with your other major in your IDM to find out whether they will also allow these courses to count if taken S/U.
+It is possible these courses may not be offered with the option to take them S/U.
+Major/Minor Requirement Changes
+You are now able to use COMPSCI 210D in lieu of the COMPSCI 250D requirement. If you have already taken COMPSCI 250D, you will not be able to take 210D. If you are an ECE major, you must take COMPSCI 250D.
+You can now use COMPSCI 231D or COMPSCI 232 in lieu of the COMPSCI 230 requirement. If you are using any of
+the other substitutions
+in lieu of COMPSCI 230 or COMPSCI 231D or COMPSCI 232 as the prerequisite for a course--for example, MATH 371 and STA 230--you will need to request a permission number through the CS PIN request form.
+NOTE: Dukehub does not recognize
+substitutions
+for prerequisites.
+For the CompSci majors and minor, only one CompSci course can be included which falls into the category of
+Social and Policy Oriented Computing courses
+. Examples of
+Social and Policy Oriented Computing courses
+include COMPSCI 240, COMPSCI 247S, COMPSCI 255, COMPSCI 265S, COMPSCI 342 and COMPSCI 290/290D-001 -
+Cinema Perspectives on Artificial Intelligence
+.
+For the CompSci BS and BA majors as well as the Software Systems and AI/Machine Learning concentrations, COMPSCI 345 - Graphics Software Architecture, COMPSCI 390 - Distributed Systems (Spring 2026, Spring 2027) AND COMPSCI 512 - Distributed Systems now count as systems core classes.
+Course Substitutions
+COURSE SUBSTITUTION GUIDE
+COMPSCI Course Listings
+Spring 2027 House Course Offerings
+HOUSECS 59-02 | Neetcode 75 : Algorithmic Thinking for Software Engineering
+Instructors:
+Benita Besa (
+bcb63@duke.edu
+) and Raphael Mukondiwa (
+rtm45@duke.edu
+)
+Faculty Sponsor:
+Dr. Susan Rodger
+Monday 5:15PM - 6:45PM  -
+Perkins Link 059 (Seminar 1)
+Technical interviews are a gateway to software engineering careers, yet many students struggle to develop the pattern recognition and problem-solving intuition needed to succeed. This course demystifies the coding interview by teaching algorithmic thinking through the NeetCode 75, a curated collection of essential problems that cover fundamental data structures and algorithms. Rather than memorizing solutions, students will learn to recognize patterns, break down complex problems systematically, and build confidence in their technical abilities. Through hands-on problem-solving sessions and collaborative learning, we'll explore core concepts like arrays, hashing, linked lists, trees, graphs, dynamic programming, and more. Whether you're preparing for internship interviews or simply want to strengthen your algorithmic foundation, this course provides practical skills that translate directly to real-world software engineering and technical assessment success.
+See the Trinity College House Courses page for more info »
+What are House Courses?
+Spring 2027 COMPSCI Courses
+COMPSCI 101, 201, 210, 230 (
+or
+231D
+or
+232), 250, and 330 are offered every semester.
+101L
+- Intro to Computer Science |
+Rodger
+173CNL
+- Cinema Perspectives on Artificial Intelligence (cross CINE 123CNL) |
+Nemecek
+201
+- Data Structures and Algorithms |
+Steiger
+210D
+- Intro to Computer Systems |
+Velasco
+216
+- Everything Data |
+Stephens-Martinez
+230
+- Discrete Math for Computer Science|
+Fain
+240
+- Race, Gender, Class, & Computing (cross AAAS 244, GSF 242) |
+Washington
+250D
+- Computer Architecture (cross ECE 250D) |
+Younes
+255
+- Intro to Cyber Policy (cross PUBPOL 255) |
+Hoffman
+260
+- Intro to Computational Genomics |
+Majoros
+265S
+- Digital Feminism (cross GSF 265S, CMAC 265S, I&E 265S, ISS 265S, SOCIOL 217S, VMS 286S) |
+Washington
+270L
+- Mathematics for Artificial Intelligence |
+Nemecek
+288
+- Logic and Its Applications (cross PHIL 350, MATH 388) |
+Richardson
+320D
+- Numerical Data Analysis and Methods |
+Sun
+330
+- Intro to the Design and Analysis of Algorithms |
+Panigrahi and Liu
+334
+- Formal Languages and Automata with Applications |
+Rodger
+342
+- Technical and Social Analysis of Information and the Internet |
+Astrachan
+345
+- Graphics Software Architecture |
+Reed
+350L
+- Digital Systems (cross ECE 350L) |
+Pastorino
+352
+- Programming Language Concepts |
+D. Zhang
+356
+- Computer Network Architecture (cross ECE 356) |
+X. Yang
+364
+- Computer Game Design |
+Velasco
+370D
+- Intro to Artificial Intelligence |
+Parr
+372
+- Intro to Applied Machine Learning (cross ECE 386) |
+Fain
+376
+- Computational Approaches to Human Language (cross LINGUIST 399) |
+Osborne
+391
+-
+Independent Study |
+Departmental Staff
+394
+- Research Independent Study |
+Departmental Staff
+510
+- Operating Systems |
+Lentz
+516
+- Database Systems |
+J. Yang
+520D
+- Numerical Analysis (cross MATH 565, STA 612D)
+|
+Sun
+531D
+- Intro to Algorithms |
+Rossman
+534D
+- Computational Complexity |
+Reif
+552
+- Programming Languages|
+D. Zhang
+553
+- Compiler Construction (cross ECE 553) |
+Hilton
+554
+- Fault-Tolerant and Testable Computer Systems (cross ECE 554) |
+Sorin
+557
+-
+CANCELLED
+Computer Architecture and Hardware Acceleration (cross ECE 557) |
+Wills
+564
+- Edge Computing (cross ECE 564) |
+Gorlatova
+566
+- Systems for Machine Learning |
+D. Zhuo
+571D
+- Probabilistic Machine Learning (cross STA 561D, ECE 682D) |
+Laber
+582
+- Cryptography (cross ECE 656) |
+Reiter
+583
+- Applications in Data and Materials Science (cross ME 582) |
+Brinson
+586
+- Human-Centered Security and Privacy (cross ECE 657, ISS 586, PUBPOL 596) | Emami-Naeini
+675D
+- Introduction to Deep Learning (cross ECE 685D) |
+Tarokh
+791
+- Internship |
+TBA
+Spring 2027 COMPSCI Special Topics Courses
+Note: Some of the courses listed below, we are hoping to list with their permanent number. For now, they are noted below in brackets beside their corresponding special topics number.
+290-01
+- Creating and Understanding LLMs: Ethics, Web and Mobile Apps |
+Astrachan
+290-02
+- Special Topics in Computing Education Research (cross EDUC 290-02) |
+Stephens-Martinez
+390-01
+-
+CANCELLED, but the 590 version of the course will be offered.
+Special Topics in Building Agents: From Reasoning and Tools to Learning and Evolution |
+Pei
+390-03
+- Distributed Systems |
+Chase
+590-01
+- Special Topics in Building Agents: From Reasoning and Tools to Learning and Evolution |
+Pei
+590-03
+- Causal Inference, Fairness, and Explanations in Data Analysis |
+Roy
+590-04
+- Special Topics in Large Language Models|
+Dhingra
+590-05
+- Special Topics in Machine Learning for Healthcare |
+M. Agrawal
+590-06
+- Interpretable Machine Learning |
+Rudin
+590-07
+- Seminar in Computational Biology: Protein Structure & Drug Design using CS, AI, & ML |
+Donald
+590-08
+- Generative Models: Foundations and Applications |
+A. Zhang
+See Special Topics Course descriptions below.
+Special Topics Course Descriptions
+More About Special Topics Courses
+Special Topics courses are new courses that we are trying out and may eventually give a permanent number.
+COMPSCI 290-01
+- Creating and Understanding LLMs: Ethics, Web and Mobile Apps | Instructor: Owen Astrachan / Creating and Understanding Web and Mobile (IOS/Android) Apps using Generative AI tools such as Claude Code and Codex. Analyzing the process and products using ethical, creative, and user-interface/user-experience design perspectives and frameworks. Prerequisite: COMPSCI 201.
+COMPSCI 290-02
+- Special Topics in Computing Education Research (cross EDUC 290-02) | Instructor: Kristin Stephens-Martinez / Computing education research (CER) is the study of how people learn and teach computing. This course will cover a basic understanding of what CER is, the current topics in the field, and CER methodologies. We will do this by reading an overview of CER, prominent works, and current research papers. The class will also include a research project. Prerequisites: COMPSCI 216
+OR
+((COMPSCI 101L or COMPSCI 201) and STATS 101 or above).
+COMPSCI 390-01
+-
+CANCELLED, but the 590 version of the course will be offered.
+Special Topics in Building Agents: From Reasoning and Tools to Learning and Evolution | Instructor: Jian Pei / AI is rapidly moving beyond models that generate content toward agents that reason, plan, remember, use tools, take actions, collaborate, learn from experience, and improve over time. This course introduces the principles and technologies for building intelligent agents on top of modern foundation models, with an emphasis on real-world, data-rich applications. We will study reasoning and planning; memory, RAG, and context engineering; world models; multimodal perception; tool and function calling; Model Context Protocol (MCP); coding and computer-use agents; agent runtimes and orchestration; and multi-agent systems. A central theme is the interplay between data and agents: how agents acquire, integrate, evaluate, and learn from data and how they enable more intelligent and increasingly autonomous data science. These ideas naturally extend to AI for science and discovery, where agents can connect data, models, tools, experiments, and feedback to help close the discovery loop. The course also explores how agents learn from experience, self-correct, acquire skills, collaborate, self-improve, and evolve, together with evaluation, reliability, security, safety, and human oversight. It is self-contained, technically grounded, and application-oriented, connecting foundational ideas with modern agent technologies and real-world systems. Prerequisites: Linear algebra, multivariable calculus, and probability. COMPSCI 270
+OR
+((MATH 202 or MATH 212 or MATH 219 or MATH 222) and (MATH 221 or MATH 218))
+AND
+(MATH 230 or MATH 231 or MATH 340)
+COMPSCI 390-03
+- Distributed Systems | Instructor: Jeffrey Chase / This course introduces core concepts in distributed systems with supporting elements from networking, operating systems, and cryptosystems.   Examples are drawn from real-world platforms for cloud computing, Internet/Web, and the software supply chain.  Networked services: transport streams, request/response messaging, cloud instances, elastic scaling.   Secure naming and identity: domain names, identity services, authentication, and certified trust.   Reliable data at scale: sharding and replication, snapshots, updates and version histories, consistency, coordination, recovery, and consensus.  As time allows we draw out connections to cyber-policy topics such as cryptocurrency and cyberwar. Prerequisite: COMPSCI 210 or COMPSCI 250D.
+COMPSCI 590-01
+- Special Topics in Building Agents: From Reasoning and Tools to Learning and Evolution | Instructor: Jian Pei / AI is rapidly moving beyond models that generate content toward agents that reason, plan, remember, use tools, take actions, collaborate, learn from experience, and improve over time. This course introduces the principles and technologies for building intelligent agents on top of modern foundation models, with an emphasis on real-world, data-rich applications. We will study reasoning and planning; memory, RAG, and context engineering; world models; multimodal perception; tool and function calling; Model Context Protocol (MCP); coding and computer-use agents; agent runtimes and orchestration; and multi-agent systems. A central theme is the interplay between data and agents: how agents acquire, integrate, evaluate, and learn from data, and how they enable more intelligent and increasingly autonomous data science. These ideas naturally extend to AI for science and discovery, where agents can connect data, models, tools, experiments, and feedback to help close the discovery loop. The course also explores how agents learn from experience, self-correct, acquire skills, collaborate, self-improve, and evolve, together with evaluation, reliability, security, safety, and human oversight. It is self-contained, technically grounded, and application-oriented, connecting foundational ideas with modern agent technologies and real-world systems. Prerequisites for Undergraduate students: Linear algebra, multivariable calculus, and probability--COMPSCI 270
+OR
+((MATH 202 or MATH 212 or MATH 219 or MATH 222) and (MATH 221 or MATH 218))
+AND
+(MATH 230 or MATH 231 or MATH 340)
+COMPSCI 590-03
+- Causal Inference, Fairness, and Explanations in Data Analysis | Instructor: Sudeepa Roy / As commonly known as “Correlation is not Causation”, the problem of causal inference goes beyond correlation, association, or model-based prediction analysis, and is indispensable in health, social sciences, and other domains. Causal inference lays the foundation of sound, robust policy making by providing a means to estimate the impact of a certain “intervention” to the world. While the gold standard of causal inference is performing randomized experiments, often they are not possible due to ethical/cost reasons. Hence in practice, observational study under certain assumptions is used. A dataset can tell us very different stories based on how we look at it (e.g., Simpson Paradox), so it is also important to understand the right way to look at a dataset, e.g., what variables to condition on for any (causal) conclusions in data analysis. We will discuss two causal models: Graphical Causal Model (Pearl) from AI, and Potential Outcome Framework (Rubin) from Statistics. We will also discuss applications of causal analysis to Fairness and explainable Artificial Intelligence (XAI), which aim to address the growing concerns about the complexity and opacity of data-driven decision-making systems for important applications. This course will have a mix of lectures and presentation of research papers. The grade will be given based on class participation (reading/critiquing papers), presenting and leading discussions on 1-2 papers, a few assignments, and a group class project (no exams). Prerequisites for Undergraduate students:
+COMPSCI 201 and COMPSCI 230
+AND
+one of the following: COMPSCI 330 or COMPSCI 371 or COMPSCI 526/CBB 526/ECE 583 or COMPSCI 531D or COMPSCI 532 or COMPSCI 570
+COMPSCI 590-04
+- Special Topics in Large Language Models | Instructor: Bhuwan Dhingra / Seminar course on recent advances in large language models, with an emphasis on detecting AI-generated and mixed human–AI content. The course will provide an overview of how LLMs are developed, trained, and evaluated. At least half of the course will focus on detection techniques, their limitations, and their evaluation under realistic conditions, including AI-assisted editing and human revision of AI-generated content. Students are expected to read and present research papers and complete project-style assignments. Topics include:
+- Transformers and language modeling
+- Pretraining and data curation
+- Post-training and reinforcement learning
+- Statistical and classifier-based AI detection
+- Watermarking and content provenance
+- Detection of mixed human–AI content
+- Detection across text, code, and multimodal content
+- Robustness and adversarial attacks
+Prerequisites: COMPSCI 371 OR COMPSCI 372 OR COMPSCI 375 OR COMPSCI 575 OR EQUIVALENT
+COMPSCI 590-05
+- Special Topics in Machine Learning for Healthcare | Instructor: Monica Agrawal / This course will introduce students to machine learning in healthcare. The course will involve learning how health data is generated, ML techniques for modeling health data, and the considerations that arise during evaluation and deployment. There will be a particular focus on addressing the unique technical challenges that arise in AI for medicine, due to issues such as data missingness, confounding, noisy labels, and distribution shift.
+Familiarity with deep learning, probability, and Python programming expected. No healthcare or biology background required. Undergraduate students should have taken an AI or ML core course.
+COMPSCI 590-06
+- Interpretable Machine Learning | Instructor: Cynthia Rudin / Topics may include: sparse models for tabular data and optimization of them (including decision trees, generalized additive models, risk scores and other model classes), Rashomon sets, interpretable neural networks for computer vision, theoretical foundations of interpretable machine learning including the Rashomon set theory, dimension reduction for data visualization, interpretable matching for causal inference, and applications. Prerequisite for Undergraduate and Graduate students: COMPSCI 671 or COMPSCI 672.
+COMPSCI 590-07
+- Seminar in Computational Biology: Protein Structure & Drug Design using CS, AI, & ML | Instructor: Bruce Donald / The Nobel Prize was given in 2025 for AI-enabled protein structure prediction and design. This year's seminar will focus on AI, Machine Learning, and algorithmic approaches to computational and experimental studies of protein structure and design. However, background material and fundamental basic science, algorithms, and computational methods will be covered in order to get to the foothills of this field. Some of the most challenging and influential opportunities for Physical Geometric Algorithms (PGA) arise in developing and applying information technology to understand the molecular machinery of the cell. Recent work shows that PGA techniques may be fruitfully applied to the challenges of structural molecular biology and rational drug design. Concomitantly, a wealth of interesting computational problems arise in proposed methods for discovering new pharmaceuticals. This seminar course focuses on topics in computational biology. We will emphasize themes that unite algorithms, modelling, machine learning, or experimental results. Topics will include algorithms, modeling, machine learning, and experimental validation for several areas, including protein design, protein:protein interactions, structural biology, structural immunology, and structure-based drug design. For those who have taken a class with me previously, this semester we will read different papers, so please feel free to sign up. Textbook: Algorithms in Structural Molecular Biology, MIT Press (Cambridge: 2011). Prerequisite for Undergraduate students: COMPSCI 231 or COMPSCI 330.
+If you have only had COMPSCI 230 (or a substitute), then you must have taken COMPSCI 330 first.
+If you have only had COMPSCI 231,  then you may take this course without COMPSCI 330 or concurrently with COMPSCI 330.
+COMPSCI 590-08
+- Generative Models: Foundations and Applications | Instructor: Anru Zhang / This course provides an in-depth exploration of the mathematical foundations and real-world applications of generative models, focusing on healthcare data. Students will learn key concepts of state-of-the-art techniques such as variational autoencoders, generative adversarial networks, diffusion models, flow matching. The course covers theory and practice, with applications ranging from synthetic data generation to fairness improvement in machine learning tasks. Prerequisites for Undergraduate students: COMPSCI 201 AND (MATH 230 or MATH 231 or MATH 240 or MATH 340) AND (MATH 216 or MATH 218 or MATH 221).
+New and Updated Course Info
+NEW CS Courses!!
+COMPSCI 173CNL
+- Cinema Perspectives on Artificial Intelligence | Instructor: Nemecek / In this
+Constellation course
+(link opens in a new window/tab)
+, we will use cinema as a lens on society's view of artificial intelligence. We will discuss how this view has changed over time, and how it compares to the real-world status of AI. It will also include a unit on the usage of AI in creating cinema, and its accelerating impact on moviemaking. Throughout the course, we will be learning some of the real-life history of AIs and how a selection of modern systems work.
+COMPSCI 270L
+- Mathematics for Artificial Intelligence | Instructor: Nemecek / Can REPLACE MATH 218 requirement. Linear algebra; vector spaces; linear maps; orthogonality; singular-value decomposition; linear systems; eigenspaces; determinant; Schur decomposition. Calculus: gradient, Hessian, Jacobian matrix; back-propagation; Optimization: unconstrained minimization; Lagrange multipliers; gradient descent; Newton's method. Applications: principal component analysis; linear regression; rigid transformations; logistic regression classifier. Prerequisite: COMPSCI 101 or 201, and MATH 111L or 112L.
+You could take
+COMPSCI 270L
+instead of MATH 218 for the CompSci BS major. This course plus a probability course like STAT 230 would prepare you to take an upperlevel ML course such as COMPSCI 371.
+NOTE: You CANNOT take COMPSCI 270L if you have already taken, MATH 216, 218, or 221. However, it is okay to take this course if you took MATH 202.
+NEW PERMANENT NUMBER,
+SAME COURSE
+-
+COMPSCI 352
+- Programming Language Concepts | Instructor: Danfeng Zhang / This course equips students with the knowledge to not only use programming languages proficiently but also to understand why they work the way they do and how good language designs help programmers to write reliable code. This course provides a rigorous introduction to the fundamental concepts and design principles underlying modern programming languages and programming paradigms, including imperative, functional and object-oriented. By the end of the course, students will be able to critically evaluate language design choices, understand the trade-offs involved in language implementation, and apply this knowledge to write clearer, more reliable programs. Prerequisites: COMPSCI 201 and (COMPSCI 230 or COMPSCI 231 or COMPSCI 232 or equivalent).
+NEW PERMANENT NUMBER,
+SAME COURSE
+-
+COMPSCI 364
+- Computer Game Design | Instructor: Velasco / Previously taught as COMPSCI 390 in Spring 2025 and Fall 2025, this course has been made a permanent course.
+If you have already this course as the Special Topics course, you may
+NOT
+take the re-numbered course.
+COMPSCI 375
+- Natural Language Processing | Instructor: Dhingra / This new course will count as a general elective for the CompSci BS and AB degree requirements or as an elective for the AI/ML concentration. This is an introductory course in natural language processing, covering core computational problems involving human language, and both classical techniques such as bag-of-words, n-grams and and conditional random fields, as well as modern neural approaches such as word vectors, recurrent neural networks and transformers. We will also lay the foundation for understanding large language models and their scaling properties. Focus will be on key NLP tasks such as text classification, language modeling, machine translation and information retrieval. Prerequisite: COMPSCI 201 and familiarity with Python. It is recommended, though not required, to also have completed one of COMPSCI 270 or COMPSCI 371 or COMPSCI 372.
+NEW PERMANENT NUMBER,
+SAME COURSE
+-
+COMPSCI 552
+- Programming Languages | Instructor: Danfeng Zhang /  Whether designing systems, writing high-quality code or learning a new programming language, the ability to reason about language behavior and structure is a critical skill. Through analytical comparison, the course examines core topics such as language syntax and semantics, type systems, control structures, memory management, as well as cutting-edge language features, such as formal verification and static program analysis. Emphasis will be placed on both theoretical foundations and practical insights. By the end of the course, students will be able to critically evaluate language design choices, understand the trade-offs involved in language implementation, and apply this knowledge to write clearer, more reliable programs. Prerequisites for Undergraduate students: COMPSCI 201 and (COMPSCI 230 or COMPSCI 231 or COMPSCI 232 or equivalent).
+Notes on Course Offerings
+Possibly returning in FALL 2027
+--
+COMPSCI 207
+- Intro to Mobile Application Development in iOS | Instructor: TBD / Last taught in Spring 2024.
+Prerequisite: COMPSCI 201. Recommended: COMPSCI 250.
+COMPSCI 216
+- Everything Data | Instructor: Stephens-Martinez / This course will be moving to a Spring-only course. It will
+NOT
+be offered in Fall 2027.
+COMPSCI 316D
+- Intro to Database Systems | Instructor: Roy or J. Yang / Note this is a Fall-only course.
+Possibly returning in FALL 2027
+--
+COMPSCI 507
+- Mobile App Development for Programmers and Entrepreneurs | Instructor: TBD /
+This course is
+NOT
+open to students who have taken COMPSCI 207.
+Same course, New number
+--
+COMPSCI 572
+has been re-numbered to
+COMPSCI 575
+- Introduction to Natural Language Processing | Instructor: Dhingra / If you have already taken this course as COMPSCI 572, you may NOT take the re-numbered course.
+Re-Numbered CS Courses
+Most of these new courses have been taught previously as Special Topics courses (i.e., COMPSCI 290, 390, and/or 590) and now have permanent course numbers. If you have already taken them as a Special Topics course, you may
+NOT
+take the re-numbered course.
+Old Course Number
+New Course Number
+COMPSCI 290
+(previously taught Fall 2024 and Spring 2025)
+COMPSCI 372
+Intro to Applied Machine Learning
+COMPSCI 390
+COMPSCI 364
+- Computer Game Design
+COMPSCI 572
+COMPSCI 575
+- Intro to Natural Language Processing
+COMPSCI 590
+COMPSCI 552
+- Programming Languages
+COMPSCI 590
+COMPSCI 565
+-
+Modern Optimization for Statistical Learning
+COMPSCI 590
+COMPSCI 574
+-
+Elements of Deep Learning
+COMPSCI 590
+COMPSCI 585
+-
+Secure Software Systems
+COMPSCI 590
+(previously taught Fall 2024)
+COMPSCI 587
+-
+Language-Based Security
+Questions? Email
+dus@cs.duke.edu
+.
+Previous Course Bulletins
+Fall 2026
+Spring 2026
+Fall 2025
+Spring 2025
+Fall 2024
+Spring 2024
+Fall 2023
+Spring 2023
+Fall 2022
+Spring 2022
+Fall 2021
+Spring 2021
+Fall 2020
+Spring 2020
+Fall 2019
+Spring 2019
+Sidebar Navigation
+Course Catalog
+Undergraduate Courses
+Graduate Courses
+CS Course Substitutions Guide
+Class Schedule
+2026 Fall Term Classes
+2027 Spring Term Classes
+2026 Spring Term Classes
+Course Bulletin
+Course Registration Logistics
+Director of Undergraduate Studies
+Susan H. Rodger
+Professor of the Practice of Computer Science
+dus@cs.duke.edu
+Associate Director of Undergraduate Studies
+Owen L. Astrachan
+Professor of the Practice of Computer Science
+dus@cs.duke.edu
+Associate Director of Undergraduate Studies
+Yesenia Velasco
+Lecturer of Computer Science
+dus@cs.duke.edu
+Assistant to the Director of Undergraduate Studies
+Mara Mathews
+(919) 660-6534
+dus@cs.duke.edu
+About
+CS 50th Anniversary
+Contact Us
+News
+Computing Resources
+Events
+Event Archive
+Location & Directions
+Values
+Job Opportunities
+Research
+Artificial Intelligence
+AI for Social Good
+Computational Social Choice
+Computer Vision
+Machine Learning
+Moral AI
+Natural Language Processing (NLP)
+Reinforcement Learning
+Robotics
+Search and Optimization
+Computation + X
+Computation + Biology
+Computational Biochemistry and Drug Design
+Computational Genomics
+Computational Imaging
+DNA and Molecular Computing
+Computation + Economics
+Algorithmic Game Theory
+Social Choice
+Computation + Policy
+Computational Journalism
+Moral AI
+Computer Science Education
+Broadening Participation in Computing
+CS1/CS2 Learning, Pedagogy, and Curricula
+Education Technology
+Practical and Ethical Approaches to Software and Computing
+Data Science
+AI for Social Good
+Databases
+Interdisciplinary Research in Data Science
+Machine Learning
+Security & Privacy
+Systems
+Architecture
+Computer Networks
+Databases
+Distributed Systems
+High Performance Computing
+Operating Systems
+Quantum Computing
+Security & Privacy
+Theoretical Computer Science
+Algorithmic Game Theory
+Approximation and Online Algorithms
+Coding and Information Theory
+Computational Complexity
+Geometric Computing
+Graph Algorithms
+Machine Learning
+Numerical Analysis
+Programming Languages
+Undergraduate
+Why Duke Computer Science?
+For Prospective Students
+Schedule a Visit
+Admitted or Declared 1st Majors
+Degree Options
+Getting Started in Computer Science
+BS Requirements
+BS Concentration in Software Engineering and Design
+BS Concentration in Software Systems
+BS Concentration in Data Science
+BS Concentration in AI and Machine Learning
+AB Requirements
+AB Concentration in Software Engineering and Design
+Social and Policy Oriented Computing Courses
+Minors in Computer Science
+Interdepartmental Majors (IDM)
+IDM in Statistics + CS on Data Science
+IDM in Math + CS on Data Science
+IDM in Linguistics + CS
+IDM in Visual & Media Studies (VMS) + CS
+CS 4+1 Program for Duke Undergraduates
+Research Opportunities
+Independent Study
+Graduation with Distinction
+Undergrad Project Showcase
+2020
+2019
+2018
+CS+ Summer Program
+Undergraduate Teaching Assistant (UTA) Information
+Department Awards
+Undergraduate Student Resources
+CS Related Student Organizations
+Trinity Ambassadors
+Graduate
+Overview
+Mentoring for CS Graduate Students
+Master's Programs
+MSEC Requirements
+Master's Options
+Financial Support
+MS Requirements
+Concurrent Master's for Non-CS PhDs
+Admission & Enrollment Statistics
+PhD Program
+Financial Support
+PhD Requirements
+PhD Course Requirements
+Conference Travel
+Admission & Enrollment Statistics
+Frequently Asked Questions
+Additional Graduate Student Resources
+Graduate Awards
+Apply Now
+Graduation
+Courses
+Course Catalog
+Undergraduate Courses
+Graduate Courses
+CS Course Substitutions Guide
+Class Schedule
+2026 Fall Term Classes
+2027 Spring Term Classes
+2026 Spring Term Classes
+Course Bulletin
+Course Registration Logistics
+Alumni
+For Our Alumni
+Assisting Duke Students
+For Current Students
+Industry
+Alumni Lectures - Spring 2024
+CS 50th Anniversary
+Contribute
+News - Alumni
+People
+Primary Faculty
+Secondary Faculty
+Adjunct and Visiting Faculty
+Professors Emeriti
+Emeriti - In Memoriam
+Postdoctoral Fellows
+Graduate Students
+Ph.D. Program
+Masters in Computer Science
+Masters in Economics and Computation
+Affiliated Graduate Students
+Staff
+News
+Events
+Resources

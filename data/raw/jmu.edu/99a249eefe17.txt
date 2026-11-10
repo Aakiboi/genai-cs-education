@@ -1,0 +1,350 @@
+Syllabus - JMU CS 149 Sections 1 and 2
+Syllabus - JMU CS 149 Sections 1 and 2
+Skip to content
+JMU CS 149 Syllabus - Introduction to Programming
+¶
+Course Information
+¶
+Lecture Location:
+King Hall 260
+Lab Location:
+King Hall 248
+Meeting Time:
+Section 1, MWF 9:10-10:00AM
+Section 2, MWF 10:20-11:10AM
+Required Textbook:
+Miller, Bailey et al. (Mar 2023).
+Programming in Python 3
+.
+https://www.zybooks.com/catalog/programming-in-python-3
+(this is an interactive online textbook that will be available through Canvas.)
+Prerequisites:
+MATH 155, MATH 156 or sufficient score on the Mathematics Placement Exam.
+Catalog Description:
+Fundamental problem-solving techniques using a modern programming language. Topics include variables, input/output, decisions, loops, functions, arrays, and objects. Students learn about algorithm development, testing strategies, and software tools.
+Instructor Contact information
+¶
+Name:
+Dr. Nathan Sprague
+Office:
+King Hall 226
+Office Phone:
+568-3312
+Email:
+spragunr@jmu.edu
+Office
+Hours:
+http://w3.cs.jmu.edu/spragunr/schedule.html
+Questions related to course content should be asked through
+Piazza. The advantage of Piazza is that I can address common questions
+in one location, rather than answering the same question multiple
+times via email. I also encourage you to respond to each others'
+questions on Piazza; this provides everyone with more timely responses
+and crafting an answer can help you to understand the material
+better. Piazza is configured to generate an email to me when a
+question is posted, so using email will not result in a faster
+response. You may use email if you need to contact me directly.
+You are welcome to call or stop by my office any time, with the
+understanding that I may or may not be available outside of my posted
+office hours. If you need to meet with me outside of my posted hours,
+email me to make an appointment.
+Note that I typically do not respond to email or Piazza posts in the
+evenings or on the weekends.
+If you contact me and don't hear back within a day or two, don't give
+up! I try to respond to email in a timely manner, but sometimes one
+falls through the cracks.  I won't be offended if you send a follow up
+message if you don't hear back from me.
+My office hours this semester will use a hybrid online/in-person
+format. You are free to attend in-person or online via Zoom. The Zoom
+link will be made available on the course Canvas page.
+Course Goals
+¶
+By the end of CS 149, you should be able to:
+Explain fundamental programming concepts (e.g., variables,
+conditions, loops, classes, objects) using correct terminology.
+Describe basic elements of high-level programming languages (e.g.,
+expressions, statements, functions, modules, libraries).
+Read and interpret software specifications and write source code
+from them.
+Use automated software tools and processes to test your programs
+thoroughly.
+Distinguish appropriate collaboration from cheating on assignments
+and exams.
+Evaluate your own work for compliance with requirements and style
+guidelines.
+Develop correct and efficient algorithms to solve problems using
+computation.
+Course Structure and Grading
+¶
+The exact schedule will vary somewhat from week to week, but a typical
+week will be organized as follows:
+Monday Class
+Wednesday Class
+Friday Class
+Practice and Reinforcement
+: Interactive lecture, in-class exercises, additional examples and live demos, practice problems, hints on the homework.
+Quiz
+:
+Discuss homework solutions, take this week's quiz, mini-lecture introducing the next chapter.
+Dive into the next topic
+:
+Group activity or hands-on lab that introduces the key concepts from the next chapter and homework.
+Before Wed. Class
+Before Friday Class
+Weekend
+Finish the homework, and ask questions about what you don't fully understand through Piazza, TA office hours, or instructor office hours.
+Start reading the next chapter / working on the next homework, figure out what you need to learn.
+Finish the reading. Work on homework, and ask questions about what you don't fully understand through Piazza, TA office hours, or instructor office hours.
+Laptops in the Classroom
+¶
+You will need a laptop on some class days.  If you don't have a
+laptop, the CS department may be able to loan you one for the
+semester. The only software you will need to install is Thonny
+(
+https://thonny.org/
+).
+Course Technology
+¶
+Course Website
+:
+https://w3.cs.jmu.edu/spragunr/CS149/
+Most instructional materials including handouts, slides,
+and sample code will be on the course website.
+Canvas
+:
+https://canvas.jmu.edu
+Canvas will be used for posting announcements, sharing non-public
+files, and communicating grades.
+Gradescope
+:
+https://gradescope.com
+You will use Gradescope to submit
+assignments and exams. Gradescope provides automated feedback to
+help you improve your work.
+Piazza
+:
+https://piazza.com
+We will use Piazza for homework Q&A and asynchronous
+discussions. All instructors, TAs, and 300+ students enrolled in
+CS 149 will be in the same Piazza course.
+Methods of Evaluation
+¶
+zyBook Reading
+¶
+Each week has 1–2 hours of assigned reading. The textbook includes
+many interactive activities. You are required to complete the
+participation (orange) activities. The challenge (blue) activities are
+encouraged, but optional.
+In-Class Work
+¶
+You are encouraged to work with other students both during and after
+class. In-class activities and labs have participation points, because
+your attendance impacts others.
+Homework
+¶
+Written and/or programming exercises will be assigned each week. These
+exercises are meant to give you a chance to practice the skills you
+need to develop in this course. You are welcome to discuss these
+assignments with your classmates and to use generative AI tools to
+help develop and understand solutions.
+Be careful!
+Being able to understand a friend's code, or code
+generated using an AI tool, is very different from being able to write
+code on your own. If you become over-reliant on outside assistance you
+won't develop the skills you need to succeed on quizzes and exams.
+Late Homework Policy
+Deadlines exist, in part, so that we can
+discuss solutions in class.  Under normal circumstances, late work
+will not be accepted.  Contact me if you are facing unavoidable
+circumstances that will prevent you from submitting an assignment on
+time. I will do my best to work with you to make appropriate
+accommodations. Please don't wait until the night before to get started!
+Quizzes
+¶
+In place of midterm exams, we will have weekly in-class quizzes. Each
+quiz will be about 20 minutes and will focus on two chapters of the
+textbook. You will be quizzed on each pair of chapters twice. An
+initial quiz will be given the day after the homework is due. A
+similar quiz on the same material will be given one week later. The
+goal is to improve your score on the retake. The higher of the two
+quiz scores will be used in calculating your grade.
+Final Exam
+¶
+This course is inherently cumulative: each week builds on the prior
+weeks. We will have a two-hour written and programming exam during the
+final exam period. The format of the final exam questions will be
+similar to the weekly quizzes.
+Grading
+¶
+zyBook Readings
+5%
+In-Class Activities
+10%
+Homework/Programming Assignments
+15%
+Quizzes
+45%
+Final Exam
+25%
+Letter grades will be assigned on the scale A=90–100, B=80–89,
+C=70–79, D=60–69, F=0–59, with potential minor adjustments after
+considering the overall performance of the class and actual
+distribution of numeric scores. I will use + and - grades at my
+discretion. I do not assign WP or WF grades except in unusual
+circumstances.
+Students who score below 60% on the final exam will receive a grade no
+higher than C- in the course. You must earn a B- or higher grade in CS
+149 to enroll in CS 159.
+Culture of Learning
+¶
+Professional Conduct
+¶
+The ACM (
+https://www.acm.org
+) is the main professional organization
+for computer scientists. It is expected that your work in this course
+will conform to the the ACM Code of Ethics
+(
+https://www.acm.org/code-of-ethics
+), which forbids discrimination and
+harassment of all types. If you believe someone is violating these
+principles (e.g., by making inappropriate or demeaning remarks), it is
+your responsibility to take action by informing me or, if you feel
+comfortable doing so, addressing the individual directly. I will do my
+best to preserve your confidentiality when addressing the issue.
+Mutual Respect
+¶
+Learning environments should be built on mutual respect and support a
+diversity of thoughts, perspectives, experiences, and
+identities. Please advise me regarding any concerns or personal
+circumstances (including your name's proper pronunciation, any name or
+pronouns not reflected on MyMadison, or significant extracurricular
+commitments) that would be relevant to your full participation in this
+course.
+Academic Honesty
+¶
+Honor Code
+¶
+Students who violate the Honor Code
+(
+https://www.jmu.edu/honorcode/code.shtml
+) will receive a reduced or
+failing grade in the course. Other penalties may be imposed, and all
+violations will be reported to the Honor Council.  Representing
+someone else's work as your own, in any form, constitutes an honor
+code violation. It is also a violation of the honor code to "render
+unauthorized assistance to another student by knowingly permitting him
+or her to see or copy all or a portion of an examination or any work
+to be submitted for academic credit."  Automated tools may be used on
+any assignment, at any time, to detect inappropriate collaboration and
+the originality of submissions.
+Generative AI
+¶
+You are encouraged to use AI technology in ways that support your
+learning. The use of AI is strictly prohibited during quizzes and
+exams, so make sure you can program independently. Refer to the
+Generative AI in Computing Education
+Student
+Guide
+for examples of appropriate use.
+Attribution
+¶
+A key component of academic integrity is giving credit where credit is
+due. If you receive assistance, either from another student, an online
+source, or an AI-enabled tool, you must provide a clear and explicit
+acknowledgment of that assistance in your submission.  To that end,
+every homework assignment must include a statement describing your
+process for completing the work. Here is an example illustrating the
+format that I expect:
+"I was able to complete questions one and two with no assistance
+after reading the zyBook chapter. I got stuck on question three, but
+TA Jamie talked me through the solution during office hours. My
+solution for that question is based on her advice. I had no idea how
+to get started on question four, so I put the prompt into ChatGPT
+and asked it for an annotated solution. I didn't understand the
+resulting code, so I talked it over with my friend Xavier. He
+explained how negative string indexing works, which helped me to
+understand the code. My final submission for that question is copied
+from the ChatGPT output along with some added some comments
+explaining the parts I found confusing."
+Any submission without such an acknowledgment statement will receive
+an automatic zero.
+Full credit for homework assignments is conditional on making a
+good-faith effort to develop the skills necessary to answer each
+question independently. Submissions like the following would result in
+a zero on the assignment.
+"I was in a hurry so I just copied all of the prompts into ChatGPT
+and uploaded the resulting code."
+"My friend Bill had already completed the assignment and sent me a
+copy of his solution.  I submitted a copy of his code after reading
+it over and improving some variable names."
+University Requirements
+¶
+Attendance Policy
+¶
+You are expected to participate in every class. I understand that
+things come up, and you might need to be absent occasionally.  In that
+case send me an email before the absence with a brief explanation of
+why you can't attend.  I may not respond immediately, but your email
+will provide a record of the circumstances.  You will not receive
+credit for in-class work if no prior notice is provided.
+If you are not feeling well or suspect you might be ill, please stay
+home. Note the following when you are absent:
+Monday
+You have until Friday to complete the in-class work.
+Wednesday
+Please contact me as soon as possible. I will allow you to make up
+the quiz before Friday's class, unless you have a chronic pattern
+of absences.
+Friday
+You have until Wednesday to complete the in-class work.
+Adding/Dropping
+¶
+You are responsible for enrolling in courses and verifying your
+schedule on MyMadison. The last day to add a semester course is
+Monday, 09/11/2023 (permission required after Friday, 09/01/2023). The
+last day to withdraw from a course with a W grade is Wednesday,
+10/25/2023.
+Disability Services
+¶
+If you have a documented disability and need accommodations in this
+course, please register with the Office of Disability Services
+(
+http://www.jmu.edu/ods
+, Student Success Center, Room 1202,
+540-568-6705). ODS will provide you with an Access Plan Letter to
+verify your need for services and make recommendations for the course.
+Excused Absences
+¶
+Students who are unable to attend class due to JMU sponsored
+activities (such as sports, band, academic competition, field trips,
+etc.) or personal religious observances may request reasonable
+accommodations. Please notify me during the first week of class
+regarding potential absences so that you and I can plan ahead.
+University Closings
+¶
+Given severe weather and other unexpected circumstances, be sure to
+watch for announcements relating to make-up dates. See
+http://www.jmu.edu/JMUpolicy/1309.shtml
+for JMU's cancellation
+policy. Although the schedule may adapt to canceled classes,
+assignment deadlines generally do not change.
+Religious Observation Accommodations
+¶
+I will give reasonable and appropriate accommodations to students
+requesting them on grounds of religious observation. If you require
+such accommodations you must notify me at least two weeks in advance.
+Your Well-Being
+¶
+As a university student, there may be times when personal stressors
+interfere with your academic performance and/or negatively impact your
+daily life. If you or someone you know is experiencing mental health
+challenges at James Madison University, please connect with the
+Counseling Center located within the Student Success Center on the 3rd
+floor. You can learn more about available services by visiting
+https://www.jmu.edu/counselingctr or
+calling 540-568-6552. These
+services are free and confidential. Other available support resources
+to consider include, but are not limited to, the Office of the Dean of
+Students, the Health Center, and Learning Strategies Instruction.
+Back to top

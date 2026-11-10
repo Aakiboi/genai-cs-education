@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Token Usage</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="data/tokens.js"></script>
+</head><body>
+<script src="nav.js"></script>
+<main class="wrap">
+<h1>Token usage</h1>
+<p class="sub">Exact per-request usage parsed from Claude Code's local transcripts (<code>tools/token_usage.py</code>). Each request is labeled with the activity and phase logged in <code>logs/sessions.jsonl</code>.</p>
+<div class="kpis" id="kpis"></div>
+<div class="card"><b>How to read this.</b> Every request re-sends the whole conversation. Most of that comes back as cheap <i>cache reads</i>, but it still counts toward plan limits. A long context therefore makes every later request expensive. <code>/clear</code> resets the context to the spec files, and <code>/compact</code> shrinks it to a summary. The "context size per request" chart shows this: it grows within a session and drops after a clear or compact.</div>
+<h2>Context size per request</h2>
+<div class="card"><div class="chart" style="height:300px"><canvas id="cCtx"></canvas></div><p class="note">Input-side tokens (fresh + cache write + cache read) per request, colored by activity. Vertical gaps separate sessions.</p></div>
+<div class="grid" style="margin-top:14px">
+  <div class="card"><h3>Tokens by activity</h3><div class="chart"><canvas id="cAct"></canvas></div></div>
+  <div class="card"><h3>Output tokens by activity (what Claude wrote)</h3><div class="chart"><canvas id="cOut"></canvas></div></div>
+</div>
+<h2>Sessions (clear / compact boundaries)</h2>
+<div class="tbl" id="sess"></div>
+<h2>By phase</h2>
+<div class="tbl" id="phase"></div>
+<h2>Practices observed</h2>
+<div class="card" id="practice"></div>
+</main>
+<script>
+chartDefaults();
+const K = window.TOKENS, R = K.requests;
+const inp = r => r.input_tokens + r.cache_creation_input_tokens + r.cache_read_input_tokens;
+const sum = (rs, f) => rs.reduce((a, r) => a + (typeof f === "string" ? r[f] : f(r)), 0);
+const acts = [...new Set(R.map(r => r.activity))];
+const palette = ["--s5", "--s4", "--s2", "--s1", "--s3", "--human", "--claude", "--s0"].map(css);
+const colorOf = a => palette[acts.indexOf(a) % palette.length];
+$("#kpis").innerHTML = [[fmt(sum(R, "total")), "total tokens (all kinds)"], [fmt(sum(R, "output_tokens")), "output tokens"],
+  [fmt(sum(R, "cache_read_input_tokens")), "cache-read tokens"], [fmt(sum(R, r => r.input_tokens + r.cache_creation_input_tokens)), "fresh + cache-write input"],
+  [R.length, "API requests"], [K.sessions.length, "sessions"], [sum(R, "web_search"), "web searches"]]
+  .map(([v, l]) => `<div class="card kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+new Chart($("#cCtx"), { type: "bar", data: { labels: R.map((r, i) => i + 1), datasets: [{ data: R.map(inp), backgroundColor: R.map(r => colorOf(r.activity)) }] },
+  options: { plugins: { legend: { display: false }, tooltip: { callbacks: { title: i => fmtTime(R[i[0].dataIndex].ts) + " · " + R[i[0].dataIndex].activity,
+    label: i => fmt(i.raw) + " input-side tokens" } } }, scales: { x: { title: { display: true, text: "request #" }, ticks: { maxTicksLimit: 20 } } } } });
+const byAct = acts.map(a => R.filter(r => r.activity === a));
+new Chart($("#cAct"), { type: "bar", data: { labels: acts, datasets: [
+  { label: "Cache read", data: byAct.map(rs => sum(rs, "cache_read_input_tokens")), backgroundColor: css("--s0") },
+  { label: "Cache write", data: byAct.map(rs => sum(rs, "cache_creation_input_tokens")), backgroundColor: css("--s3") },
+  { label: "Fresh input", data: byAct.map(rs => sum(rs, "input_tokens")), backgroundColor: css("--s2") },
+  { label: "Output", data: byAct.map(rs => sum(rs, "output_tokens")), backgroundColor: css("--s5") }] },
+  options: { plugins: { legend: { position: "bottom" } }, scales: { x: { stacked: true }, y: { stacked: true } } } });
+new Chart($("#cOut"), { type: "bar", data: { labels: acts, datasets: [{ data: byAct.map(rs => sum(rs, "output_tokens")), backgroundColor: acts.map(colorOf) }] },
+  options: { plugins: { legend: { display: false } } } });
+
+renderTable($("#sess"), K.sessions.map(s => ({ ...s, total: s.input_tokens + s.output_tokens + s.cache_creation_input_tokens + s.cache_read_input_tokens,
+  compacts: K.events.filter(e => e.session === s.session).length })), [
+  { key: "start", label: "Start", render: s => fmtTime(s.start) }, { key: "session", label: "Session", render: s => `<code>${esc(s.session.slice(0, 8))}</code>` },
+  { key: "practice", label: "Began as", render: s => esc(s.practice || "—") }, { key: "requests", label: "Requests" },
+  { key: "output_tokens", label: "Output", render: s => fmt(s.output_tokens) }, { key: "cache_read_input_tokens", label: "Cache read", render: s => fmt(s.cache_read_input_tokens) },
+  { key: "total", label: "Total", render: s => fmt(s.total) }, { key: "compacts", label: "Compactions" }]);
+const phases = [...new Set(R.map(r => r.phase))].sort();
+renderTable($("#phase"), phases.map(p => { const rs = R.filter(r => r.phase === p);
+  return { phase: p, requests: rs.length, output: sum(rs, "output_tokens"), total: sum(rs, "total"), avg: Math.round(sum(rs, inp) / rs.length) }; }), [
+  { key: "phase", label: "Phase", render: r => r.phase ?? "unlabeled" }, { key: "requests", label: "Requests" },
+  { key: "output", label: "Output", render: r => fmt(r.output) }, { key: "total", label: "Total", render: r => fmt(r.total) },
+  { key: "avg", label: "Avg context / request", render: r => fmt(r.avg) }]);
+const prac = {};
+K.labels.forEach(l => prac[l.practice] = (prac[l.practice] || 0) + 1);
+$("#practice").innerHTML = `<p>${Object.entries(prac).map(([k, v]) => `<b>${esc(k)}</b>: ${v} segment(s)`).join(" · ")}</p>
+  <ul>${K.labels.map(l => `<li><span class="meta">${fmtTime(l.ts)}</span> · ${esc(l.practice)} · ${esc(l.activity)} — ${esc(l.notes || "")}</li>`).join("")}</ul>`;
+</script>
+</body></html>

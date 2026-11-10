@@ -1,0 +1,82 @@
+Generative AI Guidance – Office of Undergraduate Education
+Generative AI Guidance – Office of Undergraduate Education
+Skip to content
+HARVARD.EDU
+HOME
+/
+FACULTY RESOURCES
+Generative AI Guidance
+Resources for instructors regarding appropriate use of generative AI in courses.
+Background video of aerial view of Harvard University and other b roll video of the inside of campus buidlings
+On This Page
+SAMPLE AI POLICIES
+AI RESOURCES
+EVENT RECORDINGS
+FREQUENTLY ASKED QUESTIONS
+Harvard supports responsible experimentation with generative AI tools, but there are important considerations to keep in mind when using these tools, including information security and data privacy, compliance, copyright, and academic integrity.
+Announcements
+Starting in Fall 2025, faculty can find Respondus, a new browser lockdown tool, on their Canvas site(s) to use for in-person seated exams and quizzes to ensure that students do not use AI unless the course asks them to do so.
+Contact the Academic Technology Group
+with questions or to get started.
+Policies for the use of AI in courses
+All faculty are required to inform students of the policies governing generative AI use in class. Whether students in your course are forbidden from using ChatGPT or expected to explore its limits, a policy helps ensure that your expectations for appropriate interaction with generative AI tools are clear to students. Once you decide on a policy, make sure you articulate it clearly for your students, so that they know what is expected of them. More specifically,
+you should post your policy on your Canvas site
+.
+You can choose from among the below example policies to add to your Canvas site, or you can design your own to suit the needs of your course.
+A maximally restrictive draft policy:
+We expect that all work students submit for this course will be their own. In instances when collaborative work is assigned, we expect for the assignment to list all team members who participated. We specifically forbid the use of ChatGPT or any other generative artificial intelligence (AI) tools at all stages of the work process, including preliminary ones. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
+A fully-encouraging draft policy:
+This course encourages students to explore the use of generative artificial intelligence (GAI) tools such as ChatGPT for all assignments and assessments. Any such use must be appropriately acknowledged and cited. It is each student’s responsibility to assess the validity and applicability of any GAI output that is submitted; you bear the final responsibility. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
+Mixed draft policy:
+Certain assignments in this course will permit or even encourage the use of generative artificial intelligence (GAI) tools such as ChatGPT. The default is that such use is disallowed unless otherwise stated. Any such use must be appropriately acknowledged and cited. It is each student’s responsibility to assess the validity and applicability of any GAI output that is submitted; you bear the final responsibility. Violations of this policy will be considered academic misconduct. We draw your attention to the fact that different classes at Harvard could implement different AI policies, and it is the student’s responsibility to conform to expectations for each course.
+Additional AI Resources
+AI Pedagogy Project
+Visit the
+AI Pedagogy Project (AIPP)
+, developed by the metaLAB at Harvard, for an introductory guide to AI tools, an LLM Tutorial, additional AI resources, and curated assignments to use in your own classroom. The metaLAB has also published a quick start guide for
+Getting Started with ChatGPT
+Teaching and Artificial Intelligence
+Visit the Bok Center for Teaching and Learning website for resources on teaching in the age of AI that includes information on designing courses and assessments, communicating with students about AI, and examples for using AI in your teaching.
+Teaching at the Faculty of Arts and Sciences
+The Teaching at FAS website, a collaborative project between several college and university offices, offers
+a list of resources
+for Harvard faculty related to designing and teaching courses.
+Generative AI event recordings
+In August 2023, Amanda Claybaugh, Dean of Undergraduate Education, and Christopher Stubbs, Dean of Science, hosted informational sessions on the use of generative AI in courses. In each session, faculty presented examples of new assignments they have developed, as well as advice on how to “AI-proof” familiar assignments, and shared thoughts about how to guide students in using these technologies responsibly.
+Generative AI and Your Writing Course
+August 9, 2023
+Generative AI and Your STEM Course
+August 8, 2023
+FAQ
+What is ChatGPT?
+Generative artificial intelligence (GAI) tools such as Chat-GPT represent a significant advance in natural-language interaction with computers. On the basis of a ‘prompt’ a GAI system can produce surprisingly human-like responses including narrative passages and responses to technical questions. Moreover, an iterative exchange with the AI system can produce refined and tuned responses. This technology is evolving very rapidly. GAI systems have demonstrated the ability to pass the medical licensing exam, pass the bar exam, to generate art and music, answer graduate level problems from physics courses. These GAI systems are far from perfect, and some of the material they provide as factual are incorrect. GAI technology is a disruptive and rapidly changing new technology that will impact many aspects of our lives.
+Weaknesses of many GAIs at present include their inability to perform basic arithmetic calculations, and the propensity for ‘hallucinations’. Also, the GAI responses will reflect the biases and inaccuracies that are contained in the training data. It’s important to realize that there is an intentional ‘random’ element in the responses for most GAI systems. The same input does not always produce the same output. Also, the provenance of information that is used in responses does not flow through to the output, and this limits our ability to perform validation. But GAI capabilities are changing rapidly and we should anticipate ongoing refinements and progress. We currently don’t think twice about use spell-checking and grammar-checking tools in word processors, picking a suggested next-word when composing a text message on a phone, or using electronic calculators and spreadsheets. It will be interesting to observe whether GAI tools will become similarly integrated into everyday workflow.
+How does this affect our teaching?
+Generative AI systems can produce responses to homework problem sets, to essay assignments, and to take-home exam questions. We should assume that all our students are proficient with these tools and should adjust our expectations accordingly. While it’s true that our students could previously draw upon various resources to avoid doing assignments themselves, the ease-of-use, free access, and high performance of GAI systems have raised this to a new level. Our challenge is to incentivize the level of engagement that leads to a deeper understanding and the development of the habits of mind we hope to instill in our students.
+A good first step is to feed representative assignments from your upcoming courses into a GAI tool such as ChatGPT and take a look at what it produces. Then assume that if given the opportunity, many of the students in your course are likely to do the same thing. Based on this insight, decide how to best adapt to, adjust to, and as appropriate incorporate GAI into your instructional plans. Then decide on and disseminate a course-by-course policy on student use of GAI tools. For more guidance about generative AI in teaching, visit the Bok Center’s AI resources.
+Bok Center AI Resources
+As this situation evolves, we need to learn how to best use these tools to enhance learning. We also need to teach our students how to use these tools in an ethical and responsible manner.
+How can I get a ChatGPT account?
+Go to
+chat.OpenAi.com
+and register for an account. It’s free. You can find many quick-start guides online.
+Be sure to review Harvard’s guidelines for use of these tools at
+https://huit.harvard.edu/ai
+.
+Is there a technology that can detect unauthorized use of ChatGPT?
+There are a variety of tools that claim various degrees of success in finding instances when GAI was used, but this is something of an arms race. It would be inadvisable to count on automated methods for GAI detection. FAS does not plan to provide/license such a tool for use in courses.
+Is there a technology that can block students from accessing the internet so that they can use their laptops for in-class exams?
+While there are technologies for exam proctoring that aim to block students from using the internet, FAS does not plan to provide/license such a tool for use in courses.
+Is it appropriate to enter student work into ChatGPT to generate feedback, or for students to enter their work into ChatGPT?
+No confidential information can be loaded into GAI systems, since there is no expectation of privacy or confidentiality. Faculty must get documented permission from students before putting original student content into any generative AI tool, and students should be made aware of the risks of entering their original work into such tools.
+ChatGPT’s
+terms of service
+allow the company to access any information fed into it.
+What tools do we and our students have access to?
+Harvard HUIT has compiled a list of available tools at
+https://huit.harvard.edu/ai/tool
+.
+close menu
+close search
+Search
+Search Site
